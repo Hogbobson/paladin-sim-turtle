@@ -1,0 +1,5411 @@
+Item #27
+URL: https://database.turtle-wow.org/?item=27
+Category: Database/Items/Weapons/Daggers
+Item: 
+Thalassian Dagger
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.60
+(0.9 damage per second)
+Durability 16 / 16
+
+
+Item #776
+URL: https://database.turtle-wow.org/?item=776
+Category: Database/Items/Weapons/Daggers
+Item: 
+Vendetta
+Binds when equipped
+Unique
+One-hand
+Dagger
+17 - 33  Damage
+Speed 1.30
+(19.2 damage per second)
++6 Agility
+Durability 65 / 65
+Requires Level 26
+
+
+Item #816
+URL: https://database.turtle-wow.org/?item=816
+Category: Database/Items/Weapons/Daggers
+Item: 
+Small Hand Blade
+Binds when equipped
+One-hand
+Dagger
+6 - 12  Damage
+Speed 1.50
+(6.0 damage per second)
++1 Agility
+Durability 30 / 30
+Requires Level 6
+
+
+Item #820
+URL: https://database.turtle-wow.org/?item=820
+Category: Database/Items/Weapons/Daggers
+Item: 
+Slicer Blade
+Binds when equipped
+One-hand
+Dagger
+9 - 17  Damage
+Speed 1.50
+(8.7 damage per second)
++2 Agility
+Durability 35 / 35
+Requires Level 12
+
+
+Item #899
+URL: https://database.turtle-wow.org/?item=899
+Category: Database/Items/Weapons/Daggers
+Item: 
+Venom Web Fang
+Binds when equipped
+One-hand
+Dagger
+10 - 19  Damage
+Speed 1.50
+(9.7 damage per second)
+Durability 40 / 40
+Requires Level 14
+Chance on hit:
+Poisons target for 3 Nature damage every 3 sec for 15 sec.
+
+
+Item #1287
+URL: https://database.turtle-wow.org/?item=1287
+Category: Database/Items/Weapons/Daggers
+Item: 
+Giant Tarantula Fang
+Binds when equipped
+One-hand
+Dagger
+7 - 14  Damage
+Speed 1.40
+(7.5 damage per second)
++1 Stamina
+Durability 35 / 35
+Requires Level 10
+
+
+Item #1465
+URL: https://database.turtle-wow.org/?item=1465
+Category: Database/Items/Weapons/Daggers
+Item: 
+Tigerbane
+Binds when equipped
+One-hand
+Dagger
+27 - 51  Damage
+Speed 1.90
+(20.5 damage per second)
+Durability 55 / 55
+Requires Level 33
+Equip:
+Attack Power increased by 18 when fighting Beasts.
+
+
+Item #1917
+URL: https://database.turtle-wow.org/?item=1917
+Category: Database/Items/Weapons/Daggers
+Item: 
+Jeweled Dagger
+Binds when equipped
+One-hand
+Dagger
+6 - 11  Damage
+Speed 1.60
+(5.3 damage per second)
++1 Stamina
+Durability 25 / 25
+Requires Level 5
+
+
+Item #1936
+URL: https://database.turtle-wow.org/?item=1936
+Category: Database/Items/Weapons/Daggers
+Item: 
+Goblin Screwdriver
+Binds when equipped
+One-hand
+Dagger
+8 - 17  Damage
+Speed 1.40
+(8.9 damage per second)
++2 Agility
+Durability 40 / 40
+Requires Level 13
+
+
+Item #1935
+URL: https://database.turtle-wow.org/?item=1935
+Category: Database/Items/Weapons/Daggers
+Item: 
+Assassin's Blade
+Binds when equipped
+One-hand
+Dagger
+20 - 39  Damage
+Speed 1.90
+(15.5 damage per second)
++4 Agility
++3 Strength
+Durability 50 / 50
+Requires Level 19
+
+
+Item #2020
+URL: https://database.turtle-wow.org/?item=2020
+Category: Database/Items/Weapons/Daggers
+Item: 
+Hollowfang Blade
+Binds when equipped
+One-hand
+Dagger
+8 - 17  Damage
+Speed 1.40
+(8.9 damage per second)
++2 Strength
+Durability 40 / 40
+Requires Level 13
+
+
+Item #2089
+URL: https://database.turtle-wow.org/?item=2089
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scrimshaw Dagger
+Binds when picked up
+One-hand
+Dagger
+11 - 21  Damage
+Speed 1.80
+(8.9 damage per second)
++2 Stamina
+Durability 40 / 40
+
+
+Item #2092
+URL: https://database.turtle-wow.org/?item=2092
+Category: Database/Items/Weapons/Daggers
+Item: 
+Worn Dagger
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.60
+(0.9 damage per second)
+Durability 16 / 16
+
+
+Item #2088
+URL: https://database.turtle-wow.org/?item=2088
+Category: Database/Items/Weapons/Daggers
+Item: 
+Long Crawler Limb
+Binds when equipped
+One-hand
+Dagger
+8 - 16  Damage
+Speed 1.60
+(7.5 damage per second)
++1 Stamina
+Durability 35 / 35
+Requires Level 10
+
+
+Item #2140
+URL: https://database.turtle-wow.org/?item=2140
+Category: Database/Items/Weapons/Daggers
+Item: 
+Carving Knife
+Binds when equipped
+One-hand
+Dagger
+6 - 13  Damage
+Speed 1.60
+(5.9 damage per second)
+Durability 30 / 30
+Requires Level 6
+Random Bonuses
+
+
+Item #2139
+URL: https://database.turtle-wow.org/?item=2139
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dirk
+One-hand
+Dagger
+1 - 3  Damage
+Speed 1.60
+(1.3 damage per second)
+Durability 18 / 18
+
+
+Item #2137
+URL: https://database.turtle-wow.org/?item=2137
+Category: Database/Items/Weapons/Daggers
+Item: 
+Whittling Knife
+Binds when picked up
+One-hand
+Dagger
+2 - 4  Damage
+Speed 1.50
+(2.0 damage per second)
+Durability 20 / 20
+
+
+Item #2138
+URL: https://database.turtle-wow.org/?item=2138
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sharpened Letter Opener
+One-hand
+Dagger
+2 - 5  Damage
+Speed 1.70
+(2.1 damage per second)
+Durability 25 / 25
+Requires Level 2
+
+
+Item #2164
+URL: https://database.turtle-wow.org/?item=2164
+Category: Database/Items/Weapons/Daggers
+Item: 
+Gut Ripper
+Binds when equipped
+One-hand
+Dagger
+42 - 80  Damage
+Speed 1.80
+(33.9 damage per second)
+Durability 75 / 75
+Requires Level 40
+Chance on hit:
+Wounds the target for 95 to 122 damage.
+
+
+Item #2163
+URL: https://database.turtle-wow.org/?item=2163
+Category: Database/Items/Weapons/Daggers
+Item: 
+Shadowblade
+Binds when equipped
+Unique
+One-hand
+Dagger
+38 - 71  Damage
+Speed 1.40
+(38.9 damage per second)
+Durability 75 / 75
+Requires Level 48
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 110 to 141 Shadow damage.
+
+
+Item #2169
+URL: https://database.turtle-wow.org/?item=2169
+Category: Database/Items/Weapons/Daggers
+Item: 
+Buzzer Blade
+One-hand
+Dagger
+10 - 19  Damage
+Speed 1.50
+(9.7 damage per second)
+Durability 40 / 40
+Requires Level 16
+
+
+Item #2184
+URL: https://database.turtle-wow.org/?item=2184
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger Basic
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #2195
+URL: https://database.turtle-wow.org/?item=2195
+Category: Database/Items/Weapons/Daggers
+Item: 
+Anvilmar Knife
+Binds when picked up
+One-hand
+Dagger
+2 - 4  Damage
+Speed 1.60
+(1.9 damage per second)
+Durability 20 / 20
+
+
+Item #2208
+URL: https://database.turtle-wow.org/?item=2208
+Category: Database/Items/Weapons/Daggers
+Item: 
+Poniard
+One-hand
+Dagger
+7 - 15  Damage
+Speed 1.30
+(8.5 damage per second)
+Durability 40 / 40
+Requires Level 14
+
+
+Item #2209
+URL: https://database.turtle-wow.org/?item=2209
+Category: Database/Items/Weapons/Daggers
+Item: 
+Kris
+One-hand
+Dagger
+12 - 23  Damage
+Speed 1.60
+(10.9 damage per second)
+Durability 45 / 45
+Requires Level 19
+
+
+Item #2207
+URL: https://database.turtle-wow.org/?item=2207
+Category: Database/Items/Weapons/Daggers
+Item: 
+Jambiya
+One-hand
+Dagger
+7 - 13  Damage
+Speed 1.40
+(7.1 damage per second)
+Durability 35 / 35
+Requires Level 11
+
+
+Item #2224
+URL: https://database.turtle-wow.org/?item=2224
+Category: Database/Items/Weapons/Daggers
+Item: 
+Militia Dagger
+Binds when picked up
+One-hand
+Dagger
+2 - 4  Damage
+Speed 1.50
+(2.0 damage per second)
+Durability 20 / 20
+
+
+Item #2218
+URL: https://database.turtle-wow.org/?item=2218
+Category: Database/Items/Weapons/Daggers
+Item: 
+Craftsman's Dagger
+Binds when picked up
+One-hand
+Dagger
+8 - 15  Damage
+Speed 1.70
+(6.8 damage per second)
++1 Agility
+Durability 30 / 30
+
+
+Item #2225
+URL: https://database.turtle-wow.org/?item=2225
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sharp Kitchen Knife
+Binds when picked up
+One-hand
+Dagger
+5 - 10  Damage
+Speed 1.50
+(5.0 damage per second)
+Durability 30 / 30
+
+
+Item #2236
+URL: https://database.turtle-wow.org/?item=2236
+Category: Database/Items/Weapons/Daggers
+Item: 
+Blackfang
+Binds when equipped
+Unique
+One-hand
+Dagger
+17 - 32  Damage
+Speed 1.50
+(16.3 damage per second)
++2 Spirit
++5 Shadow Resistance
+Durability 50 / 50
+Requires Level 20
+
+
+Item #2235
+URL: https://database.turtle-wow.org/?item=2235
+Category: Database/Items/Weapons/Daggers
+Item: 
+Brackclaw
+Binds when equipped
+One-hand
+Dagger
+9 - 18  Damage
+Speed 1.40
+(9.6 damage per second)
++1 Strength
++1 Agility
+Durability 40 / 40
+Requires Level 14
+
+
+Item #2266
+URL: https://database.turtle-wow.org/?item=2266
+Category: Database/Items/Weapons/Daggers
+Item: 
+Stonesplinter Dagger
+Binds when equipped
+One-hand
+Dagger
+7 - 14  Damage
+Speed 1.50
+(7.0 damage per second)
++1 Agility
+Durability 30 / 30
+Requires Level 8
+
+
+Item #2484
+URL: https://database.turtle-wow.org/?item=2484
+Category: Database/Items/Weapons/Daggers
+Item: 
+Small Knife
+One-hand
+Dagger
+1 - 3  Damage
+Speed 1.40
+(1.4 damage per second)
+Durability 20 / 20
+
+
+Item #2494
+URL: https://database.turtle-wow.org/?item=2494
+Category: Database/Items/Weapons/Daggers
+Item: 
+Stiletto
+One-hand
+Dagger
+3 - 7  Damage
+Speed 1.50
+(3.3 damage per second)
+Durability 25 / 25
+Requires Level 3
+
+
+Item #2502
+URL: https://database.turtle-wow.org/?item=2502
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scuffed Dagger
+One-hand
+Dagger
+3 - 6  Damage
+Speed 1.50
+(3.0 damage per second)
+Durability 25 / 25
+Requires Level 2
+
+
+Item #2526
+URL: https://database.turtle-wow.org/?item=2526
+Category: Database/Items/Weapons/Daggers
+Item: 
+Main Gauche
+One-hand
+Dagger
+18 - 35  Damage
+Speed 1.60
+(16.6 damage per second)
+Durability 55 / 55
+Requires Level 29
+
+
+Item #2534
+URL: https://database.turtle-wow.org/?item=2534
+Category: Database/Items/Weapons/Daggers
+Item: 
+Rondel
+One-hand
+Dagger
+27 - 50  Damage
+Speed 1.60
+(24.1 damage per second)
+Durability 55 / 55
+Requires Level 39
+
+
+Item #2567
+URL: https://database.turtle-wow.org/?item=2567
+Category: Database/Items/Weapons/Daggers
+Item: 
+Evocator's Blade
+Binds when equipped
+Unique
+One-hand
+Dagger
+17 - 32  Damage
+Speed 1.60
+(15.3 damage per second)
++4 Intellect
++2 Spirit
+Durability 50 / 50
+Requires Level 18
+
+
+Item #2632
+URL: https://database.turtle-wow.org/?item=2632
+Category: Database/Items/Weapons/Daggers
+Item: 
+Curved Dagger
+Binds when equipped
+One-hand
+Dagger
+8 - 15  Damage
+Speed 1.60
+(7.2 damage per second)
+Durability 35 / 35
+Requires Level 9
+Random Bonuses
+
+
+Item #2664
+URL: https://database.turtle-wow.org/?item=2664
+Category: Database/Items/Weapons/Daggers
+Item: 
+Spinner Fang
+Binds when equipped
+One-hand
+Dagger
+9 - 18  Damage
+Speed 1.50
+(9.0 damage per second)
++1 Stamina
+Durability 40 / 40
+Requires Level 13
+
+
+Item #2711
+URL: https://database.turtle-wow.org/?item=2711
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger Badass
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #2763
+URL: https://database.turtle-wow.org/?item=2763
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fisherman Knife
+One-hand
+Dagger
+4 - 8  Damage
+Speed 1.40
+(4.3 damage per second)
+Durability 35 / 35
+Requires Level 9
+
+
+Item #2764
+URL: https://database.turtle-wow.org/?item=2764
+Category: Database/Items/Weapons/Daggers
+Item: 
+Small Dagger
+One-hand
+Dagger
+5 - 10  Damage
+Speed 1.40
+(5.4 damage per second)
+Durability 40 / 40
+Requires Level 13
+
+
+Item #2766
+URL: https://database.turtle-wow.org/?item=2766
+Category: Database/Items/Weapons/Daggers
+Item: 
+Deft Stiletto
+One-hand
+Dagger
+8 - 17  Damage
+Speed 1.40
+(8.9 damage per second)
+Durability 55 / 55
+Requires Level 24
+
+
+Item #2765
+URL: https://database.turtle-wow.org/?item=2765
+Category: Database/Items/Weapons/Daggers
+Item: 
+Hunting Knife
+One-hand
+Dagger
+8 - 16  Damage
+Speed 1.70
+(7.1 damage per second)
+Durability 45 / 45
+Requires Level 18
+
+
+Item #2787
+URL: https://database.turtle-wow.org/?item=2787
+Category: Database/Items/Weapons/Daggers
+Item: 
+Trogg Dagger
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.50
+(1.0 damage per second)
+Durability 18 / 18
+
+
+Item #2819
+URL: https://database.turtle-wow.org/?item=2819
+Category: Database/Items/Weapons/Daggers
+Item: 
+Cross Dagger
+Binds when equipped
+One-hand
+Dagger
+13 - 25  Damage
+Speed 1.30
+(14.6 damage per second)
+Durability 50 / 50
+Requires Level 23
+Random Bonuses
+
+
+Item #2908
+URL: https://database.turtle-wow.org/?item=2908
+Category: Database/Items/Weapons/Daggers
+Item: 
+Thornblade
+Binds when picked up
+One-hand
+Dagger
+11 - 21  Damage
+Speed 1.60
+(10.0 damage per second)
++3 Agility
+Durability 40 / 40
+
+
+Item #2912
+URL: https://database.turtle-wow.org/?item=2912
+Category: Database/Items/Weapons/Daggers
+Item: 
+Claw of the Shadowmancer
+Binds when equipped
+Unique
+One-hand
+Dagger
+27 - 51  Damage
+Speed 1.90
+(20.5 damage per second)
++2 Intellect
+Durability 65 / 65
+Requires Level 27
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 35 Shadow damage.
+
+
+Item #2941
+URL: https://database.turtle-wow.org/?item=2941
+Category: Database/Items/Weapons/Daggers
+Item: 
+Prison Shank
+Binds when picked up
+One-hand
+Dagger
+21 - 39  Damage
+Speed 1.80
+(16.7 damage per second)
++5 Agility
++2 Stamina
+Durability 60 / 60
+Requires Level 21
+
+
+Item #3184
+URL: https://database.turtle-wow.org/?item=3184
+Category: Database/Items/Weapons/Daggers
+Item: 
+Hook Dagger
+Binds when equipped
+One-hand
+Dagger
+10 - 20  Damage
+Speed 1.50
+(10.0 damage per second)
+Durability 40 / 40
+Requires Level 15
+Random Bonuses
+
+
+Item #3187
+URL: https://database.turtle-wow.org/?item=3187
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sacrificial Kris
+Binds when equipped
+One-hand
+Dagger
+25 - 47  Damage
+Speed 1.40
+(25.7 damage per second)
+Durability 55 / 55
+Requires Level 39
+Random Bonuses
+
+
+Item #3225
+URL: https://database.turtle-wow.org/?item=3225
+Category: Database/Items/Weapons/Daggers
+Item: 
+Bloodstained Knife
+One-hand
+Dagger
+4 - 8  Damage
+Speed 1.60
+(3.8 damage per second)
+Durability 25 / 25
+Requires Level 4
+
+
+Item #3222
+URL: https://database.turtle-wow.org/?item=3222
+Category: Database/Items/Weapons/Daggers
+Item: 
+Wicked Dagger
+Binds when equipped
+One-hand
+Dagger
+10 - 20  Damage
+Speed 1.60
+(9.4 damage per second)
++1 Strength
++1 Agility
+Durability 40 / 40
+Requires Level 14
+
+
+Item #3268
+URL: https://database.turtle-wow.org/?item=3268
+Category: Database/Items/Weapons/Daggers
+Item: 
+Forsaken Dagger
+Binds when picked up
+One-hand
+Dagger
+2 - 4  Damage
+Speed 1.60
+(1.9 damage per second)
+Durability 20 / 20
+
+
+Item #3296
+URL: https://database.turtle-wow.org/?item=3296
+Category: Database/Items/Weapons/Daggers
+Item: 
+Deadman Dagger
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.40
+(1.1 damage per second)
+Durability 18 / 18
+
+
+Item #3336
+URL: https://database.turtle-wow.org/?item=3336
+Category: Database/Items/Weapons/Daggers
+Item: 
+Flesh Piercer
+Binds when equipped
+One-hand
+Dagger
+21 - 40  Damage
+Speed 2.00
+(15.3 damage per second)
+Durability 55 / 55
+Requires Level 24
+Chance on hit:
+Wounds the target causing them to bleed for 30 damage over 30 sec.
+
+
+Item #3413
+URL: https://database.turtle-wow.org/?item=3413
+Category: Database/Items/Weapons/Daggers
+Item: 
+Doomspike
+Binds when equipped
+One-hand
+Dagger
+17 - 32  Damage
+Speed 1.50
+(16.3 damage per second)
++3 Strength
++3 Stamina
+Durability 50 / 50
+Requires Level 20
+
+
+Item #3445
+URL: https://database.turtle-wow.org/?item=3445
+Category: Database/Items/Weapons/Daggers
+Item: 
+Ceremonial Knife
+Binds when picked up
+One-hand
+Dagger
+5 - 10  Damage
+Speed 1.40
+(5.4 damage per second)
+Durability 30 / 30
+
+
+Item #3490
+URL: https://database.turtle-wow.org/?item=3490
+Category: Database/Items/Weapons/Daggers
+Item: 
+Deadly Bronze Poniard
+Binds when equipped
+One-hand
+Dagger
+16 - 30  Damage
+Speed 1.80
+(12.8 damage per second)
++4 Agility
+Durability 45 / 45
+Requires Level 20
+
+
+Item #3581
+URL: https://database.turtle-wow.org/?item=3581
+Category: Database/Items/Weapons/Daggers
+Item: 
+Serrated Knife
+Binds when picked up
+One-hand
+Dagger
+10 - 19  Damage
+Speed 1.60
+(9.1 damage per second)
++1 Stamina
++1 Agility
+Durability 40 / 40
+
+
+Item #3786
+URL: https://database.turtle-wow.org/?item=3786
+Category: Database/Items/Weapons/Daggers
+Item: 
+Shiny Dirk
+One-hand
+Dagger
+14 - 27  Damage
+Speed 1.60
+(12.8 damage per second)
+Durability 55 / 55
+Requires Level 34
+
+
+Item #3848
+URL: https://database.turtle-wow.org/?item=3848
+Category: Database/Items/Weapons/Daggers
+Item: 
+Big Bronze Knife
+Binds when equipped
+One-hand
+Dagger
+13 - 25  Damage
+Speed 1.90
+(10.0 damage per second)
++3 Stamina
+Durability 40 / 40
+Requires Level 15
+
+
+Item #4023
+URL: https://database.turtle-wow.org/?item=4023
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fine Pointed Dagger
+One-hand
+Dagger
+15 - 28  Damage
+Speed 1.40
+(15.4 damage per second)
+Durability 55 / 55
+Requires Level 39
+
+
+Item #4088
+URL: https://database.turtle-wow.org/?item=4088
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dreadblade
+Binds when equipped
+One-hand
+Dagger
+29 - 55  Damage
+Speed 1.50
+(28.0 damage per second)
+Durability 55 / 55
+Requires Level 42
+Random Bonuses
+
+
+Item #4091
+URL: https://database.turtle-wow.org/?item=4091
+Category: Database/Items/Weapons/Daggers
+Item: 
+Widowmaker
+Binds when equipped
+Unique
+One-hand
+Dagger
+42 - 78  Damage
+Speed 1.90
+(31.6 damage per second)
++8 Agility
++7 Strength
+Durability 65 / 65
+Requires Level 42
+
+
+Item #4302
+URL: https://database.turtle-wow.org/?item=4302
+Category: Database/Items/Weapons/Daggers
+Item: 
+Small Green Dagger
+One-hand
+Dagger
+4 - 9  Damage
+Speed 1.50
+(4.3 damage per second)
+Durability 25 / 25
+Requires Level 5
+
+
+Item #4454
+URL: https://database.turtle-wow.org/?item=4454
+Category: Database/Items/Weapons/Daggers
+Item: 
+Talon of Vultros
+Binds when equipped
+Unique
+One-hand
+Dagger
+23 - 44  Damage
+Speed 2.00
+(16.8 damage per second)
++5 Agility
++2 Spirit
+Durability 60 / 60
+Requires Level 21
+
+
+Item #4449
+URL: https://database.turtle-wow.org/?item=4449
+Category: Database/Items/Weapons/Daggers
+Item: 
+Naraxis' Fang
+Binds when equipped
+One-hand
+Dagger
+15 - 29  Damage
+Speed 1.60
+(13.8 damage per second)
+Durability 50 / 50
+Requires Level 22
+Chance on hit:
+Poisons target for 6 Nature damage every 3 sec for 15 sec.
+
+
+Item #4446
+URL: https://database.turtle-wow.org/?item=4446
+Category: Database/Items/Weapons/Daggers
+Item: 
+Blackvenom Blade
+Binds when equipped
+One-hand
+Dagger
+21 - 39  Damage
+Speed 1.80
++1 - 7 Shadow Damage
+(18.9 damage per second)
++1 Agility
+Durability 60 / 60
+Requires Level 21
+Chance on hit:
+Poisons target for 5 Nature damage every 3 sec for 15 sec.
+
+
+Item #4565
+URL: https://database.turtle-wow.org/?item=4565
+Category: Database/Items/Weapons/Daggers
+Item: 
+Simple Dagger
+One-hand
+Dagger
+3 - 6  Damage
+Speed 1.80
+(2.5 damage per second)
+Durability 20 / 20
+
+
+Item #4571
+URL: https://database.turtle-wow.org/?item=4571
+Category: Database/Items/Weapons/Daggers
+Item: 
+War Knife
+Binds when equipped
+One-hand
+Dagger
+10 - 19  Damage
+Speed 1.70
+(8.5 damage per second)
+Durability 35 / 35
+Requires Level 12
+Random Bonuses
+
+
+Item #4840
+URL: https://database.turtle-wow.org/?item=4840
+Category: Database/Items/Weapons/Daggers
+Item: 
+Long Bayonet
+Binds when picked up
+One-hand
+Dagger
+5 - 10  Damage
+Speed 1.70
+(4.4 damage per second)
+Durability 25 / 25
+
+
+Item #4925
+URL: https://database.turtle-wow.org/?item=4925
+Category: Database/Items/Weapons/Daggers
+Item: 
+Primitive Hand Blade
+Binds when picked up
+One-hand
+Dagger
+2 - 5  Damage
+Speed 1.70
+(2.1 damage per second)
+Durability 20 / 20
+
+
+Item #4947
+URL: https://database.turtle-wow.org/?item=4947
+Category: Database/Items/Weapons/Daggers
+Item: 
+Jagged Dagger
+Binds when picked up
+One-hand
+Dagger
+6 - 12  Damage
+Speed 1.50
+(6.0 damage per second)
++1 Strength
+Durability 30 / 30
+
+
+Item #5040
+URL: https://database.turtle-wow.org/?item=5040
+Category: Database/Items/Weapons/Daggers
+Item: 
+Shadow Hunter Knife
+Quest Item
+One-hand
+Dagger
+18 - 35  Damage
+Speed 1.70
+(15.6 damage per second)
+Durability 55 / 55
+Requires Level 27
+
+
+Item #5093
+URL: https://database.turtle-wow.org/?item=5093
+Category: Database/Items/Weapons/Daggers
+Item: 
+Razormane Backstabber
+Binds when picked up
+One-hand
+Dagger
+11 - 21  Damage
+Speed 1.70
+(9.4 damage per second)
+Durability 40 / 40
+Requires Level 16
+
+
+Item #5112
+URL: https://database.turtle-wow.org/?item=5112
+Category: Database/Items/Weapons/Daggers
+Item: 
+Ritual Blade
+Binds when equipped
+One-hand
+Dagger
+7 - 14  Damage
+Speed 1.40
+(7.5 damage per second)
++1 Agility
+Durability 35 / 35
+Requires Level 10
+
+
+Item #5267
+URL: https://database.turtle-wow.org/?item=5267
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scarlet Kris
+Binds when equipped
+Unique
+One-hand
+Dagger
+43 - 81  Damage
+Speed 1.50
+(41.3 damage per second)
++10 Agility
++10 Stamina
+Durability 65 / 65
+Requires Level 58
+
+
+Item #5280
+URL: https://database.turtle-wow.org/?item=5280
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Gold Blade
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.40
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #5283
+URL: https://database.turtle-wow.org/?item=5283
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Ornate Spikey Base
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.40
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #5281
+URL: https://database.turtle-wow.org/?item=5281
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Broad/Flat Blade
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.30
+(0.8 damage per second)
+Durability 16 / 16
+
+
+Item #5279
+URL: https://database.turtle-wow.org/?item=5279
+Category: Database/Items/Weapons/Daggers
+Item: 
+Harpy Skinner
+Binds when picked up
+One-hand
+Dagger
+9 - 18  Damage
+Speed 1.40
+(9.6 damage per second)
++3 Agility
+Durability 40 / 40
+
+
+Item #5284
+URL: https://database.turtle-wow.org/?item=5284
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Jeweled Hilt
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.60
+(0.9 damage per second)
+Durability 16 / 16
+
+
+Item #5282
+URL: https://database.turtle-wow.org/?item=5282
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Fang Hook Curve
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.40
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #5278
+URL: https://database.turtle-wow.org/?item=5278
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Bowie Knife
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.80
+(0.8 damage per second)
+Durability 16 / 16
+
+
+Item #5285
+URL: https://database.turtle-wow.org/?item=5285
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Curvey Blue Hilt
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #5392
+URL: https://database.turtle-wow.org/?item=5392
+Category: Database/Items/Weapons/Daggers
+Item: 
+Thistlewood Dagger
+Binds when picked up
+One-hand
+Dagger
+2 - 5  Damage
+Speed 1.70
+(2.1 damage per second)
+Durability 20 / 20
+
+
+Item #5516
+URL: https://database.turtle-wow.org/?item=5516
+Category: Database/Items/Weapons/Daggers
+Item: 
+Threshadon Fang
+One-hand
+Dagger
+5 - 10  Damage
+Speed 1.50
+(5.0 damage per second)
+Durability 35 / 35
+Requires Level 11
+
+
+Item #5540
+URL: https://database.turtle-wow.org/?item=5540
+Category: Database/Items/Weapons/Daggers
+Item: 
+Pearl-handled Dagger
+Binds when equipped
+One-hand
+Dagger
+13 - 26  Damage
+Speed 1.70
+(11.5 damage per second)
++2 Agility
++2 Stamina
+Durability 45 / 45
+Requires Level 18
+
+
+Item #5605
+URL: https://database.turtle-wow.org/?item=5605
+Category: Database/Items/Weapons/Daggers
+Item: 
+Pruning Knife
+Binds when picked up
+One-hand
+Dagger
+4 - 9  Damage
+Speed 1.60
+(4.1 damage per second)
+Durability 25 / 25
+
+
+Item #5616
+URL: https://database.turtle-wow.org/?item=5616
+Category: Database/Items/Weapons/Daggers
+Item: 
+Gutwrencher
+Binds when equipped
+Unique
+One-hand
+Dagger
+35 - 66  Damage
+Speed 1.60
+(31.6 damage per second)
+Durability 65 / 65
+Requires Level 42
+Chance on hit:
+Wounds the target causing them to bleed for 80 damage over 30 sec.
+
+
+Item #5627
+URL: https://database.turtle-wow.org/?item=5627
+Category: Database/Items/Weapons/Daggers
+Item: 
+Relic Blade
+Binds when picked up
+One-hand
+Dagger
+12 - 24  Damage
+Speed 1.80
+(10.0 damage per second)
++3 Stamina
+Durability 40 / 40
+
+
+Item #5742
+URL: https://database.turtle-wow.org/?item=5742
+Category: Database/Items/Weapons/Daggers
+Item: 
+Gemstone Dagger
+Binds when equipped
+One-hand
+Dagger
+23 - 44  Damage
+Speed 1.50
+(22.3 damage per second)
++5 Fire Resistance
++5 Frost Resistance
+Durability 55 / 55
+Requires Level 35
+
+
+Item #5752
+URL: https://database.turtle-wow.org/?item=5752
+Category: Database/Items/Weapons/Daggers
+Item: 
+Wyvern Tailspike
+Binds when equipped
+One-hand
+Dagger
+17 - 32  Damage
+Speed 1.80
+(13.6 damage per second)
+Durability 50 / 50
+Requires Level 21
+Chance on hit:
+Poisons target for 6 Nature damage every 3 sec for 15 sec.
+
+
+Item #5756
+URL: https://database.turtle-wow.org/?item=5756
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sliverblade
+Binds when equipped
+One-hand
+Dagger
+24 - 46  Damage
+Speed 1.40
+(25.0 damage per second)
+Durability 65 / 65
+Requires Level 32
+Chance on hit:
+Blasts a target for 45 Frost damage.
+
+
+Item #6220
+URL: https://database.turtle-wow.org/?item=6220
+Category: Database/Items/Weapons/Daggers
+Item: 
+Meteor Shard
+Binds when picked up
+Unique
+One-hand
+Dagger
+23 - 43  Damage
+Speed 1.80
+(18.3 damage per second)
+Durability 65 / 65
+Requires Level 24
+Chance on hit:
+Blasts a target for 35 Fire damage.
+
+
+Item #6333
+URL: https://database.turtle-wow.org/?item=6333
+Category: Database/Items/Weapons/Daggers
+Item: 
+Spikelash Dagger
+Binds when equipped
+One-hand
+Dagger
+14 - 28  Damage
+Speed 1.90
+(11.1 damage per second)
++2 Agility
++2 Stamina
+Durability 45 / 45
+Requires Level 17
+
+
+Item #6331
+URL: https://database.turtle-wow.org/?item=6331
+Category: Database/Items/Weapons/Daggers
+Item: 
+Howling Blade
+Binds when equipped
+Unique
+One-hand
+Dagger
+23 - 44  Damage
+Speed 1.40
+(23.9 damage per second)
+Durability 65 / 65
+Requires Level 31
+Chance on hit:
+Reduces target's attack power by 30 for 30 sec.
+
+
+Item #6448
+URL: https://database.turtle-wow.org/?item=6448
+Category: Database/Items/Weapons/Daggers
+Item: 
+Tail Spike
+Binds when picked up
+One-hand
+Dagger
+14 - 26  Damage
+Speed 1.80
+(11.1 damage per second)
++2 Agility
++2 Strength
+Durability 45 / 45
+Requires Level 17
+
+
+Item #6660
+URL: https://database.turtle-wow.org/?item=6660
+Category: Database/Items/Weapons/Daggers
+Item: 
+Julie's Dagger
+Binds when equipped
+One-hand
+Dagger
+33 - 62  Damage
+Speed 1.30
+(36.5 damage per second)
+Durability 65 / 65
+Requires Level 50
+Chance on hit:
+Heals wielder of 78 damage over 12 sec.
+
+
+Item #6681
+URL: https://database.turtle-wow.org/?item=6681
+Category: Database/Items/Weapons/Daggers
+Item: 
+Thornspike
+One-hand
+Dagger
+18 - 35  Damage
+Speed 1.70
+(15.6 damage per second)
+Durability 55 / 55
+Requires Level 27
+
+
+Item #6691
+URL: https://database.turtle-wow.org/?item=6691
+Category: Database/Items/Weapons/Daggers
+Item: 
+Swinetusk Shank
+Binds when picked up
+Unique
+One-hand
+Dagger
+24 - 45  Damage
+Speed 1.50
+(23.0 damage per second)
++6 Stamina
++4 Spirit
+Durability 65 / 65
+Requires Level 30
+
+
+Item #6831
+URL: https://database.turtle-wow.org/?item=6831
+Category: Database/Items/Weapons/Daggers
+Item: 
+Black Menace
+Binds when picked up
+One-hand
+Dagger
+31 - 58  Damage
+Speed 1.50
+(29.7 damage per second)
+Durability 65 / 65
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 30 Shadow damage.
+
+
+Item #6904
+URL: https://database.turtle-wow.org/?item=6904
+Category: Database/Items/Weapons/Daggers
+Item: 
+Bite of Serra'kis
+Binds when picked up
+One-hand
+Dagger
+16 - 30  Damage
+Speed 1.30
+(17.7 damage per second)
+Durability 60 / 60
+Requires Level 23
+Chance on hit:
+Poisons target for 4 Nature damage every 2 sec for 20 sec.
+
+
+Item #6969
+URL: https://database.turtle-wow.org/?item=6969
+Category: Database/Items/Weapons/Daggers
+Item: 
+Elunite Dagger
+Binds when picked up
+One-hand
+Dagger
+9 - 17  Damage
+Speed 1.70
+(7.6 damage per second)
++1 Stamina
+Durability 35 / 35
+Classes: Warrior
+
+
+Item #6981
+URL: https://database.turtle-wow.org/?item=6981
+Category: Database/Items/Weapons/Daggers
+Item: 
+Umbral Dagger
+Binds when picked up
+One-hand
+Dagger
+9 - 17  Damage
+Speed 1.70
+(7.6 damage per second)
++1 Stamina
+Durability 35 / 35
+Classes: Warrior
+
+
+Item #6980
+URL: https://database.turtle-wow.org/?item=6980
+Category: Database/Items/Weapons/Daggers
+Item: 
+Haggard's Dagger
+Binds when picked up
+One-hand
+Dagger
+9 - 17  Damage
+Speed 1.70
+(7.6 damage per second)
++1 Stamina
+Durability 35 / 35
+Classes: Warrior
+
+
+Item #7116
+URL: https://database.turtle-wow.org/?item=7116
+Category: Database/Items/Weapons/Daggers
+Item: 
+Heirloom Dagger
+Binds when picked up
+One-hand
+Dagger
+9 - 17  Damage
+Speed 1.70
+(7.6 damage per second)
++1 Stamina
+Durability 35 / 35
+Classes: Warrior
+
+
+Item #7166
+URL: https://database.turtle-wow.org/?item=7166
+Category: Database/Items/Weapons/Daggers
+Item: 
+Copper Dagger
+One-hand
+Dagger
+5 - 10  Damage
+Speed 1.50
+(5.0 damage per second)
+Durability 30 / 30
+Requires Level 6
+
+
+Item #7298
+URL: https://database.turtle-wow.org/?item=7298
+Category: Database/Items/Weapons/Daggers
+Item: 
+Blade of Cunning
+Binds when picked up
+Unique
+One-hand
+Dagger
+9 - 18  Damage
+Speed 2.00
+(6.8 damage per second)
++2 Agility
+Durability 30 / 30
+Classes: Rogue
+
+
+Item #7327
+URL: https://database.turtle-wow.org/?item=7327
+Category: Database/Items/Weapons/Daggers
+Item: 
+Thun'grim's Dagger
+Binds when picked up
+One-hand
+Dagger
+9 - 17  Damage
+Speed 1.70
+(7.6 damage per second)
++1 Stamina
+Durability 35 / 35
+Classes: Warrior
+
+
+Item #7682
+URL: https://database.turtle-wow.org/?item=7682
+Category: Database/Items/Weapons/Daggers
+Item: 
+Torturing Poker
+Binds when picked up
+One-hand
+Dagger
+21 - 39  Damage
+Speed 1.70
++5 - 7 Fire Damage
+(21.1 damage per second)
+Durability 65 / 65
+Requires Level 29
+
+
+Item #7714
+URL: https://database.turtle-wow.org/?item=7714
+Category: Database/Items/Weapons/Daggers
+Item: 
+Hypnotic Blade
+Binds when picked up
+One-hand
+Dagger
+26 - 49  Damage
+Speed 1.40
+(26.8 damage per second)
++8 Intellect
++3 Spirit
+Durability 65 / 65
+Requires Level 34
+Equip:
+Increases damage and healing done by magical spells and effects by up to 9.
+
+
+Item #7947
+URL: https://database.turtle-wow.org/?item=7947
+Category: Database/Items/Weapons/Daggers
+Item: 
+Ebon Shiv
+Binds when equipped
+One-hand
+Dagger
+32 - 59  Damage
+Speed 1.50
+(30.3 damage per second)
++9 Agility
+Durability 55 / 55
+Requires Level 46
+
+
+Item #8006
+URL: https://database.turtle-wow.org/?item=8006
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Ziggler
+Binds when equipped
+One-hand
+Dagger
+31 - 59  Damage
+Speed 1.70
+(26.5 damage per second)
+Durability 65 / 65
+Requires Level 34
+Chance on hit:
+Blasts a target for 10 to 21 Nature damage.
+
+
+Item #9384
+URL: https://database.turtle-wow.org/?item=9384
+Category: Database/Items/Weapons/Daggers
+Item: 
+Stonevault Shiv
+Binds when equipped
+Unique
+One-hand
+Dagger
+25 - 47  Damage
+Speed 1.50
+(24.0 damage per second)
++7 Agility
++3 Stamina
+Durability 65 / 65
+Requires Level 31
+
+
+Item #9453
+URL: https://database.turtle-wow.org/?item=9453
+Category: Database/Items/Weapons/Daggers
+Item: 
+Toxic Revenger
+Binds when picked up
+Unique
+One-hand
+Dagger
+27 - 51  Damage
+Speed 1.90
+(20.5 damage per second)
+Durability 65 / 65
+Requires Level 27
+Chance on hit:
+Deals 5 Nature damage every 5 sec to any enemy in an 8 yard radius around the caster for 15 sec.
+
+
+Item #9467
+URL: https://database.turtle-wow.org/?item=9467
+Category: Database/Items/Weapons/Daggers
+Item: 
+Gahz'rilla Fang
+Binds when picked up
+Unique
+One-hand
+Dagger
+39 - 72  Damage
+Speed 1.80
+(30.8 damage per second)
+Durability 65 / 65
+Requires Level 42
+Chance on hit:
+Surrounds you with electricity, dealing 15 Nature damage to any who strike you for 15 sec.
+
+
+Item #9520
+URL: https://database.turtle-wow.org/?item=9520
+Category: Database/Items/Weapons/Daggers
+Item: 
+Silent Hunter
+Binds when picked up
+One-hand
+Dagger
+29 - 54  Damage
+Speed 1.80
+(23.1 damage per second)
++7 Agility
+Durability 55 / 55
+
+
+Item #9680
+URL: https://database.turtle-wow.org/?item=9680
+Category: Database/Items/Weapons/Daggers
+Item: 
+Tok'kar's Murloc Shanker
+Binds when picked up
+One-hand
+Dagger
+28 - 52  Damage
+Speed 1.60
+(25.0 damage per second)
++3 Stamina
++6 Agility
+Durability 55 / 55
+
+
+Item #10049
+URL: https://database.turtle-wow.org/?item=10049
+Category: Database/Items/Weapons/Daggers
+Item: 
+Diabolist's Blade
+Binds when picked up
+One-hand
+Dagger
+13 - 25  Damage
+Speed 1.50
+(12.7 damage per second)
+Durability 45 / 45
+Classes: Warlock
+Equip:
+Increases damage done by Shadow spells and effects by up to 6.
+
+
+Item #10547
+URL: https://database.turtle-wow.org/?item=10547
+Category: Database/Items/Weapons/Daggers
+Item: 
+Camping Knife
+Binds when picked up
+One-hand
+Dagger
+3 - 6  Damage
+Speed 1.40
+(3.2 damage per second)
+Durability 25 / 25
+
+
+Item #9520
+URL: https://database.turtle-wow.org/?item=9520
+Category: Database/Items/Weapons/Daggers
+Item: 
+Silent Hunter
+Binds when picked up
+One-hand
+Dagger
+29 - 54  Damage
+Speed 1.80
+(23.1 damage per second)
++7 Agility
+Durability 55 / 55
+
+
+Item #9680
+URL: https://database.turtle-wow.org/?item=9680
+Category: Database/Items/Weapons/Daggers
+Item: 
+Tok'kar's Murloc Shanker
+Binds when picked up
+One-hand
+Dagger
+28 - 52  Damage
+Speed 1.60
+(25.0 damage per second)
++3 Stamina
++6 Agility
+Durability 55 / 55
+
+
+Item #10049
+URL: https://database.turtle-wow.org/?item=10049
+Category: Database/Items/Weapons/Daggers
+Item: 
+Diabolist's Blade
+Binds when picked up
+One-hand
+Dagger
+13 - 25  Damage
+Speed 1.50
+(12.7 damage per second)
+Durability 45 / 45
+Classes: Warlock
+Equip:
+Increases damage done by Shadow spells and effects by up to 6.
+
+
+Item #10547
+URL: https://database.turtle-wow.org/?item=10547
+Category: Database/Items/Weapons/Daggers
+Item: 
+Camping Knife
+Binds when picked up
+One-hand
+Dagger
+3 - 6  Damage
+Speed 1.40
+(3.2 damage per second)
+Durability 25 / 25
+
+
+Item #10617
+URL: https://database.turtle-wow.org/?item=10617
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Curved Bone Bloody
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.80
+(0.8 damage per second)
+Durability 16 / 16
+
+
+Item #10619
+URL: https://database.turtle-wow.org/?item=10619
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Badass Red
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #10618
+URL: https://database.turtle-wow.org/?item=10618
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Tanto Blade
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #10616
+URL: https://database.turtle-wow.org/?item=10616
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Curvey Silver
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #10625
+URL: https://database.turtle-wow.org/?item=10625
+Category: Database/Items/Weapons/Daggers
+Item: 
+Stealthblade
+Binds when equipped
+Unique
+One-hand
+Dagger
+32 - 60  Damage
+Speed 1.40
+(32.9 damage per second)
+Durability 65 / 65
+Requires Level 44
+Chance on hit:
+Reduces threat level on all enemies by a small amount for 10 sec.
+
+
+Item #10697
+URL: https://database.turtle-wow.org/?item=10697
+Category: Database/Items/Weapons/Daggers
+Item: 
+Enchanted Azsharite Felbane Dagger
+Binds when picked up
+One-hand
+Dagger
+37 - 70  Damage
+Speed 1.50
+(35.7 damage per second)
+Durability 55 / 55
+Equip:
++33 Attack Power when fighting Demons.
+Use:
+Weakens the servants of Razelikh the Defiler. Must be within close proximity of the target to activate.
+"Engraved upon the blade: Rakh'likh"
+
+
+Item #10703
+URL: https://database.turtle-wow.org/?item=10703
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fiendish Skiv
+Binds when picked up
+One-hand
+Dagger
+35 - 66  Damage
+Speed 1.90
+(26.6 damage per second)
++8 Strength
+Durability 55 / 55
+
+
+Item #10750
+URL: https://database.turtle-wow.org/?item=10750
+Category: Database/Items/Weapons/Daggers
+Item: 
+Lifeforce Dirk
+Binds when picked up
+One-hand
+Dagger
+40 - 75  Damage
+Speed 1.60
+(35.9 damage per second)
++11 Stamina
+Durability 65 / 65
+
+
+Item #10761
+URL: https://database.turtle-wow.org/?item=10761
+Category: Database/Items/Weapons/Daggers
+Item: 
+Coldrage Dagger
+Binds when picked up
+One-hand
+Dagger
+31 - 58  Damage
+Speed 1.50
+(29.7 damage per second)
+Durability 65 / 65
+Requires Level 39
+Chance on hit:
+Launches a bolt of frost at the enemy causing 20 to 31 Frost damage and slowing movement speed by 50% for 5 sec.
+
+
+Item #10828
+URL: https://database.turtle-wow.org/?item=10828
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dire Nail
+Binds when picked up
+Unique
+One-hand
+Dagger
+38 - 72  Damage
+Speed 1.50
+(36.7 damage per second)
++5 Shadow Resistance
+Durability 65 / 65
+Requires Level 51
+Random Bonuses
+
+
+Item #11635
+URL: https://database.turtle-wow.org/?item=11635
+Category: Database/Items/Weapons/Daggers
+Item: 
+Hookfang Shanker
+Binds when picked up
+Unique
+One-hand
+Dagger
+35 - 65  Damage
+Speed 1.40
+(35.7 damage per second)
+Durability 65 / 65
+Requires Level 49
+Chance on hit:
+Corrosive acid that deals 7 Nature damage every 3 sec and lowers target's armor by 50 for 30 sec.
+
+
+Item #11856
+URL: https://database.turtle-wow.org/?item=11856
+Category: Database/Items/Weapons/Daggers
+Item: 
+Ceremonial Elven Blade
+Binds when picked up
+One-hand
+Dagger
+33 - 63  Damage
+Speed 1.80
+(26.7 damage per second)
++3 Stamina
++6 Agility
+Durability 55 / 55
+
+
+Item #11922
+URL: https://database.turtle-wow.org/?item=11922
+Category: Database/Items/Weapons/Daggers
+Item: 
+Blood-etched Blade
+Binds when picked up
+One-hand
+Dagger
+39 - 74  Damage
+Speed 1.50
+(37.7 damage per second)
++12 Stamina
+Durability 65 / 65
+Requires Level 52
+Equip:
+Increases damage and healing done by magical spells and effects by up to 6.
+
+
+Item #12062
+URL: https://database.turtle-wow.org/?item=12062
+Category: Database/Items/Weapons/Daggers
+Item: 
+Skilled Fighting Blade
+Binds when picked up
+One-hand
+Dagger
+35 - 65  Damage
+Speed 1.40
+(35.7 damage per second)
+Durability 55 / 55
+Equip:
+Increased Daggers +4.
+
+
+Item #12248
+URL: https://database.turtle-wow.org/?item=12248
+Category: Database/Items/Weapons/Daggers
+Item: 
+Daring Dirk
+Binds when equipped
+One-hand
+Dagger
+19 - 37  Damage
+Speed 1.60
+(17.5 damage per second)
++5 Agility
+Durability 55 / 55
+Requires Level 29
+
+
+Item #12247
+URL: https://database.turtle-wow.org/?item=12247
+Category: Database/Items/Weapons/Daggers
+Item: 
+Broad Bladed Knife
+Binds when equipped
+One-hand
+Dagger
+23 - 44  Damage
+Speed 2.00
+(16.8 damage per second)
++5 Stamina
+Durability 55 / 55
+Requires Level 27
+
+
+Item #12259
+URL: https://database.turtle-wow.org/?item=12259
+Category: Database/Items/Weapons/Daggers
+Item: 
+Glinting Steel Dagger
+Binds when equipped
+One-hand
+Dagger
+19 - 37  Damage
+Speed 1.50
+(18.7 damage per second)
+Durability 55 / 55
+Requires Level 31
+Equip:
++12 Attack Power.
+
+
+Item #12260
+URL: https://database.turtle-wow.org/?item=12260
+Category: Database/Items/Weapons/Daggers
+Item: 
+Searing Golden Blade
+Binds when equipped
+One-hand
+Dagger
+21 - 39  Damage
+Speed 1.40
+(21.4 damage per second)
+Durability 55 / 55
+Requires Level 34
+Equip:
+Increases damage done by Fire spells and effects by up to 10.
+
+
+Item #12298
+URL: https://database.turtle-wow.org/?item=12298
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Dark Pronged
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.80
+(0.8 damage per second)
+Durability 16 / 16
+
+
+Item #12332
+URL: https://database.turtle-wow.org/?item=12332
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Green Pronged
+One-hand
+Dagger
+1 - 2  Damage
+Speed 1.80
+(0.8 damage per second)
+Durability 16 / 16
+
+
+Item #12531
+URL: https://database.turtle-wow.org/?item=12531
+Category: Database/Items/Weapons/Daggers
+Item: 
+Searing Needle
+Binds when equipped
+Unique
+One-hand
+Dagger
+42 - 80  Damage
+Speed 1.80
+(33.9 damage per second)
+Durability 65 / 65
+Requires Level 46
+Chance on hit:
+Blasts a target for 60 Fire damage and increases damage done to target by Fire damage by 10 for 30 sec.
+
+
+Item #12590
+URL: https://database.turtle-wow.org/?item=12590
+Category: Database/Items/Weapons/Daggers
+Item: 
+Felstriker
+Binds when picked up
+One-hand
+Dagger
+54 - 101  Damage
+Speed 1.70
+(45.6 damage per second)
+Durability 75 / 75
+Requires Level 58
+Chance on hit:
+All attacks are guaranteed to land and will be critical strikes for the next 3 sec.
+
+
+Item #12582
+URL: https://database.turtle-wow.org/?item=12582
+Category: Database/Items/Weapons/Daggers
+Item: 
+Keris of Zul'Serak
+Binds when picked up
+One-hand
+Dagger
+49 - 93  Damage
+Speed 1.80
+(39.4 damage per second)
+Durability 65 / 65
+Requires Level 55
+Chance on hit:
+Inflicts numbing pain that deals 10 Nature damage every 2 sec and increases time between target's attacks by 10% for 10 sec.
+
+
+Item #12686
+URL: https://database.turtle-wow.org/?item=12686
+Category: Database/Items/Weapons/Daggers
+Item: 
+Einhorn's Skinner
+Binds when picked up
+Off Hand
+Dagger
+39 - 66  Damage
+Speed 1.50
+(35.0 damage per second)
+Durability 65 / 65
+Requires Level 58
+Equip:
+Skinning +10.
+Chance on hit:
+Chills the target for 2 sec.
+"Property of Finkle Einhorn, Grandmaster Adventurer"
+
+
+Item #12709
+URL: https://database.turtle-wow.org/?item=12709
+Category: Database/Items/Weapons/Daggers
+Item: 
+Finkle's Skinner
+Binds when picked up
+Main Hand
+Dagger
+37 - 70  Damage
+Speed 1.30
+(41.2 damage per second)
+Durability 65 / 65
+Requires Level 58
+Equip:
+Skinning +10.
+Equip:
++45 Attack Power when fighting Beasts.
+"Property of Finkle Einhorn, Grandmaster Adventurer"
+
+
+Item #12783
+URL: https://database.turtle-wow.org/?item=12783
+Category: Database/Items/Weapons/Daggers
+Item: 
+Heartseeker
+Binds when equipped
+Unique
+One-hand
+Dagger
+49 - 92  Damage
+Speed 1.70
+(41.5 damage per second)
++4 Strength
+Durability 65 / 65
+Requires Level 58
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #12791
+URL: https://database.turtle-wow.org/?item=12791
+Category: Database/Items/Weapons/Daggers
+Item: 
+Barman Shanker
+Binds when picked up
+Main Hand
+Dagger
+51 - 95  Damage
+Speed 2.00
+(36.5 damage per second)
+Durability 65 / 65
+Requires Level 50
+Chance on hit:
+Wounds the target causing them to bleed for 100 damage over 30 sec.
+
+
+Item #12991
+URL: https://database.turtle-wow.org/?item=12991
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Curvey Green Blade
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #13218
+URL: https://database.turtle-wow.org/?item=13218
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fang of the Crystal Spider
+Binds when picked up
+Unique
+One-hand
+Dagger
+45 - 84  Damage
+Speed 1.60
+(40.3 damage per second)
+Durability 65 / 65
+Requires Level 56
+Chance on hit:
+Slows target enemy's casting speed and increases the time between melee and ranged attacks by 10% for 10 sec.
+Spider's Kiss
+(0/2)
+Fang of the Crystal Spider
+Venomspitter
+(2) Set:
+Chance on Hit: Immobilizes the target and lowers their armor by 100 for 10 sec.
+
+
+Item #13360
+URL: https://database.turtle-wow.org/?item=13360
+Category: Database/Items/Weapons/Daggers
+Item: 
+Gift of the Elven Magi
+Binds when picked up
+One-hand
+Dagger
+43 - 81  Damage
+Speed 1.50
+(41.3 damage per second)
++10 Intellect
++5 Stamina
+Durability 65 / 65
+Requires Level 58
+Equip:
+Increases damage and healing done by magical spells and effects by up to 8.
+
+
+Item #13368
+URL: https://database.turtle-wow.org/?item=13368
+Category: Database/Items/Weapons/Daggers
+Item: 
+Bonescraper
+Binds when picked up
+One-hand
+Dagger
+40 - 74  Damage
+Speed 1.40
+(40.7 damage per second)
+Durability 65 / 65
+Requires Level 57
+Equip:
++30 Attack Power.
+
+
+Item #13822
+URL: https://database.turtle-wow.org/?item=13822
+Category: Database/Items/Weapons/Daggers
+Item: 
+Spiked Dagger
+One-hand
+Dagger
+21 - 40  Damage
+Speed 1.60
+(19.1 damage per second)
+Durability 55 / 55
+Requires Level 48
+
+
+Item #13964
+URL: https://database.turtle-wow.org/?item=13964
+Category: Database/Items/Weapons/Daggers
+Item: 
+Witchblade
+Binds when picked up
+One-hand
+Dagger
+45 - 85  Damage
+Speed 1.60
+(40.6 damage per second)
++8 Intellect
+Durability 65 / 65
+Requires Level 57
+Equip:
+Increases damage and healing done by magical spells and effects by up to 14.
+
+
+Item #13984
+URL: https://database.turtle-wow.org/?item=13984
+Category: Database/Items/Weapons/Daggers
+Item: 
+Darrowspike
+Binds when picked up
+One-hand
+Dagger
+43 - 81  Damage
+Speed 1.50
+(41.3 damage per second)
+Durability 65 / 65
+Chance on hit:
+Blasts a target for 90 Frost damage.
+
+
+Item #14024
+URL: https://database.turtle-wow.org/?item=14024
+Category: Database/Items/Weapons/Daggers
+Item: 
+Frightalon
+Binds when picked up
+One-hand
+Dagger
+39 - 73  Damage
+Speed 1.40
+(40.0 damage per second)
+Durability 65 / 65
+Requires Level 56
+Chance on hit:
+Lowers all attributes of target by 10 for 60 sec.
+
+
+Item #14151
+URL: https://database.turtle-wow.org/?item=14151
+Category: Database/Items/Weapons/Daggers
+Item: 
+Chanting Blade
+Binds when picked up
+One-hand
+Dagger
+9 - 18  Damage
+Speed 1.50
+(9.0 damage per second)
++1 Agility
++1 Stamina
+Durability 40 / 40
+Requires Level 13
+
+
+Item #14555
+URL: https://database.turtle-wow.org/?item=14555
+Category: Database/Items/Weapons/Daggers
+Item: 
+Alcor's Sunrazor
+Binds when equipped
+One-hand
+Dagger
+41 - 77  Damage
+Speed 1.30
+(45.4 damage per second)
++10 Fire Resistance
+Durability 75 / 75
+Requires Level 58
+Chance on hit:
+Blasts a target for 75 to 106 Fire damage.
+
+
+Item #15247
+URL: https://database.turtle-wow.org/?item=15247
+Category: Database/Items/Weapons/Daggers
+Item: 
+Bloodstrike Dagger
+Binds when equipped
+One-hand
+Dagger
+45 - 85  Damage
+Speed 1.70
+(38.2 damage per second)
+Durability 55 / 55
+Requires Level 59
+Random Bonuses
+
+
+Item #15242
+URL: https://database.turtle-wow.org/?item=15242
+Category: Database/Items/Weapons/Daggers
+Item: 
+Honed Stiletto
+Binds when equipped
+One-hand
+Dagger
+15 - 29  Damage
+Speed 1.40
+(15.7 damage per second)
+Durability 55 / 55
+Requires Level 25
+Random Bonuses
+
+
+Item #15241
+URL: https://database.turtle-wow.org/?item=15241
+Category: Database/Items/Weapons/Daggers
+Item: 
+Battle Knife
+Binds when equipped
+One-hand
+Dagger
+15 - 28  Damage
+Speed 1.60
+(13.4 damage per second)
+Durability 50 / 50
+Requires Level 21
+Random Bonuses
+
+
+Item #15244
+URL: https://database.turtle-wow.org/?item=15244
+Category: Database/Items/Weapons/Daggers
+Item: 
+Razor Blade
+Binds when equipped
+One-hand
+Dagger
+28 - 53  Damage
+Speed 1.70
+(23.8 damage per second)
+Durability 55 / 55
+Requires Level 37
+Random Bonuses
+
+
+Item #15246
+URL: https://database.turtle-wow.org/?item=15246
+Category: Database/Items/Weapons/Daggers
+Item: 
+Demon Blade
+Binds when equipped
+One-hand
+Dagger
+46 - 87  Damage
+Speed 1.80
+(36.9 damage per second)
+Durability 55 / 55
+Requires Level 57
+Random Bonuses
+
+
+Item #15243
+URL: https://database.turtle-wow.org/?item=15243
+Category: Database/Items/Weapons/Daggers
+Item: 
+Deadly Kris
+Binds when equipped
+One-hand
+Dagger
+18 - 35  Damage
+Speed 1.40
+(18.9 damage per second)
+Durability 55 / 55
+Requires Level 31
+Random Bonuses
+
+
+Item #15245
+URL: https://database.turtle-wow.org/?item=15245
+Category: Database/Items/Weapons/Daggers
+Item: 
+Vorpal Dagger
+Binds when equipped
+One-hand
+Dagger
+33 - 62  Damage
+Speed 1.60
+(29.7 damage per second)
+Durability 55 / 55
+Requires Level 45
+Random Bonuses
+
+
+Item #15396
+URL: https://database.turtle-wow.org/?item=15396
+Category: Database/Items/Weapons/Daggers
+Item: 
+Curvewood Dagger
+Binds when picked up
+One-hand
+Dagger
+7 - 14  Damage
+Speed 1.50
+(7.0 damage per second)
++1 Stamina
+Durability 35 / 35
+
+
+Item #15443
+URL: https://database.turtle-wow.org/?item=15443
+Category: Database/Items/Weapons/Daggers
+Item: 
+Kris of Orgrimmar
+Binds when picked up
+One-hand
+Dagger
+9 - 18  Damage
+Speed 1.50
+(9.0 damage per second)
++1 Stamina
++1 Spirit
+Durability 40 / 40
+
+
+Item #15706
+URL: https://database.turtle-wow.org/?item=15706
+Category: Database/Items/Weapons/Daggers
+Item: 
+Hunt Tracker Blade
+Binds when picked up
+One-hand
+Dagger
+35 - 66  Damage
+Speed 1.50
+(33.7 damage per second)
++5 Spirit
++8 Agility
+Durability 55 / 55
+
+
+Item #15783
+URL: https://database.turtle-wow.org/?item=15783
+Category: Database/Items/Weapons/Daggers
+Item: 
+Beasthunter Dagger
+Binds when picked up
+One-hand
+Dagger
+42 - 79  Damage
+Speed 1.70
+(35.6 damage per second)
+Durability 55 / 55
+Equip:
++33 Attack Power when fighting Beasts.
+
+
+Item #17070
+URL: https://database.turtle-wow.org/?item=17070
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fang of the Mystics
+Binds when picked up
+One-hand
+Dagger
+38 - 85  Damage
+Speed 1.50
+(41.0 damage per second)
++10 Intellect
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Restores 4 mana per 5 sec.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 40.
+
+
+Item #17071
+URL: https://database.turtle-wow.org/?item=17071
+Category: Database/Items/Weapons/Daggers
+Item: 
+Gutgore Ripper
+Binds when picked up
+One-hand
+Dagger
+63 - 119  Damage
+Speed 1.80
+(50.6 damage per second)
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 75 Shadow damage and lowering all stats by 25 for 30 sec.
+
+
+Item #17142
+URL: https://database.turtle-wow.org/?item=17142
+Category: Database/Items/Weapons/Daggers
+Item: 
+Shard of the Defiler
+Binds when picked up
+Unique
+One-hand
+Dagger
+52 - 61  Damage
+Speed 1.10
++10 - 15 Shadow Damage
+(62.8 damage per second)
+Durability 95 / 95
+Requires Level 60
+
+
+Item #17282
+URL: https://database.turtle-wow.org/?item=17282
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Exotic B01 Green
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #17283
+URL: https://database.turtle-wow.org/?item=17283
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Exotic B01 Red
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #17710
+URL: https://database.turtle-wow.org/?item=17710
+Category: Database/Items/Weapons/Daggers
+Item: 
+Charstone Dirk
+Binds when picked up
+Main Hand
+Dagger
+40 - 75  Damage
+Speed 1.60
+(35.9 damage per second)
++11 Intellect
+Durability 65 / 65
+Requires Level 49
+Equip:
+Restores 2 mana per 5 sec.
+
+
+Item #17752
+URL: https://database.turtle-wow.org/?item=17752
+Category: Database/Items/Weapons/Daggers
+Item: 
+Satyr's Lash
+Binds when picked up
+Unique
+One-hand
+Dagger
+39 - 74  Damage
+Speed 1.70
+(33.2 damage per second)
+Durability 65 / 65
+Requires Level 45
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 55 to 86 Shadow damage.
+
+
+Item #17780
+URL: https://database.turtle-wow.org/?item=17780
+Category: Database/Items/Weapons/Daggers
+Item: 
+Blade of Eternal Darkness
+Binds when picked up
+Unique
+Main Hand
+Dagger
+33.5 - 69.5  Damage
+Speed 1.50
+(34.3 damage per second)
+Durability 75 / 75
+Requires Level 49
+Equip:
+Gives a chance when your harmful spells land to deal 100 Shadow damage and restore 100 mana to you.
+
+
+Item #18372
+URL: https://database.turtle-wow.org/?item=18372
+Category: Database/Items/Weapons/Daggers
+Item: 
+Blade of the New Moon
+Binds when picked up
+Main Hand
+Dagger
+40 - 74  Damage
+Speed 1.40
+(40.7 damage per second)
++5 Stamina
+Durability 65 / 65
+Requires Level 57
+Equip:
+Increases damage done by Shadow spells and effects by up to 19.
+
+
+Item #18392
+URL: https://database.turtle-wow.org/?item=18392
+Category: Database/Items/Weapons/Daggers
+Item: 
+Distracting Dagger
+Binds when picked up
+Off Hand
+Dagger
+42 - 64  Damage
+Speed 1.30
+(40.8 damage per second)
+Durability 65 / 65
+Requires Level 57
+Equip:
+Increased Daggers +6.
+
+
+Item #18491
+URL: https://database.turtle-wow.org/?item=18491
+Category: Database/Items/Weapons/Daggers
+Item: 
+Lorespinner
+Binds when picked up
+Main Hand
+Dagger
+45 - 68  Damage
+Speed 1.50
+(37.7 damage per second)
++5 Spirit
++6 Intellect
++5 Stamina
+Durability 65 / 65
+Equip:
+Restores 3 mana per 5 sec.
+
+
+Item #18758
+URL: https://database.turtle-wow.org/?item=18758
+Category: Database/Items/Weapons/Daggers
+Item: 
+Specter's Blade
+Binds when picked up
+One-hand
+Dagger
+51 - 96  Damage
+Speed 1.80
+(40.8 damage per second)
+Durability 65 / 65
+Requires Level 57
+Equip:
++45 Attack Power when fighting Undead.
+
+
+Item #18805
+URL: https://database.turtle-wow.org/?item=18805
+Category: Database/Items/Weapons/Daggers
+Item: 
+Core Hound Tooth
+Binds when picked up
+Unique
+One-hand
+Dagger
+59 - 109  Damage
+Speed 1.60
+(52.5 damage per second)
++9 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++22 Attack Power.
+
+
+Item #18816
+URL: https://database.turtle-wow.org/?item=18816
+Category: Database/Items/Weapons/Daggers
+Item: 
+Perdition's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+73 - 137  Damage
+Speed 1.80
+(58.3 damage per second)
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Blasts a target for 40 to 57 Fire damage.
+
+
+Item #18840
+URL: https://database.turtle-wow.org/?item=18840
+Category: Database/Items/Weapons/Daggers
+Item: 
+High Warlord's Razor
+Binds when picked up
+One-hand
+Dagger
+107 - 155  Damage
+Speed 2.00
+(65.5 damage per second)
++12 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #18838
+URL: https://database.turtle-wow.org/?item=18838
+Category: Database/Items/Weapons/Daggers
+Item: 
+Grand Marshal's Dirk
+Binds when picked up
+One-hand
+Dagger
+107 - 155  Damage
+Speed 2.00
+(65.5 damage per second)
++12 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #18878
+URL: https://database.turtle-wow.org/?item=18878
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sorcerous Dagger
+Binds when picked up
+Unique
+Main Hand
+Dagger
+39 - 79  Damage
+Speed 1.40
+(42.1 damage per second)
++17 Intellect
++8 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 22.
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #19100
+URL: https://database.turtle-wow.org/?item=19100
+Category: Database/Items/Weapons/Daggers
+Item: 
+Electrified Dagger
+Binds when picked up
+Unique
+One-hand
+Dagger
+53 - 100  Damage
+Speed 1.80
+(42.5 damage per second)
++10 Agility
+Durability 65 / 65
+Requires Level 60
+Chance on hit:
+Blasts a target for 45 Nature damage.
+
+
+Item #19099
+URL: https://database.turtle-wow.org/?item=19099
+Category: Database/Items/Weapons/Daggers
+Item: 
+Glacial Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+53 - 100  Damage
+Speed 1.80
+(42.5 damage per second)
++10 Agility
+Durability 65 / 65
+Requires Level 60
+Chance on hit:
+Blasts a target for 45 Frost damage.
+
+
+Item #19166
+URL: https://database.turtle-wow.org/?item=19166
+Category: Database/Items/Weapons/Daggers
+Item: 
+Black Amnesty
+Binds when equipped
+One-hand
+Dagger
+53 - 100  Damage
+Speed 1.60
+(47.8 damage per second)
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Reduce your threat to the current target making them less likely to attack you.
+
+
+Item #19324
+URL: https://database.turtle-wow.org/?item=19324
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Lobotomizer
+Binds when picked up
+Unique
+One-hand
+Dagger
+59 - 111  Damage
+Speed 1.80
+(47.2 damage per second)
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Wounds the target for 200 to 301 damage and lowers Intellect of target by 25 for 30 sec.
+
+
+Item #19346
+URL: https://database.turtle-wow.org/?item=19346
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dragonfang Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+69 - 130  Damage
+Speed 1.80
+(55.3 damage per second)
++13 Agility
++13 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increased Daggers +5.
+
+
+Item #19347
+URL: https://database.turtle-wow.org/?item=19347
+Category: Database/Items/Weapons/Daggers
+Item: 
+Claw of Chromaggus
+Binds when picked up
+Unique
+One-hand
+Dagger
+37 - 90  Damage
+Speed 1.50
+(42.3 damage per second)
++17 Intellect
++7 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 64.
+Equip:
+Restores 4 mana per 5 sec.
+
+
+Item #19549
+URL: https://database.turtle-wow.org/?item=19549
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sentinel's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+25 - 47  Damage
+Speed 1.70
+(21.2 damage per second)
++7 Agility
++3 Stamina
+Durability 65 / 65
+Requires Level 28
+
+
+Item #19546
+URL: https://database.turtle-wow.org/?item=19546
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sentinel's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+59 - 104  Damage
+Speed 1.70
+(47.9 damage per second)
++14 Agility
++7 Stamina
+Durability 65 / 65
+Requires Level 60
+
+
+Item #19542
+URL: https://database.turtle-wow.org/?item=19542
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scout's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+59 - 104  Damage
+Speed 1.70
+(47.9 damage per second)
++14 Agility
++7 Stamina
+Durability 65 / 65
+Requires Level 60
+
+
+Item #19547
+URL: https://database.turtle-wow.org/?item=19547
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sentinel's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+41 - 78  Damage
+Speed 1.70
+(35.0 damage per second)
++11 Agility
++5 Stamina
+Durability 65 / 65
+Requires Level 48
+
+
+Item #19544
+URL: https://database.turtle-wow.org/?item=19544
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scout's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+34 - 65  Damage
+Speed 1.70
+(29.1 damage per second)
++8 Agility
++3 Stamina
+Durability 65 / 65
+Requires Level 38
+
+
+Item #19543
+URL: https://database.turtle-wow.org/?item=19543
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scout's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+41 - 78  Damage
+Speed 1.70
+(35.0 damage per second)
++11 Agility
++5 Stamina
+Durability 65 / 65
+Requires Level 48
+
+
+Item #19548
+URL: https://database.turtle-wow.org/?item=19548
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sentinel's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+34 - 65  Damage
+Speed 1.70
+(29.1 damage per second)
++8 Agility
++3 Stamina
+Durability 65 / 65
+Requires Level 38
+
+
+Item #19545
+URL: https://database.turtle-wow.org/?item=19545
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scout's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+25 - 47  Damage
+Speed 1.70
+(21.2 damage per second)
++7 Agility
++3 Stamina
+Durability 65 / 65
+Requires Level 28
+
+
+Item #19859
+URL: https://database.turtle-wow.org/?item=19859
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fang of the Faceless
+Binds when picked up
+Unique
+One-hand
+Dagger
+66 - 123  Damage
+Speed 1.90
+(49.7 damage per second)
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #19903
+URL: https://database.turtle-wow.org/?item=19903
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fang of Venoxis
+Binds when picked up
+Unique
+Main Hand
+Dagger
+35.2 - 72.2  Damage
+Speed 1.30
+(41.3 damage per second)
++8 Intellect
++6 Spirit
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 24.
+Equip:
+Restores 6 mana per 5 sec.
+
+
+Item #19924
+URL: https://database.turtle-wow.org/?item=19924
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Fang Hook Curve Dark
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.40
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #19965
+URL: https://database.turtle-wow.org/?item=19965
+Category: Database/Items/Weapons/Daggers
+Item: 
+Wushoolay's Poker
+Binds when picked up
+Unique
+Main Hand
+Dagger
+43.6 - 87.6  Damage
+Speed 1.60
+(41.0 damage per second)
+Durability 65 / 65
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 31.
+Equip:
+Restores 6 mana per 5 sec.
+
+
+Item #19980
+URL: https://database.turtle-wow.org/?item=19980
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Ornate Spikey Base Red
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.40
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #19987
+URL: https://database.turtle-wow.org/?item=19987
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Vulture Black
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #20035
+URL: https://database.turtle-wow.org/?item=20035
+Category: Database/Items/Weapons/Daggers
+Item: 
+Glacial Spike
+Binds when picked up
+One-hand
+Dagger
+31 - 59  Damage
+Speed 1.30
+(34.6 damage per second)
++4 Intellect
+Durability 65 / 65
+Equip:
+Your Frostbolt spells have a 6% chance to restore 50 mana when cast.
+"Diabolical runes adorn the blade."
+
+
+Item #20070
+URL: https://database.turtle-wow.org/?item=20070
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sageclaw
+Binds when picked up
+One-hand
+Dagger
+46.31 - 95.31  Damage
+Speed 1.70
+(41.7 damage per second)
+80 Armor
++14 Stamina
+Durability 75 / 75
+Requires Level 60
+Requires The League of Arathor - Exalted
+Equip:
+Increases damage and healing done by magical spells and effects by up to 40.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #20214
+URL: https://database.turtle-wow.org/?item=20214
+Category: Database/Items/Weapons/Daggers
+Item: 
+Mindfang
+Binds when picked up
+One-hand
+Dagger
+46.31 - 95.31  Damage
+Speed 1.70
+(41.7 damage per second)
+80 Armor
++14 Stamina
+Durability 75 / 75
+Requires Level 60
+Requires The Defilers - Exalted
+Equip:
+Increases damage and healing done by magical spells and effects by up to 40.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #20303
+URL: https://database.turtle-wow.org/?item=20303
+Category: Database/Items/Weapons/Daggers
+Item: 
+90 Green Rogue Dagger
+Binds when picked up
+One-hand
+Dagger
+83 - 155  Damage
+Speed 2.00
+(59.5 damage per second)
++14 Agility
++8 Stamina
+Durability 55 / 55
+Requires Level 60
+
+
+Item #20317
+URL: https://database.turtle-wow.org/?item=20317
+Category: Database/Items/Weapons/Daggers
+Item: 
+63 Green Rogue Dagger
+Binds when picked up
+One-hand
+Dagger
+52 - 98  Damage
+Speed 2.00
+(37.5 damage per second)
++9 Agility
++6 Stamina
+Durability 55 / 55
+Requires Level 58
+
+
+Item #20441
+URL: https://database.turtle-wow.org/?item=20441
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scout's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+18 - 34  Damage
+Speed 1.70
+(15.3 damage per second)
++4 Agility
++2 Stamina
+Durability 50 / 50
+Requires Level 18
+
+
+Item #20443
+URL: https://database.turtle-wow.org/?item=20443
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sentinel's Blade
+Binds when picked up
+Unique
+One-hand
+Dagger
+18 - 34  Damage
+Speed 1.70
+(15.3 damage per second)
++4 Agility
++2 Stamina
+Durability 50 / 50
+Requires Level 18
+
+
+Item #20578
+URL: https://database.turtle-wow.org/?item=20578
+Category: Database/Items/Weapons/Daggers
+Item: 
+Emerald Dragonfang
+Binds when picked up
+Unique
+One-hand
+Dagger
+72 - 135  Damage
+Speed 1.80
+(57.5 damage per second)
++13 Agility
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Blasts the enemy with acid for 87 to 106 Nature damage.
+
+
+Item #20647
+URL: https://database.turtle-wow.org/?item=20647
+Category: Database/Items/Weapons/Daggers
+Item: 
+Black Crystal Dagger
+Binds when picked up
+Unique
+Main Hand
+Dagger
+44 - 83  Damage
+Speed 1.80
+(35.3 damage per second)
++3 Intellect
+Durability 55 / 55
+Equip:
+Restores 4 mana per 5 sec.
+
+
+Item #20657
+URL: https://database.turtle-wow.org/?item=20657
+Category: Database/Items/Weapons/Daggers
+Item: 
+Crystal Tipped Stiletto
+Binds when picked up
+Unique
+One-hand
+Dagger
+52 - 98  Damage
+Speed 1.90
+(39.5 damage per second)
++5 Stamina
+Durability 65 / 65
+Requires Level 55
+Equip:
++24 Attack Power.
+
+
+Item #20720
+URL: https://database.turtle-wow.org/?item=20720
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dark Whisper Blade
+Binds when equipped
+Unique
+Main Hand
+Dagger
+39.6 - 76.6  Damage
+Speed 1.40
+(41.5 damage per second)
++6 Stamina
+Durability 65 / 65
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 19.
+
+
+Item #21122
+URL: https://database.turtle-wow.org/?item=21122
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Korean A01 Black
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #21126
+URL: https://database.turtle-wow.org/?item=21126
+Category: Database/Items/Weapons/Daggers
+Item: 
+Death's Sting
+Binds when picked up
+Unique
+One-hand
+Dagger
+95 - 144  Damage
+Speed 1.80
+(66.4 damage per second)
++10 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
++38 Attack Power.
+Equip:
+Increased Daggers +3.
+
+
+Item #21244
+URL: https://database.turtle-wow.org/?item=21244
+Category: Database/Items/Weapons/Daggers
+Item: 
+Blessed Qiraji Pugio
+Binds when picked up
+One-hand
+Dagger
+72 - 134  Damage
+Speed 1.70
+(60.6 damage per second)
++7 Stamina
+Durability 75 / 75
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+Equip:
++18 Attack Power.
+"The weapon is infused and reinforced with Elementium."
+
+
+Item #21404
+URL: https://database.turtle-wow.org/?item=21404
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dagger of Veiled Shadows
+Binds when picked up
+Unique
+One-hand
+Dagger
+69 - 130  Damage
+Speed 1.80
+(55.3 damage per second)
++15 Agility
++7 Strength
+Durability 75 / 75
+Classes: Rogue
+Equip:
+Improves your chance to hit by 1%.
+Emblems of Veiled Shadows
+(0/3)
+Band of Veiled Shadows
+Cloak of Veiled Shadows
+Dagger of Veiled Shadows
+(2) Set:
+-10 energy cost for your Slice and Dice ability.
+(3) Set:
+On successful poison application, you have a 25% chance to deal 80 Nature damage.
+
+
+Item #21416
+URL: https://database.turtle-wow.org/?item=21416
+Category: Database/Items/Weapons/Daggers
+Item: 
+Kris of Unspoken Names
+Binds when picked up
+Unique
+One-hand
+Dagger
+39 - 86  Damage
+Speed 1.50
+(41.7 damage per second)
++13 Stamina
++7 Intellect
+Durability 75 / 75
+Classes: Warlock
+Equip:
+Increases damage and healing done by magical spells and effects by up to 71.
+Implements of Unspoken Names
+(0/3)
+Kris of Unspoken Names
+Ring of Unspoken Names
+Shroud of Unspoken Names
+(2) Set:
+5% increased damage from your summoned pets' melee attacks and damage spells.
+(3) Set:
+Reduces the casting time of your Immolate spell by 500 sec.
+(3) Set:
+Conflagrate deals an amount of damage equal to 3 sec. of your Immolate spell without consuming its duration.
+
+
+Item #21498
+URL: https://database.turtle-wow.org/?item=21498
+Category: Database/Items/Weapons/Daggers
+Item: 
+Qiraji Sacrificial Dagger
+Binds when picked up
+Unique
+One-hand
+Dagger
+64 - 119  Damage
+Speed 1.90
+(48.2 damage per second)
++15 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
++20 Attack Power.
+"Still dripping with blood"
+
+
+Item #21523
+URL: https://database.turtle-wow.org/?item=21523
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fang of Korialstrasz
+Binds when picked up
+Unique
+Main Hand
+Dagger
+43.2 - 106.2  Damage
+Speed 1.80
+(41.5 damage per second)
++14 Intellect
++9 Stamina
++13 Spirit
+Durability 75 / 75
+Equip:
+Increases healing done by spells and effects by up to 121.
+
+
+Item #21522
+URL: https://database.turtle-wow.org/?item=21522
+Category: Database/Items/Weapons/Daggers
+Item: 
+Shadowsong's Sorrow
+Binds when picked up
+Unique
+One-hand
+Dagger
+68 - 127  Damage
+Speed 1.70
+(57.4 damage per second)
++14 Stamina
++13 Agility
++9 Strength
+Durability 75 / 75
+
+
+Item #21551
+URL: https://database.turtle-wow.org/?item=21551
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Alliance PvP
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #21802
+URL: https://database.turtle-wow.org/?item=21802
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Lost Kris of Zedd
+Binds when equipped
+Main Hand
+Dagger
+41.75 - 82.75  Damage
+Speed 1.50
+(41.5 damage per second)
++6 Stamina
+Durability 65 / 65
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 14.
+
+
+Item #22215
+URL: https://database.turtle-wow.org/?item=22215
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Bonescraper
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #22266
+URL: https://database.turtle-wow.org/?item=22266
+Category: Database/Items/Weapons/Daggers
+Item: 
+Flarethorn
+Binds when picked up
+One-hand
+Dagger
+47 - 88  Damage
+Speed 1.80
+(37.5 damage per second)
++5 Intellect
+Durability 65 / 65
+Requires Level 52
+Equip:
+Increases damage done by Fire spells and effects by up to 17.
+
+
+Item #22379
+URL: https://database.turtle-wow.org/?item=22379
+Category: Database/Items/Weapons/Daggers
+Item: 
+Shivsprocket's Shiv
+Binds when picked up
+Main Hand
+Dagger
+42.05 - 82.05  Damage
+Speed 1.50
+(41.4 damage per second)
++13 Stamina
+Durability 65 / 65
+Equip:
+Increases damage and healing done by magical spells and effects by up to 13.
+
+
+Item #22377
+URL: https://database.turtle-wow.org/?item=22377
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Thunderwood Poker
+Binds when picked up
+Unique
+One-hand
+Dagger
+53 - 100  Damage
+Speed 1.80
+(42.5 damage per second)
++13 Agility
++6 Stamina
+Durability 65 / 65
+
+
+Item #22688
+URL: https://database.turtle-wow.org/?item=22688
+Category: Database/Items/Weapons/Daggers
+Item: 
+Verimonde's Last Resort
+Binds when picked up
+Unique
+Main Hand
+Dagger
+39.48 - 76.48  Damage
+Speed 1.40
+(41.4 damage per second)
++7 Stamina
++8 Intellect
+Durability 65 / 65
+Equip:
+Increases damage and healing done by magical spells and effects by up to 19.
+
+
+Item #22803
+URL: https://database.turtle-wow.org/?item=22803
+Category: Database/Items/Weapons/Daggers
+Item: 
+Midnight Haze
+Binds when picked up
+Unique
+One-hand
+Dagger
+51 - 97  Damage
+Speed 1.80
+(41.1 damage per second)
++20 Stamina
++12 Intellect
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 95.
+
+
+Item #22804
+URL: https://database.turtle-wow.org/?item=22804
+Category: Database/Items/Weapons/Daggers
+Item: 
+Maexxna's Fang
+Binds when picked up
+Unique
+One-hand
+Dagger
+99 - 149  Damage
+Speed 1.90
+(65.3 damage per second)
++10 Strength
++10 Agility
+Durability 75 / 75
+Requires Level 60
+Equip:
++20 Attack Power.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #22802
+URL: https://database.turtle-wow.org/?item=22802
+Category: Database/Items/Weapons/Daggers
+Item: 
+Kingsfall
+Binds when picked up
+Unique
+One-hand
+Dagger
+105 - 158  Damage
+Speed 1.80
+(73.1 damage per second)
++16 Agility
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #23044
+URL: https://database.turtle-wow.org/?item=23044
+Category: Database/Items/Weapons/Daggers
+Item: 
+Harbinger of Doom
+Binds when picked up
+Unique
+One-hand
+Dagger
+66 - 124  Damage
+Speed 1.60
+(59.4 damage per second)
++8 Stamina
++8 Agility
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #23168
+URL: https://database.turtle-wow.org/?item=23168
+Category: Database/Items/Weapons/Daggers
+Item: 
+Scorn's Focal Dagger
+Binds when picked up
+One-hand
+Dagger
+22 - 42  Damage
+Speed 1.40
+(22.9 damage per second)
+Durability 65 / 65
+Requires Level 30
+Equip:
+Increases damage and healing done by magical spells and effects by up to 9.
+
+
+Item #23369
+URL: https://database.turtle-wow.org/?item=23369
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger, Claw of Chromaggus
+One-hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #23451
+URL: https://database.turtle-wow.org/?item=23451
+Category: Database/Items/Weapons/Daggers
+Item: 
+Grand Marshal's Mageblade
+Binds when picked up
+One-hand
+Dagger
+61 - 109  Damage
+Speed 2.00
+(42.5 damage per second)
++16 Stamina
++10 Intellect
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 95.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #23466
+URL: https://database.turtle-wow.org/?item=23466
+Category: Database/Items/Weapons/Daggers
+Item: 
+High Warlord's Spellblade
+Binds when picked up
+One-hand
+Dagger
+61 - 109  Damage
+Speed 2.00
+(42.5 damage per second)
++16 Stamina
++10 Intellect
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 95.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #24071
+URL: https://database.turtle-wow.org/?item=24071
+Category: Database/Items/Weapons/Daggers
+Item: 
+Bland Dagger
+One-hand
+Dagger
+82 - 82  Damage
+Speed 1.80
+(45.6 damage per second)
+Durability 65 / 65
+"Looks like this is for internal use only."
+
+
+Item #24222
+URL: https://database.turtle-wow.org/?item=24222
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Shadowfoot Stabber
+Binds when equipped
+One-hand
+Dagger
+47 - 88  Damage
+Speed 1.80
+(37.5 damage per second)
++8 Stamina
+Durability 65 / 65
+Requires Level 52
+Equip:
++18 Attack Power.
+
+
+Item #24418
+URL: https://database.turtle-wow.org/?item=24418
+Category: Database/Items/Weapons/Daggers
+Item: 
+Monster - Dagger Badass Naxx
+One-hand
+Dagger
+
+
+Item #41025
+URL: https://database.turtle-wow.org/?item=41025
+Category: Database/Items/Weapons/Daggers
+Item: 
+Rusted Pirate Dagger
+Binds when picked up
+One-hand
+Dagger
+2 - 4  Damage
+Speed 1.60
+(1.9 damage per second)
+Durability 20 / 20
+
+
+Item #41051
+URL: https://database.turtle-wow.org/?item=41051
+Category: Database/Items/Weapons/Daggers
+Item: 
+Snitch Shank
+Binds when equipped
+One-hand
+Dagger
+6 - 13  Damage
+Speed 1.50
+(6.3 damage per second)
++1 Agility
++1 Spirit
+Durability 30 / 30
+Requires Level 7
+
+
+Item #41109
+URL: https://database.turtle-wow.org/?item=41109
+Category: Database/Items/Weapons/Daggers
+Item: 
+Arcanist Dagger
+Binds when picked up
+One-hand
+Dagger
+2 - 4  Damage
+Speed 1.50
+(2.0 damage per second)
+Durability 20 / 20
+
+
+Item #41831
+URL: https://database.turtle-wow.org/?item=41831
+Category: Database/Items/Weapons/Daggers
+Item: 
+Runebound Dagger
+Binds when picked up
+Main Hand
+Dagger
+26 - 42  Damage
+Speed 1.70
+(20.0 damage per second)
++4 Strength
++3 Intellect
++5 Fire Resistance
+Durability 65 / 65
+
+
+Item #41971
+URL: https://database.turtle-wow.org/?item=41971
+Category: Database/Items/Weapons/Daggers
+Item: 
+Trashtalon
+Binds when picked up
+One-hand
+Dagger
+27 - 50  Damage
+Speed 1.90
+(20.3 damage per second)
++12 Agility
+Durability 55 / 55
+
+
+Item #50342
+URL: https://database.turtle-wow.org/?item=50342
+Category: Database/Items/Weapons/Daggers
+Item: 
+Darnassus Sentinel Glaive
+Binds when picked up
+Main Hand
+Dagger
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 5 / 5
+
+
+Item #51767
+URL: https://database.turtle-wow.org/?item=51767
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dagger of Quel'Danil
+Binds when picked up
+Main Hand
+Dagger
+39 - 72  Damage
+Speed 1.90
+(29.2 damage per second)
++6 Intellect
+Durability 45 / 45
+Equip:
+Increases damage and healing done by magical spells and effects by up to 7.
+
+
+Item #51818
+URL: https://database.turtle-wow.org/?item=51818
+Category: Database/Items/Weapons/Daggers
+Item: 
+Agal's Ambusher
+Binds when picked up
+One-hand
+Dagger
+9 - 15  Damage
+Speed 1.70
+(7.1 damage per second)
++2 Agility
+Durability 35 / 35
+
+
+Item #51842
+URL: https://database.turtle-wow.org/?item=51842
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Dark Knife
+Binds when picked up
+Main Hand
+Dagger
+22 - 42  Damage
+Speed 1.40
+(22.9 damage per second)
+Equip:
+Increases damage and healing done by magical spells and effects by up to 7.
+
+
+Item #55075
+URL: https://database.turtle-wow.org/?item=55075
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Frigid Whisper
+Binds when equipped
+Unique
+One-hand
+Dagger
+53 - 100  Damage
+Speed 1.60
+(47.8 damage per second)
++6 Stamina
++6 Strength
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+"Needs spell: Equip: Your attacks have a chance to inflict 60-75 Frost damage to your target. Actuall quote: Like the frozen grasp of death, this dagger will be your victim's last sensation. "
+
+
+Item #55115
+URL: https://database.turtle-wow.org/?item=55115
+Category: Database/Items/Weapons/Daggers
+Item: 
+Riftcarver's Implement
+Binds when picked up
+Unique
+One-hand
+Dagger
+126 - 179  Damage
+Speed 2.00
+(76.3 damage per second)
++12 Strength
++14 Agility
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #55376
+URL: https://database.turtle-wow.org/?item=55376
+Category: Database/Items/Weapons/Daggers
+Item: 
+Mixologist
+Binds when picked up
+Unique
+One-hand
+Dagger
+18 - 34  Damage
+Speed 1.80
+(14.4 damage per second)
++4 Agility
++2 Spirit
+Durability 50 / 50
+Requires Level 17
+Equip:
+Poisons +5.
+
+
+Item #58001
+URL: https://database.turtle-wow.org/?item=58001
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Goldtusk
+Binds when equipped
+One-hand
+Dagger
+27 - 46  Damage
+Speed 1.70
+(21.5 damage per second)
++5 Stamina
+Durability 55 / 55
+Requires Level 34
+Chance on hit:
+Wounds the target causing them to bleed for 45 damage over 30 sec.
+
+
+Item #58017
+URL: https://database.turtle-wow.org/?item=58017
+Category: Database/Items/Weapons/Daggers
+Item: 
+Shiv of Nobility
+Binds when picked up
+One-hand
+Dagger
+23 - 44  Damage
+Speed 1.70
+(19.7 damage per second)
++3 Strength
++3 Stamina
+Durability 55 / 55
+
+
+Item #58039
+URL: https://database.turtle-wow.org/?item=58039
+Category: Database/Items/Weapons/Daggers
+Item: 
+Fang of the Broodmother
+Binds when picked up
+One-hand
+Dagger
+25 - 45  Damage
+Speed 1.90
+(18.4 damage per second)
++5 Agility
++2 Spirit
+Durability 65 / 65
+Requires Level 24
+Chance on hit:
+Poisons target for 5 Nature damage every 3 sec for 15 sec.
+
+
+Item #58081
+URL: https://database.turtle-wow.org/?item=58081
+Category: Database/Items/Weapons/Daggers
+Item: 
+Kinrial's Scalpel
+Binds when picked up
+One-hand
+Dagger
+35 - 66  Damage
+Speed 1.60
+(31.6 damage per second)
++8 Strength
++7 Agility
+Durability 65 / 65
+
+
+Item #58087
+URL: https://database.turtle-wow.org/?item=58087
+Category: Database/Items/Weapons/Daggers
+Item: 
+Drifter's Knife
+Binds when picked up
+One-hand
+Dagger
+3 - 6  Damage
+Speed 1.40
+(3.2 damage per second)
+Durability 25 / 25
+
+
+Item #58116
+URL: https://database.turtle-wow.org/?item=58116
+Category: Database/Items/Weapons/Daggers
+Item: 
+Bloodstained Fangblade
+Binds when picked up
+Unique
+One-hand
+Dagger
+33 - 70  Damage
+Speed 1.60
+(32.2 damage per second)
++7 Agility
++5 Stamina
+Durability 65 / 65
+Requires Level 43
+Equip:
+1% of damage dealt is returned as healing.
+
+
+Item #58135
+URL: https://database.turtle-wow.org/?item=58135
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dagger of Whispered Madness
+Binds when picked up
+One-hand
+Dagger
+25 - 47  Damage
+Speed 1.50
+(24.0 damage per second)
++7 Agility
++4 Spirit
+Durability 65 / 65
+Requires Level 31
+
+
+Item #58172
+URL: https://database.turtle-wow.org/?item=58172
+Category: Database/Items/Weapons/Daggers
+Item: 
+Thornspine
+Binds when picked up
+Main Hand
+Dagger
+31 - 79  Damage
+Speed 1.90
+(28.9 damage per second)
++8 Agility
++5 Stamina
+Durability 65 / 65
+Requires Level 37
+
+
+Item #58169
+URL: https://database.turtle-wow.org/?item=58169
+Category: Database/Items/Weapons/Daggers
+Item: 
+Remodeled Venture Co. Shiv
+Binds when picked up
+Main Hand
+Dagger
+42 - 81  Damage
+Speed 1.80
+(34.2 damage per second)
++3 Intellect
++2 Spirit
+Durability 55 / 55
+Equip:
+Increases damage and healing done by magical spells and effects by up to 12.
+
+
+Item #58257
+URL: https://database.turtle-wow.org/?item=58257
+Category: Database/Items/Weapons/Daggers
+Item: 
+Noble's Letter Opener
+Binds when picked up
+Main Hand
+Dagger
+62 - 111  Damage
+Speed 1.90
+(45.5 damage per second)
++11 Agility
++7 Stamina
+Durability 75 / 75
+Requires Level 58
+Requires Shen'dralar - Exalted
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #58271
+URL: https://database.turtle-wow.org/?item=58271
+Category: Database/Items/Weapons/Daggers
+Item: 
+Repurposed Si:7 Dagger
+Binds when picked up
+One-hand
+Dagger
+23 - 44  Damage
+Speed 2.00
+(16.8 damage per second)
++6 Agility
+Durability 55 / 55
+
+
+Item #58286
+URL: https://database.turtle-wow.org/?item=58286
+Category: Database/Items/Weapons/Daggers
+Item: 
+Stormreaver Fang
+Binds when equipped
+One-hand
+Dagger
+32 - 56  Damage
+Speed 1.70
+(25.9 damage per second)
++5 Stamina
+Durability 90 / 90
+Requires Level 33
+Equip:
+Increased Defense +4.
+
+
+Item #60307
+URL: https://database.turtle-wow.org/?item=60307
+Category: Database/Items/Weapons/Daggers
+Item: 
+The 'Slip' Dagger
+Binds when picked up
+One-hand
+Dagger
+26 - 41  Damage
+Speed 1.40
+(23.9 damage per second)
++3 Stamina
+Durability 55 / 55
+Equip:
+Increases your chance to dodge an attack by 1%.
+"Encrusted with small gemstones"
+
+
+Item #60422
+URL: https://database.turtle-wow.org/?item=60422
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Ripper
+Binds when picked up
+Unique
+One-hand
+Dagger
+47 - 85  Damage
+Speed 1.40
+(47.1 damage per second)
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Reduces an enemy's armor by 60 and inflicts 10 Nature damage every 5 sec. for 30 sec.
+Chance on hit:
+A fast acting poison that does 19 to 32 damage to the target.
+"Covered with countless different venoms, some better left unnamed."
+
+
+Item #60527
+URL: https://database.turtle-wow.org/?item=60527
+Category: Database/Items/Weapons/Daggers
+Item: 
+Coldheart Icicle
+Binds when picked up
+Unique
+One-hand
+Dagger
+42 - 78  Damage
+Speed 1.90
+(31.6 damage per second)
+Durability 65 / 65
+Requires Level 42
+Chance on hit:
+Blasts a target for 35 Frost damage.
+
+
+Item #60613
+URL: https://database.turtle-wow.org/?item=60613
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Backup
+Binds when equipped
+Unique
+One-hand
+Dagger
+35 - 65  Damage
+Speed 1.40
+(35.7 damage per second)
++11 Agility
+Durability 65 / 65
+Requires Level 49
+
+
+Item #60743
+URL: https://database.turtle-wow.org/?item=60743
+Category: Database/Items/Weapons/Daggers
+Item: 
+Demonblood Dirk
+Binds when picked up
+Main Hand
+Dagger
+51 - 73  Damage
+Speed 1.70
+(36.5 damage per second)
++4 Intellect
++5 Shadow Resistance
+Equip:
+Increases damage done by Fire spells and effects by up to 10.
+
+
+Item #60806
+URL: https://database.turtle-wow.org/?item=60806
+Category: Database/Items/Weapons/Daggers
+Item: 
+Coldheart Icicle
+Binds when equipped
+Unique
+One-hand
+Dagger
+49 - 92  Damage
+Speed 1.70
+(41.5 damage per second)
+Durability 65 / 65
+Requires Level 58
+Equip:
+Your attacks ignore 25 of the target's armor.
+
+
+Item #60820
+URL: https://database.turtle-wow.org/?item=60820
+Category: Database/Items/Weapons/Daggers
+Item: 
+Ornate Dagger of Jalvan
+Binds when picked up
+One-hand
+Dagger
+32 - 60  Damage
+Speed 1.50
+(30.7 damage per second)
++6 Intellect
+Durability 65 / 65
+Equip:
+Increases damage and healing done by magical spells and effects by up to 9.
+
+
+Item #60828
+URL: https://database.turtle-wow.org/?item=60828
+Category: Database/Items/Weapons/Daggers
+Item: 
+Jeweled Letter Opener
+Binds when picked up
+One-hand
+Dagger
+15 - 34  Damage
+Speed 1.80
+(13.6 damage per second)
++2 Strength
++2 Agility
+Durability 45 / 45
+
+
+Item #60864
+URL: https://database.turtle-wow.org/?item=60864
+Category: Database/Items/Weapons/Daggers
+Item: 
+Half-O-Staff
+Binds when picked up
+One-hand
+Dagger
+14 - 28  Damage
+Speed 1.60
+(13.1 damage per second)
++3 Agility
+Durability 50 / 50
+
+
+Item #60884
+URL: https://database.turtle-wow.org/?item=60884
+Category: Database/Items/Weapons/Daggers
+Item: 
+Ceremonial Magram Dagger
+Binds when picked up
+One-hand
+Dagger
+49 - 89  Damage
+Speed 1.90
+(36.3 damage per second)
++7 Agility
+Durability 65 / 65
+Requires Level 48
+Requires Magram Clan Centaur - Revered
+Equip:
+Increased Daggers +3.
+
+
+Item #60896
+URL: https://database.turtle-wow.org/?item=60896
+Category: Database/Items/Weapons/Daggers
+Item: 
+Shadowforge Skinner
+Binds when picked up
+One-hand
+Dagger
+30 - 56  Damage
+Speed 1.50
+(28.7 damage per second)
+Durability 65 / 65
+Equip:
+Skinning +10.
+
+
+Item #61001
+URL: https://database.turtle-wow.org/?item=61001
+Category: Database/Items/Weapons/Daggers
+Item: 
+Claw of the Infinite
+Binds when picked up
+Unique
+One-hand
+Dagger
+54 - 100  Damage
+Speed 1.70
+(45.3 damage per second)
++12 Agility
++7 Stamina
+Durability 90 / 90
+Requires  - Revered
+Equip:
+Increased Daggers +2.
+
+
+Item #61022
+URL: https://database.turtle-wow.org/?item=61022
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dagger of the Currents
+Binds when picked up
+Unique
+Main Hand
+Dagger
+53 - 100  Damage
+Speed 1.80
+(42.5 damage per second)
++5 Stamina
+Durability 65 / 65
+Requires Level 60
+Equip:
+Increases damage done by Nature spells and effects by up to 14.
+Equip:
+Increases damage done by Frost spells and effects by up to 14.
+Equip:
+Restores 2 mana per 5 sec.
+
+
+Item #61063
+URL: https://database.turtle-wow.org/?item=61063
+Category: Database/Items/Weapons/Daggers
+Item: 
+Rotmaw's Tooth
+Binds when picked up
+Unique
+One-hand
+Dagger
+46 - 92  Damage
+Speed 1.60
+(43.1 damage per second)
++11 Stamina
+Durability 65 / 65
+Requires Level 60
+Equip:
++20 Attack Power.
+
+
+Item #61163
+URL: https://database.turtle-wow.org/?item=61163
+Category: Database/Items/Weapons/Daggers
+Item: 
+Kaldorei Side-Blade
+Binds when picked up
+One-hand
+Dagger
+23 - 31  Damage
+Speed 1.50
+(18.0 damage per second)
++6 Agility
+Durability 65 / 65
+
+
+Item #61255
+URL: https://database.turtle-wow.org/?item=61255
+Category: Database/Items/Weapons/Daggers
+Item: 
+Tuning Fork of Charged Lightning
+Binds when picked up
+Main Hand
+Dagger
+50 - 98  Damage
+Speed 1.80
+(41.1 damage per second)
+Durability 65 / 65
+Requires Level 60
+Equip:
+Increases damage done by Nature spells and effects by up to 19.
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #61278
+URL: https://database.turtle-wow.org/?item=61278
+Category: Database/Items/Weapons/Daggers
+Item: 
+Vampiric Kris
+Binds when picked up
+Unique
+One-hand
+Dagger
+60 - 112  Damage
+Speed 1.90
+(45.3 damage per second)
++7 Agility
+Durability 65 / 65
+Requires Level 60
+Equip:
+2% of damage dealt is returned as healing.
+
+
+Item #61330
+URL: https://database.turtle-wow.org/?item=61330
+Category: Database/Items/Weapons/Daggers
+Item: 
+Dagger of Sinister Secrets
+Binds when picked up
+Unique
+One-hand
+Dagger
+39 - 77  Damage
+Speed 1.80
+(32.2 damage per second)
+Durability 65 / 65
+Requires Level 43
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 35 Shadow damage.
+
+
+Item #61371
+URL: https://database.turtle-wow.org/?item=61371
+Category: Database/Items/Weapons/Daggers
+Item: 
+Pious Blade
+Binds when picked up
+Main Hand
+Dagger
+4 - 8  Damage
+Speed 1.40
+(4.3 damage per second)
+Durability 25 / 25
+Requires Level 5
+Equip:
+Increases damage and healing done by magical spells and effects by up to 1.
+
+
+Item #61467
+URL: https://database.turtle-wow.org/?item=61467
+Category: Database/Items/Weapons/Daggers
+Item: 
+Blade of Caliban
+Binds when picked up
+One-hand
+Dagger
+32 - 66  Damage
+Speed 1.90
+(25.8 damage per second)
++6 Stamina
++4 Agility
+Durability 55 / 55
+
+
+Item #61537
+URL: https://database.turtle-wow.org/?item=61537
+Category: Database/Items/Weapons/Daggers
+Item: 
+Ripjaw's Tooth
+Binds when equipped
+One-hand
+Dagger
+44 - 79  Damage
+Speed 1.70
+(36.2 damage per second)
++6 Agility
+Durability 65 / 65
+Requires Level 48
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #61566
+URL: https://database.turtle-wow.org/?item=61566
+Category: Database/Items/Weapons/Daggers
+Item: 
+Windchanneler
+Binds when equipped
+One-hand
+Dagger
+53 - 96  Damage
+Speed 1.80
+(41.4 damage per second)
++6 Intellect
+Durability 65 / 65
+Requires Level 59
+Equip:
+Increases damage done by Nature spells and effects by up to 21.
+
+
+Item #61571
+URL: https://database.turtle-wow.org/?item=61571
+Category: Database/Items/Weapons/Daggers
+Item: 
+Leeching Fang
+Binds when equipped
+Off Hand
+Dagger
+43 - 83  Damage
+Speed 1.50
+(42.0 damage per second)
++6 Agility
+Durability 65 / 65
+Requires Level 59
+Equip:
+2% of damage dealt is returned as healing.
+
+
+Item #61589
+URL: https://database.turtle-wow.org/?item=61589
+Category: Database/Items/Weapons/Daggers
+Item: 
+Widow's Kiss
+Binds when equipped
+Unique
+One-hand
+Dagger
+37 - 84  Damage
+Speed 2.10
+(28.8 damage per second)
++8 Agility
+Durability 65 / 65
+Requires Level 37
+Chance on hit:
+Poisons target for 6 Nature damage every 3 sec for 15 sec.
+
+
+Item #61633
+URL: https://database.turtle-wow.org/?item=61633
+Category: Database/Items/Weapons/Daggers
+Item: 
+Bleaktalon
+Binds when picked up
+One-hand
+Dagger
+27 - 63  Damage
+Speed 1.70
+(26.5 damage per second)
++4 Strength
++3 Agility
++1 Stamina
+Durability 55 / 55
+
+
+Item #65004
+URL: https://database.turtle-wow.org/?item=65004
+Category: Database/Items/Weapons/Daggers
+Item: 
+Ornate Bloodstone Dagger
+Binds when equipped
+Main Hand
+Dagger
+35 - 72  Damage
+Speed 1.30
+(41.2 damage per second)
+Durability 76 / 76
+Requires Level 60
+Equip:
+Gives a chance when your harmful spells land to deal 250 Fire damage while sacrificing 250 health.
+"It hungers..."
+
+
+Item #65005
+URL: https://database.turtle-wow.org/?item=65005
+Category: Database/Items/Weapons/Daggers
+Item: 
+Bloodletter Razor
+Binds when equipped
+One-hand
+Dagger
+39 - 74  Damage
+Speed 1.70
+(33.2 damage per second)
+Durability 65 / 65
+Requires Level 45
+Chance on hit:
+Wounds the target for 100 damage over 12 sec and reduces healing taken by 19%.
+
+
+Item #80113
+URL: https://database.turtle-wow.org/?item=80113
+Category: Database/Items/Weapons/Daggers
+Item: 
+Pocket Knife
+Binds when picked up
+Main Hand
+Dagger
+4 - 8  Damage
+Speed 1.60
+(3.8 damage per second)
+Durability 25 / 25
+
+
+Item #80129
+URL: https://database.turtle-wow.org/?item=80129
+Category: Database/Items/Weapons/Daggers
+Item: 
+Balanced Hand Blade
+Binds when picked up
+Main Hand
+Dagger
+6 - 11  Damage
+Speed 1.40
+(6.1 damage per second)
++1 Agility
+Durability 30 / 30
+
+
+Item #80211
+URL: https://database.turtle-wow.org/?item=80211
+Category: Database/Items/Weapons/Daggers
+Item: 
+Camping Knife
+Binds when picked up
+Main Hand
+Dagger
+4 - 8  Damage
+Speed 1.60
+(3.8 damage per second)
+Durability 25 / 25
+
+
+Item #80528
+URL: https://database.turtle-wow.org/?item=80528
+Category: Database/Items/Weapons/Daggers
+Item: 
+Quel'dorei Assassin's Kris
+Binds when picked up
+One-hand
+Dagger
+44 - 84  Damage
+Speed 1.50
+(42.7 damage per second)
++8 Strength
++8 Agility
++5 Stamina
+Durability 65 / 65
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+
+
+Item #80529
+URL: https://database.turtle-wow.org/?item=80529
+Category: Database/Items/Weapons/Daggers
+Item: 
+Quel'dorei Magister's Channeling Blade
+Binds when picked up
+Main Hand
+Dagger
+39 - 76  Damage
+Speed 1.40
+(41.1 damage per second)
++7 Intellect
+Durability 65 / 65
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Increases damage and healing done by magical spells and effects by up to 12.
+Equip:
+Restores 3 mana per 5 sec.
+
+
+Item #80628
+URL: https://database.turtle-wow.org/?item=80628
+Category: Database/Items/Weapons/Daggers
+Item: 
+Revantusk Stalker's Kris
+Binds when picked up
+One-hand
+Dagger
+44 - 84  Damage
+Speed 1.50
+(42.7 damage per second)
++8 Strength
++8 Agility
++5 Stamina
+Durability 65 / 65
+Requires Level 60
+Requires Revantusk Trolls - Revered
+
+
+Item #80629
+URL: https://database.turtle-wow.org/?item=80629
+Category: Database/Items/Weapons/Daggers
+Item: 
+Revantusk Mystic's Chanting Blade
+Binds when picked up
+Main Hand
+Dagger
+39 - 76  Damage
+Speed 1.40
+(41.1 damage per second)
++7 Intellect
+Durability 65 / 65
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Increases damage and healing done by magical spells and effects by up to 12.
+Equip:
+Restores 3 mana per 5 sec.
+
+
+Item #80649
+URL: https://database.turtle-wow.org/?item=80649
+Category: Database/Items/Weapons/Daggers
+Item: 
+Vile Sting
+Binds when equipped
+Main Hand
+Dagger
+29 - 51  Damage
+Speed 1.60
+(25.0 damage per second)
+Durability 65 / 65
+Requires Level 32
+Chance on hit:
+Reduces an enemy's armor by 60 and inflicts 10 Nature damage every 5 sec. for 30 sec.
+
+
+Item #80671
+URL: https://database.turtle-wow.org/?item=80671
+Category: Database/Items/Weapons/Daggers
+Item: 
+Toxic Ripper
+Binds when picked up
+One-hand
+Dagger
+36 - 67  Damage
+Speed 1.60
+(32.2 damage per second)
+Durability 55 / 55
+Requires Level 48
+Chance on hit:
+Poisons target for 8 Nature damage every 2 sec for 20 sec.
+
+
+Item #80727
+URL: https://database.turtle-wow.org/?item=80727
+Category: Database/Items/Weapons/Daggers
+Item: 
+Broken Bottle
+Binds when picked up
+One-hand
+Dagger
+23 - 34  Damage
+Speed 1.80
+(15.8 damage per second)
+Durability 50 / 50
+Requires Level 25
+Chance on hit:
+Wounds the target causing them to bleed for 30 damage over 30 sec.
+"Darkshire Moonshine III"
+
+
+Item #80775
+URL: https://database.turtle-wow.org/?item=80775
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Ripper
+Binds when picked up
+Main Hand
+Dagger
+53 - 96  Damage
+Speed 1.80
+(41.4 damage per second)
+Durability 65 / 65
+Requires Level 58
+Chance on hit:
+Causes the target to bleed for 100 damage over 10 sec.
+"The memory of the atrocies this knife has witnessed fills you with terror."
+
+
+Item #80823
+URL: https://database.turtle-wow.org/?item=80823
+Category: Database/Items/Weapons/Daggers
+Item: 
+Gemstone Dagger
+Binds when equipped
+One-hand
+Dagger
+23 - 44  Damage
+Speed 1.50
+(22.3 damage per second)
++5 Fire Resistance
++5 Frost Resistance
+Durability 55 / 55
+Requires Level 35
+
+
+Item #80821
+URL: https://database.turtle-wow.org/?item=80821
+Category: Database/Items/Weapons/Daggers
+Item: 
+Hatetalon
+Binds when equipped
+One-hand
+Dagger
+8 - 18  Damage
+Speed 1.90
+(6.8 damage per second)
++1 Strength
++1 Agility
+Durability 40 / 40
+Requires Level 8
+
+
+Item #80861
+URL: https://database.turtle-wow.org/?item=80861
+Category: Database/Items/Weapons/Daggers
+Item: 
+Spellweaving Dagger
+Binds when picked up
+Main Hand
+Dagger
+18 - 34  Damage
+Speed 1.70
+(15.3 damage per second)
++3 Intellect
+Durability 50 / 50
+Equip:
+Increases damage and healing done by magical spells and effects by up to 4.
+
+
+Item #81004
+URL: https://database.turtle-wow.org/?item=81004
+Category: Database/Items/Weapons/Daggers
+Item: 
+Sandswept Obsidian Dagger
+Binds when picked up
+Unique
+One-hand
+Dagger
+66 - 123  Damage
+Speed 1.90
+(49.7 damage per second)
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to hit by 1%.
+Equip:
++24 Attack Power.
+
+
+Item #81350
+URL: https://database.turtle-wow.org/?item=81350
+Category: Database/Items/Weapons/Daggers
+Item: 
+The Longshank
+Binds when picked up
+Main Hand
+Dagger
+25 - 48  Damage
+Speed 1.30
+(28.1 damage per second)
++8 Spirit
++3 Agility
+Durability 55 / 55
+Requires Level 41
+"Long enough for a good shank!"
+
+
+Item #81360
+URL: https://database.turtle-wow.org/?item=81360
+Category: Database/Items/Weapons/Daggers
+Item: 
+Claw of Taranassz
+Binds when picked up
+One-hand
+Dagger
+44 - 76  Damage
+Speed 1.50
+(40.0 damage per second)
++5 Arcane Resistance
+Durability 65 / 65
+Requires Level 56
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Improves your chance to get a critical strike by 1%.
+"Pulsating with a foreign energy."
+
+
+Item #83214
+URL: https://database.turtle-wow.org/?item=83214
+Category: Database/Items/Weapons/Daggers
+Item: 
+Betrayer
+Binds when picked up
+One-hand
+Dagger
+31 - 59  Damage
+Speed 1.70
+(26.5 damage per second)
+Durability 65 / 65
+Requires Level 34
+Chance on hit:
+Sends a shadowy bolt at the enemy, causing 23 to 30 Shadow damage.
+
+
+Item #83446
+URL: https://database.turtle-wow.org/?item=83446
+Category: Database/Items/Weapons/Daggers
+Item: 
+Venom's Touch
+Binds when picked up
+One-hand
+Dagger
+45 - 80  Damage
+Speed 1.60
++5 - 10 Nature Damage
+(43.8 damage per second)
++12 Agility
++2 Strength
++5 Nature Resistance
+Durability 65 / 65
+Requires Level 60
+
+
+Item #84000
+URL: https://database.turtle-wow.org/?item=84000
+Category: Database/Items/Weapons/Daggers
+Item: 
+Pulseseeker
+Binds when picked up
+Unique
+One-hand
+Dagger
+94 - 141  Damage
+Speed 1.80
+(65.3 damage per second)
++10 Agility
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Steals 141 to 164 life from target enemy.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #84500
+URL: https://database.turtle-wow.org/?item=84500
+Category: Database/Items/Weapons/Daggers
+Item: 
+Lucid Nightmare
+Binds when picked up
+Unique
+Main Hand
+Dagger
+55 - 107  Damage
+Speed 1.90
+(42.6 damage per second)
++10 Intellect
++11 Spirit
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 40.
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #4974
+URL: https://database.turtle-wow.org/?item=4974
+Category: Database/Items/Weapons/Daggers
+Item: 
+Compact Fighting Knife
+Binds when picked up
+One-hand
+Dagger
+6 - 13  Damage
+Speed 1.50
+(6.3 damage per second)
++1 Agility
+Durability 30 / 30
+
+

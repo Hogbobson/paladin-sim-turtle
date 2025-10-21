@@ -1,0 +1,3056 @@
+Item #66
+URL: https://database.turtle-wow.org/?item=66
+Category: Database/Items/Trade Goods
+Item: 
+Gold Belt Buckle
+Binds when picked up
+Requires Blacksmithing (175)
+Use:
+Attaches a buckle to your belt that increases your Ranged Attack Power by 14.
+
+
+Item #67
+URL: https://database.turtle-wow.org/?item=67
+Category: Database/Items/Trade Goods
+Item: 
+Dragonscale Belt Buckle
+Binds when picked up
+Requires Blacksmithing (235)
+Use:
+Attaches a buckle to your belt that increases your Fire Spell Damage by 9.
+
+
+Item #82
+URL: https://database.turtle-wow.org/?item=82
+Category: Database/Items/Trade Goods
+Item: 
+Dark Iron Belt Buckle
+Binds when picked up
+Requires Blacksmithing (270)
+Use:
+Attaches a buckle to your belt that increases your Fire Resistance by 10.
+
+
+Item #87
+URL: https://database.turtle-wow.org/?item=87
+Category: Database/Items/Trade Goods
+Item: 
+Enchanted Thorium Belt Buckle
+Binds when picked up
+Requires Blacksmithing (285)
+Use:
+Attaches a buckle to your belt that increases your Arcane Resistance by 10.
+
+
+Item #103
+URL: https://database.turtle-wow.org/?item=103
+Category: Database/Items/Trade Goods
+Item: 
+Obsidian Belt Buckle
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Attaches a buckle to your belt that increases your Strength by 10.
+
+
+Item #131
+URL: https://database.turtle-wow.org/?item=131
+Category: Database/Items/Trade Goods
+Item: 
+Steel Belt Buckle
+Binds when picked up
+Requires Blacksmithing (200)
+Use:
+Attaches a buckle to your belt that increases your Block Value by 10.
+
+
+Item #151
+URL: https://database.turtle-wow.org/?item=151
+Category: Database/Items/Trade Goods
+Item: 
+Truesilver Belt Buckle
+Binds when picked up
+Requires Blacksmithing (225)
+Use:
+Attaches a buckle to your belt that increase your healing power by 8.
+
+
+Item #723
+URL: https://database.turtle-wow.org/?item=723
+Category: Database/Items/Trade Goods
+Item: 
+Goretusk Liver
+
+
+Item #729
+URL: https://database.turtle-wow.org/?item=729
+Category: Database/Items/Trade Goods
+Item: 
+Stringy Vulture Meat
+
+
+Item #730
+URL: https://database.turtle-wow.org/?item=730
+Category: Database/Items/Trade Goods
+Item: 
+Murloc Eye
+
+
+Item #731
+URL: https://database.turtle-wow.org/?item=731
+Category: Database/Items/Trade Goods
+Item: 
+Goretusk Snout
+
+
+Item #732
+URL: https://database.turtle-wow.org/?item=732
+Category: Database/Items/Trade Goods
+Item: 
+Okra
+
+
+Item #765
+URL: https://database.turtle-wow.org/?item=765
+Category: Database/Items/Trade Goods
+Item: 
+Silverleaf
+
+
+Item #769
+URL: https://database.turtle-wow.org/?item=769
+Category: Database/Items/Trade Goods
+Item: 
+Chunk of Boar Meat
+
+
+Item #774
+URL: https://database.turtle-wow.org/?item=774
+Category: Database/Items/Trade Goods
+Item: 
+Malachite
+
+
+Item #783
+URL: https://database.turtle-wow.org/?item=783
+Category: Database/Items/Trade Goods
+Item: 
+Light Hide
+
+
+Item #785
+URL: https://database.turtle-wow.org/?item=785
+Category: Database/Items/Trade Goods
+Item: 
+Mageroyal
+
+
+Item #814
+URL: https://database.turtle-wow.org/?item=814
+Category: Database/Items/Trade Goods
+Item: 
+Flask of Oil
+
+
+Item #818
+URL: https://database.turtle-wow.org/?item=818
+Category: Database/Items/Trade Goods
+Item: 
+Tigerseye
+
+
+Item #878
+URL: https://database.turtle-wow.org/?item=878
+Category: Database/Items/Trade Goods
+Item: 
+Fist-sized Spinneret
+
+
+Item #1015
+URL: https://database.turtle-wow.org/?item=1015
+Category: Database/Items/Trade Goods
+Item: 
+Lean Wolf Flank
+
+
+Item #1080
+URL: https://database.turtle-wow.org/?item=1080
+Category: Database/Items/Trade Goods
+Item: 
+Tough Condor Meat
+
+
+Item #1081
+URL: https://database.turtle-wow.org/?item=1081
+Category: Database/Items/Trade Goods
+Item: 
+Crisp Spider Meat
+
+
+Item #1206
+URL: https://database.turtle-wow.org/?item=1206
+Category: Database/Items/Trade Goods
+Item: 
+Moss Agate
+
+
+Item #1210
+URL: https://database.turtle-wow.org/?item=1210
+Category: Database/Items/Trade Goods
+Item: 
+Shadowgem
+
+
+Item #1274
+URL: https://database.turtle-wow.org/?item=1274
+Category: Database/Items/Trade Goods
+Item: 
+Hops
+
+
+Item #1288
+URL: https://database.turtle-wow.org/?item=1288
+Category: Database/Items/Trade Goods
+Item: 
+Large Venom Sac
+
+
+Item #1468
+URL: https://database.turtle-wow.org/?item=1468
+Category: Database/Items/Trade Goods
+Item: 
+Murloc Fin
+
+
+Item #1475
+URL: https://database.turtle-wow.org/?item=1475
+Category: Database/Items/Trade Goods
+Item: 
+Small Venom Sac
+
+
+Item #1529
+URL: https://database.turtle-wow.org/?item=1529
+Category: Database/Items/Trade Goods
+Item: 
+Jade
+
+
+Item #1705
+URL: https://database.turtle-wow.org/?item=1705
+Category: Database/Items/Trade Goods
+Item: 
+Lesser Moonstone
+
+
+Item #2251
+URL: https://database.turtle-wow.org/?item=2251
+Category: Database/Items/Trade Goods
+Item: 
+Gooey Spider Leg
+
+
+Item #2296
+URL: https://database.turtle-wow.org/?item=2296
+Category: Database/Items/Trade Goods
+Item: 
+Great Goretusk Snout
+
+
+Item #2320
+URL: https://database.turtle-wow.org/?item=2320
+Category: Database/Items/Trade Goods
+Item: 
+Coarse Thread
+
+
+Item #2318
+URL: https://database.turtle-wow.org/?item=2318
+Category: Database/Items/Trade Goods
+Item: 
+Light Leather
+
+
+Item #2319
+URL: https://database.turtle-wow.org/?item=2319
+Category: Database/Items/Trade Goods
+Item: 
+Medium Leather
+
+
+Item #2321
+URL: https://database.turtle-wow.org/?item=2321
+Category: Database/Items/Trade Goods
+Item: 
+Fine Thread
+
+
+Item #2324
+URL: https://database.turtle-wow.org/?item=2324
+Category: Database/Items/Trade Goods
+Item: 
+Bleach
+
+
+Item #2325
+URL: https://database.turtle-wow.org/?item=2325
+Category: Database/Items/Trade Goods
+Item: 
+Black Dye
+
+
+Item #2447
+URL: https://database.turtle-wow.org/?item=2447
+Category: Database/Items/Trade Goods
+Item: 
+Peacebloom
+
+
+Item #2452
+URL: https://database.turtle-wow.org/?item=2452
+Category: Database/Items/Trade Goods
+Item: 
+Swiftthistle
+
+
+Item #2449
+URL: https://database.turtle-wow.org/?item=2449
+Category: Database/Items/Trade Goods
+Item: 
+Earthroot
+
+
+Item #2450
+URL: https://database.turtle-wow.org/?item=2450
+Category: Database/Items/Trade Goods
+Item: 
+Briarthorn
+
+
+Item #2453
+URL: https://database.turtle-wow.org/?item=2453
+Category: Database/Items/Trade Goods
+Item: 
+Bruiseweed
+
+
+Item #2589
+URL: https://database.turtle-wow.org/?item=2589
+Category: Database/Items/Trade Goods
+Item: 
+Linen Cloth
+
+
+Item #2592
+URL: https://database.turtle-wow.org/?item=2592
+Category: Database/Items/Trade Goods
+Item: 
+Wool Cloth
+
+
+Item #2605
+URL: https://database.turtle-wow.org/?item=2605
+Category: Database/Items/Trade Goods
+Item: 
+Green Dye
+
+
+Item #2604
+URL: https://database.turtle-wow.org/?item=2604
+Category: Database/Items/Trade Goods
+Item: 
+Red Dye
+
+
+Item #2677
+URL: https://database.turtle-wow.org/?item=2677
+Category: Database/Items/Trade Goods
+Item: 
+Boar Ribs
+
+
+Item #2678
+URL: https://database.turtle-wow.org/?item=2678
+Category: Database/Items/Trade Goods
+Item: 
+Mild Spices
+"Used to enhance the flavor in cooking recipes."
+
+
+Item #2675
+URL: https://database.turtle-wow.org/?item=2675
+Category: Database/Items/Trade Goods
+Item: 
+Crawler Claw
+
+
+Item #2673
+URL: https://database.turtle-wow.org/?item=2673
+Category: Database/Items/Trade Goods
+Item: 
+Coyote Meat
+
+
+Item #2672
+URL: https://database.turtle-wow.org/?item=2672
+Category: Database/Items/Trade Goods
+Item: 
+Stringy Wolf Meat
+
+
+Item #2674
+URL: https://database.turtle-wow.org/?item=2674
+Category: Database/Items/Trade Goods
+Item: 
+Crawler Meat
+
+
+Item #2692
+URL: https://database.turtle-wow.org/?item=2692
+Category: Database/Items/Trade Goods
+Item: 
+Hot Spices
+
+
+Item #2693
+URL: https://database.turtle-wow.org/?item=2693
+Category: Database/Items/Trade Goods
+Item: 
+OLD Stormwind Seasoning Salts
+
+
+Item #2771
+URL: https://database.turtle-wow.org/?item=2771
+Category: Database/Items/Trade Goods
+Item: 
+Tin Ore
+
+
+Item #2775
+URL: https://database.turtle-wow.org/?item=2775
+Category: Database/Items/Trade Goods
+Item: 
+Silver Ore
+
+
+Item #2776
+URL: https://database.turtle-wow.org/?item=2776
+Category: Database/Items/Trade Goods
+Item: 
+Gold Ore
+
+
+Item #2770
+URL: https://database.turtle-wow.org/?item=2770
+Category: Database/Items/Trade Goods
+Item: 
+Copper Ore
+
+
+Item #2772
+URL: https://database.turtle-wow.org/?item=2772
+Category: Database/Items/Trade Goods
+Item: 
+Iron Ore
+
+
+Item #2835
+URL: https://database.turtle-wow.org/?item=2835
+Category: Database/Items/Trade Goods
+Item: 
+Rough Stone
+
+
+Item #2836
+URL: https://database.turtle-wow.org/?item=2836
+Category: Database/Items/Trade Goods
+Item: 
+Coarse Stone
+
+
+Item #2840
+URL: https://database.turtle-wow.org/?item=2840
+Category: Database/Items/Trade Goods
+Item: 
+Copper Bar
+
+
+Item #2838
+URL: https://database.turtle-wow.org/?item=2838
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Stone
+
+
+Item #2842
+URL: https://database.turtle-wow.org/?item=2842
+Category: Database/Items/Trade Goods
+Item: 
+Silver Bar
+
+
+Item #2841
+URL: https://database.turtle-wow.org/?item=2841
+Category: Database/Items/Trade Goods
+Item: 
+Bronze Bar
+
+
+Item #2862
+URL: https://database.turtle-wow.org/?item=2862
+Category: Database/Items/Trade Goods
+Item: 
+Rough Sharpening Stone
+Use:
+Increase sharp weapon damage by 2 for 30 minutes.
+
+
+Item #2863
+URL: https://database.turtle-wow.org/?item=2863
+Category: Database/Items/Trade Goods
+Item: 
+Coarse Sharpening Stone
+Requires Level 5
+Use:
+Increase sharp weapon damage by 3 for 30 minutes.
+
+
+Item #2871
+URL: https://database.turtle-wow.org/?item=2871
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Sharpening Stone
+Requires Level 15
+Use:
+Increase sharp weapon damage by 4 for 30 minutes.
+
+
+Item #2880
+URL: https://database.turtle-wow.org/?item=2880
+Category: Database/Items/Trade Goods
+Item: 
+Weak Flux
+"Used by blacksmiths and jewelcrafters to remove impurities."
+
+
+Item #2886
+URL: https://database.turtle-wow.org/?item=2886
+Category: Database/Items/Trade Goods
+Item: 
+Crag Boar Rib
+
+
+Item #2932
+URL: https://database.turtle-wow.org/?item=2932
+Category: Database/Items/Trade Goods
+Item: 
+Torment Vine
+Classes: Rogue
+"Used by rogues to brew poison."
+
+
+Item #2931
+URL: https://database.turtle-wow.org/?item=2931
+Category: Database/Items/Trade Goods
+Item: 
+Maiden's Anguish
+Classes: Rogue
+"Used by rogues to brew poison."
+
+
+Item #2924
+URL: https://database.turtle-wow.org/?item=2924
+Category: Database/Items/Trade Goods
+Item: 
+Crocolisk Meat
+
+
+Item #2928
+URL: https://database.turtle-wow.org/?item=2928
+Category: Database/Items/Trade Goods
+Item: 
+Dust of Decay
+Classes: Rogue
+"Used by rogues to brew poison."
+
+
+Item #2929
+URL: https://database.turtle-wow.org/?item=2929
+Category: Database/Items/Trade Goods
+Item: 
+Tomb Rot
+Classes: Rogue
+"Used by rogues to brew poison."
+
+
+Item #2930
+URL: https://database.turtle-wow.org/?item=2930
+Category: Database/Items/Trade Goods
+Item: 
+Essence of Pain
+Classes: Rogue
+"Used by rogues to brew poison."
+
+
+Item #2934
+URL: https://database.turtle-wow.org/?item=2934
+Category: Database/Items/Trade Goods
+Item: 
+Ruined Leather Scraps
+
+
+Item #2997
+URL: https://database.turtle-wow.org/?item=2997
+Category: Database/Items/Trade Goods
+Item: 
+Bolt of Woolen Cloth
+
+
+Item #2996
+URL: https://database.turtle-wow.org/?item=2996
+Category: Database/Items/Trade Goods
+Item: 
+Bolt of Linen Cloth
+
+
+Item #3164
+URL: https://database.turtle-wow.org/?item=3164
+Category: Database/Items/Trade Goods
+Item: 
+Discolored Worg Heart
+
+
+Item #3172
+URL: https://database.turtle-wow.org/?item=3172
+Category: Database/Items/Trade Goods
+Item: 
+Boar Intestines
+
+
+Item #3173
+URL: https://database.turtle-wow.org/?item=3173
+Category: Database/Items/Trade Goods
+Item: 
+Bear Meat
+
+
+Item #3174
+URL: https://database.turtle-wow.org/?item=3174
+Category: Database/Items/Trade Goods
+Item: 
+Spider Ichor
+
+
+Item #3182
+URL: https://database.turtle-wow.org/?item=3182
+Category: Database/Items/Trade Goods
+Item: 
+Spider's Silk
+
+
+Item #3239
+URL: https://database.turtle-wow.org/?item=3239
+Category: Database/Items/Trade Goods
+Item: 
+Rough Weightstone
+Use:
+Increase the damage of a blunt weapon by 2 for 30 minutes.
+
+
+Item #3240
+URL: https://database.turtle-wow.org/?item=3240
+Category: Database/Items/Trade Goods
+Item: 
+Coarse Weightstone
+Requires Level 5
+Use:
+Increase the damage of a blunt weapon by 3 for 30 minutes.
+
+
+Item #3241
+URL: https://database.turtle-wow.org/?item=3241
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Weightstone
+Requires Level 15
+Use:
+Increase the damage of a blunt weapon by 4 for 30 minutes.
+
+
+Item #3340
+URL: https://database.turtle-wow.org/?item=3340
+Category: Database/Items/Trade Goods
+Item: 
+Incendicite Ore
+
+
+Item #3357
+URL: https://database.turtle-wow.org/?item=3357
+Category: Database/Items/Trade Goods
+Item: 
+Liferoot
+
+
+Item #3356
+URL: https://database.turtle-wow.org/?item=3356
+Category: Database/Items/Trade Goods
+Item: 
+Kingsblood
+
+
+Item #3358
+URL: https://database.turtle-wow.org/?item=3358
+Category: Database/Items/Trade Goods
+Item: 
+Khadgar's Whisker
+
+
+Item #3355
+URL: https://database.turtle-wow.org/?item=3355
+Category: Database/Items/Trade Goods
+Item: 
+Wild Steelbloom
+
+
+Item #3371
+URL: https://database.turtle-wow.org/?item=3371
+Category: Database/Items/Trade Goods
+Item: 
+Empty Vial
+
+
+Item #3372
+URL: https://database.turtle-wow.org/?item=3372
+Category: Database/Items/Trade Goods
+Item: 
+Leaded Vial
+
+
+Item #3369
+URL: https://database.turtle-wow.org/?item=3369
+Category: Database/Items/Trade Goods
+Item: 
+Grave Moss
+
+
+Item #3404
+URL: https://database.turtle-wow.org/?item=3404
+Category: Database/Items/Trade Goods
+Item: 
+Buzzard Wing
+
+
+Item #3466
+URL: https://database.turtle-wow.org/?item=3466
+Category: Database/Items/Trade Goods
+Item: 
+Strong Flux
+"Used by blacksmiths and jewelcrafters to remove impurities."
+
+
+Item #3470
+URL: https://database.turtle-wow.org/?item=3470
+Category: Database/Items/Trade Goods
+Item: 
+Rough Grinding Stone
+
+
+Item #3478
+URL: https://database.turtle-wow.org/?item=3478
+Category: Database/Items/Trade Goods
+Item: 
+Coarse Grinding Stone
+
+
+Item #3486
+URL: https://database.turtle-wow.org/?item=3486
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Grinding Stone
+
+
+Item #3577
+URL: https://database.turtle-wow.org/?item=3577
+Category: Database/Items/Trade Goods
+Item: 
+Gold Bar
+
+
+Item #3576
+URL: https://database.turtle-wow.org/?item=3576
+Category: Database/Items/Trade Goods
+Item: 
+Tin Bar
+
+
+Item #3575
+URL: https://database.turtle-wow.org/?item=3575
+Category: Database/Items/Trade Goods
+Item: 
+Iron Bar
+
+
+Item #3667
+URL: https://database.turtle-wow.org/?item=3667
+Category: Database/Items/Trade Goods
+Item: 
+Tender Crocolisk Meat
+
+
+Item #3685
+URL: https://database.turtle-wow.org/?item=3685
+Category: Database/Items/Trade Goods
+Item: 
+Raptor Egg
+
+
+Item #3712
+URL: https://database.turtle-wow.org/?item=3712
+Category: Database/Items/Trade Goods
+Item: 
+Turtle Meat
+
+
+Item #3713
+URL: https://database.turtle-wow.org/?item=3713
+Category: Database/Items/Trade Goods
+Item: 
+Soothing Spices
+
+
+Item #3731
+URL: https://database.turtle-wow.org/?item=3731
+Category: Database/Items/Trade Goods
+Item: 
+Lion Meat
+
+
+Item #3730
+URL: https://database.turtle-wow.org/?item=3730
+Category: Database/Items/Trade Goods
+Item: 
+Big Bear Meat
+
+
+Item #3777
+URL: https://database.turtle-wow.org/?item=3777
+Category: Database/Items/Trade Goods
+Item: 
+Lethargy Root
+Classes: Rogue
+"Used by rogues to brew poison."
+
+
+Item #3819
+URL: https://database.turtle-wow.org/?item=3819
+Category: Database/Items/Trade Goods
+Item: 
+Wintersbite
+
+
+Item #3820
+URL: https://database.turtle-wow.org/?item=3820
+Category: Database/Items/Trade Goods
+Item: 
+Stranglekelp
+
+
+Item #3818
+URL: https://database.turtle-wow.org/?item=3818
+Category: Database/Items/Trade Goods
+Item: 
+Fadeleaf
+
+
+Item #3821
+URL: https://database.turtle-wow.org/?item=3821
+Category: Database/Items/Trade Goods
+Item: 
+Goldthorn
+
+
+Item #3859
+URL: https://database.turtle-wow.org/?item=3859
+Category: Database/Items/Trade Goods
+Item: 
+Steel Bar
+
+
+Item #3860
+URL: https://database.turtle-wow.org/?item=3860
+Category: Database/Items/Trade Goods
+Item: 
+Mithril Bar
+
+
+Item #3858
+URL: https://database.turtle-wow.org/?item=3858
+Category: Database/Items/Trade Goods
+Item: 
+Mithril Ore
+
+
+Item #3857
+URL: https://database.turtle-wow.org/?item=3857
+Category: Database/Items/Trade Goods
+Item: 
+Coal
+
+
+Item #4096
+URL: https://database.turtle-wow.org/?item=4096
+Category: Database/Items/Trade Goods
+Item: 
+Coarse Gorilla Hair
+
+
+Item #4231
+URL: https://database.turtle-wow.org/?item=4231
+Category: Database/Items/Trade Goods
+Item: 
+Cured Light Hide
+
+
+Item #4233
+URL: https://database.turtle-wow.org/?item=4233
+Category: Database/Items/Trade Goods
+Item: 
+Cured Medium Hide
+
+
+Item #4232
+URL: https://database.turtle-wow.org/?item=4232
+Category: Database/Items/Trade Goods
+Item: 
+Medium Hide
+
+
+Item #4234
+URL: https://database.turtle-wow.org/?item=4234
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Leather
+
+
+Item #4235
+URL: https://database.turtle-wow.org/?item=4235
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Hide
+
+
+Item #4236
+URL: https://database.turtle-wow.org/?item=4236
+Category: Database/Items/Trade Goods
+Item: 
+Cured Heavy Hide
+
+
+Item #4289
+URL: https://database.turtle-wow.org/?item=4289
+Category: Database/Items/Trade Goods
+Item: 
+Salt
+
+
+Item #4291
+URL: https://database.turtle-wow.org/?item=4291
+Category: Database/Items/Trade Goods
+Item: 
+Silken Thread
+
+
+Item #4305
+URL: https://database.turtle-wow.org/?item=4305
+Category: Database/Items/Trade Goods
+Item: 
+Bolt of Silk Cloth
+
+
+Item #4304
+URL: https://database.turtle-wow.org/?item=4304
+Category: Database/Items/Trade Goods
+Item: 
+Thick Leather
+
+
+Item #4306
+URL: https://database.turtle-wow.org/?item=4306
+Category: Database/Items/Trade Goods
+Item: 
+Silk Cloth
+
+
+Item #4340
+URL: https://database.turtle-wow.org/?item=4340
+Category: Database/Items/Trade Goods
+Item: 
+Gray Dye
+
+
+Item #4338
+URL: https://database.turtle-wow.org/?item=4338
+Category: Database/Items/Trade Goods
+Item: 
+Mageweave Cloth
+
+
+Item #4342
+URL: https://database.turtle-wow.org/?item=4342
+Category: Database/Items/Trade Goods
+Item: 
+Purple Dye
+
+
+Item #4339
+URL: https://database.turtle-wow.org/?item=4339
+Category: Database/Items/Trade Goods
+Item: 
+Bolt of Mageweave
+
+
+Item #4337
+URL: https://database.turtle-wow.org/?item=4337
+Category: Database/Items/Trade Goods
+Item: 
+Thick Spider's Silk
+
+
+Item #4341
+URL: https://database.turtle-wow.org/?item=4341
+Category: Database/Items/Trade Goods
+Item: 
+Yellow Dye
+
+
+Item #4402
+URL: https://database.turtle-wow.org/?item=4402
+Category: Database/Items/Trade Goods
+Item: 
+Small Flame Sac
+
+
+Item #4461
+URL: https://database.turtle-wow.org/?item=4461
+Category: Database/Items/Trade Goods
+Item: 
+Raptor Hide
+
+
+Item #4589
+URL: https://database.turtle-wow.org/?item=4589
+Category: Database/Items/Trade Goods
+Item: 
+Long Elegant Feather
+
+
+Item #4625
+URL: https://database.turtle-wow.org/?item=4625
+Category: Database/Items/Trade Goods
+Item: 
+Firebloom
+
+
+Item #4655
+URL: https://database.turtle-wow.org/?item=4655
+Category: Database/Items/Trade Goods
+Item: 
+Giant Clam Meat
+
+
+Item #5060
+URL: https://database.turtle-wow.org/?item=5060
+Category: Database/Items/Trade Goods
+Item: 
+Thieves' Tools
+Binds when picked up
+Unique
+Requires Level 15
+
+
+Item #5082
+URL: https://database.turtle-wow.org/?item=5082
+Category: Database/Items/Trade Goods
+Item: 
+Thin Kodo Leather
+"'Thin' is a relative term...."
+
+
+Item #5173
+URL: https://database.turtle-wow.org/?item=5173
+Category: Database/Items/Trade Goods
+Item: 
+Deathweed
+Classes: Rogue
+"It must be carried very, very carefully."
+
+
+Item #5373
+URL: https://database.turtle-wow.org/?item=5373
+Category: Database/Items/Trade Goods
+Item: 
+Lucky Charm
+
+
+Item #5466
+URL: https://database.turtle-wow.org/?item=5466
+Category: Database/Items/Trade Goods
+Item: 
+Scorpid Stinger
+
+
+Item #5471
+URL: https://database.turtle-wow.org/?item=5471
+Category: Database/Items/Trade Goods
+Item: 
+Stag Meat
+
+
+Item #5465
+URL: https://database.turtle-wow.org/?item=5465
+Category: Database/Items/Trade Goods
+Item: 
+Small Spider Leg
+
+
+Item #5470
+URL: https://database.turtle-wow.org/?item=5470
+Category: Database/Items/Trade Goods
+Item: 
+Thunder Lizard Tail
+
+
+Item #5469
+URL: https://database.turtle-wow.org/?item=5469
+Category: Database/Items/Trade Goods
+Item: 
+Strider Meat
+
+
+Item #5467
+URL: https://database.turtle-wow.org/?item=5467
+Category: Database/Items/Trade Goods
+Item: 
+Kodo Meat
+
+
+Item #5468
+URL: https://database.turtle-wow.org/?item=5468
+Category: Database/Items/Trade Goods
+Item: 
+Soft Frenzy Flesh
+
+
+Item #5500
+URL: https://database.turtle-wow.org/?item=5500
+Category: Database/Items/Trade Goods
+Item: 
+Iridescent Pearl
+
+
+Item #5498
+URL: https://database.turtle-wow.org/?item=5498
+Category: Database/Items/Trade Goods
+Item: 
+Small Lustrous Pearl
+
+
+Item #5503
+URL: https://database.turtle-wow.org/?item=5503
+Category: Database/Items/Trade Goods
+Item: 
+Clam Meat
+
+
+Item #5504
+URL: https://database.turtle-wow.org/?item=5504
+Category: Database/Items/Trade Goods
+Item: 
+Tangy Clam Meat
+
+
+Item #5637
+URL: https://database.turtle-wow.org/?item=5637
+Category: Database/Items/Trade Goods
+Item: 
+Large Fang
+
+
+Item #5635
+URL: https://database.turtle-wow.org/?item=5635
+Category: Database/Items/Trade Goods
+Item: 
+Sharp Claw
+
+
+Item #5785
+URL: https://database.turtle-wow.org/?item=5785
+Category: Database/Items/Trade Goods
+Item: 
+Thick Murloc Scale
+
+
+Item #5784
+URL: https://database.turtle-wow.org/?item=5784
+Category: Database/Items/Trade Goods
+Item: 
+Slimy Murloc Scale
+
+
+Item #5833
+URL: https://database.turtle-wow.org/?item=5833
+Category: Database/Items/Trade Goods
+Item: 
+Indurium Ore
+
+
+Item #6037
+URL: https://database.turtle-wow.org/?item=6037
+Category: Database/Items/Trade Goods
+Item: 
+Truesilver Bar
+
+
+Item #6043
+URL: https://database.turtle-wow.org/?item=6043
+Category: Database/Items/Trade Goods
+Item: 
+Iron Counterweight
+Requires Blacksmithing (165)
+Use:
+Attaches a counterweight to a two-handed sword, mace, axe or polearm making it 3% faster.
+
+
+Item #6042
+URL: https://database.turtle-wow.org/?item=6042
+Category: Database/Items/Trade Goods
+Item: 
+Iron Shield Spike
+Requires Blacksmithing (150)
+Use:
+Attaches an Iron Spike to your shield that deals damage every time you block with it.
+
+
+Item #6041
+URL: https://database.turtle-wow.org/?item=6041
+Category: Database/Items/Trade Goods
+Item: 
+Steel Weapon Chain
+Requires Blacksmithing (190)
+Use:
+Attaches a chain to your weapon, making it impossible to disarm.
+
+
+Item #6218
+URL: https://database.turtle-wow.org/?item=6218
+Category: Database/Items/Trade Goods
+Item: 
+Runed Copper Rod
+Binds when picked up
+
+
+Item #6217
+URL: https://database.turtle-wow.org/?item=6217
+Category: Database/Items/Trade Goods
+Item: 
+Copper Rod
+"Needed by an Enchanter to make a runed copper rod."
+
+
+Item #6216
+URL: https://database.turtle-wow.org/?item=6216
+Category: Database/Items/Trade Goods
+Item: 
+Mystical Powder
+"Used by Enchanters to enchant items."
+
+
+Item #6260
+URL: https://database.turtle-wow.org/?item=6260
+Category: Database/Items/Trade Goods
+Item: 
+Blue Dye
+
+
+Item #6261
+URL: https://database.turtle-wow.org/?item=6261
+Category: Database/Items/Trade Goods
+Item: 
+Orange Dye
+
+
+Item #6338
+URL: https://database.turtle-wow.org/?item=6338
+Category: Database/Items/Trade Goods
+Item: 
+Silver Rod
+"Needed by Enchanters."
+
+
+Item #6339
+URL: https://database.turtle-wow.org/?item=6339
+Category: Database/Items/Trade Goods
+Item: 
+Runed Silver Rod
+Binds when picked up
+
+
+Item #6374
+URL: https://database.turtle-wow.org/?item=6374
+Category: Database/Items/Trade Goods
+Item: 
+Enchanted Powder
+"Used by Enchanters to enchant items."
+
+
+Item #6522
+URL: https://database.turtle-wow.org/?item=6522
+Category: Database/Items/Trade Goods
+Item: 
+Deviate Fish
+Use:
+Eat me.
+
+
+Item #6889
+URL: https://database.turtle-wow.org/?item=6889
+Category: Database/Items/Trade Goods
+Item: 
+Small Egg
+
+
+Item #6986
+URL: https://database.turtle-wow.org/?item=6986
+Category: Database/Items/Trade Goods
+Item: 
+Crimson Lotus
+
+
+Item #6987
+URL: https://database.turtle-wow.org/?item=6987
+Category: Database/Items/Trade Goods
+Item: 
+Fish Scale
+
+
+Item #7011
+URL: https://database.turtle-wow.org/?item=7011
+Category: Database/Items/Trade Goods
+Item: 
+Rugged String
+
+
+Item #7286
+URL: https://database.turtle-wow.org/?item=7286
+Category: Database/Items/Trade Goods
+Item: 
+Black Whelp Scale
+
+
+Item #7287
+URL: https://database.turtle-wow.org/?item=7287
+Category: Database/Items/Trade Goods
+Item: 
+Red Whelp Scale
+
+
+Item #7428
+URL: https://database.turtle-wow.org/?item=7428
+Category: Database/Items/Trade Goods
+Item: 
+Shadowcat Hide
+
+
+Item #7872
+URL: https://database.turtle-wow.org/?item=7872
+Category: Database/Items/Trade Goods
+Item: 
+Rusty Thieves' Tools
+Binds when picked up
+Unique
+Requires Level 15
+
+
+Item #7912
+URL: https://database.turtle-wow.org/?item=7912
+Category: Database/Items/Trade Goods
+Item: 
+Solid Stone
+
+
+Item #7910
+URL: https://database.turtle-wow.org/?item=7910
+Category: Database/Items/Trade Goods
+Item: 
+Star Ruby
+
+
+Item #7911
+URL: https://database.turtle-wow.org/?item=7911
+Category: Database/Items/Trade Goods
+Item: 
+Truesilver Ore
+
+
+Item #7909
+URL: https://database.turtle-wow.org/?item=7909
+Category: Database/Items/Trade Goods
+Item: 
+Aquamarine
+
+
+Item #7964
+URL: https://database.turtle-wow.org/?item=7964
+Category: Database/Items/Trade Goods
+Item: 
+Solid Sharpening Stone
+Requires Level 25
+Use:
+Increase sharp weapon damage by 6 for 30 minutes.
+
+
+Item #7967
+URL: https://database.turtle-wow.org/?item=7967
+Category: Database/Items/Trade Goods
+Item: 
+Mithril Shield Spike
+Requires Blacksmithing (215)
+Use:
+Attaches a Mithril Spike to your shield that deals damage every time you block with it.
+
+
+Item #7966
+URL: https://database.turtle-wow.org/?item=7966
+Category: Database/Items/Trade Goods
+Item: 
+Solid Grinding Stone
+
+
+Item #7969
+URL: https://database.turtle-wow.org/?item=7969
+Category: Database/Items/Trade Goods
+Item: 
+Mithril Spurs
+Requires Blacksmithing (215)
+Use:
+Attaches spurs to your boots that increase your mounted movement speed slightly.
+
+
+Item #7971
+URL: https://database.turtle-wow.org/?item=7971
+Category: Database/Items/Trade Goods
+Item: 
+Black Pearl
+
+
+Item #7965
+URL: https://database.turtle-wow.org/?item=7965
+Category: Database/Items/Trade Goods
+Item: 
+Solid Weightstone
+Requires Level 25
+Use:
+Increase the damage of a blunt weapon by 6 for 30 minutes.
+
+
+Item #7974
+URL: https://database.turtle-wow.org/?item=7974
+Category: Database/Items/Trade Goods
+Item: 
+Zesty Clam Meat
+
+
+Item #8146
+URL: https://database.turtle-wow.org/?item=8146
+Category: Database/Items/Trade Goods
+Item: 
+Wicked Claw
+
+
+Item #8152
+URL: https://database.turtle-wow.org/?item=8152
+Category: Database/Items/Trade Goods
+Item: 
+Flask of Big Mojo
+
+
+Item #8150
+URL: https://database.turtle-wow.org/?item=8150
+Category: Database/Items/Trade Goods
+Item: 
+Deeprock Salt
+
+
+Item #8153
+URL: https://database.turtle-wow.org/?item=8153
+Category: Database/Items/Trade Goods
+Item: 
+Wildvine
+
+
+Item #8154
+URL: https://database.turtle-wow.org/?item=8154
+Category: Database/Items/Trade Goods
+Item: 
+Scorpid Scale
+
+
+Item #8151
+URL: https://database.turtle-wow.org/?item=8151
+Category: Database/Items/Trade Goods
+Item: 
+Flask of Mojo
+
+
+Item #8165
+URL: https://database.turtle-wow.org/?item=8165
+Category: Database/Items/Trade Goods
+Item: 
+Worn Dragonscale
+
+
+Item #8171
+URL: https://database.turtle-wow.org/?item=8171
+Category: Database/Items/Trade Goods
+Item: 
+Rugged Hide
+
+
+Item #8172
+URL: https://database.turtle-wow.org/?item=8172
+Category: Database/Items/Trade Goods
+Item: 
+Cured Thick Hide
+
+
+Item #8167
+URL: https://database.turtle-wow.org/?item=8167
+Category: Database/Items/Trade Goods
+Item: 
+Turtle Scale
+
+
+Item #8170
+URL: https://database.turtle-wow.org/?item=8170
+Category: Database/Items/Trade Goods
+Item: 
+Rugged Leather
+
+
+Item #8169
+URL: https://database.turtle-wow.org/?item=8169
+Category: Database/Items/Trade Goods
+Item: 
+Thick Hide
+
+
+Item #8343
+URL: https://database.turtle-wow.org/?item=8343
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Silken Thread
+
+
+Item #8368
+URL: https://database.turtle-wow.org/?item=8368
+Category: Database/Items/Trade Goods
+Item: 
+Thick Wolfhide
+
+
+Item #8831
+URL: https://database.turtle-wow.org/?item=8831
+Category: Database/Items/Trade Goods
+Item: 
+Purple Lotus
+
+
+Item #8836
+URL: https://database.turtle-wow.org/?item=8836
+Category: Database/Items/Trade Goods
+Item: 
+Arthas' Tears
+
+
+Item #8839
+URL: https://database.turtle-wow.org/?item=8839
+Category: Database/Items/Trade Goods
+Item: 
+Blindweed
+
+
+Item #8838
+URL: https://database.turtle-wow.org/?item=8838
+Category: Database/Items/Trade Goods
+Item: 
+Sungrass
+
+
+Item #8845
+URL: https://database.turtle-wow.org/?item=8845
+Category: Database/Items/Trade Goods
+Item: 
+Ghost Mushroom
+
+
+Item #8846
+URL: https://database.turtle-wow.org/?item=8846
+Category: Database/Items/Trade Goods
+Item: 
+Gromsblood
+
+
+Item #8924
+URL: https://database.turtle-wow.org/?item=8924
+Category: Database/Items/Trade Goods
+Item: 
+Dust of Deterioration
+Classes: Rogue
+"Used by rogues to brew poison."
+
+
+Item #8923
+URL: https://database.turtle-wow.org/?item=8923
+Category: Database/Items/Trade Goods
+Item: 
+Essence of Agony
+Classes: Rogue
+"Used by rogues to brew poison."
+
+
+Item #8925
+URL: https://database.turtle-wow.org/?item=8925
+Category: Database/Items/Trade Goods
+Item: 
+Crystal Vial
+
+
+Item #9149
+URL: https://database.turtle-wow.org/?item=9149
+Category: Database/Items/Trade Goods
+Item: 
+Philosopher's Stone
+Binds when picked up
+"Required for Alchemical Transmutation."
+
+
+Item #9210
+URL: https://database.turtle-wow.org/?item=9210
+Category: Database/Items/Trade Goods
+Item: 
+Ghost Dye
+
+
+Item #9262
+URL: https://database.turtle-wow.org/?item=9262
+Category: Database/Items/Trade Goods
+Item: 
+Black Vitriol
+
+
+Item #9719
+URL: https://database.turtle-wow.org/?item=9719
+Category: Database/Items/Trade Goods
+Item: 
+Broken Blade of Heroes
+37 - 50  Damage
+Speed 2.20
+(19.8 damage per second)
+Requires Blacksmithing (190)
+Use:
+The sword must be reforged before it can be used. Reforging the sword requires 4 Steel Bars, 4 Strong Flux, 2 Elemental Fire and 2 Heavy Grinding Stones.
+
+
+Item #10285
+URL: https://database.turtle-wow.org/?item=10285
+Category: Database/Items/Trade Goods
+Item: 
+Shadow Silk
+
+
+Item #10290
+URL: https://database.turtle-wow.org/?item=10290
+Category: Database/Items/Trade Goods
+Item: 
+Pink Dye
+
+
+Item #9719
+URL: https://database.turtle-wow.org/?item=9719
+Category: Database/Items/Trade Goods
+Item: 
+Broken Blade of Heroes
+37 - 50  Damage
+Speed 2.20
+(19.8 damage per second)
+Requires Blacksmithing (190)
+Use:
+The sword must be reforged before it can be used. Reforging the sword requires 4 Steel Bars, 4 Strong Flux, 2 Elemental Fire and 2 Heavy Grinding Stones.
+
+
+Item #10290
+URL: https://database.turtle-wow.org/?item=10290
+Category: Database/Items/Trade Goods
+Item: 
+Pink Dye
+
+
+Item #10285
+URL: https://database.turtle-wow.org/?item=10285
+Category: Database/Items/Trade Goods
+Item: 
+Shadow Silk
+
+
+Item #10620
+URL: https://database.turtle-wow.org/?item=10620
+Category: Database/Items/Trade Goods
+Item: 
+Thorium Ore
+
+
+Item #10647
+URL: https://database.turtle-wow.org/?item=10647
+Category: Database/Items/Trade Goods
+Item: 
+Engineer's Ink
+
+
+Item #10648
+URL: https://database.turtle-wow.org/?item=10648
+Category: Database/Items/Trade Goods
+Item: 
+Blank Parchment
+
+
+Item #10938
+URL: https://database.turtle-wow.org/?item=10938
+Category: Database/Items/Trade Goods
+Item: 
+Lesser Magic Essence
+Use:
+Turn three lesser magic essences into a greater one.
+
+
+Item #10939
+URL: https://database.turtle-wow.org/?item=10939
+Category: Database/Items/Trade Goods
+Item: 
+Greater Magic Essence
+Use:
+Turn a greater magic essence into three lesser ones.
+
+
+Item #10940
+URL: https://database.turtle-wow.org/?item=10940
+Category: Database/Items/Trade Goods
+Item: 
+Strange Dust
+
+
+Item #10978
+URL: https://database.turtle-wow.org/?item=10978
+Category: Database/Items/Trade Goods
+Item: 
+Small Glimmering Shard
+
+
+Item #10998
+URL: https://database.turtle-wow.org/?item=10998
+Category: Database/Items/Trade Goods
+Item: 
+Lesser Astral Essence
+Use:
+Turn three lesser astral essences into a greater one.
+
+
+Item #11040
+URL: https://database.turtle-wow.org/?item=11040
+Category: Database/Items/Trade Goods
+Item: 
+Morrowgrain
+
+
+Item #11082
+URL: https://database.turtle-wow.org/?item=11082
+Category: Database/Items/Trade Goods
+Item: 
+Greater Astral Essence
+Use:
+Turn a greater astral essence into three lesser ones.
+
+
+Item #11083
+URL: https://database.turtle-wow.org/?item=11083
+Category: Database/Items/Trade Goods
+Item: 
+Soul Dust
+
+
+Item #11084
+URL: https://database.turtle-wow.org/?item=11084
+Category: Database/Items/Trade Goods
+Item: 
+Large Glimmering Shard
+
+
+Item #11099
+URL: https://database.turtle-wow.org/?item=11099
+Category: Database/Items/Trade Goods
+Item: 
+Dark Iron Ore
+
+
+Item #11128
+URL: https://database.turtle-wow.org/?item=11128
+Category: Database/Items/Trade Goods
+Item: 
+Golden Rod
+"Needed by Enchanters."
+
+
+Item #11130
+URL: https://database.turtle-wow.org/?item=11130
+Category: Database/Items/Trade Goods
+Item: 
+Runed Golden Rod
+Binds when picked up
+
+
+Item #11137
+URL: https://database.turtle-wow.org/?item=11137
+Category: Database/Items/Trade Goods
+Item: 
+Vision Dust
+
+
+Item #11134
+URL: https://database.turtle-wow.org/?item=11134
+Category: Database/Items/Trade Goods
+Item: 
+Lesser Mystic Essence
+Use:
+Turn three lesser mystic essences into a greater one.
+
+
+Item #11138
+URL: https://database.turtle-wow.org/?item=11138
+Category: Database/Items/Trade Goods
+Item: 
+Small Glowing Shard
+
+
+Item #11135
+URL: https://database.turtle-wow.org/?item=11135
+Category: Database/Items/Trade Goods
+Item: 
+Greater Mystic Essence
+Use:
+Turn a greater mystic essence into three lesser ones.
+
+
+Item #11145
+URL: https://database.turtle-wow.org/?item=11145
+Category: Database/Items/Trade Goods
+Item: 
+Runed Truesilver Rod
+Binds when picked up
+
+
+Item #11174
+URL: https://database.turtle-wow.org/?item=11174
+Category: Database/Items/Trade Goods
+Item: 
+Lesser Nether Essence
+Use:
+Turn three lesser nether essences into a greater one.
+
+
+Item #11175
+URL: https://database.turtle-wow.org/?item=11175
+Category: Database/Items/Trade Goods
+Item: 
+Greater Nether Essence
+Use:
+Turn a greater nether essence into three lesser ones.
+
+
+Item #11176
+URL: https://database.turtle-wow.org/?item=11176
+Category: Database/Items/Trade Goods
+Item: 
+Dream Dust
+
+
+Item #11177
+URL: https://database.turtle-wow.org/?item=11177
+Category: Database/Items/Trade Goods
+Item: 
+Small Radiant Shard
+
+
+Item #11178
+URL: https://database.turtle-wow.org/?item=11178
+Category: Database/Items/Trade Goods
+Item: 
+Large Radiant Shard
+
+
+Item #11370
+URL: https://database.turtle-wow.org/?item=11370
+Category: Database/Items/Trade Goods
+Item: 
+Dark Iron Ore
+
+
+Item #11371
+URL: https://database.turtle-wow.org/?item=11371
+Category: Database/Items/Trade Goods
+Item: 
+Dark Iron Bar
+
+
+Item #11382
+URL: https://database.turtle-wow.org/?item=11382
+Category: Database/Items/Trade Goods
+Item: 
+Blood of the Mountain
+
+
+Item #12037
+URL: https://database.turtle-wow.org/?item=12037
+Category: Database/Items/Trade Goods
+Item: 
+Mystery Meat
+
+
+Item #12184
+URL: https://database.turtle-wow.org/?item=12184
+Category: Database/Items/Trade Goods
+Item: 
+Raptor Flesh
+
+
+Item #12204
+URL: https://database.turtle-wow.org/?item=12204
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Kodo Meat
+
+
+Item #12203
+URL: https://database.turtle-wow.org/?item=12203
+Category: Database/Items/Trade Goods
+Item: 
+Red Wolf Meat
+
+
+Item #12206
+URL: https://database.turtle-wow.org/?item=12206
+Category: Database/Items/Trade Goods
+Item: 
+Tender Crab Meat
+
+
+Item #12208
+URL: https://database.turtle-wow.org/?item=12208
+Category: Database/Items/Trade Goods
+Item: 
+Tender Wolf Meat
+
+
+Item #12207
+URL: https://database.turtle-wow.org/?item=12207
+Category: Database/Items/Trade Goods
+Item: 
+Giant Egg
+
+
+Item #12202
+URL: https://database.turtle-wow.org/?item=12202
+Category: Database/Items/Trade Goods
+Item: 
+Tiger Meat
+
+
+Item #12205
+URL: https://database.turtle-wow.org/?item=12205
+Category: Database/Items/Trade Goods
+Item: 
+White Spider Meat
+
+
+Item #12223
+URL: https://database.turtle-wow.org/?item=12223
+Category: Database/Items/Trade Goods
+Item: 
+Meaty Bat Wing
+
+
+Item #12359
+URL: https://database.turtle-wow.org/?item=12359
+Category: Database/Items/Trade Goods
+Item: 
+Thorium Bar
+
+
+Item #12360
+URL: https://database.turtle-wow.org/?item=12360
+Category: Database/Items/Trade Goods
+Item: 
+Arcanite Bar
+
+
+Item #12361
+URL: https://database.turtle-wow.org/?item=12361
+Category: Database/Items/Trade Goods
+Item: 
+Blue Sapphire
+
+
+Item #12363
+URL: https://database.turtle-wow.org/?item=12363
+Category: Database/Items/Trade Goods
+Item: 
+Arcane Crystal
+
+
+Item #12365
+URL: https://database.turtle-wow.org/?item=12365
+Category: Database/Items/Trade Goods
+Item: 
+Dense Stone
+
+
+Item #12364
+URL: https://database.turtle-wow.org/?item=12364
+Category: Database/Items/Trade Goods
+Item: 
+Huge Emerald
+
+
+Item #12404
+URL: https://database.turtle-wow.org/?item=12404
+Category: Database/Items/Trade Goods
+Item: 
+Dense Sharpening Stone
+Requires Level 35
+Use:
+Increase sharp weapon damage by 8 for 30 minutes.
+
+
+Item #12644
+URL: https://database.turtle-wow.org/?item=12644
+Category: Database/Items/Trade Goods
+Item: 
+Dense Grinding Stone
+
+
+Item #12643
+URL: https://database.turtle-wow.org/?item=12643
+Category: Database/Items/Trade Goods
+Item: 
+Dense Weightstone
+Requires Level 35
+Use:
+Increase the damage of a blunt weapon by 8 for 30 minutes.
+
+
+Item #12645
+URL: https://database.turtle-wow.org/?item=12645
+Category: Database/Items/Trade Goods
+Item: 
+Thorium Shield Spike
+Requires Blacksmithing (250)
+Use:
+Attaches a Thorium Spike to your shield that deals damage every time you block with it.
+
+
+Item #12655
+URL: https://database.turtle-wow.org/?item=12655
+Category: Database/Items/Trade Goods
+Item: 
+Enchanted Thorium Bar
+
+
+Item #12662
+URL: https://database.turtle-wow.org/?item=12662
+Category: Database/Items/Trade Goods
+Item: 
+Demonic Rune
+Binds when picked up
+Use:
+Restores 900 to 1501 mana at the cost of 600 to 1001 life.
+
+
+Item #12800
+URL: https://database.turtle-wow.org/?item=12800
+Category: Database/Items/Trade Goods
+Item: 
+Azerothian Diamond
+
+
+Item #12799
+URL: https://database.turtle-wow.org/?item=12799
+Category: Database/Items/Trade Goods
+Item: 
+Large Opal
+
+
+Item #12810
+URL: https://database.turtle-wow.org/?item=12810
+Category: Database/Items/Trade Goods
+Item: 
+Enchanted Leather
+
+
+Item #12809
+URL: https://database.turtle-wow.org/?item=12809
+Category: Database/Items/Trade Goods
+Item: 
+Guardian Stone
+
+
+Item #12804
+URL: https://database.turtle-wow.org/?item=12804
+Category: Database/Items/Trade Goods
+Item: 
+Powerful Mojo
+
+
+Item #12811
+URL: https://database.turtle-wow.org/?item=12811
+Category: Database/Items/Trade Goods
+Item: 
+Righteous Orb
+
+
+Item #13464
+URL: https://database.turtle-wow.org/?item=13464
+Category: Database/Items/Trade Goods
+Item: 
+Golden Sansam
+
+
+Item #13465
+URL: https://database.turtle-wow.org/?item=13465
+Category: Database/Items/Trade Goods
+Item: 
+Mountain Silversage
+
+
+Item #13467
+URL: https://database.turtle-wow.org/?item=13467
+Category: Database/Items/Trade Goods
+Item: 
+Icecap
+
+
+Item #13466
+URL: https://database.turtle-wow.org/?item=13466
+Category: Database/Items/Trade Goods
+Item: 
+Plaguebloom
+
+
+Item #13463
+URL: https://database.turtle-wow.org/?item=13463
+Category: Database/Items/Trade Goods
+Item: 
+Dreamfoil
+
+
+Item #13468
+URL: https://database.turtle-wow.org/?item=13468
+Category: Database/Items/Trade Goods
+Item: 
+Black Lotus
+
+
+Item #13503
+URL: https://database.turtle-wow.org/?item=13503
+Category: Database/Items/Trade Goods
+Item: 
+Alchemists' Stone
+Binds when picked up
+Unique
+Trinket
+Requires Alchemy (300)
+Equip:
+Increases the effects that healing and mana potions have on the wearer by 33%.
+Equip:
+Restores 9 health per 5 sec.
+
+
+Item #13926
+URL: https://database.turtle-wow.org/?item=13926
+Category: Database/Items/Trade Goods
+Item: 
+Golden Pearl
+
+
+Item #14048
+URL: https://database.turtle-wow.org/?item=14048
+Category: Database/Items/Trade Goods
+Item: 
+Bolt of Runecloth
+
+
+Item #14047
+URL: https://database.turtle-wow.org/?item=14047
+Category: Database/Items/Trade Goods
+Item: 
+Runecloth
+
+
+Item #14227
+URL: https://database.turtle-wow.org/?item=14227
+Category: Database/Items/Trade Goods
+Item: 
+Ironweb Spider Silk
+
+
+Item #14256
+URL: https://database.turtle-wow.org/?item=14256
+Category: Database/Items/Trade Goods
+Item: 
+Felcloth
+
+
+Item #14343
+URL: https://database.turtle-wow.org/?item=14343
+Category: Database/Items/Trade Goods
+Item: 
+Small Brilliant Shard
+
+
+Item #14342
+URL: https://database.turtle-wow.org/?item=14342
+Category: Database/Items/Trade Goods
+Item: 
+Mooncloth
+
+
+Item #14341
+URL: https://database.turtle-wow.org/?item=14341
+Category: Database/Items/Trade Goods
+Item: 
+Rune Thread
+
+
+Item #14344
+URL: https://database.turtle-wow.org/?item=14344
+Category: Database/Items/Trade Goods
+Item: 
+Large Brilliant Shard
+
+
+Item #15409
+URL: https://database.turtle-wow.org/?item=15409
+Category: Database/Items/Trade Goods
+Item: 
+Refined Deeprock Salt
+
+
+Item #15410
+URL: https://database.turtle-wow.org/?item=15410
+Category: Database/Items/Trade Goods
+Item: 
+Scale of Onyxia
+
+
+
+Item #15417
+URL: https://database.turtle-wow.org/?item=15417
+Category: Database/Items/Trade Goods
+Item: 
+Devilsaur Leather
+
+
+Item #15419
+URL: https://database.turtle-wow.org/?item=15419
+Category: Database/Items/Trade Goods
+Item: 
+Warbear Leather
+
+
+Item #15422
+URL: https://database.turtle-wow.org/?item=15422
+Category: Database/Items/Trade Goods
+Item: 
+Frostsaber Leather
+
+
+Item #15423
+URL: https://database.turtle-wow.org/?item=15423
+Category: Database/Items/Trade Goods
+Item: 
+Chimera Leather
+
+
+Item #16203
+URL: https://database.turtle-wow.org/?item=16203
+Category: Database/Items/Trade Goods
+Item: 
+Greater Eternal Essence
+Use:
+Turn a greater eternal essence into three lesser ones.
+
+
+Item #16204
+URL: https://database.turtle-wow.org/?item=16204
+Category: Database/Items/Trade Goods
+Item: 
+Illusion Dust
+
+
+Item #16207
+URL: https://database.turtle-wow.org/?item=16207
+Category: Database/Items/Trade Goods
+Item: 
+Runed Arcanite Rod
+Binds when picked up
+
+
+Item #16202
+URL: https://database.turtle-wow.org/?item=16202
+Category: Database/Items/Trade Goods
+Item: 
+Lesser Eternal Essence
+Use:
+Turn three lesser eternal essences into a greater one.
+
+
+Item #16206
+URL: https://database.turtle-wow.org/?item=16206
+Category: Database/Items/Trade Goods
+Item: 
+Arcanite Rod
+"Needed by Enchanters."
+
+
+Item #17012
+URL: https://database.turtle-wow.org/?item=17012
+Category: Database/Items/Trade Goods
+Item: 
+Core Leather
+
+
+Item #17194
+URL: https://database.turtle-wow.org/?item=17194
+Category: Database/Items/Trade Goods
+Item: 
+Holiday Spices
+
+
+Item #17204
+URL: https://database.turtle-wow.org/?item=17204
+Category: Database/Items/Trade Goods
+Item: 
+Eye of Sulfuras
+Binds when picked up
+Use:
+The Eye of Sulfuras can be combined with the Sulfuron Hammer to create Sulfuras, legendary hammer of Ragnaros.
+
+
+Item #17203
+URL: https://database.turtle-wow.org/?item=17203
+Category: Database/Items/Trade Goods
+Item: 
+Sulfuron Ingot
+
+
+Item #17771
+URL: https://database.turtle-wow.org/?item=17771
+Category: Database/Items/Trade Goods
+Item: 
+Elementium Bar
+
+
+Item #17968
+URL: https://database.turtle-wow.org/?item=17968
+Category: Database/Items/Trade Goods
+Item: 
+Charged Scale of Onyxia
+
+
+Item #18240
+URL: https://database.turtle-wow.org/?item=18240
+Category: Database/Items/Trade Goods
+Item: 
+Ogre Tannin
+Binds when picked up
+
+
+Item #18256
+URL: https://database.turtle-wow.org/?item=18256
+Category: Database/Items/Trade Goods
+Item: 
+Imbued Vial
+
+
+Item #18262
+URL: https://database.turtle-wow.org/?item=18262
+Category: Database/Items/Trade Goods
+Item: 
+Elemental Sharpening Stone
+Requires Level 50
+Use:
+Increase critical chance on a melee weapon by 2% for 30 minutes.
+
+
+Item #18562
+URL: https://database.turtle-wow.org/?item=18562
+Category: Database/Items/Trade Goods
+Item: 
+Elementium Ore
+
+
+Item #18567
+URL: https://database.turtle-wow.org/?item=18567
+Category: Database/Items/Trade Goods
+Item: 
+Elemental Flux
+
+
+Item #19441
+URL: https://database.turtle-wow.org/?item=19441
+Category: Database/Items/Trade Goods
+Item: 
+Huge Venom Sac
+
+
+Item #19726
+URL: https://database.turtle-wow.org/?item=19726
+Category: Database/Items/Trade Goods
+Item: 
+Bloodvine
+
+
+Item #19727
+URL: https://database.turtle-wow.org/?item=19727
+Category: Database/Items/Trade Goods
+Item: 
+Blood Scythe
+Binds when picked up
+Unique
+"Allows an Herbalist to collect Bloodvine from Zul'Gurub Flora when carried."
+
+
+Item #19767
+URL: https://database.turtle-wow.org/?item=19767
+Category: Database/Items/Trade Goods
+Item: 
+Primal Bat Leather
+
+
+Item #19768
+URL: https://database.turtle-wow.org/?item=19768
+Category: Database/Items/Trade Goods
+Item: 
+Primal Tiger Leather
+
+
+Item #19774
+URL: https://database.turtle-wow.org/?item=19774
+Category: Database/Items/Trade Goods
+Item: 
+Souldarite
+
+
+Item #19943
+URL: https://database.turtle-wow.org/?item=19943
+Category: Database/Items/Trade Goods
+Item: 
+Massive Mojo
+"More Mojo than any one troll should have."
+
+
+Item #19971
+URL: https://database.turtle-wow.org/?item=19971
+Category: Database/Items/Trade Goods
+Item: 
+High Test Eternium Fishing Line
+Binds when picked up
+Requires Fishing (150)
+Use:
+Replaces the fishing line on your fishing pole with a high test eternium line.
+
+
+Item #20424
+URL: https://database.turtle-wow.org/?item=20424
+Category: Database/Items/Trade Goods
+Item: 
+Sandworm Meat
+
+
+Item #20423
+URL: https://database.turtle-wow.org/?item=20423
+Category: Database/Items/Trade Goods
+Item: 
+Sandy Scorpid Claw
+
+
+Item #20520
+URL: https://database.turtle-wow.org/?item=20520
+Category: Database/Items/Trade Goods
+Item: 
+Dark Rune
+Use:
+Restores 900 to 1501 mana at the cost of 600 to 1001 life.
+
+
+Item #20725
+URL: https://database.turtle-wow.org/?item=20725
+Category: Database/Items/Trade Goods
+Item: 
+Nexus Crystal
+
+
+Item #20748
+URL: https://database.turtle-wow.org/?item=20748
+Category: Database/Items/Trade Goods
+Item: 
+Brilliant Mana Oil
+Requires Level 45
+Use:
+While applied to target weapon it restores 12 mana to the caster every 5 seconds and increases the effect of healing spells by up to 25.  Lasts for 30 minutes.
+
+
+Item #20750
+URL: https://database.turtle-wow.org/?item=20750
+Category: Database/Items/Trade Goods
+Item: 
+Wizard Oil
+Requires Level 40
+Use:
+While applied to target weapon it increases spell damage by up to 24.  Lasts for 30 minutes.
+
+
+Item #20747
+URL: https://database.turtle-wow.org/?item=20747
+Category: Database/Items/Trade Goods
+Item: 
+Lesser Mana Oil
+Requires Level 40
+Use:
+While applied to target weapon it restores 8 mana to the caster every 5 seconds.  Lasts for 30 minutes.
+
+
+Item #20746
+URL: https://database.turtle-wow.org/?item=20746
+Category: Database/Items/Trade Goods
+Item: 
+Lesser Wizard Oil
+Requires Level 30
+Use:
+While applied to target weapon it increases spell damage by up to 16.  Lasts for 30 minutes.
+
+
+Item #20749
+URL: https://database.turtle-wow.org/?item=20749
+Category: Database/Items/Trade Goods
+Item: 
+Brilliant Wizard Oil
+Requires Level 45
+Use:
+While applied to target weapon it increases spell damage by up to 36 and increases Spell Critical chance by 1% .  Lasts for 30 minutes.
+
+
+Item #20745
+URL: https://database.turtle-wow.org/?item=20745
+Category: Database/Items/Trade Goods
+Item: 
+Minor Mana Oil
+Requires Level 20
+Use:
+While applied to target weapon it restores 4 mana to the caster every 5 seconds.  Lasts for 30 minutes.
+
+
+Item #20744
+URL: https://database.turtle-wow.org/?item=20744
+Category: Database/Items/Trade Goods
+Item: 
+Minor Wizard Oil
+Requires Level 5
+Use:
+While applied to target weapon it increases spell damage by up to 8.  Lasts for 30 minutes.
+
+
+Item #21024
+URL: https://database.turtle-wow.org/?item=21024
+Category: Database/Items/Trade Goods
+Item: 
+Chimaerok Tenderloin
+
+
+Item #22203
+URL: https://database.turtle-wow.org/?item=22203
+Category: Database/Items/Trade Goods
+Item: 
+Large Obsidian Shard
+
+
+Item #22202
+URL: https://database.turtle-wow.org/?item=22202
+Category: Database/Items/Trade Goods
+Item: 
+Small Obsidian Shard
+
+
+Item #22682
+URL: https://database.turtle-wow.org/?item=22682
+Category: Database/Items/Trade Goods
+Item: 
+Frozen Rune
+Requires Level 60
+Use:
+Absorbs 1500 to 2501 fire damage.  Lasts 3600 sec.
+
+
+Item #23122
+URL: https://database.turtle-wow.org/?item=23122
+Category: Database/Items/Trade Goods
+Item: 
+Consecrated Sharpening Stone
+Requires Level 50
+Use:
+While applied to target weapon it increases attack power against undead by 100. Lasts for 1 hour.
+
+
+Item #23123
+URL: https://database.turtle-wow.org/?item=23123
+Category: Database/Items/Trade Goods
+Item: 
+Blessed Wizard Oil
+Requires Level 50
+Use:
+While applied to target weapon it increases spell damage against undead by up to 60. Lasts for 1 hour.
+
+
+Item #41319
+URL: https://database.turtle-wow.org/?item=41319
+Category: Database/Items/Trade Goods
+Item: 
+Rough Silver Ring
+
+
+Item #41321
+URL: https://database.turtle-wow.org/?item=41321
+Category: Database/Items/Trade Goods
+Item: 
+Rough Thorium Ring
+
+
+Item #41326
+URL: https://database.turtle-wow.org/?item=41326
+Category: Database/Items/Trade Goods
+Item: 
+Jewelry Lens
+
+
+Item #41327
+URL: https://database.turtle-wow.org/?item=41327
+Category: Database/Items/Trade Goods
+Item: 
+Jewelry Scope
+
+
+Item #41328
+URL: https://database.turtle-wow.org/?item=41328
+Category: Database/Items/Trade Goods
+Item: 
+Precision Jewelers Kit
+
+
+Item #41322
+URL: https://database.turtle-wow.org/?item=41322
+Category: Database/Items/Trade Goods
+Item: 
+Rough Mithril Ring
+
+
+Item #41331
+URL: https://database.turtle-wow.org/?item=41331
+Category: Database/Items/Trade Goods
+Item: 
+Rough Gold Ring
+
+
+Item #41332
+URL: https://database.turtle-wow.org/?item=41332
+Category: Database/Items/Trade Goods
+Item: 
+Rough Iron Ring
+
+
+Item #41341
+URL: https://database.turtle-wow.org/?item=41341
+Category: Database/Items/Trade Goods
+Item: 
+Rough Truesilver Ring
+
+
+Item #41485
+URL: https://database.turtle-wow.org/?item=41485
+Category: Database/Items/Trade Goods
+Item: 
+Pristine Ley Crystal
+
+
+Item #41869
+URL: https://database.turtle-wow.org/?item=41869
+Category: Database/Items/Trade Goods
+Item: 
+Foul Ravasaur Egg
+Binds when picked up
+"It's mother abandoned it long ago."
+
+
+Item #41868
+URL: https://database.turtle-wow.org/?item=41868
+Category: Database/Items/Trade Goods
+Item: 
+Cold Ravasaur Egg
+Binds when picked up
+"There is nothing you can do for this one."
+
+
+Item #41878
+URL: https://database.turtle-wow.org/?item=41878
+Category: Database/Items/Trade Goods
+Item: 
+Trashed Book
+Binds when picked up
+"Looks like you were not careful enough."
+
+
+Item #49992
+URL: https://database.turtle-wow.org/?item=49992
+Category: Database/Items/Trade Goods
+Item: 
+Sea Turtle Shell
+Use:
+Combine 2 Sea Turtle Shells into Sea Turtle Shell Pauldrons.
+
+
+Item #50231
+URL: https://database.turtle-wow.org/?item=50231
+Category: Database/Items/Trade Goods
+Item: 
+Sturdy Rope
+"A strong, braided leather rope."
+
+
+Item #55152
+URL: https://database.turtle-wow.org/?item=55152
+Category: Database/Items/Trade Goods
+Item: 
+Heavy Gritted Paper
+
+
+Item #55151
+URL: https://database.turtle-wow.org/?item=55151
+Category: Database/Items/Trade Goods
+Item: 
+Coarse Gritted Paper
+
+
+Item #55150
+URL: https://database.turtle-wow.org/?item=55150
+Category: Database/Items/Trade Goods
+Item: 
+Rough Gritted Paper
+
+
+Item #55154
+URL: https://database.turtle-wow.org/?item=55154
+Category: Database/Items/Trade Goods
+Item: 
+Dense Gritted Paper
+
+
+Item #55156
+URL: https://database.turtle-wow.org/?item=55156
+Category: Database/Items/Trade Goods
+Item: 
+Rough Copper Ring
+
+
+Item #55153
+URL: https://database.turtle-wow.org/?item=55153
+Category: Database/Items/Trade Goods
+Item: 
+Solid Gritted Paper
+
+
+Item #55155
+URL: https://database.turtle-wow.org/?item=55155
+Category: Database/Items/Trade Goods
+Item: 
+Jewelers Kit
+
+
+Item #55174
+URL: https://database.turtle-wow.org/?item=55174
+Category: Database/Items/Trade Goods
+Item: 
+Rough Bronze Ring
+
+
+Item #55245
+URL: https://database.turtle-wow.org/?item=55245
+Category: Database/Items/Trade Goods
+Item: 
+Polishing Oil
+
+
+Item #55247
+URL: https://database.turtle-wow.org/?item=55247
+Category: Database/Items/Trade Goods
+Item: 
+Gemstone Oil
+
+
+Item #55248
+URL: https://database.turtle-wow.org/?item=55248
+Category: Database/Items/Trade Goods
+Item: 
+Enchanted Gemstone Oil
+
+
+Item #55246
+URL: https://database.turtle-wow.org/?item=55246
+Category: Database/Items/Trade Goods
+Item: 
+Shimmering Oil
+
+
+Item #56033
+URL: https://database.turtle-wow.org/?item=56033
+Category: Database/Items/Trade Goods
+Item: 
+Pure Gold Ring
+
+
+Item #61173
+URL: https://database.turtle-wow.org/?item=61173
+Category: Database/Items/Trade Goods
+Item: 
+Premium Chocolate
+Requires Level 35
+Use:
+Restores 1392 health over 30 sec.  Must remain seated while eating.
+
+
+Item #61182
+URL: https://database.turtle-wow.org/?item=61182
+Category: Database/Items/Trade Goods
+Item: 
+Thorium Spurs
+Requires Blacksmithing (275)
+Use:
+Attaches spurs to your boots that increase your mounted movement speed slightly.
+
+
+Item #61199
+URL: https://database.turtle-wow.org/?item=61199
+Category: Database/Items/Trade Goods
+Item: 
+Bright Dream Shard
+
+
+Item #61198
+URL: https://database.turtle-wow.org/?item=61198
+Category: Database/Items/Trade Goods
+Item: 
+Small Dream Shard
+
+
+Item #61197
+URL: https://database.turtle-wow.org/?item=61197
+Category: Database/Items/Trade Goods
+Item: 
+Fading Dream Fragment
+
+
+Item #61216
+URL: https://database.turtle-wow.org/?item=61216
+Category: Database/Items/Trade Goods
+Item: 
+Dreamsteel Bar
+
+
+Item #61230
+URL: https://database.turtle-wow.org/?item=61230
+Category: Database/Items/Trade Goods
+Item: 
+Dreamthread
+
+
+Item #61229
+URL: https://database.turtle-wow.org/?item=61229
+Category: Database/Items/Trade Goods
+Item: 
+Dreamhide
+
+
+Item #61673
+URL: https://database.turtle-wow.org/?item=61673
+Category: Database/Items/Trade Goods
+Item: 
+Arcane Essence
+
+
+Item #61674
+URL: https://database.turtle-wow.org/?item=61674
+Category: Database/Items/Trade Goods
+Item: 
+Overcharged Ley Energy
+Binds when picked up
+Requires Level 58
+"Condensed into a pure form of surging power."
+
+
+Item #61780
+URL: https://database.turtle-wow.org/?item=61780
+Category: Database/Items/Trade Goods
+Item: 
+Bronze Belt Buckle
+Binds when picked up
+Requires Blacksmithing (90)
+Use:
+Attaches a buckle to your belt that increase your stamina by 2.
+
+
+Item #61779
+URL: https://database.turtle-wow.org/?item=61779
+Category: Database/Items/Trade Goods
+Item: 
+Copper Belt Buckle
+Binds when picked up
+Requires Blacksmithing (25)
+Use:
+Attaches a buckle to your belt that increase your stamina by 1.
+
+
+Item #61784
+URL: https://database.turtle-wow.org/?item=61784
+Category: Database/Items/Trade Goods
+Item: 
+Arcanite Belt Buckle
+Binds when picked up
+Requires Blacksmithing (275)
+Use:
+Attaches a buckle to your belt that increase your defense skill by 5.
+
+
+Item #61783
+URL: https://database.turtle-wow.org/?item=61783
+Category: Database/Items/Trade Goods
+Item: 
+Thorium Belt Buckle
+Binds when picked up
+Requires Blacksmithing (240)
+Use:
+Attaches a buckle to your belt that increase your magical resistances by 4.
+
+
+Item #61781
+URL: https://database.turtle-wow.org/?item=61781
+Category: Database/Items/Trade Goods
+Item: 
+Iron Belt Buckle
+Binds when picked up
+Requires Blacksmithing (140)
+Use:
+Attaches a buckle to your belt that increases your armor penetration by 25.
+
+
+Item #61782
+URL: https://database.turtle-wow.org/?item=61782
+Category: Database/Items/Trade Goods
+Item: 
+Mithril Belt Buckle
+Binds when picked up
+Requires Blacksmithing (190)
+Use:
+Attaches a buckle to your belt that increases your Agility by 6.
+
+
+Item #61785
+URL: https://database.turtle-wow.org/?item=61785
+Category: Database/Items/Trade Goods
+Item: 
+Dreamsteel Belt Buckle
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Attaches a buckle to your belt that increases your intellect by 10.
+
+
+Item #61804
+URL: https://database.turtle-wow.org/?item=61804
+Category: Database/Items/Trade Goods
+Item: 
+Sigil of Resilience
+Binds when picked up
+Requires Level 58
+Use:
+Permanently reduces your chance to be critically hit by melee and ranged attacks by 3% to a shoulder slot item.
+
+
+Item #61810
+URL: https://database.turtle-wow.org/?item=61810
+Category: Database/Items/Trade Goods
+Item: 
+Bloody Belt Buckle
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Attaches a buckle to your belt that reduces damage taken from critical hits and damage over time effects by 3%.
+
+
+Item #81094
+URL: https://database.turtle-wow.org/?item=81094
+Category: Database/Items/Trade Goods
+Item: 
+Amber Topaz
+
+
+Item #3861
+URL: https://database.turtle-wow.org/?item=3861
+Category: Database/Items/Trade Goods
+Item: 
+Blacksteel Bar
+
+
+Item #3864
+URL: https://database.turtle-wow.org/?item=3864
+Category: Database/Items/Trade Goods
+Item: 
+Citrine
+
+
+Item #11139
+URL: https://database.turtle-wow.org/?item=11139
+Category: Database/Items/Trade Goods
+Item: 
+Large Glowing Shard
+
+
+Item #11144
+URL: https://database.turtle-wow.org/?item=11144
+Category: Database/Items/Trade Goods
+Item: 
+Truesilver Rod
+"Needed by Enchanters."
+
+
+Item #15407
+URL: https://database.turtle-wow.org/?item=15407
+Category: Database/Items/Trade Goods
+Item: 
+Cured Rugged Hide
+
+

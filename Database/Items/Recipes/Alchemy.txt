@@ -1,0 +1,959 @@
+Item #83
+URL: https://database.turtle-wow.org/?item=83
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Rapid Growth
+Binds when picked up
+Requires Alchemy (200)
+Use:
+Teaches you how to make an Elixir of Rapid Growth.
+
+
+Item #2553
+URL: https://database.turtle-wow.org/?item=2553
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Minor Agility
+Requires Alchemy (50)
+Use:
+Teaches you how to make an Elixir of Minor Agility.
+
+
+Item #2555
+URL: https://database.turtle-wow.org/?item=2555
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Swiftness Potion
+Requires Alchemy (60)
+Use:
+Teaches you how to make a Swiftness Potion.
+
+
+Item #2556
+URL: https://database.turtle-wow.org/?item=2556
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Tongues
+Requires Alchemy (70)
+Use:
+Teaches you how to make an Elixir of Tongues.
+
+
+Item #3393
+URL: https://database.turtle-wow.org/?item=3393
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Minor Magic Resistance Potion
+Requires Alchemy (110)
+Use:
+Teaches you how to make a Minor Magic Resistance Potion.
+
+
+Item #3395
+URL: https://database.turtle-wow.org/?item=3395
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Limited Invulnerability Potion
+Requires Alchemy (250)
+Use:
+Teaches you how to make a Limited Invulnerability Potion.
+
+
+Item #3396
+URL: https://database.turtle-wow.org/?item=3396
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Lesser Agility
+Requires Alchemy (140)
+Use:
+Teaches you how to make an Elixir of Lesser Agility.
+
+
+Item #3394
+URL: https://database.turtle-wow.org/?item=3394
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Poison Resistance
+Requires Alchemy (120)
+Use:
+Teaches you how to make an Elixir of Poison Resistance.
+
+
+Item #3830
+URL: https://database.turtle-wow.org/?item=3830
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Fortitude
+Requires Alchemy (175)
+Use:
+Teaches you how to make an Elixir of Fortitude.
+
+
+Item #3831
+URL: https://database.turtle-wow.org/?item=3831
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Mighty Troll's Blood Potion
+Requires Alchemy (180)
+Use:
+Teaches you how to make a Mighty Troll's Blood Potion.
+
+
+Item #3832
+URL: https://database.turtle-wow.org/?item=3832
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Detect Lesser Invisibility
+Requires Alchemy (195)
+Use:
+Teaches you how to make an Elixir of Detect Lesser Invisibility.
+
+
+Item #4597
+URL: https://database.turtle-wow.org/?item=4597
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Discolored Healing Potion
+Requires Alchemy (50)
+Use:
+Teaches you how to make a Discolored Healing Potion.
+
+
+Item #4624
+URL: https://database.turtle-wow.org/?item=4624
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Lesser Stoneshield Potion
+Requires Alchemy (215)
+Use:
+Teaches you how to make a Lesser Stoneshield Potion.
+
+
+Item #5643
+URL: https://database.turtle-wow.org/?item=5643
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Great Rage Potion
+Requires Alchemy (175)
+Use:
+Teaches you how to make a Great Rage Potion.
+
+
+Item #5642
+URL: https://database.turtle-wow.org/?item=5642
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Free Action Potion
+Requires Alchemy (150)
+Use:
+Teaches you how to make a Free Action Potion.
+
+
+Item #5641
+URL: https://database.turtle-wow.org/?item=5641
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Cowardly Flight Potion
+Requires Alchemy (125)
+Use:
+Teaches you how to make a Cowardly Flight Potion.
+
+
+Item #5640
+URL: https://database.turtle-wow.org/?item=5640
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Rage Potion
+Requires Alchemy (60)
+Use:
+Teaches you how to make a Rage Potion.
+
+
+Item #6053
+URL: https://database.turtle-wow.org/?item=6053
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Holy Protection Potion
+Requires Alchemy (100)
+Use:
+Teaches you how to make a Holy Protection Potion.
+
+
+Item #6054
+URL: https://database.turtle-wow.org/?item=6054
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Shadow Protection Potion
+Requires Alchemy (135)
+Use:
+Teaches you how to make a Shadow Protection Potion.
+
+
+Item #6055
+URL: https://database.turtle-wow.org/?item=6055
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Fire Protection Potion
+Requires Alchemy (165)
+Use:
+Teaches you how to make a Fire Protection Potion.
+
+
+Item #6056
+URL: https://database.turtle-wow.org/?item=6056
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Frost Protection Potion
+Requires Alchemy (190)
+Use:
+Teaches you how to make a Frost Protection Potion.
+
+
+Item #6057
+URL: https://database.turtle-wow.org/?item=6057
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Nature Protection Potion
+Requires Alchemy (190)
+Use:
+Teaches you how to make a Nature Protection Potion.
+
+
+Item #6068
+URL: https://database.turtle-wow.org/?item=6068
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Shadow Oil
+Requires Alchemy (165)
+Use:
+Teaches you how to make Shadow Oil.
+
+
+Item #6211
+URL: https://database.turtle-wow.org/?item=6211
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Ogre's Strength
+Requires Alchemy (150)
+Use:
+Teaches you how to make an Elixir of Ogre's Strength.
+
+
+Item #6663
+URL: https://database.turtle-wow.org/?item=6663
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Giant Growth
+Requires Alchemy (90)
+Use:
+Teaches you how to make an Elixir of Giant Growth.
+
+
+Item #9293
+URL: https://database.turtle-wow.org/?item=9293
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Magic Resistance Potion
+Requires Alchemy (210)
+Use:
+Teaches you how to make a Magic Resistance Potion.
+
+
+Item #9294
+URL: https://database.turtle-wow.org/?item=9294
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Wildvine Potion
+Requires Alchemy (225)
+Use:
+Teaches you how to make a Wildvine potion.
+
+
+Item #9295
+URL: https://database.turtle-wow.org/?item=9295
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Invisibility Potion
+Requires Alchemy (235)
+Use:
+Teaches you how to make an Invisibility Potion.
+
+
+Item #9304
+URL: https://database.turtle-wow.org/?item=9304
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Iron to Gold
+Requires Alchemy (225)
+Use:
+Teaches you how to transmute Iron into Gold.
+
+
+Item #9298
+URL: https://database.turtle-wow.org/?item=9298
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Giants
+Requires Alchemy (245)
+Use:
+Teaches you how to make an Elixir of Giants.
+
+
+Item #9301
+URL: https://database.turtle-wow.org/?item=9301
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Shadow Power
+Requires Alchemy (250)
+Use:
+Teaches you how to make an Elixir of Shadow Power.
+
+
+Item #9303
+URL: https://database.turtle-wow.org/?item=9303
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Philosopher's Stone
+Requires Alchemy (225)
+Use:
+Teaches you how to make a Philosophers' Stone.
+
+
+Item #9297
+URL: https://database.turtle-wow.org/?item=9297
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Dream Vision
+Requires Alchemy (240)
+Use:
+Teaches you how to make an Elixir of Dream Vision.
+
+
+Item #9302
+URL: https://database.turtle-wow.org/?item=9302
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Ghost Dye
+Requires Alchemy (245)
+Use:
+Teaches you how to make Ghost Dye.
+
+
+Item #9296
+URL: https://database.turtle-wow.org/?item=9296
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Gift of Arthas
+Requires Alchemy (240)
+Use:
+Teaches you how to make a Gift of Arthas.
+
+
+Item #9300
+URL: https://database.turtle-wow.org/?item=9300
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Demonslaying
+Requires Alchemy (250)
+Use:
+Teaches you how to make an Elixir of Demonslaying.
+
+
+Item #9305
+URL: https://database.turtle-wow.org/?item=9305
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Mithril to Truesilver
+Requires Alchemy (225)
+Use:
+Teaches you how to transmute Mithril into Truesilver.
+
+
+Item #10644
+URL: https://database.turtle-wow.org/?item=10644
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Goblin Rocket Fuel
+Requires Alchemy (210)
+Use:
+Teaches you how to make Goblin Rocket Fuel.
+
+
+Item #12958
+URL: https://database.turtle-wow.org/?item=12958
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Arcanite
+Requires Alchemy (275)
+Use:
+Teaches you how to transmute Thorium and Arcane Crystals into Arcanite.
+
+
+Item #13478
+URL: https://database.turtle-wow.org/?item=13478
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Superior Defense
+Requires Alchemy (265)
+Use:
+Teaches you how to make an Elixir of Superior Defense.
+
+
+Item #13477
+URL: https://database.turtle-wow.org/?item=13477
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Superior Mana Potion
+Requires Alchemy (260)
+Use:
+Teaches you how to make a Superior Mana Potion.
+
+
+Item #13480
+URL: https://database.turtle-wow.org/?item=13480
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Major Healing Potion
+Requires Alchemy (275)
+Use:
+Teaches you how to make a Major Healing Potion.
+
+
+Item #13479
+URL: https://database.turtle-wow.org/?item=13479
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of the Sages
+Requires Alchemy (270)
+Use:
+Teaches you how to make an Elixir of the Sages.
+
+
+Item #13476
+URL: https://database.turtle-wow.org/?item=13476
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Mighty Rage Potion
+Requires Alchemy (255)
+Use:
+Teaches you how to make a Mighty Rage Potion.
+
+
+Item #13489
+URL: https://database.turtle-wow.org/?item=13489
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Earth to Life
+Requires Alchemy (275)
+Use:
+Teaches you how to transmute Essence of Earth into Living Essence.
+
+
+Item #13481
+URL: https://database.turtle-wow.org/?item=13481
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Brute Force
+Requires Alchemy (275)
+Use:
+Teaches you how to make an Elixir of Brute Force.
+
+
+Item #13490
+URL: https://database.turtle-wow.org/?item=13490
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Stoneshield Potion
+Requires Alchemy (280)
+Use:
+Teaches you how to make a Greater Stoneshield Potion.
+
+
+Item #13487
+URL: https://database.turtle-wow.org/?item=13487
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Water to Undeath
+Requires Alchemy (275)
+Use:
+Teaches you how to transmute Essence of Water into Essence of Undeath.
+
+
+Item #13488
+URL: https://database.turtle-wow.org/?item=13488
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Life to Earth
+Requires Alchemy (275)
+Use:
+Teaches you how to transmute Living Essence into Essence of Earth.
+
+
+Item #13485
+URL: https://database.turtle-wow.org/?item=13485
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Water to Air
+Binds when picked up
+Requires Alchemy (275)
+Use:
+Teaches you how to transmute Essence of Water into Essence of Air.
+
+
+Item #13484
+URL: https://database.turtle-wow.org/?item=13484
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Earth to Water
+Binds when picked up
+Requires Alchemy (275)
+Requires Timbermaw Hold - Friendly
+Use:
+Teaches you how to transmute Essence of Earth into Essence of Water.
+
+
+Item #13482
+URL: https://database.turtle-wow.org/?item=13482
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Air to Fire
+Binds when picked up
+Requires Alchemy (275)
+Requires Argent Dawn - Honored
+Use:
+Teaches you how to transmute Essence of Air into Essence of Fire.
+
+
+Item #13483
+URL: https://database.turtle-wow.org/?item=13483
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Fire to Earth
+Binds when picked up
+Requires Alchemy (275)
+Use:
+Teaches you how to transmute Essence of Fire into Essence of Earth.
+
+
+Item #13486
+URL: https://database.turtle-wow.org/?item=13486
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Undeath to Water
+Requires Alchemy (275)
+Use:
+Teaches you how to transmute Essence of Undeath into Essence of Water.
+
+
+Item #13492
+URL: https://database.turtle-wow.org/?item=13492
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Purification Potion
+Requires Alchemy (285)
+Use:
+Teaches you how to make a Purification Potion.
+
+
+Item #13494
+URL: https://database.turtle-wow.org/?item=13494
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Fire Protection Potion
+Requires Alchemy (290)
+Use:
+Teaches you how to make a Greater Fire Protection Potion.
+
+
+Item #13491
+URL: https://database.turtle-wow.org/?item=13491
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of the Mongoose
+Requires Alchemy (280)
+Use:
+Teaches you how to make an Elixir of the Mongoose.
+
+
+Item #13495
+URL: https://database.turtle-wow.org/?item=13495
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Frost Protection Potion
+Requires Alchemy (290)
+Use:
+Teaches you how to make a Greater Frost Protection Potion.
+
+
+Item #13499
+URL: https://database.turtle-wow.org/?item=13499
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Shadow Protection Potion
+Requires Alchemy (290)
+Use:
+Teaches you how to make a Greater Shadow Protection Potion.
+
+
+Item #13496
+URL: https://database.turtle-wow.org/?item=13496
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Nature Protection Potion
+Requires Alchemy (290)
+Use:
+Teaches you how to make a Greater Nature Protection Potion.
+
+
+Item #13497
+URL: https://database.turtle-wow.org/?item=13497
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Arcane Protection Potion
+Requires Alchemy (290)
+Use:
+Teaches you how to make a Greater Arcane Protection Potion.
+
+
+Item #13500
+URL: https://database.turtle-wow.org/?item=13500
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Holy Protection Potion
+Requires Alchemy (290)
+Use:
+Teaches you how to make a Greater Holy Protection Potion.
+
+
+Item #13493
+URL: https://database.turtle-wow.org/?item=13493
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Arcane Elixir
+Requires Alchemy (285)
+Use:
+Teaches you how to make a Greater Arcane Elixir.
+
+
+Item #13501
+URL: https://database.turtle-wow.org/?item=13501
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Major Mana Potion
+Binds when picked up
+Requires Alchemy (295)
+Use:
+Teaches you how to make a Major Mana Potion.
+
+
+Item #13518
+URL: https://database.turtle-wow.org/?item=13518
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Flask of Petrification
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Flask of Petrification.
+
+
+Item #13520
+URL: https://database.turtle-wow.org/?item=13520
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Flask of Distilled Wisdom
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Flask of Distilled Wisdom.
+
+
+Item #13519
+URL: https://database.turtle-wow.org/?item=13519
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Flask of the Titans
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Flask of the Titans.
+
+
+Item #13517
+URL: https://database.turtle-wow.org/?item=13517
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Alchemist's Stone
+Binds when picked up
+Requires Alchemy (300)
+Use:
+Teaches you how to make an Alchemist's Stone.
+
+
+Item #13522
+URL: https://database.turtle-wow.org/?item=13522
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Flask of Chromatic Resistance
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Flask of Chromatic Resistance.
+
+
+Item #13521
+URL: https://database.turtle-wow.org/?item=13521
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Flask of Supreme Power
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Flask of Supreme Power.
+
+
+Item #14634
+URL: https://database.turtle-wow.org/?item=14634
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Frost Oil
+Requires Alchemy (200)
+Use:
+Teaches you how to make Frost Oil.
+
+
+Item #17709
+URL: https://database.turtle-wow.org/?item=17709
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Frost Power
+Requires Alchemy (190)
+Use:
+Teaches you how to make an Elixir of Frost Power.
+
+
+Item #18257
+URL: https://database.turtle-wow.org/?item=18257
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Major Rejuvenation Potion
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Major Rejuvenation Potion.
+
+
+Item #20013
+URL: https://database.turtle-wow.org/?item=20013
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Living Action Potion
+Binds when picked up
+Requires Alchemy (285)
+Requires Zandalar Tribe - Exalted
+Use:
+Teaches you how to make a Living Action Potion.
+
+
+Item #20012
+URL: https://database.turtle-wow.org/?item=20012
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Greater Dreamless Sleep
+Binds when picked up
+Requires Alchemy (275)
+Requires Zandalar Tribe - Friendly
+Use:
+Teaches you how to make a Greater Dreamless Sleep Potion.
+
+
+Item #20014
+URL: https://database.turtle-wow.org/?item=20014
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Major Troll's Blood Potion
+Binds when picked up
+Requires Alchemy (290)
+Requires Zandalar Tribe - Honored
+Use:
+Teaches you how to make a Major Troll's Blood Potion.
+
+
+Item #20011
+URL: https://database.turtle-wow.org/?item=20011
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Mageblood Potion
+Binds when picked up
+Requires Alchemy (275)
+Requires Zandalar Tribe - Revered
+Use:
+Teaches you how to make a Mageblood Potion.
+
+
+Item #20761
+URL: https://database.turtle-wow.org/?item=20761
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Transmute Elemental Fire
+Binds when picked up
+Requires Alchemy (300)
+Requires Thorium Brotherhood - Friendly
+Use:
+Teaches you how to transmute a Heart of Fire into three Elemental Fires.
+
+
+Item #21547
+URL: https://database.turtle-wow.org/?item=21547
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Greater Firepower
+Requires Alchemy (250)
+Use:
+Teaches you how to make an Elixir of Greater Firepower.
+
+
+Item #47411
+URL: https://database.turtle-wow.org/?item=47411
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Concoction of the Emerald Mongoose
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Concoction of the Emerald Mongoose.
+
+
+Item #47413
+URL: https://database.turtle-wow.org/?item=47413
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Concoction of the Arcane Giant
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Concoction of the Arcane Giant.
+
+
+Item #47415
+URL: https://database.turtle-wow.org/?item=47415
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Concoction of the Dreamwater
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Concoction of the Dreamwater.
+
+
+Item #50235
+URL: https://database.turtle-wow.org/?item=50235
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Torn Outline: Fishing Boat
+Requires Survival (75)
+"Boats for Dummies, second edition."
+
+
+Item #50234
+URL: https://database.turtle-wow.org/?item=50234
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Torn Outline: Traveler's Tent
+Requires Survival (50)
+"Gnome pillow not included."
+
+
+Item #50238
+URL: https://database.turtle-wow.org/?item=50238
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Torn Outline: Simple Wooden Planter
+Requires Survival (75)
+
+
+Item #51263
+URL: https://database.turtle-wow.org/?item=51263
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Volatile Concoction
+Requires Alchemy (75)
+Use:
+Teaches you how to make an Volatile Concoction.
+
+
+Item #55045
+URL: https://database.turtle-wow.org/?item=55045
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Greater Frost Power
+Binds when picked up
+Requires Alchemy (300)
+Requires Shen'dralar - Friendly
+Use:
+Teaches you how to make an Elixir of Greater Frost Power.
+
+
+Item #55047
+URL: https://database.turtle-wow.org/?item=55047
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Greater Arcane Power
+Binds when picked up
+Requires Alchemy (300)
+Requires Shen'dralar - Honored
+Use:
+Teaches you how to make an Elixir of Greater Arcane Power.
+
+
+Item #61177
+URL: https://database.turtle-wow.org/?item=61177
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Potion of Quickness
+Requires Alchemy (300)
+Use:
+Teaches you how to create a Potion of Quickness.
+
+
+Item #61218
+URL: https://database.turtle-wow.org/?item=61218
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Elixir of Greater Nature Power
+Binds when picked up
+Requires Alchemy (300)
+Use:
+Teaches you how to make an Elixir of Greater Nature Power.
+
+
+Item #61222
+URL: https://database.turtle-wow.org/?item=61222
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Dreamshard Elixir
+Binds when picked up
+Requires Alchemy (300)
+Use:
+Teaches you how to make a Dreamshard Elixir.
+
+
+Item #61223
+URL: https://database.turtle-wow.org/?item=61223
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Recipe: Lucidity Potion
+Binds when picked up
+Requires Alchemy (300)
+Use:
+Teaches you how to brew a lucidity potion.
+
+
+Item #65029
+URL: https://database.turtle-wow.org/?item=65029
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Torn Outline: Murloc Flippers
+Requires Survival (75)
+"These things really make you swim fast!"
+
+
+Item #81187
+URL: https://database.turtle-wow.org/?item=81187
+Category: Database/Items/Recipes/Alchemy
+Item: 
+Torn Outline: Iron Lantern
+Requires Survival (30)
+
+

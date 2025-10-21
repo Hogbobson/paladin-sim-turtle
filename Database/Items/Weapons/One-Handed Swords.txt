@@ -1,0 +1,5661 @@
+Item #25
+URL: https://database.turtle-wow.org/?item=25
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Worn Shortsword
+Main Hand
+Sword
+1 - 3  Damage
+Speed 1.90
+(1.1 damage per second)
+Durability 20 / 20
+
+
+Item #727
+URL: https://database.turtle-wow.org/?item=727
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Notched Shortsword
+Binds when equipped
+One-hand
+Sword
+8 - 15  Damage
+Speed 2.10
+(5.5 damage per second)
+Durability 40 / 40
+Requires Level 5
+Random Bonuses
+
+
+Item #753
+URL: https://database.turtle-wow.org/?item=753
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dragonmaw Shortsword
+Binds when equipped
+One-hand
+Sword
+22 - 42  Damage
+Speed 2.20
+(14.5 damage per second)
++4 Stamina
+Durability 70 / 70
+Requires Level 23
+
+
+Item #754
+URL: https://database.turtle-wow.org/?item=754
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Shortsword of Vengeance
+Binds when equipped
+One-hand
+Sword
+53 - 99  Damage
+Speed 2.40
+(31.7 damage per second)
+Durability 90 / 90
+Requires Level 42
+Chance on hit:
+Smites an enemy for 30 Holy damage.
+
+
+Item #809
+URL: https://database.turtle-wow.org/?item=809
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Bloodrazor
+Binds when equipped
+Main Hand
+Sword
+70 - 130  Damage
+Speed 2.70
+(37.0 damage per second)
+Durability 105 / 105
+Requires Level 45
+Chance on hit:
+Wounds the target causing them to bleed for 120 damage over 30 sec.
+
+
+Item #851
+URL: https://database.turtle-wow.org/?item=851
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Cutlass
+One-hand
+Sword
+10 - 20  Damage
+Speed 2.20
+(6.8 damage per second)
+Durability 50 / 50
+Requires Level 10
+
+
+Item #864
+URL: https://database.turtle-wow.org/?item=864
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Knightly Longsword
+Binds when equipped
+One-hand
+Sword
+21 - 40  Damage
+Speed 1.50
+(20.3 damage per second)
+Durability 75 / 75
+Requires Level 33
+Random Bonuses
+
+
+Item #869
+URL: https://database.turtle-wow.org/?item=869
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dazzling Longsword
+Binds when equipped
+Main Hand
+Sword
+37 - 70  Damage
+Speed 1.70
+(31.5 damage per second)
+Durability 105 / 105
+Requires Level 36
+Chance on hit:
+Decrease the armor of the target by 100 for 30 sec.  While affected, the target cannot stealth or turn invisible.
+
+
+Item #886
+URL: https://database.turtle-wow.org/?item=886
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Black Metal Shortsword
+Binds when equipped
+Main Hand
+Sword
+16 - 30  Damage
+Speed 1.70
+(13.5 damage per second)
++4 Shadow Resistance
+Durability 70 / 70
+Requires Level 21
+
+
+Item #923
+URL: https://database.turtle-wow.org/?item=923
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Longsword
+Main Hand
+Sword
+19 - 37  Damage
+Speed 2.30
+(12.2 damage per second)
+Durability 70 / 70
+Requires Level 21
+
+
+Item #935
+URL: https://database.turtle-wow.org/?item=935
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Night Watch Shortsword
+Binds when equipped
+One-hand
+Sword
+24 - 46  Damage
+Speed 2.60
+(13.5 damage per second)
++4 Stamina
+Durability 65 / 65
+Requires Level 15
+
+
+Item #945
+URL: https://database.turtle-wow.org/?item=945
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Shadow Sword
+Main Hand
+Sword
+1 - 2 Shadow Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #948
+URL: https://database.turtle-wow.org/?item=948
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Nature Sword
+Main Hand
+Sword
+1 - 2 Nature Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #997
+URL: https://database.turtle-wow.org/?item=997
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Fire Sword of Crippling
+Main Hand
+Sword
+1 - 2 Fire Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+Chance on hit:
+Cripples the target, reducing movement speed by 40%, increasing time between melee attacks by 45% and increasing time between ranged attacks by 45%.  Lasts 20 sec.
+
+
+Item #1008
+URL: https://database.turtle-wow.org/?item=1008
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Well-used Sword
+Binds when picked up
+Main Hand
+Sword
+6 - 12  Damage
+Speed 2.10
+(4.3 damage per second)
+Durability 40 / 40
+
+
+Item #1161
+URL: https://database.turtle-wow.org/?item=1161
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Militia Shortsword
+Binds when picked up
+Main Hand
+Sword
+3 - 7  Damage
+Speed 2.50
+(2.0 damage per second)
+Durability 30 / 30
+
+
+Item #1219
+URL: https://database.turtle-wow.org/?item=1219
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Redridge Machete
+Binds when equipped
+Main Hand
+Sword
+13 - 25  Damage
+Speed 2.30
+(8.3 damage per second)
++2 Stamina
+Durability 50 / 50
+Requires Level 11
+
+
+Item #1265
+URL: https://database.turtle-wow.org/?item=1265
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Scorpion Sting
+Binds when equipped
+One-hand
+Sword
+44 - 83  Damage
+Speed 2.40
+(26.5 damage per second)
+Durability 90 / 90
+Requires Level 34
+Chance on hit:
+Poisons target for 13 Nature damage every 5 sec for 25 sec.
+
+
+Item #1384
+URL: https://database.turtle-wow.org/?item=1384
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dull Blade
+Main Hand
+Sword
+1 - 3  Damage
+Speed 1.90
+(1.1 damage per second)
+Durability 20 / 20
+
+
+Item #1413
+URL: https://database.turtle-wow.org/?item=1413
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Feeble Sword
+Main Hand
+Sword
+3 - 7  Damage
+Speed 2.00
+(2.5 damage per second)
+Durability 35 / 35
+Requires Level 3
+
+
+Item #1469
+URL: https://database.turtle-wow.org/?item=1469
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Scimitar of Atun
+Binds when equipped
+Main Hand
+Sword
+17 - 33  Damage
+Speed 2.60
+(9.6 damage per second)
++2 Agility
+Durability 55 / 55
+Requires Level 14
+
+
+Item #1482
+URL: https://database.turtle-wow.org/?item=1482
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Shadowfang
+Binds when equipped
+Main Hand
+Sword
+29 - 55  Damage
+Speed 2.70
++4 - 8 Shadow Damage
+(17.8 damage per second)
+Durability 75 / 75
+Requires Level 19
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 30 Shadow damage.
+
+
+Item #1493
+URL: https://database.turtle-wow.org/?item=1493
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Heavy Marauder Scimitar
+Binds when equipped
+Main Hand
+Sword
+28 - 54  Damage
+Speed 2.40
+(17.1 damage per second)
++4 Strength
++3 Stamina
+Durability 80 / 80
+Requires Level 22
+
+
+Item #1511
+URL: https://database.turtle-wow.org/?item=1511
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Commoner's Sword
+Main Hand
+Sword
+6 - 12  Damage
+Speed 2.30
+(3.9 damage per second)
+Durability 45 / 45
+Requires Level 8
+
+
+Item #1728
+URL: https://database.turtle-wow.org/?item=1728
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Teebu's Blazing Longsword
+Binds when equipped
+Unique
+Main Hand
+Sword
+96 - 178  Damage
+Speed 2.90
+(47.2 damage per second)
+Durability 105 / 105
+Requires Level 60
+Chance on hit:
+Blasts a target for 150 Fire damage.
+
+
+Item #1727
+URL: https://database.turtle-wow.org/?item=1727
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sword of Decay
+Binds when equipped
+Main Hand
+Sword
+33 - 62  Damage
+Speed 2.70
+(17.6 damage per second)
+Durability 80 / 80
+Requires Level 23
+Chance on hit:
+Reduces target's Strength by 10 for 30 sec.
+
+
+Item #1817
+URL: https://database.turtle-wow.org/?item=1817
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Stock Shortsword
+Main Hand
+Sword
+7 - 14  Damage
+Speed 1.80
+(5.8 damage per second)
+Durability 55 / 55
+Requires Level 14
+
+
+Item #1821
+URL: https://database.turtle-wow.org/?item=1821
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Warped Blade
+Main Hand
+Sword
+8 - 15  Damage
+Speed 1.60
+(7.2 damage per second)
+Durability 65 / 65
+Requires Level 19
+
+
+Item #1829
+URL: https://database.turtle-wow.org/?item=1829
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Short Cutlass
+Main Hand
+Sword
+17 - 32  Damage
+Speed 2.70
+(9.1 damage per second)
+Durability 75 / 75
+Requires Level 24
+
+
+Item #1896
+URL: https://database.turtle-wow.org/?item=1896
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Short Basic
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1897
+URL: https://database.turtle-wow.org/?item=1897
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Scimitar Basic
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1899
+URL: https://database.turtle-wow.org/?item=1899
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Long Basic
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1895
+URL: https://database.turtle-wow.org/?item=1895
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Short Rusty
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1925
+URL: https://database.turtle-wow.org/?item=1925
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Defias Rapier
+Binds when equipped
+Main Hand
+Sword
+9 - 17  Damage
+Speed 1.60
+(8.1 damage per second)
++2 Agility
+Durability 50 / 50
+Requires Level 11
+
+
+Item #1937
+URL: https://database.turtle-wow.org/?item=1937
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Buzz Saw
+Binds when picked up
+One-hand
+Sword
+17 - 33  Damage
+Speed 2.40
+(10.4 damage per second)
++2 Agility
++2 Strength
+Durability 60 / 60
+Requires Level 16
+
+
+Item #1951
+URL: https://database.turtle-wow.org/?item=1951
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blackwater Cutlass
+Binds when equipped
+One-hand
+Sword
+12 - 24  Damage
+Speed 1.90
+(9.5 damage per second)
++2 Agility
+Durability 55 / 55
+Requires Level 14
+
+
+Item #2011
+URL: https://database.turtle-wow.org/?item=2011
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Twisted Sabre
+Binds when equipped
+Main Hand
+Sword
+21 - 39  Damage
+Speed 1.80
+(16.7 damage per second)
++5 Spirit
++2 Stamina
+Durability 80 / 80
+Requires Level 21
+
+
+Item #2018
+URL: https://database.turtle-wow.org/?item=2018
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Skeletal Longsword
+Binds when equipped
+Main Hand
+Sword
+21 - 40  Damage
+Speed 2.20
+(13.9 damage per second)
++4 Stamina
+Durability 70 / 70
+Requires Level 22
+
+
+Item #2027
+URL: https://database.turtle-wow.org/?item=2027
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Scimitar
+One-hand
+Sword
+14 - 26  Damage
+Speed 2.30
+(8.7 damage per second)
+Durability 55 / 55
+Requires Level 14
+
+
+Item #2035
+URL: https://database.turtle-wow.org/?item=2035
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sword of the Night Sky
+Binds when equipped
+Main Hand
+Sword
+14 - 27  Damage
+Speed 1.70
+(12.1 damage per second)
++2 Agility
++2 Strength
+Durability 65 / 65
+Requires Level 19
+
+
+Item #2046
+URL: https://database.turtle-wow.org/?item=2046
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Bluegill Kukri
+Binds when equipped
+Main Hand
+Sword
+24 - 45  Damage
+Speed 2.80
+(12.3 damage per second)
++3 Strength
+Durability 65 / 65
+Requires Level 19
+
+
+Item #2057
+URL: https://database.turtle-wow.org/?item=2057
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Pitted Defias Shortsword
+Main Hand
+Sword
+2 - 4  Damage
+Speed 2.00
+(1.5 damage per second)
+Durability 25 / 25
+
+
+Item #2065
+URL: https://database.turtle-wow.org/?item=2065
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Rockjaw Blade
+Main Hand
+Sword
+5 - 11  Damage
+Speed 2.10
+(3.8 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #2074
+URL: https://database.turtle-wow.org/?item=2074
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Solid Shortblade
+Binds when picked up
+One-hand
+Sword
+16 - 30  Damage
+Speed 2.50
+(9.2 damage per second)
++1 Strength
++1 Stamina
+Durability 55 / 55
+
+
+Item #2078
+URL: https://database.turtle-wow.org/?item=2078
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Northern Shortsword
+Binds when equipped
+One-hand
+Sword
+14 - 26  Damage
+Speed 2.20
+(9.1 damage per second)
+Durability 55 / 55
+Requires Level 13
+Random Bonuses
+
+
+Item #2131
+URL: https://database.turtle-wow.org/?item=2131
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Shortsword
+One-hand
+Sword
+2 - 4  Damage
+Speed 2.60
+(1.2 damage per second)
+Durability 20 / 20
+
+
+Item #2147
+URL: https://database.turtle-wow.org/?item=2147
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Falchion
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2178
+URL: https://database.turtle-wow.org/?item=2178
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Long Ornate
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2180
+URL: https://database.turtle-wow.org/?item=2180
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Short Ornate
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2179
+URL: https://database.turtle-wow.org/?item=2179
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Scimitar Badass
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2244
+URL: https://database.turtle-wow.org/?item=2244
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Krol Blade
+Binds when equipped
+Main Hand
+Sword
+80 - 149  Damage
+Speed 2.80
+(40.9 damage per second)
++7 Strength
++5 Stamina
+Durability 105 / 105
+Requires Level 51
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #2258
+URL: https://database.turtle-wow.org/?item=2258
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Frostmane Shortsword
+Main Hand
+Sword
+4 - 9  Damage
+Speed 2.00
+(3.3 damage per second)
+Durability 35 / 35
+Requires Level 3
+
+
+Item #2268
+URL: https://database.turtle-wow.org/?item=2268
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Stonesplinter Blade
+Main Hand
+Sword
+6 - 12  Damage
+Speed 2.00
+(4.5 damage per second)
+Durability 40 / 40
+Requires Level 5
+
+
+Item #2263
+URL: https://database.turtle-wow.org/?item=2263
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Phytoblade
+Binds when picked up
+Main Hand
+Sword
+25 - 47  Damage
+Speed 2.80
+(12.9 damage per second)
+Durability 65 / 65
+Requires Herbalism (100)
+Chance on hit:
+Blasts a target for 35 Nature damage.
+
+
+Item #2282
+URL: https://database.turtle-wow.org/?item=2282
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Rodentia Shortsword
+Main Hand
+Sword
+7 - 13  Damage
+Speed 2.30
+(4.3 damage per second)
+Durability 40 / 40
+Requires Level 5
+
+
+Item #2488
+URL: https://database.turtle-wow.org/?item=2488
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Gladius
+One-hand
+Sword
+5 - 11  Damage
+Speed 2.10
+(3.8 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #2481
+URL: https://database.turtle-wow.org/?item=2481
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Peon Sword
+Main Hand
+Sword
+2 - 5  Damage
+Speed 2.40
+(1.5 damage per second)
+Durability 25 / 25
+
+
+Item #2496
+URL: https://database.turtle-wow.org/?item=2496
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Raider Shortsword
+Main Hand
+Sword
+5 - 11  Damage
+Speed 2.50
+(3.2 damage per second)
+Durability 35 / 35
+Requires Level 3
+
+
+Item #2520
+URL: https://database.turtle-wow.org/?item=2520
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Broadsword
+Main Hand
+Sword
+28 - 53  Damage
+Speed 2.30
+(17.6 damage per second)
+Durability 75 / 75
+Requires Level 31
+
+
+Item #2528
+URL: https://database.turtle-wow.org/?item=2528
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Falchion
+Main Hand
+Sword
+39 - 74  Damage
+Speed 2.20
+(25.7 damage per second)
+Durability 75 / 75
+Requires Level 41
+
+
+Item #2540
+URL: https://database.turtle-wow.org/?item=2540
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Gamemaster's Blade of Silence
+Binds when picked up
+Unique
+One-hand
+Sword
+71 - 108  Damage
+Speed 2.20
+(40.7 damage per second)
+Durability 90 / 90
+Use:
+This is a GM tool for silencing players.  This spell just acts as a visual indicator so the player and GM know the player is currently silenced.
+
+
+Item #2541
+URL: https://database.turtle-wow.org/?item=2541
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Gamemaster's Blade of Frost
+Binds when picked up
+Unique
+One-hand
+Sword
+71 - 108  Damage
+Speed 2.20
+(40.7 damage per second)
+Durability 90 / 90
+Use:
+GM tool to freeze players.
+
+
+Item #2847
+URL: https://database.turtle-wow.org/?item=2847
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Copper Shortsword
+Main Hand
+Sword
+5 - 11  Damage
+Speed 2.10
+(3.8 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #2850
+URL: https://database.turtle-wow.org/?item=2850
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Bronze Shortsword
+Main Hand
+Sword
+16 - 31  Damage
+Speed 2.10
+(11.2 damage per second)
+Durability 65 / 65
+Requires Level 19
+
+
+Item #3186
+URL: https://database.turtle-wow.org/?item=3186
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Viking Sword
+Binds when equipped
+Main Hand
+Sword
+29 - 55  Damage
+Speed 2.70
+(15.6 damage per second)
+Durability 75 / 75
+Requires Level 25
+Random Bonuses
+
+
+Item #3267
+URL: https://database.turtle-wow.org/?item=3267
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Forsaken Shortsword
+Binds when picked up
+Main Hand
+Sword
+3 - 6  Damage
+Speed 2.10
+(2.1 damage per second)
+Durability 30 / 30
+
+
+Item #3278
+URL: https://database.turtle-wow.org/?item=3278
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Aura Proc Damage Sword
+Binds when equipped
+Main Hand
+Sword
+13 - 25  Damage
+Speed 2.00
+(9.5 damage per second)
+Durability 75 / 75
+Requires Level 25
+Chance on hit:
+Surrounds you with electricity, dealing 15 Nature damage to any who strike you for 15 sec.
+
+
+Item #3295
+URL: https://database.turtle-wow.org/?item=3295
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Deadman Blade
+Main Hand
+Sword
+2 - 4  Damage
+Speed 2.50
+(1.2 damage per second)
+Durability 20 / 20
+
+
+Item #3319
+URL: https://database.turtle-wow.org/?item=3319
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Short Sabre
+Main Hand
+Sword
+5 - 10  Damage
+Speed 1.90
+(3.9 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #3364
+URL: https://database.turtle-wow.org/?item=3364
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Rapier
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #3400
+URL: https://database.turtle-wow.org/?item=3400
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Lucine Longsword
+Binds when picked up
+Main Hand
+Sword
+22 - 42  Damage
+Speed 2.50
+(12.8 damage per second)
++4 Stamina
+Durability 65 / 65
+
+
+Item #3455
+URL: https://database.turtle-wow.org/?item=3455
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Deathstalker Shortsword
+Binds when picked up
+One-hand
+Sword
+7 - 14  Damage
+Speed 2.10
+(5.0 damage per second)
+Durability 40 / 40
+
+
+Item #3462
+URL: https://database.turtle-wow.org/?item=3462
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Talonstrike
+Binds when picked up
+Main Hand
+Sword
+13 - 26  Damage
+Speed 1.60
+(12.2 damage per second)
++3 Agility
+Durability 65 / 65
+
+
+Item #3572
+URL: https://database.turtle-wow.org/?item=3572
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Daryl's Shortsword
+Binds when picked up
+One-hand
+Sword
+14 - 26  Damage
+Speed 2.30
+(8.7 damage per second)
++2 Agility
+Durability 50 / 50
+
+
+Item #3740
+URL: https://database.turtle-wow.org/?item=3740
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Decapitating Sword
+Binds when equipped
+Main Hand
+Sword
+22 - 42  Damage
+Speed 2.60
+(12.3 damage per second)
+Durability 65 / 65
+Requires Level 19
+Random Bonuses
+
+
+Item #3783
+URL: https://database.turtle-wow.org/?item=3783
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Light Scimitar
+Main Hand
+Sword
+15 - 28  Damage
+Speed 1.90
+(11.3 damage per second)
+Durability 75 / 75
+Requires Level 31
+
+
+Item #3850
+URL: https://database.turtle-wow.org/?item=3850
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Jade Serpentblade
+Binds when equipped
+One-hand
+Sword
+33 - 62  Damage
+Speed 2.60
+(18.3 damage per second)
++4 Strength
++4 Agility
+Durability 75 / 75
+Requires Level 30
+
+
+Item #3849
+URL: https://database.turtle-wow.org/?item=3849
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Hardened Iron Shortsword
+Binds when equipped
+Main Hand
+Sword
+21 - 39  Damage
+Speed 1.80
+(16.7 damage per second)
++5 Stamina
+Durability 75 / 75
+Requires Level 27
+
+
+Item #3935
+URL: https://database.turtle-wow.org/?item=3935
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Smotts' Cutlass
+Quest Item
+Unique
+Main Hand
+Sword
+15 - 29  Damage
+Speed 1.90
+(11.6 damage per second)
+Durability 65 / 65
+Requires Level 20
+
+
+Item #4017
+URL: https://database.turtle-wow.org/?item=4017
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sharp Shortsword
+Main Hand
+Sword
+20 - 39  Damage
+Speed 1.80
+(16.4 damage per second)
+Durability 75 / 75
+Requires Level 41
+
+
+Item #4116
+URL: https://database.turtle-wow.org/?item=4116
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Olmann Sewar
+Binds when picked up
+Main Hand
+Sword
+43 - 81  Damage
+Speed 2.70
+(23.0 damage per second)
++7 Stamina
+Durability 75 / 75
+Requires Ravenholdt - Honored
+
+
+Item #4560
+URL: https://database.turtle-wow.org/?item=4560
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Fine Scimitar
+One-hand
+Sword
+3 - 6  Damage
+Speed 1.90
+(2.4 damage per second)
+Durability 30 / 30
+
+
+Item #4766
+URL: https://database.turtle-wow.org/?item=4766
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Feral Blade
+Binds when equipped
+Main Hand
+Sword
+12 - 24  Damage
+Speed 2.60
+(6.9 damage per second)
++1 Agility
+Durability 45 / 45
+Requires Level 8
+
+
+Item #4765
+URL: https://database.turtle-wow.org/?item=4765
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Enamelled Broadsword
+Binds when equipped
+Main Hand
+Sword
+12 - 23  Damage
+Speed 2.40
+(7.3 damage per second)
++1 Strength
+Durability 45 / 45
+Requires Level 9
+
+
+Item #4932
+URL: https://database.turtle-wow.org/?item=4932
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Harpy Wing Clipper
+Binds when picked up
+Main Hand
+Sword
+9 - 17  Damage
+Speed 2.60
+(5.0 damage per second)
+Durability 40 / 40
+
+
+Item #4977
+URL: https://database.turtle-wow.org/?item=4977
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sword of Hammerfall
+Binds when picked up
+Main Hand
+Sword
+37 - 69  Damage
+Speed 2.30
+(23.0 damage per second)
++4 Strength
++5 Stamina
+Durability 75 / 75
+
+
+Item #4987
+URL: https://database.turtle-wow.org/?item=4987
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dwarf Captain's Sword
+Binds when picked up
+One-hand
+Sword
+46 - 87  Damage
+Speed 2.50
+(26.6 damage per second)
++9 Stamina
+Durability 75 / 75
+
+
+Item #5191
+URL: https://database.turtle-wow.org/?item=5191
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Cruel Barb
+Binds when picked up
+One-hand
+Sword
+30 - 57  Damage
+Speed 2.80
+(15.5 damage per second)
+Durability 75 / 75
+Requires Level 19
+Equip:
++12 Attack Power.
+
+
+Item #5192
+URL: https://database.turtle-wow.org/?item=5192
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Thief's Blade
+Binds when picked up
+Unique
+One-hand
+Sword
+13 - 25  Damage
+Speed 1.70
+(11.2 damage per second)
++3 Agility
+Durability 60 / 60
+Requires Level 17
+
+
+Item #5305
+URL: https://database.turtle-wow.org/?item=5305
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Broadsword Silver Hilt
+One-hand
+Sword
+1 - 2  Damage
+Speed 1.70
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #5321
+URL: https://database.turtle-wow.org/?item=5321
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Elegant Shortsword
+Binds when picked up
+One-hand
+Sword
+14 - 26  Damage
+Speed 2.00
+(10.0 damage per second)
++3 Stamina
+Durability 55 / 55
+
+
+Item #5502
+URL: https://database.turtle-wow.org/?item=5502
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword2H, Broadsword (1H, Special)
+One-hand
+Sword
+1 - 3  Damage
+Speed 2.60
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5586
+URL: https://database.turtle-wow.org/?item=5586
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Thistlewood Blade
+Binds when picked up
+Main Hand
+Sword
+3 - 6  Damage
+Speed 2.20
+(2.0 damage per second)
+Durability 30 / 30
+
+
+Item #5744
+URL: https://database.turtle-wow.org/?item=5744
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Pale Skinner
+Binds when equipped
+Main Hand
+Sword
+10 - 19  Damage
+Speed 2.20
+(6.6 damage per second)
+Durability 40 / 40
+Requires Level 7
+
+
+Item #6504
+URL: https://database.turtle-wow.org/?item=6504
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Wingblade
+Binds when picked up
+Main Hand
+Sword
+24 - 45  Damage
+Speed 2.20
+(15.7 damage per second)
++5 Agility
++2 Stamina
+Durability 75 / 75
+
+
+Item #6622
+URL: https://database.turtle-wow.org/?item=6622
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sword of Zeal
+Binds when equipped
+Main Hand
+Sword
+81 - 151  Damage
+Speed 2.80
+(41.4 damage per second)
+Durability 90 / 90
+Requires Level 58
+Chance on hit:
+A burst of energy fills the caster, increasing his damage by 10 and armor by 150 for 15 sec.
+
+
+Item #6633
+URL: https://database.turtle-wow.org/?item=6633
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Butcher's Slicer
+Binds when picked up
+One-hand
+Sword
+23 - 44  Damage
+Speed 2.90
+(11.6 damage per second)
++2 Strength
++2 Stamina
+Durability 65 / 65
+Requires Level 18
+
+
+Item #6802
+URL: https://database.turtle-wow.org/?item=6802
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sword of Omen
+Binds when picked up
+One-hand
+Sword
+39 - 74  Damage
+Speed 1.90
+(29.7 damage per second)
++9 Strength
++4 Stamina
++3 Agility
+Durability 90 / 90
+
+
+Item #6829
+URL: https://database.turtle-wow.org/?item=6829
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sword of Serenity
+Binds when picked up
+One-hand
+Sword
+46 - 86  Damage
+Speed 2.20
+(30.0 damage per second)
++9 Stamina
++4 Spirit
+Durability 90 / 90
+
+
+Item #6967
+URL: https://database.turtle-wow.org/?item=6967
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Elunite Sword
+Binds when picked up
+Main Hand
+Sword
+11 - 21  Damage
+Speed 2.10
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #6984
+URL: https://database.turtle-wow.org/?item=6984
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Umbral Sword
+Binds when picked up
+Main Hand
+Sword
+11 - 21  Damage
+Speed 2.10
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #6985
+URL: https://database.turtle-wow.org/?item=6985
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Haggard's Sword
+Binds when picked up
+Main Hand
+Sword
+11 - 21  Damage
+Speed 2.10
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7118
+URL: https://database.turtle-wow.org/?item=7118
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Heirloom Sword
+Binds when picked up
+Main Hand
+Sword
+11 - 21  Damage
+Speed 2.10
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7329
+URL: https://database.turtle-wow.org/?item=7329
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Thun'grim's Sword
+Binds when picked up
+Main Hand
+Sword
+11 - 21  Damage
+Speed 2.10
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7943
+URL: https://database.turtle-wow.org/?item=7943
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Wicked Mithril Blade
+Binds when equipped
+Main Hand
+Sword
+43 - 80  Damage
+Speed 2.30
+(26.7 damage per second)
++6 Strength
++4 Agility
+Durability 75 / 75
+Requires Level 40
+
+
+Item #7944
+URL: https://database.turtle-wow.org/?item=7944
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dazzling Mithril Rapier
+Binds when equipped
+Main Hand
+Sword
+34 - 63  Damage
+Speed 1.70
+(28.5 damage per second)
++8 Agility
+Durability 75 / 75
+Requires Level 43
+
+
+Item #7961
+URL: https://database.turtle-wow.org/?item=7961
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Phantom Blade
+Binds when equipped
+Main Hand
+Sword
+59 - 111  Damage
+Speed 2.60
+(32.7 damage per second)
+Durability 90 / 90
+Requires Level 44
+Chance on hit:
+Decrease the armor of the target by 100 for 20 sec.  While affected, the target cannot stealth or turn invisible.
+
+
+Item #8190
+URL: https://database.turtle-wow.org/?item=8190
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Hanzo Sword
+Binds when equipped
+One-hand
+Sword
+38 - 71  Damage
+Speed 1.50
+(36.3 damage per second)
+Durability 90 / 90
+Requires Level 50
+Chance on hit:
+Wounds the target for 75 damage.
+
+
+Item #8196
+URL: https://database.turtle-wow.org/?item=8196
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Ebon Scimitar
+Binds when equipped
+One-hand
+Sword
+33 - 62  Damage
+Speed 1.90
+(25.0 damage per second)
+Durability 75 / 75
+Requires Level 38
+Random Bonuses
+
+
+Item #8223
+URL: https://database.turtle-wow.org/?item=8223
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of the Basilisk
+Binds when equipped
+Unique
+One-hand
+Sword
+33 - 62  Damage
+Speed 1.90
+(25.0 damage per second)
+Durability 90 / 90
+Requires Level 32
+Chance on hit:
+Defense +33 for 5 sec.
+
+
+Item #8224
+URL: https://database.turtle-wow.org/?item=8224
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Silithid Ripper
+Binds when equipped
+Main Hand
+Sword
+30 - 57  Damage
+Speed 2.30
+(18.9 damage per second)
+Durability 75 / 75
+Requires Level 31
+Chance on hit:
+Wounds the target causing them to bleed for 45 damage over 30 sec.
+
+
+Item #8225
+URL: https://database.turtle-wow.org/?item=8225
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Tainted Pierce
+Binds when equipped
+Unique
+One-hand
+Sword
+32 - 60  Damage
+Speed 1.90
+(24.2 damage per second)
+Durability 90 / 90
+Requires Level 31
+Chance on hit:
+Corrupts the target, causing 45 damage over 3 sec.
+
+
+Item #8226
+URL: https://database.turtle-wow.org/?item=8226
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+The Butcher
+Binds when equipped
+Main Hand
+Sword
+38 - 72  Damage
+Speed 2.80
+(19.6 damage per second)
++5 Agility
++4 Stamina
+Durability 90 / 90
+Requires Level 26
+
+
+Item #9380
+URL: https://database.turtle-wow.org/?item=9380
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Jang'thraze the Protector
+Binds when picked up
+Unique
+One-hand
+Sword
+44 - 83  Damage
+Speed 1.90
+(33.4 damage per second)
+Durability 90 / 90
+Requires Level 45
+Use:
+Combines Jang'thraze and Sang'thraze to form the mighty sword, Sul'thraze.
+Chance on hit:
+Shields the wielder from physical damage, absorbing 55 to 86 damage. Lasts 20 sec.
+
+
+Item #9379
+URL: https://database.turtle-wow.org/?item=9379
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sang'thraze the Deflector
+Binds when picked up
+Unique
+One-hand
+Sword
+34 - 65  Damage
+Speed 1.70
+(29.1 damage per second)
+Durability 90 / 90
+Requires Level 44
+Equip:
+Increases your chance to parry an attack by 1%.
+
+
+Item #9392
+URL: https://database.turtle-wow.org/?item=9392
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Annealed Blade
+Binds when equipped
+One-hand
+Sword
+34 - 64  Damage
+Speed 1.80
+(27.2 damage per second)
++6 Strength
++6 Stamina
+Durability 90 / 90
+Requires Level 35
+
+
+Item #9401
+URL: https://database.turtle-wow.org/?item=9401
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Nordic Longshank
+Binds when picked up
+One-hand
+Sword
+45 - 84  Damage
+Speed 2.20
+(29.3 damage per second)
++8 Agility
++5 Stamina
+Durability 90 / 90
+Requires Level 38
+
+
+Item #9424
+URL: https://database.turtle-wow.org/?item=9424
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Ginn-su Sword
+Binds when equipped
+One-hand
+Sword
+33 - 62  Damage
+Speed 1.70
+(27.9 damage per second)
++8 Agility
++4 Strength
+Durability 90 / 90
+Requires Level 36
+
+
+Item #9446
+URL: https://database.turtle-wow.org/?item=9446
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Electrocutioner Leg
+Binds when picked up
+Main Hand
+Sword
+26 - 49  Damage
+Speed 1.70
+(22.1 damage per second)
+Durability 90 / 90
+Requires Level 29
+Chance on hit:
+Blasts a target for 10 to 21 Nature damage.
+
+
+Item #9511
+URL: https://database.turtle-wow.org/?item=9511
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Bloodletter Scalpel
+Binds when equipped
+One-hand
+Sword
+39 - 73  Damage
+Speed 1.80
+(31.1 damage per second)
+Durability 90 / 90
+Requires Level 41
+Chance on hit:
+Wounds the target for 60 to 71 damage.
+
+
+Item #9718
+URL: https://database.turtle-wow.org/?item=9718
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Reforged Blade of Heroes
+Binds when equipped
+One-hand
+Sword
+31 - 59  Damage
+Speed 2.20
++5 - 10 Fire Damage
+(23.9 damage per second)
++8 Stamina
++3 Strength
+Durability 90 / 90
+Requires Level 33
+
+
+Item #9511
+URL: https://database.turtle-wow.org/?item=9511
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Bloodletter Scalpel
+Binds when equipped
+One-hand
+Sword
+39 - 73  Damage
+Speed 1.80
+(31.1 damage per second)
+Durability 90 / 90
+Requires Level 41
+Chance on hit:
+Wounds the target for 60 to 71 damage.
+
+
+Item #9718
+URL: https://database.turtle-wow.org/?item=9718
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Reforged Blade of Heroes
+Binds when equipped
+One-hand
+Sword
+31 - 59  Damage
+Speed 2.20
++5 - 10 Fire Damage
+(23.9 damage per second)
++8 Stamina
++3 Strength
+Durability 90 / 90
+Requires Level 33
+
+
+Item #10615
+URL: https://database.turtle-wow.org/?item=10615
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Sword Red
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #10613
+URL: https://database.turtle-wow.org/?item=10613
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Katana
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #10614
+URL: https://database.turtle-wow.org/?item=10614
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Sword Black
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #10696
+URL: https://database.turtle-wow.org/?item=10696
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Enchanted Azsharite Felbane Sword
+Binds when picked up
+Main Hand
+Sword
+50 - 93  Damage
+Speed 2.00
+(35.8 damage per second)
+Durability 75 / 75
+Equip:
++33 Attack Power when fighting Demons.
+Use:
+Weakens the servants of Razelikh the Defiler. Must be within close proximity of the target to activate.
+"Etched across the blade: Rakh'likh"
+
+
+Item #10797
+URL: https://database.turtle-wow.org/?item=10797
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Firebreather
+Binds when picked up
+One-hand
+Sword
+54 - 101  Damage
+Speed 2.20
+(35.2 damage per second)
+Durability 90 / 90
+Requires Level 48
+Chance on hit:
+Hurls a fiery ball that causes 70 Fire damage and an additional 9 damage over 6 sec.
+
+
+Item #10803
+URL: https://database.turtle-wow.org/?item=10803
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of the Wretched
+Binds when picked up
+Main Hand
+Sword
+47 - 88  Damage
+Speed 2.10
+(32.1 damage per second)
+Durability 75 / 75
+Requires Level 49
+Chance on hit:
+Corrupts the target, causing 90 damage over 3 sec.
+
+
+Item #10825
+URL: https://database.turtle-wow.org/?item=10825
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Red Long
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #10823
+URL: https://database.turtle-wow.org/?item=10823
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Vanquisher's Sword
+Binds when picked up
+One-hand
+Sword
+46 - 86  Damage
+Speed 2.20
+(30.0 damage per second)
+Durability 90 / 90
+Equip:
++28 Attack Power.
+
+
+Item #10847
+URL: https://database.turtle-wow.org/?item=10847
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dragon's Call
+Binds when picked up
+One-hand
+Sword
+72 - 135  Damage
+Speed 2.50
+(41.4 damage per second)
+Durability 105 / 105
+Requires Level 52
+Chance on hit:
+Calls forth an Emerald Dragon Whelp to protect you in battle for a short period of time.
+
+
+Item #10878
+URL: https://database.turtle-wow.org/?item=10878
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Jagged Green
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #10898
+URL: https://database.turtle-wow.org/?item=10898
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Sword Centurion
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11019
+URL: https://database.turtle-wow.org/?item=11019
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Jagged Bloody
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11025
+URL: https://database.turtle-wow.org/?item=11025
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Katana 2H
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11042
+URL: https://database.turtle-wow.org/?item=11042
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Jagged w/ Bolts
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11086
+URL: https://database.turtle-wow.org/?item=11086
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Jang'thraze the Protector
+Binds when picked up
+Unique
+Main Hand
+Sword
+44 - 83  Damage
+Speed 1.90
+(33.4 damage per second)
+Durability 90 / 90
+Requires Level 45
+Use:
+Combines Jang'thraze and Sang'thraze to form the mighty sword, Sul'thraze.
+Chance on hit:
+Shields the wielder from physical damage, absorbing 55 to 86 damage. Lasts 20 sec.
+
+
+Item #11121
+URL: https://database.turtle-wow.org/?item=11121
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Darkwater Talwar
+Binds when picked up
+Main Hand
+Sword
+20 - 39  Damage
+Speed 2.20
+(13.4 damage per second)
+Durability 70 / 70
+Requires Level 21
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 25 Shadow damage.
+
+
+Item #11784
+URL: https://database.turtle-wow.org/?item=11784
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Arbiter's Blade
+Binds when picked up
+Main Hand
+Sword
+59 - 110  Damage
+Speed 2.40
+(35.2 damage per second)
++5 Intellect
++8 Stamina
+Durability 90 / 90
+Requires Level 48
+Equip:
+Increases damage and healing done by magical spells and effects by up to 8.
+
+
+Item #11817
+URL: https://database.turtle-wow.org/?item=11817
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Lord General's Sword
+Binds when picked up
+Main Hand
+Sword
+67 - 125  Damage
+Speed 2.60
+(36.9 damage per second)
+Durability 90 / 90
+Requires Level 51
+Chance on hit:
+Increases attack power by 50 for 30 sec.
+
+
+Item #11902
+URL: https://database.turtle-wow.org/?item=11902
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Linken's Sword of Mastery
+Binds when picked up
+Main Hand
+Sword
+42 - 78  Damage
+Speed 1.80
+(33.3 damage per second)
+Durability 75 / 75
+Chance on hit:
+Blasts a target for 45 to 76 Nature damage.
+
+
+Item #12061
+URL: https://database.turtle-wow.org/?item=12061
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of Reckoning
+Binds when picked up
+One-hand
+Sword
+60 - 112  Damage
+Speed 2.40
+(35.8 damage per second)
+Durability 75 / 75
+Equip:
++22 Attack Power.
+
+
+Item #12142
+URL: https://database.turtle-wow.org/?item=12142
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Thick/Fat Blade
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12297
+URL: https://database.turtle-wow.org/?item=12297
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Jagged Brown
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12304
+URL: https://database.turtle-wow.org/?item=12304
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Broad Pointed
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12535
+URL: https://database.turtle-wow.org/?item=12535
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Doomforged Straightedge
+Binds when equipped
+One-hand
+Sword
+47 - 89  Damage
+Speed 1.90
+(35.8 damage per second)
++10 Strength
+Durability 90 / 90
+Requires Level 49
+Equip:
++12 Attack Power.
+
+
+Item #12584
+URL: https://database.turtle-wow.org/?item=12584
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Grand Marshal's Longsword
+Binds when picked up
+One-hand
+Sword
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #12593
+URL: https://database.turtle-wow.org/?item=12593
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Sword Bronze
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12777
+URL: https://database.turtle-wow.org/?item=12777
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blazing Rapier
+Binds when equipped
+One-hand
+Sword
+44 - 82  Damage
+Speed 1.70
+(37.1 damage per second)
+Durability 90 / 90
+Requires Level 51
+Chance on hit:
+Burns the enemy for 100 damage over 20 sec.
+
+
+Item #12797
+URL: https://database.turtle-wow.org/?item=12797
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Frostguard
+Binds when equipped
+Main Hand
+Sword
+66 - 124  Damage
+Speed 2.30
+(41.3 damage per second)
+Durability 90 / 90
+Requires Level 58
+Chance on hit:
+Target's movement slowed by 30% and increasing the time between attacks by 25% for 5 sec.
+
+
+Item #12890
+URL: https://database.turtle-wow.org/?item=12890
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Militia Long Sword
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12892
+URL: https://database.turtle-wow.org/?item=12892
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword1H, Dark Short Sword
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12940
+URL: https://database.turtle-wow.org/?item=12940
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dal'Rend's Sacred Charge
+Binds when picked up
+Main Hand
+Sword
+81 - 151  Damage
+Speed 2.80
+(41.4 damage per second)
++4 Strength
+Durability 90 / 90
+Requires Level 58
+Equip:
+Improves your chance to get a critical strike by 1%.
+Dal'Rend's Arms
+(0/2)
+Dal'Rend's Sacred Charge
+Dal'Rend's Tribal Guardian
+(2) Set:
++50 Attack Power.
+
+
+Item #12939
+URL: https://database.turtle-wow.org/?item=12939
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dal'Rend's Tribal Guardian
+Binds when picked up
+Off Hand
+Sword
+52 - 97  Damage
+Speed 1.80
+(41.4 damage per second)
+100 Armor
+Durability 90 / 90
+Requires Level 58
+Equip:
+Increased Defense +7.
+Dal'Rend's Arms
+(0/2)
+Dal'Rend's Sacred Charge
+Dal'Rend's Tribal Guardian
+(2) Set:
++50 Attack Power.
+
+
+Item #12944
+URL: https://database.turtle-wow.org/?item=12944
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Golden Long
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12974
+URL: https://database.turtle-wow.org/?item=12974
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+The Black Knight
+Binds when equipped
+Main Hand
+Sword
+26 - 49  Damage
+Speed 1.90
+(19.7 damage per second)
+Durability 90 / 90
+Requires Level 26
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 35 to 46 Shadow damage.
+
+
+Item #12976
+URL: https://database.turtle-wow.org/?item=12976
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Ironpatch Blade
+Binds when equipped
+One-hand
+Sword
+24 - 46  Damage
+Speed 2.60
+(13.5 damage per second)
++4 Strength
++2 Stamina
+Durability 65 / 65
+Requires Level 15
+
+
+Item #12993
+URL: https://database.turtle-wow.org/?item=12993
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Green Gold Scimitar
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13035
+URL: https://database.turtle-wow.org/?item=13035
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Serpent Slicer
+Binds when equipped
+One-hand
+Sword
+57 - 107  Damage
+Speed 2.50
+(32.8 damage per second)
+Durability 90 / 90
+Requires Level 44
+Chance on hit:
+Poisons target for 8 Nature damage every 2 sec for 20 sec.
+
+
+Item #13032
+URL: https://database.turtle-wow.org/?item=13032
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sword of Corruption
+Binds when equipped
+One-hand
+Sword
+25 - 47  Damage
+Speed 2.10
+(17.1 damage per second)
+Durability 80 / 80
+Requires Level 22
+Chance on hit:
+Corrupts the target, causing 30 damage over 3 sec.
+
+
+Item #13036
+URL: https://database.turtle-wow.org/?item=13036
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Assassination Blade
+Binds when equipped
+One-hand
+Sword
+71 - 132  Damage
+Speed 2.70
+(37.6 damage per second)
++3 Strength
+Durability 90 / 90
+Requires Level 52
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #13033
+URL: https://database.turtle-wow.org/?item=13033
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Zealot Blade
+Binds when equipped
+One-hand
+Sword
+43 - 81  Damage
+Speed 2.80
+(22.1 damage per second)
++6 Spirit
++5 Intellect
+Durability 90 / 90
+Requires Level 29
+
+
+Item #13034
+URL: https://database.turtle-wow.org/?item=13034
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Speedsteel Rapier
+Binds when equipped
+One-hand
+Sword
+35 - 66  Damage
+Speed 1.80
+(28.1 damage per second)
++8 Agility
++3 Stamina
+Durability 90 / 90
+Requires Level 36
+
+
+Item #13165
+URL: https://database.turtle-wow.org/?item=13165
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Long Silver - Green Pommel
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13182
+URL: https://database.turtle-wow.org/?item=13182
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Phase Blade
+Binds when picked up
+One-hand
+Sword
+55 - 103  Damage
+Speed 2.10
+(37.6 damage per second)
++12 Stamina
++7 Strength
+Durability 90 / 90
+Requires Level 52
+
+
+Item #13222
+URL: https://database.turtle-wow.org/?item=13222
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Flaming Crimson Battlemage Longsword
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13246
+URL: https://database.turtle-wow.org/?item=13246
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Argent Avenger
+Binds when picked up
+One-hand
+Sword
+71 - 108  Damage
+Speed 2.20
+(40.7 damage per second)
+Durability 90 / 90
+Chance on hit:
+Increases Attack Power against Undead by 200 for 10 sec.
+
+
+Item #13361
+URL: https://database.turtle-wow.org/?item=13361
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Skullforge Reaver
+Binds when picked up
+One-hand
+Sword
+72 - 135  Damage
+Speed 2.50
+(41.4 damage per second)
+Durability 90 / 90
+Requires Level 58
+Chance on hit:
+Drains target for 2 Shadow damage every 1 sec and transfers it to the caster. Lasts for 30 sec.
+
+
+Item #13504
+URL: https://database.turtle-wow.org/?item=13504
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Doomguard
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13627
+URL: https://database.turtle-wow.org/?item=13627
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Jagged Blue
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13707
+URL: https://database.turtle-wow.org/?item=13707
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Sword B04 Black
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13719
+URL: https://database.turtle-wow.org/?item=13719
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Jagged Red w/ Low Yellow Glow
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13718
+URL: https://database.turtle-wow.org/?item=13718
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Jagged Red
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13816
+URL: https://database.turtle-wow.org/?item=13816
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Fine Longsword
+Main Hand
+Sword
+28 - 53  Damage
+Speed 2.20
+(18.4 damage per second)
+Durability 75 / 75
+Requires Level 47
+
+
+Item #13953
+URL: https://database.turtle-wow.org/?item=13953
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Silent Fang
+Binds when picked up
+Main Hand
+Sword
+45 - 85  Damage
+Speed 1.60
+(40.6 damage per second)
+Durability 90 / 90
+Requires Level 57
+Chance on hit:
+Silences an enemy preventing it from casting spells for 6 sec.
+
+
+Item #14085
+URL: https://database.turtle-wow.org/?item=14085
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Glaive Vol'jin
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14145
+URL: https://database.turtle-wow.org/?item=14145
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Cursed Felblade
+Binds when picked up
+Main Hand
+Sword
+16 - 31  Damage
+Speed 2.60
+(9.0 damage per second)
+Durability 55 / 55
+Requires Level 13
+Chance on hit:
+Reduces target enemy's attack power by 15 for 30 sec.
+
+
+Item #14391
+URL: https://database.turtle-wow.org/?item=14391
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Durability Sword
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.30
+(0.7 damage per second)
+Durability 20 / 20
+
+
+Item #14524
+URL: https://database.turtle-wow.org/?item=14524
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Katana 2H Gold
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14576
+URL: https://database.turtle-wow.org/?item=14576
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Ebon Hilt of Marduk
+Binds when picked up
+Main Hand
+Sword
+73 - 137  Damage
+Speed 2.70
+(38.9 damage per second)
+Durability 90 / 90
+Requires Level 54
+Chance on hit:
+Corrupts the target, causing 210 damage over 3 sec.
+
+
+Item #14871
+URL: https://database.turtle-wow.org/?item=14871
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde C02 Purple
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #15210
+URL: https://database.turtle-wow.org/?item=15210
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Raider Shortsword
+Binds when equipped
+One-hand
+Sword
+11 - 20  Damage
+Speed 1.90
+(8.2 damage per second)
+Durability 50 / 50
+Requires Level 11
+Random Bonuses
+
+
+Item #15218
+URL: https://database.turtle-wow.org/?item=15218
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Crystal Sword
+Binds when equipped
+One-hand
+Sword
+54 - 102  Damage
+Speed 2.30
+(33.9 damage per second)
+Durability 75 / 75
+Requires Level 52
+Random Bonuses
+
+
+Item #15220
+URL: https://database.turtle-wow.org/?item=15220
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Battlefell Sabre
+Binds when equipped
+Main Hand
+Sword
+57 - 106  Damage
+Speed 2.20
+(37.0 damage per second)
+Durability 75 / 75
+Requires Level 57
+Random Bonuses
+
+
+Item #15219
+URL: https://database.turtle-wow.org/?item=15219
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dimensional Blade
+Binds when equipped
+One-hand
+Sword
+39 - 73  Damage
+Speed 1.60
+(35.0 damage per second)
+Durability 75 / 75
+Requires Level 54
+Random Bonuses
+
+
+Item #15211
+URL: https://database.turtle-wow.org/?item=15211
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Militant Shortsword
+Binds when equipped
+One-hand
+Sword
+19 - 36  Damage
+Speed 2.50
+(11.0 damage per second)
+Durability 60 / 60
+Requires Level 17
+Random Bonuses
+
+
+Item #15215
+URL: https://database.turtle-wow.org/?item=15215
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Furious Falchion
+Binds when equipped
+Main Hand
+Sword
+46 - 87  Damage
+Speed 2.50
+(26.6 damage per second)
+Durability 75 / 75
+Requires Level 40
+Random Bonuses
+
+
+Item #15214
+URL: https://database.turtle-wow.org/?item=15214
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Nobles Brand
+Binds when equipped
+One-hand
+Sword
+32 - 61  Damage
+Speed 2.10
+(22.1 damage per second)
+Durability 75 / 75
+Requires Level 35
+Random Bonuses
+
+
+Item #15212
+URL: https://database.turtle-wow.org/?item=15212
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Fighter Broadsword
+Binds when equipped
+Main Hand
+Sword
+27 - 51  Damage
+Speed 2.80
+(13.9 damage per second)
+Durability 70 / 70
+Requires Level 22
+Random Bonuses
+
+
+Item #15213
+URL: https://database.turtle-wow.org/?item=15213
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Mercenary Blade
+Binds when equipped
+One-hand
+Sword
+31 - 59  Damage
+Speed 2.40
+(18.8 damage per second)
+Durability 75 / 75
+Requires Level 31
+Random Bonuses
+
+
+Item #15216
+URL: https://database.turtle-wow.org/?item=15216
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Rune Sword
+Binds when equipped
+One-hand
+Sword
+34 - 63  Damage
+Speed 1.60
+(30.3 damage per second)
+Durability 75 / 75
+Requires Level 46
+Random Bonuses
+
+
+Item #15217
+URL: https://database.turtle-wow.org/?item=15217
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Widow Blade
+Binds when equipped
+One-hand
+Sword
+45 - 84  Damage
+Speed 2.00
+(32.3 damage per second)
+Durability 75 / 75
+Requires Level 49
+Random Bonuses
+
+
+Item #15221
+URL: https://database.turtle-wow.org/?item=15221
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Holy War Sword
+Binds when equipped
+One-hand
+Sword
+59 - 111  Damage
+Speed 2.20
+(38.6 damage per second)
+Durability 75 / 75
+Requires Level 60
+Random Bonuses
+
+
+Item #15335
+URL: https://database.turtle-wow.org/?item=15335
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Briarsteel Shortsword
+Binds when picked up
+One-hand
+Sword
+12 - 24  Damage
+Speed 2.50
+(7.2 damage per second)
++1 Stamina
+Durability 45 / 45
+
+
+Item #15705
+URL: https://database.turtle-wow.org/?item=15705
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Tidecrest Blade
+Binds when picked up
+One-hand
+Sword
+62 - 115  Damage
+Speed 2.60
+(34.0 damage per second)
++8 Strength
++5 Spirit
+Durability 75 / 75
+
+
+Item #15782
+URL: https://database.turtle-wow.org/?item=15782
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Beaststalker Blade
+Binds when picked up
+One-hand
+Sword
+55 - 103  Damage
+Speed 2.20
+(35.9 damage per second)
+Durability 75 / 75
+Equip:
++33 Attack Power when fighting Beasts.
+
+
+Item #15800
+URL: https://database.turtle-wow.org/?item=15800
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Intrepid Shortsword
+Binds when picked up
+One-hand
+Sword
+50 - 95  Damage
+Speed 2.10
+(34.5 damage per second)
++11 Stamina
+Durability 75 / 75
+
+
+Item #15801
+URL: https://database.turtle-wow.org/?item=15801
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Valiant Shortsword
+Binds when picked up
+One-hand
+Sword
+50 - 95  Damage
+Speed 2.10
+(34.5 damage per second)
++11 Intellect
+Durability 75 / 75
+
+
+Item #15806
+URL: https://database.turtle-wow.org/?item=15806
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Mirah's Song
+Binds when picked up
+One-hand
+Sword
+57 - 87  Damage
+Speed 1.80
+(40.0 damage per second)
++9 Agility
++9 Strength
+Durability 90 / 90
+
+
+Item #15814
+URL: https://database.turtle-wow.org/?item=15814
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Hameya's Slayer
+Binds when picked up
+One-hand
+Sword
+57 - 86  Damage
+Speed 2.00
+(35.8 damage per second)
+Durability 75 / 75
+Chance on hit:
+Wounds the target causing them to bleed for 80 damage over 30 sec.
+
+
+Item #16345
+URL: https://database.turtle-wow.org/?item=16345
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+High Warlord's Blade
+Binds when picked up
+One-hand
+Sword
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #16890
+URL: https://database.turtle-wow.org/?item=16890
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Slatemetal Cutlass
+Binds when picked up
+One-hand
+Sword
+19 - 35  Damage
+Speed 2.20
+(12.3 damage per second)
++2 Strength
++2 Agility
+Durability 65 / 65
+
+
+Item #16886
+URL: https://database.turtle-wow.org/?item=16886
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Outlaw Sabre
+Binds when picked up
+One-hand
+Sword
+35 - 67  Damage
+Speed 2.70
+(18.9 damage per second)
+Durability 90 / 90
+Equip:
++15 Attack Power.
+
+
+Item #16891
+URL: https://database.turtle-wow.org/?item=16891
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Claystone Shortsword
+Binds when picked up
+One-hand
+Sword
+16 - 30  Damage
+Speed 2.20
+(10.5 damage per second)
++3 Stamina
+Durability 60 / 60
+
+
+Item #17015
+URL: https://database.turtle-wow.org/?item=17015
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dark Iron Reaver
+Binds when equipped
+Main Hand
+Sword
+79 - 147  Damage
+Speed 2.40
+(47.1 damage per second)
++10 Stamina
++6 Fire Resistance
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases your attack and casting speed by 2%.
+
+
+Item #17054
+URL: https://database.turtle-wow.org/?item=17054
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Joonho's Mercy
+Binds when equipped
+One-hand
+Sword
+49 - 91  Damage
+Speed 2.10
+(33.3 damage per second)
+Durability 90 / 90
+Requires Level 45
+Chance on hit:
+Blasts a target for 70 Arcane damage.
+
+
+Item #17075
+URL: https://database.turtle-wow.org/?item=17075
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Vis'kag the Bloodletter
+Binds when picked up
+Unique
+One-hand
+Sword
+100 - 187  Damage
+Speed 2.60
+(55.2 damage per second)
+Durability 105 / 105
+Requires Level 60
+Chance on hit:
+Delivers a fatal wound for 240 damage.
+
+
+Item #17103
+URL: https://database.turtle-wow.org/?item=17103
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Azuresong Mageblade
+Binds when picked up
+Main Hand
+Sword
+64 - 140  Damage
+Speed 2.40
+(42.5 damage per second)
++12 Intellect
++7 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 40.
+
+
+Item #17123
+URL: https://database.turtle-wow.org/?item=17123
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Horde Troll
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #17382
+URL: https://database.turtle-wow.org/?item=17382
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Moonshadow Glaive
+Binds when picked up
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.30
+(0.7 damage per second)
+Durability 20 / 20
+
+
+Item #17705
+URL: https://database.turtle-wow.org/?item=17705
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Thrash Blade
+Binds when picked up
+One-hand
+Sword
+66 - 124  Damage
+Speed 2.70
+(35.2 damage per second)
+Durability 90 / 90
+Chance on hit:
+Grants an extra attack on your next swing.
+
+
+Item #17719
+URL: https://database.turtle-wow.org/?item=17719
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Inventor's Focal Sword
+Binds when picked up
+One-hand
+Sword
+54 - 101  Damage
+Speed 2.20
+(35.2 damage per second)
+Durability 90 / 90
+Requires Level 48
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #18167
+URL: https://database.turtle-wow.org/?item=18167
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Machete C01
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #18310
+URL: https://database.turtle-wow.org/?item=18310
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Fiendish Machete
+Binds when picked up
+One-hand
+Sword
+74 - 112  Damage
+Speed 2.40
+(38.8 damage per second)
++5 Agility
+Durability 90 / 90
+Requires Level 54
+Equip:
++36 Attack Power when fighting Elementals.
+
+
+Item #18348
+URL: https://database.turtle-wow.org/?item=18348
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Quel'Serrar
+Binds when picked up
+Unique
+Main Hand
+Sword
+84 - 126  Damage
+Speed 2.00
+(52.5 damage per second)
++12 Stamina
+Durability 105 / 105
+Classes: Warrior, Paladin
+Chance on hit:
+When active, grants the wielder 13 defense and 300 armor for 10 sec.
+"The High Blade"
+
+
+Item #18396
+URL: https://database.turtle-wow.org/?item=18396
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Mind Carver
+Binds when picked up
+Main Hand
+Sword
+57 - 106  Damage
+Speed 2.00
+(40.8 damage per second)
++8 Intellect
+Durability 90 / 90
+Requires Level 57
+Equip:
+Increases damage and healing done by magical spells and effects by up to 12.
+
+
+Item #18463
+URL: https://database.turtle-wow.org/?item=18463
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Ogre Pocket Knife
+Binds when picked up
+One-hand
+Sword
+60 - 112  Damage
+Speed 2.40
+(35.8 damage per second)
++7 Stamina
+Durability 75 / 75
+Requires Level 55
+Equip:
++16 Attack Power.
+
+
+Item #18484
+URL: https://database.turtle-wow.org/?item=18484
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Cho'Rush's Blade
+Binds when picked up
+One-hand
+Sword
+67 - 125  Damage
+Speed 2.40
+(40.0 damage per second)
+Durability 90 / 90
+Requires Level 56
+Equip:
++28 Attack Power.
+
+
+Item #18584
+URL: https://database.turtle-wow.org/?item=18584
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Warglaive of Azzinoth (Left)
+Binds when picked up
+Unique
+One-hand
+Sword
+85 - 95  Damage
+Speed 1.00
++30 - 60 Shadow Damage
+(135.0 damage per second)
++60 Agility
++50 Stamina
++40 Intellect
++60 Shadow Resistance
++50 Arcane Resistance
+Requires Level 60
+
+
+Item #18582
+URL: https://database.turtle-wow.org/?item=18582
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+The Twin Blades of Azzinoth
+Binds when picked up
+Unique
+One-hand
+Sword
+132 - 139  Damage
+Speed 1.50
++40 - 60 Shadow Damage
++40 - 60 Arcane Damage
+(156.9 damage per second)
++75 Agility
++100 Stamina
++150 Intellect
++100 Shadow Resistance
++100 Arcane Resistance
+Requires Level 60
+Equip:
+Consumed by the fury of Illidan: 1400 Attack Power bonus versus Demons. 20% bonus chance to hit. 30% melee haste.
+Use:
+Detaches the twin blades, forming two separate warglaives.
+
+
+Item #18583
+URL: https://database.turtle-wow.org/?item=18583
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Warglaive of Azzinoth (Right)
+Binds when picked up
+Unique
+One-hand
+Sword
+85 - 95  Damage
+Speed 1.00
++30 - 60 Arcane Damage
+(135.0 damage per second)
++40 Agility
++50 Stamina
++60 Intellect
++50 Shadow Resistance
++60 Arcane Resistance
+Requires Level 60
+Use:
+Connects the twin warglaives of Azzinoth, forming the Twin Blades of Azzinoth.
+
+
+Item #18610
+URL: https://database.turtle-wow.org/?item=18610
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Keen Machete
+Binds when equipped
+Main Hand
+Sword
+3 - 6  Damage
+Speed 1.80
+(2.5 damage per second)
+Durability 30 / 30
+
+
+Item #18832
+URL: https://database.turtle-wow.org/?item=18832
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Brutality Blade
+Binds when picked up
+Unique
+One-hand
+Sword
+90 - 168  Damage
+Speed 2.50
+(51.6 damage per second)
++9 Strength
++9 Agility
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #18957
+URL: https://database.turtle-wow.org/?item=18957
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Brushwood Blade
+Binds when picked up
+One-hand
+Sword
+11 - 21  Damage
+Speed 3.00
+(5.3 damage per second)
++1 Stamina
+Durability 40 / 40
+
+
+Item #18985
+URL: https://database.turtle-wow.org/?item=18985
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Long Silver - Green Pommel - High Black Glow
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #18983
+URL: https://database.turtle-wow.org/?item=18983
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, Longsword Exotic Black - Low Red Flame
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #19019
+URL: https://database.turtle-wow.org/?item=19019
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Thunderfury, Blessed Blade of the Windseeker
+Binds when picked up
+Unique
+One-hand
+Sword
+44 - 115  Damage
+Speed 1.90
++16 - 30 Nature Damage
+(53.9 damage per second)
++5 Agility
++8 Stamina
++8 Fire Resistance
++9 Nature Resistance
+Durability 125 / 125
+Chance on hit:
+Blasts your enemy with lightning, dealing 300 Nature damage and then jumping to additional nearby enemies.  Each jump reduces that victim's Nature resistance by 25. Affects 5 targets. Your primary target is also consumed by a cyclone, slowing its attack speed by 20% for 12 sec.
+
+
+Item #19040
+URL: https://database.turtle-wow.org/?item=19040
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Zorbin's Mega-Slicer
+Binds when picked up
+One-hand
+Sword
+46 - 86  Damage
+Speed 2.30
+(28.7 damage per second)
++6 Agility
++5 Stamina
+Durability 75 / 75
+
+
+Item #19110
+URL: https://database.turtle-wow.org/?item=19110
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Cold Forged Blade
+Binds when picked up
+One-hand
+Sword
+75 - 140  Damage
+Speed 2.60
+(41.3 damage per second)
++13 Stamina
++5 Agility
+Durability 90 / 90
+Requires Level 58
+
+
+Item #19168
+URL: https://database.turtle-wow.org/?item=19168
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blackguard
+Binds when equipped
+One-hand
+Sword
+65 - 121  Damage
+Speed 1.80
+(51.7 damage per second)
++13 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases your chance to parry an attack by 1%.
+
+
+Item #19352
+URL: https://database.turtle-wow.org/?item=19352
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Chromatically Tempered Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+106 - 198  Damage
+Speed 2.60
+(58.5 damage per second)
++14 Agility
++14 Strength
++7 Stamina
+Durability 105 / 105
+Requires Level 60
+
+
+Item #19351
+URL: https://database.turtle-wow.org/?item=19351
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Maladath, Runed Blade of the Black Flight
+Binds when picked up
+Unique
+One-hand
+Sword
+86 - 162  Damage
+Speed 2.20
+(56.4 damage per second)
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases your chance to parry an attack by 1%.
+Equip:
+Increased Swords +5.
+
+
+Item #19550
+URL: https://database.turtle-wow.org/?item=19550
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Legionnaire's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+89 - 165  Damage
+Speed 2.70
+(47.0 damage per second)
++14 Strength
++7 Stamina
+Durability 90 / 90
+Requires Level 60
+
+
+Item #19555
+URL: https://database.turtle-wow.org/?item=19555
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Protector's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+66 - 124  Damage
+Speed 2.70
+(35.2 damage per second)
++11 Strength
++5 Stamina
+Durability 90 / 90
+Requires Level 48
+
+
+Item #19553
+URL: https://database.turtle-wow.org/?item=19553
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Legionnaire's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+40 - 75  Damage
+Speed 2.70
+(21.3 damage per second)
++7 Strength
++3 Stamina
+Durability 90 / 90
+Requires Level 28
+
+
+Item #19554
+URL: https://database.turtle-wow.org/?item=19554
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Protector's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+89 - 165  Damage
+Speed 2.70
+(47.0 damage per second)
++14 Strength
++7 Stamina
+Durability 90 / 90
+Requires Level 60
+
+
+Item #19556
+URL: https://database.turtle-wow.org/?item=19556
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Protector's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+55 - 103  Damage
+Speed 2.70
+(29.3 damage per second)
++8 Strength
++3 Stamina
+Durability 90 / 90
+Requires Level 38
+
+
+Item #19552
+URL: https://database.turtle-wow.org/?item=19552
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Legionnaire's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+55 - 103  Damage
+Speed 2.70
+(29.3 damage per second)
++8 Strength
++3 Stamina
+Durability 90 / 90
+Requires Level 38
+
+
+Item #19557
+URL: https://database.turtle-wow.org/?item=19557
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Protector's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+40 - 75  Damage
+Speed 2.70
+(21.3 damage per second)
++7 Strength
++3 Stamina
+Durability 90 / 90
+Requires Level 28
+
+
+Item #19551
+URL: https://database.turtle-wow.org/?item=19551
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Legionnaire's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+66 - 124  Damage
+Speed 2.70
+(35.2 damage per second)
++11 Strength
++5 Stamina
+Durability 90 / 90
+Requires Level 48
+
+
+Item #19864
+URL: https://database.turtle-wow.org/?item=19864
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Bloodcaller
+Binds when picked up
+Unique
+Main Hand
+Sword
+52.6 - 113.6  Damage
+Speed 2.00
+(41.6 damage per second)
++15 Intellect
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 33.
+
+
+Item #19865
+URL: https://database.turtle-wow.org/?item=19865
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Warblade of the Hakkari
+Binds when picked up
+Unique
+Main Hand
+Sword
+59 - 110  Damage
+Speed 1.70
+(49.7 damage per second)
+Durability 105 / 105
+Requires Level 60
+Equip:
++28 Attack Power.
+Equip:
+Improves your chance to get a critical strike by 1%.
+"Forged in..."
+The Twin Blades of Hakkari
+(0/2)
+Warblade of the Hakkari
+Warblade of the Hakkari
+(2) Set:
+Increased Swords +6.
+
+
+Item #19867
+URL: https://database.turtle-wow.org/?item=19867
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Bloodlord's Defender
+Binds when picked up
+Unique
+Main Hand
+Sword
+64 - 119  Damage
+Speed 1.90
+(48.2 damage per second)
+80 Armor
++15 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increased Defense +4.
+
+
+Item #19901
+URL: https://database.turtle-wow.org/?item=19901
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Zulian Slicer
+Binds when picked up
+One-hand
+Sword
+78 - 146  Damage
+Speed 2.50
+(44.8 damage per second)
+Durability 90 / 90
+Requires Level 60
+Chance on hit:
+Slices the enemy for 72 to 97 Nature damage.
+Equip:
++12 Attack Power.
+Equip:
+Skinning +10.
+
+
+Item #19968
+URL: https://database.turtle-wow.org/?item=19968
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Fiery Retributer
+Binds when picked up
+Unique
+Main Hand
+Sword
+56 - 105  Damage
+Speed 1.80
+(44.7 damage per second)
+60 Armor
++7 Strength
+Durability 90 / 90
+Requires Level 60
+Equip:
+Increased Defense +5.
+Equip:
+Adds 2 fire damage to your melee attacks.
+
+
+Item #19964
+URL: https://database.turtle-wow.org/?item=19964
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Renataki's Soul Conduit
+Binds when picked up
+Unique
+Main Hand
+Sword
+57.6 - 114.6  Damage
+Speed 2.10
+(41.0 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 16.
+Equip:
+Restores 6 mana per 5 sec.
+
+
+Item #20430
+URL: https://database.turtle-wow.org/?item=20430
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Legionnaire's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+28 - 53  Damage
+Speed 2.70
+(15.0 damage per second)
++4 Strength
++2 Stamina
+Durability 75 / 75
+Requires Level 18
+
+
+Item #20440
+URL: https://database.turtle-wow.org/?item=20440
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Protector's Sword
+Binds when picked up
+Unique
+One-hand
+Sword
+28 - 53  Damage
+Speed 2.70
+(15.0 damage per second)
++4 Strength
++2 Stamina
+Durability 75 / 75
+Requires Level 18
+
+
+Item #20577
+URL: https://database.turtle-wow.org/?item=20577
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Nightmare Blade
+Binds when picked up
+Unique
+One-hand
+Sword
+112 - 198  Damage
+Speed 2.70
+(57.4 damage per second)
+75 Armor
++10 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
++34 Attack Power.
+
+
+Item #20698
+URL: https://database.turtle-wow.org/?item=20698
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Elemental Attuned Blade
+Binds when equipped
+Unique
+Main Hand
+Sword
+58.6 - 116.6  Damage
+Speed 2.10
+(41.7 damage per second)
++6 Intellect
+Durability 105 / 105
+Requires Level 58
+Equip:
+Increases damage and healing done by magical spells and effects by up to 32.
+Equip:
+Restores 3 mana per 5 sec.
+
+
+Item #21395
+URL: https://database.turtle-wow.org/?item=21395
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of Eternal Justice
+Binds when picked up
+Unique
+Main Hand
+Sword
+73 - 137  Damage
+Speed 1.90
+(55.3 damage per second)
++7 Intellect
++14 Stamina
+Durability 105 / 105
+Classes: Paladin
+Equip:
+Increases your chance to dodge an attack by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 40.
+Battlegear of Eternal Justice
+(0/3)
+Cape of Eternal Justice
+Blade of Eternal Justice
+Ring of Eternal Justice
+(2) Set:
+20% chance to regain 100 mana when you cast a Judgement.
+(3) Set:
+Reduces the casting time of your Hammer of Wrath by 100%.
+
+
+Item #21413
+URL: https://database.turtle-wow.org/?item=21413
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of Vaulted Secrets
+Binds when picked up
+Unique
+Main Hand
+Sword
+60 - 131  Damage
+Speed 2.30
+(41.5 damage per second)
++16 Intellect
++8 Stamina
+Durability 105 / 105
+Classes: Mage
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 56.
+Trappings of Vaulted Secrets
+(0/3)
+Band of Vaulted Secrets
+Blade of Vaulted Secrets
+Drape of Vaulted Secrets
+(2) Set:
+15% increase to the total damage absorbed by Mana Shield.
+(3) Set:
+Using a Mana Gem increases your damage and healing from magical spells and effects by up to 60 for 10 sec.
+
+
+Item #21520
+URL: https://database.turtle-wow.org/?item=21520
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Ravencrest's Legacy
+Binds when picked up
+Unique
+One-hand
+Sword
+84 - 157  Damage
+Speed 2.10
+(57.4 damage per second)
++14 Stamina
++13 Strength
++9 Agility
+Durability 105 / 105
+
+
+Item #21521
+URL: https://database.turtle-wow.org/?item=21521
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Runesword of the Red
+Binds when picked up
+Unique
+Main Hand
+Sword
+52.8 - 128.8  Damage
+Speed 2.20
+(41.3 damage per second)
++17 Stamina
++9 Intellect
++7 Spirit
+Durability 105 / 105
+Equip:
+Increases damage and healing done by magical spells and effects by up to 64.
+
+
+Item #21573
+URL: https://database.turtle-wow.org/?item=21573
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, 1H Alliance PvP
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #21622
+URL: https://database.turtle-wow.org/?item=21622
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sharpened Silithid Femur
+Binds when picked up
+Unique
+Main Hand
+Sword
+53.6 - 136.6  Damage
+Speed 2.30
+(41.3 damage per second)
++7 Intellect
++14 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 72.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+"Recently devoured"
+
+
+Item #21650
+URL: https://database.turtle-wow.org/?item=21650
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Ancient Qiraji Ripper
+Binds when picked up
+One-hand
+Sword
+114 - 213  Damage
+Speed 2.80
+(58.4 damage per second)
++11 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++20 Attack Power.
+
+
+Item #22332
+URL: https://database.turtle-wow.org/?item=22332
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of Necromancy
+Binds when picked up
+Main Hand
+Sword
+42 - 80  Damage
+Speed 1.50
+(40.7 damage per second)
++4 Stamina
+Durability 90 / 90
+Requires Level 57
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #22378
+URL: https://database.turtle-wow.org/?item=22378
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Ravenholdt Slicer
+Binds when picked up
+One-hand
+Sword
+83 - 156  Damage
+Speed 2.80
+(42.7 damage per second)
++6 Stamina
+Durability 90 / 90
+Equip:
++26 Attack Power.
+
+
+Item #22383
+URL: https://database.turtle-wow.org/?item=22383
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sageblade
+Binds when equipped
+Main Hand
+Sword
+49 - 100  Damage
+Speed 1.80
+(41.4 damage per second)
++14 Stamina
++6 Intellect
+Durability 105 / 105
+Requires Level 59
+Equip:
+Increases damage and healing done by magical spells and effects by up to 20.
+Equip:
+Decreases the magical resistances of your spell targets by 10.
+
+
+Item #22738
+URL: https://database.turtle-wow.org/?item=22738
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword, 1H Uber Demon Blade
+One-hand
+Sword
+1 - 3  Damage
+Speed 3.30
+(0.6 damage per second)
+Durability 20 / 20
+
+
+Item #22736
+URL: https://database.turtle-wow.org/?item=22736
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Andonisus, Reaper of Souls
+Binds when picked up
+Unique
+Main Hand
+Sword
+159 - 296  Damage
+Speed 2.80
+(81.3 damage per second)
+Durability 125 / 125
+Requires Level 60
+Equip:
+Increases melee and ranged attack power by 600.
+"This blade is dimensional. It appears to be fading from this plane of existence."
+
+
+Item #22806
+URL: https://database.turtle-wow.org/?item=22806
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Widow's Remorse
+Binds when picked up
+Unique
+One-hand
+Sword
+76 - 133  Damage
+Speed 1.60
+(65.3 damage per second)
+100 Armor
++8 Agility
++15 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #22807
+URL: https://database.turtle-wow.org/?item=22807
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Wraith Blade
+Binds when picked up
+Unique
+One-hand
+Sword
+38 - 109  Damage
+Speed 1.80
+(40.8 damage per second)
++10 Stamina
++8 Intellect
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 95.
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #23014
+URL: https://database.turtle-wow.org/?item=23014
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Iblis, Blade of the Fallen Seraph
+Binds when picked up
+Unique
+One-hand
+Sword
+76 - 133  Damage
+Speed 1.60
+(65.3 damage per second)
++7 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+Equip:
++26 Attack Power.
+
+
+Item #23054
+URL: https://database.turtle-wow.org/?item=23054
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Gressil, Dawn of Ruin
+Binds when picked up
+Unique
+One-hand
+Sword
+138 - 257  Damage
+Speed 2.70
+(73.1 damage per second)
++15 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
++40 Attack Power.
+
+
+Item #23132
+URL: https://database.turtle-wow.org/?item=23132
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Lord Blackwood's Blade
+Binds when picked up
+One-hand
+Sword
+42 - 80  Damage
+Speed 1.50
+(40.7 damage per second)
+60 Armor
++14 Stamina
+Durability 90 / 90
+Requires Level 57
+
+
+Item #23456
+URL: https://database.turtle-wow.org/?item=23456
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Grand Marshal's Swiftblade
+Binds when picked up
+One-hand
+Sword
+96 - 140  Damage
+Speed 1.80
+(65.6 damage per second)
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases your attack and casting speed by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #23467
+URL: https://database.turtle-wow.org/?item=23467
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+High Warlord's Quickblade
+Binds when picked up
+One-hand
+Sword
+96 - 140  Damage
+Speed 1.80
+(65.6 damage per second)
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases your attack and casting speed by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #23577
+URL: https://database.turtle-wow.org/?item=23577
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+The Hungering Cold
+Binds when picked up
+Unique
+One-hand
+Sword
+76 - 143  Damage
+Speed 1.50
+(73.0 damage per second)
+140 Armor
++14 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increased Swords +6.
+
+
+Item #23743
+URL: https://database.turtle-wow.org/?item=23743
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword 1H - Widow's Remorse
+Binds when picked up
+Unique
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #41024
+URL: https://database.turtle-wow.org/?item=41024
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Barnacle-covered Scimitar
+Binds when picked up
+One-hand
+Sword
+3 - 6  Damage
+Speed 2.10
+(2.1 damage per second)
+Durability 30 / 30
+
+
+Item #41111
+URL: https://database.turtle-wow.org/?item=41111
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Marauder Blade
+Binds when picked up
+One-hand
+Sword
+3 - 6  Damage
+Speed 2.20
+(2.0 damage per second)
+Durability 30 / 30
+
+
+Item #41155
+URL: https://database.turtle-wow.org/?item=41155
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Lynx Sword
+Binds when picked up
+One-hand
+Sword
+5 - 11  Damage
+Speed 2.50
+(3.2 damage per second)
+28 Armor
+Durability 35 / 35
+
+
+Item #41581
+URL: https://database.turtle-wow.org/?item=41581
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+The Bane of Althazz
+Binds when picked up
+Main Hand
+Sword
+27 - 51  Damage
+Speed 1.90
+(20.5 damage per second)
++5 Fire Resistance
+Durability 90 / 90
+Requires Level 27
+Equip:
+Increases damage done by Fire spells and effects by up to 14.
+"This magical sword was instrumental in defeating the great dragon Althazz."
+
+
+Item #41984
+URL: https://database.turtle-wow.org/?item=41984
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Sword1H, Doomguard Sword
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #50030
+URL: https://database.turtle-wow.org/?item=50030
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Zaman's Claw
+Binds when picked up
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.30
+(0.7 damage per second)
+Durability 20 / 20
+
+
+Item #50031
+URL: https://database.turtle-wow.org/?item=50031
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Raytaf's Claw
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.30
+(0.7 damage per second)
+Durability 20 / 20
+
+
+Item #50094
+URL: https://database.turtle-wow.org/?item=50094
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sword of a Thousand Truths
+Binds when picked up
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.30
+(0.7 damage per second)
+Durability 20 / 20
+"It was foretold, that one day, heroes who could wield the sword might reveal themselves."
+
+
+Item #50433
+URL: https://database.turtle-wow.org/?item=50433
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster, Sword Spear Red
+Binds when picked up
+Main Hand
+Sword
+2 - 5  Damage
+Speed 2.20
+(1.6 damage per second)
+
+
+Item #51041
+URL: https://database.turtle-wow.org/?item=51041
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Falchion of the Templar
+Binds when picked up
+One-hand
+Sword
+1 - 2  Damage
+Speed 1.00
+(1.5 damage per second)
+
+
+Item #51046
+URL: https://database.turtle-wow.org/?item=51046
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Call of Shadow
+Binds when picked up
+Main Hand
+Sword
+74 - 112  Damage
+Speed 2.40
+(38.8 damage per second)
++8 Stamina
+Durability 90 / 90
+Requires Level 54
+Equip:
+Increases damage done by Shadow spells and effects by up to 13.
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 35 Shadow damage.
+
+
+Item #51754
+URL: https://database.turtle-wow.org/?item=51754
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Lodestone Blade
+Binds when picked up
+Unique
+One-hand
+Sword
+25 - 47  Damage
+Speed 1.70
++5 - 5 Arcane Damage
+(24.1 damage per second)
++10 Arcane Resistance
+Requires Level 28
+Use:
+Launches an Arcane Missile at the enemy, causing 36 Arcane damage.
+"The power inside is begging to be released."
+
+
+Item #51793
+URL: https://database.turtle-wow.org/?item=51793
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Otherworldly Blade
+Binds when picked up
+One-hand
+Sword
+45 - 56  Damage
+Speed 2.10
+(24.0 damage per second)
++4 Strength
++4 Intellect
++4 Stamina
+Durability 75 / 75
+"This crystalline blade pulsates with energy, you've never seen anything like it before."
+
+
+Item #55030
+URL: https://database.turtle-wow.org/?item=55030
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Aliden's Prejudice
+Binds when picked up
+Unique
+Main Hand
+Sword
+59 - 118  Damage
+Speed 1.90
+(46.6 damage per second)
++14 Stamina
+Durability 105 / 105
+Requires Level 60
+Requires Syndicate - Exalted
+Equip:
+1% of damage dealt is returned as healing.
+"A sword from the treasury of Alterac. Finally in better hands. Add this when implementing Chance on hit: Your attacks instill a rage within you, making you heal 10 health from your attacks for 15 seconds. "
+
+
+Item #55129
+URL: https://database.turtle-wow.org/?item=55129
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Desecration
+Binds when picked up
+Unique
+Main Hand
+Sword
+106 - 193  Damage
+Speed 2.20
+(68.0 damage per second)
++11 Intellect
++16 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 128.
+Equip:
+Increases your attack and casting speed by 2%.
+
+
+Item #55384
+URL: https://database.turtle-wow.org/?item=55384
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Hilt of Radiance
+Binds when picked up
+One-hand
+Sword
+24 - 47  Damage
+Speed 2.20
+(16.1 damage per second)
+Durability 80 / 80
+Requires Level 20
+Chance on hit:
+Your next 5 successful melee attacks smite your target for 7 Holy damage. Lasts 12 sec.
+
+
+Item #58018
+URL: https://database.turtle-wow.org/?item=58018
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Inheritance Blade
+Binds when picked up
+One-hand
+Sword
+41 - 61  Damage
+Speed 2.60
+(19.6 damage per second)
++5 Stamina
++3 Intellect
++3 Spirit
+Durability 75 / 75
+
+
+Item #58036
+URL: https://database.turtle-wow.org/?item=58036
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of the Overlord
+Binds when picked up
+One-hand
+Sword
+21 - 58  Damage
+Speed 2.10
+(18.8 damage per second)
++5 Agility
++2 Stamina
+Durability 75 / 75
+
+
+Item #58150
+URL: https://database.turtle-wow.org/?item=58150
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Deathedge Sabre
+Binds when picked up
+One-hand
+Sword
+50 - 81  Damage
+Speed 2.40
+(27.3 damage per second)
++2 Agility
+Durability 90 / 90
+Requires Level 35
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #58154
+URL: https://database.turtle-wow.org/?item=58154
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Brand of Lohengrin
+Binds when picked up
+Unique
+One-hand
+Sword
+33 - 62  Damage
+Speed 2.60
+(18.3 damage per second)
++5 Fire Resistance
+Durability 75 / 75
+Requires Level 30
+Equip:
+Your attacks and landing harmful spells have a chance to invoke the flames within, dealing 43 to 51 Fire Damage and restoring 25 health. The damage against Dragonkin is doubled.
+
+
+Item #58198
+URL: https://database.turtle-wow.org/?item=58198
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dissolved Hookblade
+Binds when picked up
+Unique
+One-hand
+Sword
+51 - 80  Damage
+Speed 2.40
+(27.3 damage per second)
++5 Stamina
++6 Agility
++5 Spirit
+Durability 90 / 90
+Requires Level 35
+
+
+Item #58225
+URL: https://database.turtle-wow.org/?item=58225
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of Purity
+Binds when picked up
+Main Hand
+Sword
+53 - 99  Damage
+Speed 1.90
+(40.0 damage per second)
++6 Stamina
++6 Intellect
+Durability 90 / 90
+Requires Level 55
+Requires Argent Dawn - Honored
+Equip:
+Increases damage done to Undead by magical spells and effects by up to 14.
+
+
+Item #58262
+URL: https://database.turtle-wow.org/?item=58262
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Enchanted Glass Kopis
+Binds when picked up
+One-hand
+Sword
+39 - 73  Damage
+Speed 2.30
+(24.3 damage per second)
++5 Intellect
+Durability 90 / 90
+Equip:
+Increases damage and healing done by magical spells and effects by up to 6.
+
+
+Item #58282
+URL: https://database.turtle-wow.org/?item=58282
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Mariner's Cutlass
+Binds when picked up
+One-hand
+Sword
+22 - 43  Damage
+Speed 1.90
+(17.1 damage per second)
+Durability 75 / 75
+Requires Level 28
+Equip:
++12 Attack Power.
+
+
+Item #60169
+URL: https://database.turtle-wow.org/?item=60169
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sorrowguard Shortsword
+Binds when picked up
+Main Hand
+Sword
+40 - 75  Damage
+Speed 2.40
+(24.0 damage per second)
++5 Spirit
++4 Strength
++2 Stamina
+Durability 75 / 75
+
+
+Item #60200
+URL: https://database.turtle-wow.org/?item=60200
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Infantry Shortblade
+Binds when picked up
+One-hand
+Sword
+22 - 42  Damage
+Speed 2.50
+(12.8 damage per second)
++4 Strength
+Durability 65 / 65
+
+
+Item #60384
+URL: https://database.turtle-wow.org/?item=60384
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Fleet Scimitar
+Binds when picked up
+Main Hand
+Sword
+54 - 101  Damage
+Speed 1.80
+(43.1 damage per second)
+25 Armor
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
+Increases your chance to parry an attack by 1%.
+
+
+Item #60536
+URL: https://database.turtle-wow.org/?item=60536
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Darkwind Glaive
+Binds when picked up
+One-hand
+Sword
+67 - 112  Damage
+Speed 2.50
+(35.8 damage per second)
++12 Strength
++3 Agility
++5 Shadow Resistance
+Durability 90 / 90
+"Perfectly balanced to combat corruption."
+
+
+Item #60734
+URL: https://database.turtle-wow.org/?item=60734
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of the Warleader
+Binds when picked up
+Main Hand
+Sword
+75 - 101  Damage
+Speed 2.30
+(38.3 damage per second)
++8 Agility
++6 Stamina
+Durability 90 / 90
+Equip:
++8 Attack Power.
+
+
+Item #60752
+URL: https://database.turtle-wow.org/?item=60752
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sentinel's Glaive
+Binds when picked up
+Unique
+Main Hand
+Sword
+40 - 75  Damage
+Speed 1.90
+(30.3 damage per second)
++6 Stamina
+Durability 90 / 90
+Requires Level 40
+Requires Darnassus - Revered
+Equip:
++14 Attack Power.
+Equip:
+Your attacks ignore 10 of the target's armor.
+
+
+Item #60764
+URL: https://database.turtle-wow.org/?item=60764
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+The Dune Blade
+Binds when picked up
+Main Hand
+Sword
+59 - 83  Damage
+Speed 2.20
+(32.3 damage per second)
++9 Agility
+Durability 75 / 75
+
+
+Item #60796
+URL: https://database.turtle-wow.org/?item=60796
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of Rotting
+Binds when picked up
+One-hand
+Sword
+59 - 107  Damage
+Speed 2.20
+(37.7 damage per second)
+Durability 75 / 75
+Requires Level 58
+Equip:
+Your attacks ignore 30 of the target's armor.
+
+
+Item #60845
+URL: https://database.turtle-wow.org/?item=60845
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of Sentinel Hill
+Binds when picked up
+Main Hand
+Sword
+20 - 37  Damage
+Speed 2.20
+(13.0 damage per second)
++3 Agility
++2 Strength
+Durability 65 / 65
+
+
+Item #61006
+URL: https://database.turtle-wow.org/?item=61006
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of Infinite Mysteries
+Binds when picked up
+Unique
+Main Hand
+Sword
+50 - 108  Damage
+Speed 1.90
+(41.6 damage per second)
++6 Intellect
++6 Stamina
+Durability 105 / 105
+Requires  - Exalted
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 37.
+"Forged from glass smelted from the very sands of time that flow in the Caverns of Time."
+
+
+Item #61166
+URL: https://database.turtle-wow.org/?item=61166
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Captain's Moonglaive
+Binds when picked up
+Main Hand
+Sword
+40 - 58  Damage
+Speed 2.60
+(18.8 damage per second)
++4 Agility
++4 Stamina
+Durability 75 / 75
+
+
+Item #61333
+URL: https://database.turtle-wow.org/?item=61333
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Hookblade Cleaver
+Binds when picked up
+One-hand
+Sword
+56 - 83  Damage
+Speed 2.40
+(29.0 damage per second)
++9 Intellect
++5 Agility
+Durability 90 / 90
+Requires Level 43
+
+
+Item #61373
+URL: https://database.turtle-wow.org/?item=61373
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Venom Infused Blade
+Binds when picked up
+One-hand
+Sword
+7 - 14  Damage
+Speed 2.50
+(4.2 damage per second)
+Durability 40 / 40
+Requires Level 5
+Chance on hit:
+Inflicts 1 Nature damage to an enemy every 3 sec. for 12 sec.
+
+
+Item #61453
+URL: https://database.turtle-wow.org/?item=61453
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Anasterian's Legacy
+Binds when picked up
+Unique
+One-hand
+Sword
+54 - 101  Damage
+Speed 1.50
+(51.7 damage per second)
++9 Agility
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increased Swords +4.
+
+
+Item #61523
+URL: https://database.turtle-wow.org/?item=61523
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Crystal Sword of the Blossom
+Binds when picked up
+Unique
+One-hand
+Sword
+79 - 147  Damage
+Speed 1.80
+(62.8 damage per second)
++11 Stamina
++7 Nature Resistance
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to hit by 1%.
+Equip:
++20 Attack Power.
+Equip:
+Increased Swords +3.
+
+
+Item #61529
+URL: https://database.turtle-wow.org/?item=61529
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Pirate's Scimitar
+Binds when equipped
+Main Hand
+Sword
+53 - 98  Damage
+Speed 2.40
+(31.5 damage per second)
+Durability 90 / 90
+Requires Level 51
+Equip:
++18 Attack Power.
+
+
+Item #61552
+URL: https://database.turtle-wow.org/?item=61552
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Corrupted Sword
+Binds when equipped
+One-hand
+Sword
+39 - 73  Damage
+Speed 2.30
+(24.3 damage per second)
++5 Strength
++6 Agility
++-2 Intellect
+Durability 90 / 90
+Requires Level 31
+
+
+Item #61577
+URL: https://database.turtle-wow.org/?item=61577
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Lieutenant's Sword
+Binds when equipped
+One-hand
+Sword
+52 - 98  Damage
+Speed 2.70
+(27.8 damage per second)
++6 Strength
++4 Agility
++2 Stamina
+Durability 75 / 75
+Requires Level 42
+"The initials L.P. are etched on the hilt."
+
+
+Item #61594
+URL: https://database.turtle-wow.org/?item=61594
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Magus Blade
+Binds when equipped
+Main Hand
+Sword
+50 - 95  Damage
+Speed 1.90
+(38.2 damage per second)
++6 Stamina
+Durability 90 / 90
+Requires Level 58
+Equip:
+Increases damage done by Arcane spells and effects by up to 16.
+
+
+Item #61717
+URL: https://database.turtle-wow.org/?item=61717
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Groveslicer Glaive
+Binds when picked up
+Main Hand
+Sword
+76 - 142  Damage
+Speed 2.60
+(41.9 damage per second)
++9 Strength
++5 Nature Resistance
+Durability 90 / 90
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #61751
+URL: https://database.turtle-wow.org/?item=61751
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Item, Sword - Kheyna
+One-hand
+Sword
++1 - 2  Damage
+
+
+Item #61752
+URL: https://database.turtle-wow.org/?item=61752
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Item, Sword - Kheyna
+One-hand
+Sword
++1 - 2  Damage
+
+
+Item #61773
+URL: https://database.turtle-wow.org/?item=61773
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Kamio Fan
+One-hand
+Sword
++1 - 2  Damage
+
+
+Item #65008
+URL: https://database.turtle-wow.org/?item=65008
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Dream's Herald
+Binds when equipped
+Unique
+One-hand
+Sword
+58 - 109  Damage
+Speed 1.90
++3 - 5 Nature Damage
+(46.0 damage per second)
+Durability 90 / 90
+Requires Level 60
+Chance on hit:
+Blasts all targets in front of you with debilitating poison gas, dealing 375 Nature damage over 30 sec, reducing attack and movement speed by 20%.
+"Between waking and dreaming."
+
+
+Item #80501
+URL: https://database.turtle-wow.org/?item=80501
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Sturdy Broadsword
+Binds when picked up
+One-hand
+Sword
+13 - 21  Damage
+Speed 2.10
+(8.1 damage per second)
+Durability 50 / 50
+Classes: Warrior, Paladin, Rogue
+Requires Level 10
+Requires Silvermoon Remnant - Friendly
+Equip:
++4 Attack Power.
+
+
+Item #80535
+URL: https://database.turtle-wow.org/?item=80535
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Quel'dorei Defender's Deflector
+Binds when picked up
+Main Hand
+Sword
+61 - 110  Damage
+Speed 2.00
+(42.8 damage per second)
+40 Armor
++10 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Increased Defense +4.
+
+
+Item #80536
+URL: https://database.turtle-wow.org/?item=80536
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Quel'dorei Assassin's Sword
+Binds when picked up
+One-hand
+Sword
+71 - 134  Damage
+Speed 2.40
+(42.7 damage per second)
++8 Strength
++8 Agility
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+
+
+Item #80601
+URL: https://database.turtle-wow.org/?item=80601
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Flesh Cutter
+Binds when picked up
+One-hand
+Sword
+12 - 22  Damage
+Speed 2.10
+(8.1 damage per second)
+Durability 50 / 50
+Classes: Warrior, Hunter, Rogue
+Requires Level 10
+Requires Revantusk Trolls - Friendly
+Equip:
++4 Attack Power.
+
+
+Item #80636
+URL: https://database.turtle-wow.org/?item=80636
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Revantusk Stalker's Blade
+Binds when picked up
+One-hand
+Sword
+71 - 134  Damage
+Speed 2.40
+(42.7 damage per second)
++8 Strength
++8 Agility
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Revantusk Trolls - Revered
+
+
+Item #80731
+URL: https://database.turtle-wow.org/?item=80731
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Runed Hookblade
+Binds when picked up
+Main Hand
+Sword
+25 - 47  Damage
+Speed 1.90
+(18.9 damage per second)
++2 Stamina
+Durability 90 / 90
+Requires Level 25
+Chance on hit:
+Wounds the target for 75 damage.
+
+
+Item #80733
+URL: https://database.turtle-wow.org/?item=80733
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Cursed Thornblade
+Binds when picked up
+Main Hand
+Sword
+42 - 79  Damage
+Speed 2.70
+(22.4 damage per second)
++5 Stamina
+Durability 90 / 90
+Requires Level 29
+Chance on hit:
+Damage caused by the target is reduced by 5 for 120 sec.
+
+
+Item #80792
+URL: https://database.turtle-wow.org/?item=80792
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Hushblade
+Binds when equipped
+One-hand
+Sword
+37 - 68  Damage
+Speed 1.80
+(29.2 damage per second)
+Durability 65 / 65
+Requires Level 38
+Chance on hit:
+Silences an enemy preventing it from casting spells for 3 sec.
+
+
+Item #81018
+URL: https://database.turtle-wow.org/?item=81018
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Crimson Spellblade
+Binds when picked up
+Main Hand
+Sword
+53 - 99  Damage
+Speed 1.90
+(40.0 damage per second)
++10 Stamina
+Durability 90 / 90
+Requires Level 56
+Equip:
+Increases damage and healing done by magical spells and effects by up to 11.
+Equip:
+Adds 2 fire damage to your melee attacks.
+
+
+Item #81266
+URL: https://database.turtle-wow.org/?item=81266
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Demonic Scimitar
+Binds when equipped
+Main Hand
+Sword
+33 - 59  Damage
+Speed 2.50
+(18.4 damage per second)
++4 Strength
+Durability 90 / 90
+Requires Level 24
+Equip:
++8 Attack Power.
+
+
+Item #81276
+URL: https://database.turtle-wow.org/?item=81276
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Item, Sword - Kheyna
+One-hand
+Sword
++1 - 2  Damage
+
+
+Item #81288
+URL: https://database.turtle-wow.org/?item=81288
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Mechanist's Bonechopper Replica
+Binds when picked up
+One-hand
+Sword
+76 - 139  Damage
+Speed 2.60
+(41.3 damage per second)
++5 Strength
++5 Agility
++5 Stamina
+Durability 90 / 90
+Chance on hit:
+Wounds the target for 20 damage.
+
+
+Item #81339
+URL: https://database.turtle-wow.org/?item=81339
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Brightwater Cutlass
+Binds when picked up
+One-hand
+Sword
+35 - 54  Damage
+Speed 1.50
+(29.7 damage per second)
++7 Stamina
++5 Strength
++1 Agility
+Durability 75 / 75
+"Encrusted with small jade in the golden hilt"
+
+
+Item #83007
+URL: https://database.turtle-wow.org/?item=83007
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Item, Frostmourne
+One-hand
+Sword
++1 - 2  Damage
+
+
+Item #83009
+URL: https://database.turtle-wow.org/?item=83009
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Kael'Thas Staff
+One-hand
+Sword
++1 - 2  Damage
+
+
+Item #83219
+URL: https://database.turtle-wow.org/?item=83219
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Slayer's Edge
+Binds when picked up
+One-hand
+Sword
+34 - 64  Damage
+Speed 1.80
+(27.2 damage per second)
++6 Stamina
+Durability 90 / 90
+Requires Level 35
+Equip:
++12 Attack Power.
+
+
+Item #83259
+URL: https://database.turtle-wow.org/?item=83259
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Old Knighthood Blade
+Binds when picked up
+Main Hand
+Sword
+58 - 86  Damage
+Speed 1.90
++1 - 4 Holy Damage
+(39.2 damage per second)
++5 Spirit
+Requires Level 56
+Equip:
+Increases damage and healing done by magical spells and effects by up to 12.
+"Put in service to the first Knight's of Lordaeron"
+
+
+Item #83269
+URL: https://database.turtle-wow.org/?item=83269
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Terrorblade Glaive
+Binds when picked up
+Main Hand
+Sword
+74 - 121  Damage
+Speed 2.20
++5 - 10 Fire Damage
+(47.7 damage per second)
++5 Fire Resistance
++5 Shadow Resistance
+Durability 105 / 105
+Requires Level 57
+Equip:
++30 Attack Power when fighting Demons.
+Chance on hit:
+Burns an enemy, then inflicts additional Fire damage every 3 sec. for 21 sec.
+Equip:
+Improves your chance to get a critical strike by 1%.
+"Crafted to destroy demonic corruption"
+
+
+Item #83487
+URL: https://database.turtle-wow.org/?item=83487
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Blade of the Fallen Star
+Binds when picked up
+Unique
+Main Hand
+Sword
+64 - 142  Damage
+Speed 2.40
+(42.9 damage per second)
++15 Intellect
++8 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage done by Fire spells and effects by up to 67.
+"Forged from the remnants of a fallen star eons ago."
+
+
+Item #83564
+URL: https://database.turtle-wow.org/?item=83564
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Tempest's Rage
+Binds when picked up
+Unique
+One-hand
+Sword
+59 - 110  Damage
+Speed 1.70
+(49.7 damage per second)
+Durability 105 / 105
+Requires Level 60
+Chance on hit:
+Increases your attack speed by 15% for 20 sec.
+Equip:
+Increased Swords +4.
+
+
+Item #1900
+URL: https://database.turtle-wow.org/?item=1900
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Monster - Thieves Blade
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #19866
+URL: https://database.turtle-wow.org/?item=19866
+Category: Database/Items/Weapons/One-Handed Swords
+Item: 
+Warblade of the Hakkari
+Binds when picked up
+Unique
+Off Hand
+Sword
+57 - 106  Damage
+Speed 1.70
+(47.9 damage per second)
+Durability 105 / 105
+Requires Level 60
+Equip:
++40 Attack Power.
+"The seething flames of hatred."
+The Twin Blades of Hakkari
+(0/2)
+Warblade of the Hakkari
+Warblade of the Hakkari
+(2) Set:
+Increased Swords +6.
+
+

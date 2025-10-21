@@ -1,0 +1,119 @@
+Item #12654
+URL: https://database.turtle-wow.org/?item=12654
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Doomshot
+Projectile
+Arrow
+Adds 20.0 damage per second
+Requires Level 54
+
+
+Item #18042
+URL: https://database.turtle-wow.org/?item=18042
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Thorium Headed Arrow
+Projectile
+Arrow
+Adds 17.5 damage per second
+Requires Level 52
+
+
+Item #19082
+URL: https://database.turtle-wow.org/?item=19082
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Monster - Fire Arrow
+Projectile
+Arrow
+Adds 1.0 damage per second
+
+
+Item #19316
+URL: https://database.turtle-wow.org/?item=19316
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Ice Threaded Arrow
+Binds when picked up
+Projectile
+Arrow
+Adds 16.5 damage per second
+Requires Level 51
+
+
+Item #2515
+URL: https://database.turtle-wow.org/?item=2515
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Sharp Arrow
+Projectile
+Arrow
+Adds 3.5 damage per second
+Requires Level 10
+
+
+Item #2512
+URL: https://database.turtle-wow.org/?item=2512
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Rough Arrow
+Projectile
+Arrow
+Adds 1.5 damage per second
+
+
+Item #3030
+URL: https://database.turtle-wow.org/?item=3030
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Razor Arrow
+Projectile
+Arrow
+Adds 7.5 damage per second
+Requires Level 25
+
+
+Item #3464
+URL: https://database.turtle-wow.org/?item=3464
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Feathered Arrow
+Projectile
+Arrow
+Adds 9.5 damage per second
+
+
+Item #9399
+URL: https://database.turtle-wow.org/?item=9399
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Precision Arrow
+Projectile
+Arrow
+Adds 11.5 damage per second
+Requires Level 35
+
+
+Item #10579
+URL: https://database.turtle-wow.org/?item=10579
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Explosive Arrow
+Projectile
+Arrow
+Adds 14.5 damage per second
+Requires Level 37
+
+
+Item #11285
+URL: https://database.turtle-wow.org/?item=11285
+Category: Database/Items/Projectiles/Arrows
+Item: 
+Jagged Arrow
+Projectile
+Arrow
+Adds 13.0 damage per second
+Requires Level 40
+
+

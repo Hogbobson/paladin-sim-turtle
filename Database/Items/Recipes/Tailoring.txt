@@ -1,0 +1,1966 @@
+Item #75
+URL: https://database.turtle-wow.org/?item=75
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormreaver Gloves
+Binds when picked up
+Requires Tailoring (185)
+Use:
+Teaches you how to sew Stormreaver Gloves.
+
+
+Item #2598
+URL: https://database.turtle-wow.org/?item=2598
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Linen Robe
+Requires Tailoring (40)
+Use:
+Teaches you how to sew a Red Linen Robe.
+
+
+Item #2601
+URL: https://database.turtle-wow.org/?item=2601
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Gray Woolen Robe
+Requires Tailoring (105)
+Use:
+Teaches you how to sew a Gray Woolen Robe.
+
+
+Item #4292
+URL: https://database.turtle-wow.org/?item=4292
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Green Woolen Bag
+Requires Tailoring (95)
+Use:
+Teaches you how to sew a Green Woolen Bag.
+
+
+Item #4348
+URL: https://database.turtle-wow.org/?item=4348
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Phoenix Gloves
+Requires Tailoring (125)
+Use:
+Teaches you how to sew Phoenix Gloves.
+
+
+Item #4347
+URL: https://database.turtle-wow.org/?item=4347
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Reinforced Woolen Shoulders
+Requires Tailoring (120)
+Use:
+Teaches you how to sew Reinforced Woolen Shoulders.
+
+
+Item #4346
+URL: https://database.turtle-wow.org/?item=4346
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Heavy Woolen Cloak
+Requires Tailoring (100)
+Use:
+Teaches you how to sew a Heavy Woolen Cloak.
+
+
+Item #4345
+URL: https://database.turtle-wow.org/?item=4345
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Woolen Boots
+Requires Tailoring (95)
+Use:
+Teaches you how to sew Red Woolen Boots.
+
+
+Item #4352
+URL: https://database.turtle-wow.org/?item=4352
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Boots of the Enchanter
+Requires Tailoring (175)
+Use:
+Teaches you how to sew Boots of the Enchanter.
+
+
+Item #4351
+URL: https://database.turtle-wow.org/?item=4351
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Shadow Hood
+Requires Tailoring (170)
+Use:
+Teaches you how to sew a Shadow Hood.
+
+
+Item #4349
+URL: https://database.turtle-wow.org/?item=4349
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Phoenix Pants
+Requires Tailoring (125)
+Use:
+Teaches you how to sew Phoenix Pants.
+
+
+Item #4355
+URL: https://database.turtle-wow.org/?item=4355
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Icy Cloak
+Requires Tailoring (200)
+Use:
+Teaches you how to sew an Icy Cloak.
+
+
+Item #4356
+URL: https://database.turtle-wow.org/?item=4356
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Star Belt
+Requires Tailoring (200)
+Use:
+Teaches you how to sew a Star Belt.
+
+
+Item #4354
+URL: https://database.turtle-wow.org/?item=4354
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Rich Purple Silk Shirt
+Requires Tailoring (185)
+Use:
+Teaches you how to sew a Rich Purple Silk Shirt.
+
+
+Item #4350
+URL: https://database.turtle-wow.org/?item=4350
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Spider Silk Slippers
+Requires Tailoring (140)
+Use:
+Teaches you how to sew Spider Silk Slippers.
+
+
+Item #4353
+URL: https://database.turtle-wow.org/?item=4353
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Spider Belt
+Requires Tailoring (180)
+Use:
+Teaches you how to sew a Spider Belt.
+
+
+Item #5771
+URL: https://database.turtle-wow.org/?item=5771
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Linen Bag
+Requires Tailoring (70)
+Use:
+Teaches you how to sew a Red Linen Bag.
+
+
+Item #5775
+URL: https://database.turtle-wow.org/?item=5775
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Black Silk Pack
+Requires Tailoring (185)
+Use:
+Teaches you how to sew a Black Silk Pack.
+
+
+Item #5774
+URL: https://database.turtle-wow.org/?item=5774
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Green Silk Pack
+Requires Tailoring (175)
+Use:
+Teaches you how to sew a Green Silk Pack.
+
+
+Item #5772
+URL: https://database.turtle-wow.org/?item=5772
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Woolen Bag
+Requires Tailoring (115)
+Use:
+Teaches you how to sew a Red Woolen Bag.
+
+
+Item #5773
+URL: https://database.turtle-wow.org/?item=5773
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Robes of Arcana
+Requires Tailoring (150)
+Use:
+Teaches you how to sew Robes of Arcana.
+
+
+Item #6274
+URL: https://database.turtle-wow.org/?item=6274
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Blue Overalls
+Requires Tailoring (100)
+Use:
+Teaches you how to sew Blue Overalls.
+
+
+Item #6272
+URL: https://database.turtle-wow.org/?item=6272
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Blue Linen Robe
+Requires Tailoring (70)
+Use:
+Teaches you how to sew a Blue Linen Robe.
+
+
+Item #6273
+URL: https://database.turtle-wow.org/?item=6273
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Green Woolen Robe
+Requires Tailoring (90)
+Use:
+Teaches you how to sew a Green Woolen Robe.
+
+
+Item #6275
+URL: https://database.turtle-wow.org/?item=6275
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Greater Adept's Robe
+Requires Tailoring (115)
+Use:
+Teaches you how to sew a Greater Adept's Robe.
+
+
+Item #6270
+URL: https://database.turtle-wow.org/?item=6270
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Blue Linen Vest
+Requires Tailoring (55)
+Use:
+Teaches you how to sew a Blue Linen Vest.
+
+
+Item #6271
+URL: https://database.turtle-wow.org/?item=6271
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Linen Vest
+Requires Tailoring (55)
+Use:
+Teaches you how to sew a Red Linen Vest.
+
+
+Item #6391
+URL: https://database.turtle-wow.org/?item=6391
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stylish Green Shirt
+Requires Tailoring (120)
+Use:
+Teaches you how to sew a Stylish Green Shirt.
+
+
+Item #6390
+URL: https://database.turtle-wow.org/?item=6390
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stylish Blue Shirt
+Requires Tailoring (120)
+Use:
+Teaches you how to sew a Stylish Blue Shirt.
+
+
+Item #6401
+URL: https://database.turtle-wow.org/?item=6401
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Dark Silk Shirt
+Requires Tailoring (155)
+Use:
+Teaches you how to sew a Dark Silk Shirt.
+
+
+Item #7084
+URL: https://database.turtle-wow.org/?item=7084
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Crimson Silk Shoulders
+Requires Tailoring (190)
+Use:
+Teaches you how to sew Crimson Silk Shoulders.
+
+
+Item #7088
+URL: https://database.turtle-wow.org/?item=7088
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Crimson Silk Robe
+Requires Tailoring (205)
+Use:
+Teaches you how to sew a Crimson Silk Robe.
+
+
+Item #7085
+URL: https://database.turtle-wow.org/?item=7085
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Azure Shoulders
+Requires Tailoring (190)
+Use:
+Teaches you how to sew Azure Shoulders.
+
+
+Item #7087
+URL: https://database.turtle-wow.org/?item=7087
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Crimson Silk Cloak
+Requires Tailoring (180)
+Use:
+Teaches you how to sew a Crimson Silk Cloak.
+
+
+Item #7090
+URL: https://database.turtle-wow.org/?item=7090
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Green Silk Armor
+Requires Tailoring (165)
+Use:
+Teaches you how to sew Green Silk Armor.
+
+
+Item #7089
+URL: https://database.turtle-wow.org/?item=7089
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Azure Silk Cloak
+Requires Tailoring (175)
+Use:
+Teaches you how to sew an Azure Silk Cloak.
+
+
+Item #7091
+URL: https://database.turtle-wow.org/?item=7091
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Truefaith Gloves
+Requires Tailoring (150)
+Use:
+Teaches you how to sew Truefaith Gloves.
+
+
+Item #7093
+URL: https://database.turtle-wow.org/?item=7093
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Boots of Darkness
+Requires Tailoring (140)
+Use:
+Teaches you how to sew Boots of Darkness.
+
+
+Item #7092
+URL: https://database.turtle-wow.org/?item=7092
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Hands of Darkness
+Requires Tailoring (145)
+Use:
+Teaches you how to sew Hands of Darkness.
+
+
+Item #7086
+URL: https://database.turtle-wow.org/?item=7086
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Earthen Silk Belt
+Requires Tailoring (195)
+Use:
+Teaches you how to sew an Earthen Silk Belt.
+
+
+Item #7114
+URL: https://database.turtle-wow.org/?item=7114
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Azure Silk Gloves
+Requires Tailoring (145)
+Use:
+Teaches you how to sew Azure Silk Gloves.
+
+
+Item #10301
+URL: https://database.turtle-wow.org/?item=10301
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: White Bandit Mask
+Requires Tailoring (215)
+Use:
+Teaches you how to sew a  White Bandit Mask.
+
+
+Item #10304
+URL: https://database.turtle-wow.org/?item=10304
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Gloves
+Requires Tailoring (220)
+Use:
+Teaches you how to sew Stormcloth Gloves.
+
+
+Item #10300
+URL: https://database.turtle-wow.org/?item=10300
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Vest
+Requires Tailoring (215)
+Use:
+Teaches you how to sew a Red Mageweave Vest.
+
+
+Item #10302
+URL: https://database.turtle-wow.org/?item=10302
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Pants
+Requires Tailoring (215)
+Use:
+Teaches you how to sew Red Mageweave Pants.
+
+
+Item #10303
+URL: https://database.turtle-wow.org/?item=10303
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Pants
+Requires Tailoring (220)
+Use:
+Teaches you how to sew Stormcloth Pants.
+
+
+Item #10313
+URL: https://database.turtle-wow.org/?item=10313
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Vest
+Requires Tailoring (225)
+Use:
+Teaches you how to sew a Stormcloth Vest.
+
+
+Item #10314
+URL: https://database.turtle-wow.org/?item=10314
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Lavender Mageweave Shirt
+Requires Tailoring (230)
+Use:
+Teaches you how to sew a Lavender Mageweave Shirt.
+
+
+Item #10311
+URL: https://database.turtle-wow.org/?item=10311
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Orange Martial Shirt
+Requires Tailoring (220)
+Use:
+Teaches you how to sew an Orange Martial Shirt.
+
+
+Item #10312
+URL: https://database.turtle-wow.org/?item=10312
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Gloves
+Requires Tailoring (225)
+Use:
+Teaches you how to sew Red Mageweave Gloves.
+
+
+Item #10319
+URL: https://database.turtle-wow.org/?item=10319
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Headband
+Requires Tailoring (240)
+Use:
+Teaches you how to sew a Stormcloth Headband.
+
+
+Item #10317
+URL: https://database.turtle-wow.org/?item=10317
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Pink Mageweave Shirt
+Requires Tailoring (235)
+Use:
+Teaches you how to sew a Pink Mageweave Shirt.
+
+
+Item #10315
+URL: https://database.turtle-wow.org/?item=10315
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Shoulders
+Requires Tailoring (235)
+Use:
+Teaches you how to sew Red Mageweave Shoulders.
+
+
+Item #10321
+URL: https://database.turtle-wow.org/?item=10321
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Tuxedo Shirt
+Requires Tailoring (240)
+Use:
+Teaches you how to sew a Tuxedo Shirt.
+
+
+Item #10320
+URL: https://database.turtle-wow.org/?item=10320
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Headband
+Requires Tailoring (240)
+Use:
+Teaches you how to sew a Red Mageweave Headband.
+
+
+Item #10324
+URL: https://database.turtle-wow.org/?item=10324
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Boots
+Requires Tailoring (250)
+Use:
+Teaches you how to sew Stormcloth Boots.
+
+
+Item #10322
+URL: https://database.turtle-wow.org/?item=10322
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Shoulders
+Requires Tailoring (245)
+Use:
+Teaches you how to sew Stormcloth Shoulders.
+
+
+Item #10318
+URL: https://database.turtle-wow.org/?item=10318
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Admiral's Hat
+Requires Tailoring (240)
+Use:
+Teaches you how to sew an Admiral's Hat.
+
+
+Item #10323
+URL: https://database.turtle-wow.org/?item=10323
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Tuxedo Pants
+Requires Tailoring (245)
+Use:
+Teaches you how to sew Tuxedo Pants.
+
+
+Item #10316
+URL: https://database.turtle-wow.org/?item=10316
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Colorful Kilt
+Requires Tailoring (120)
+Use:
+Teaches you how to sew a Colorful Kilt.
+
+
+Item #10325
+URL: https://database.turtle-wow.org/?item=10325
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: White Wedding Dress
+Requires Tailoring (250)
+Use:
+Teaches you how to sew a  White Wedding Dress.
+
+
+Item #10326
+URL: https://database.turtle-wow.org/?item=10326
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Tuxedo Jacket
+Requires Tailoring (250)
+Use:
+Teaches you how to sew a Tuxedo Jacket.
+
+
+Item #10463
+URL: https://database.turtle-wow.org/?item=10463
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Shadoweave Mask
+Requires Tailoring (245)
+Use:
+Teaches you how to sew a Shadoweave Mask.
+
+
+Item #10300
+URL: https://database.turtle-wow.org/?item=10300
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Vest
+Requires Tailoring (215)
+Use:
+Teaches you how to sew a Red Mageweave Vest.
+
+
+Item #10304
+URL: https://database.turtle-wow.org/?item=10304
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Gloves
+Requires Tailoring (220)
+Use:
+Teaches you how to sew Stormcloth Gloves.
+
+
+Item #10302
+URL: https://database.turtle-wow.org/?item=10302
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Pants
+Requires Tailoring (215)
+Use:
+Teaches you how to sew Red Mageweave Pants.
+
+
+Item #10301
+URL: https://database.turtle-wow.org/?item=10301
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: White Bandit Mask
+Requires Tailoring (215)
+Use:
+Teaches you how to sew a  White Bandit Mask.
+
+
+Item #10314
+URL: https://database.turtle-wow.org/?item=10314
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Lavender Mageweave Shirt
+Requires Tailoring (230)
+Use:
+Teaches you how to sew a Lavender Mageweave Shirt.
+
+
+Item #10313
+URL: https://database.turtle-wow.org/?item=10313
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Vest
+Requires Tailoring (225)
+Use:
+Teaches you how to sew a Stormcloth Vest.
+
+
+Item #10320
+URL: https://database.turtle-wow.org/?item=10320
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Headband
+Requires Tailoring (240)
+Use:
+Teaches you how to sew a Red Mageweave Headband.
+
+
+Item #10317
+URL: https://database.turtle-wow.org/?item=10317
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Pink Mageweave Shirt
+Requires Tailoring (235)
+Use:
+Teaches you how to sew a Pink Mageweave Shirt.
+
+
+Item #10316
+URL: https://database.turtle-wow.org/?item=10316
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Colorful Kilt
+Requires Tailoring (120)
+Use:
+Teaches you how to sew a Colorful Kilt.
+
+
+Item #10312
+URL: https://database.turtle-wow.org/?item=10312
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Gloves
+Requires Tailoring (225)
+Use:
+Teaches you how to sew Red Mageweave Gloves.
+
+
+Item #10315
+URL: https://database.turtle-wow.org/?item=10315
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Red Mageweave Shoulders
+Requires Tailoring (235)
+Use:
+Teaches you how to sew Red Mageweave Shoulders.
+
+
+Item #10319
+URL: https://database.turtle-wow.org/?item=10319
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Headband
+Requires Tailoring (240)
+Use:
+Teaches you how to sew a Stormcloth Headband.
+
+
+Item #10311
+URL: https://database.turtle-wow.org/?item=10311
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Orange Martial Shirt
+Requires Tailoring (220)
+Use:
+Teaches you how to sew an Orange Martial Shirt.
+
+
+Item #10318
+URL: https://database.turtle-wow.org/?item=10318
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Admiral's Hat
+Requires Tailoring (240)
+Use:
+Teaches you how to sew an Admiral's Hat.
+
+
+Item #10324
+URL: https://database.turtle-wow.org/?item=10324
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Boots
+Requires Tailoring (250)
+Use:
+Teaches you how to sew Stormcloth Boots.
+
+
+Item #10323
+URL: https://database.turtle-wow.org/?item=10323
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Tuxedo Pants
+Requires Tailoring (245)
+Use:
+Teaches you how to sew Tuxedo Pants.
+
+
+Item #10325
+URL: https://database.turtle-wow.org/?item=10325
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: White Wedding Dress
+Requires Tailoring (250)
+Use:
+Teaches you how to sew a  White Wedding Dress.
+
+
+Item #10322
+URL: https://database.turtle-wow.org/?item=10322
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Stormcloth Shoulders
+Requires Tailoring (245)
+Use:
+Teaches you how to sew Stormcloth Shoulders.
+
+
+Item #10321
+URL: https://database.turtle-wow.org/?item=10321
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Tuxedo Shirt
+Requires Tailoring (240)
+Use:
+Teaches you how to sew a Tuxedo Shirt.
+
+
+Item #10326
+URL: https://database.turtle-wow.org/?item=10326
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Tuxedo Jacket
+Requires Tailoring (250)
+Use:
+Teaches you how to sew a Tuxedo Jacket.
+
+
+Item #10463
+URL: https://database.turtle-wow.org/?item=10463
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Shadoweave Mask
+Requires Tailoring (245)
+Use:
+Teaches you how to sew a Shadoweave Mask.
+
+
+Item #10728
+URL: https://database.turtle-wow.org/?item=10728
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Black Swashbuckler's Shirt
+Requires Tailoring (200)
+Use:
+Teaches you how to sew a Black Swashbuckler's Shirt.
+
+
+Item #14466
+URL: https://database.turtle-wow.org/?item=14466
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Frostweave Tunic
+Requires Tailoring (255)
+Use:
+Teaches you how to sew a Frostweave Tunic.
+
+
+Item #14469
+URL: https://database.turtle-wow.org/?item=14469
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Robe
+Requires Tailoring (260)
+Use:
+Teaches you how to sew a Runecloth Robe.
+
+
+Item #14467
+URL: https://database.turtle-wow.org/?item=14467
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Frostweave Robe
+Requires Tailoring (255)
+Use:
+Teaches you how to sew a Frostweave Robe.
+
+
+Item #14470
+URL: https://database.turtle-wow.org/?item=14470
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Tunic
+Requires Tailoring (260)
+Use:
+Teaches you how to sew a Runecloth Tunic.
+
+
+Item #14468
+URL: https://database.turtle-wow.org/?item=14468
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Bag
+Requires Tailoring (260)
+Use:
+Teaches you how to sew a Runecloth Bag.
+
+
+Item #14477
+URL: https://database.turtle-wow.org/?item=14477
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Ghostweave Gloves
+Requires Tailoring (270)
+Use:
+Teaches you how to sew Ghostweave Gloves.
+
+
+Item #14473
+URL: https://database.turtle-wow.org/?item=14473
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Ghostweave Belt
+Requires Tailoring (265)
+Use:
+Teaches you how to sew a Ghostweave Belt.
+
+
+Item #14479
+URL: https://database.turtle-wow.org/?item=14479
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Brightcloth Gloves
+Requires Tailoring (270)
+Use:
+Teaches you how to sew Brightcloth Gloves.
+
+
+Item #14478
+URL: https://database.turtle-wow.org/?item=14478
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Brightcloth Robe
+Requires Tailoring (270)
+Use:
+Teaches you how to sew a Brightcloth Robe.
+
+
+Item #14474
+URL: https://database.turtle-wow.org/?item=14474
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Frostweave Gloves
+Requires Tailoring (265)
+Use:
+Teaches you how to sew Frostweave Gloves.
+
+
+Item #14471
+URL: https://database.turtle-wow.org/?item=14471
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cindercloth Vest
+Requires Tailoring (260)
+Use:
+Teaches you how to sew a Cindercloth Vest.
+
+
+Item #14472
+URL: https://database.turtle-wow.org/?item=14472
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Cloak
+Binds when picked up
+Requires Tailoring (265)
+Use:
+Teaches you how to sew a Runecloth Cloak.
+
+
+Item #14480
+URL: https://database.turtle-wow.org/?item=14480
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Ghostweave Vest
+Requires Tailoring (275)
+Use:
+Teaches you how to sew a Ghostweave Vest.
+
+
+Item #14476
+URL: https://database.turtle-wow.org/?item=14476
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cindercloth Gloves
+Requires Tailoring (270)
+Use:
+Teaches you how to sew Cindercloth Gloves.
+
+
+Item #14482
+URL: https://database.turtle-wow.org/?item=14482
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cindercloth Cloak
+Requires Tailoring (275)
+Use:
+Teaches you how to sew a Cindercloth Cloak.
+
+
+Item #14490
+URL: https://database.turtle-wow.org/?item=14490
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cindercloth Pants
+Requires Tailoring (280)
+Use:
+Teaches you how to sew Cindercloth Pants.
+
+
+Item #14485
+URL: https://database.turtle-wow.org/?item=14485
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Wizardweave Leggings
+Requires Tailoring (275)
+Use:
+Teaches you how to sew Wizardweave Leggings.
+
+
+Item #14486
+URL: https://database.turtle-wow.org/?item=14486
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cloak of Fire
+Binds when picked up
+Requires Tailoring (275)
+Use:
+Teaches you how to sew a Cloak of Fire.
+
+
+Item #14483
+URL: https://database.turtle-wow.org/?item=14483
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Felcloth Pants
+Requires Tailoring (275)
+Use:
+Teaches you how to sew Felcloth Pants.
+
+
+Item #14484
+URL: https://database.turtle-wow.org/?item=14484
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Brightcloth Cloak
+Requires Tailoring (275)
+Use:
+Teaches you how to sew a Brightcloth Cloak.
+
+
+Item #14488
+URL: https://database.turtle-wow.org/?item=14488
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Boots
+Requires Tailoring (280)
+Use:
+Teaches you how to sew Runecloth Boots.
+
+
+Item #14481
+URL: https://database.turtle-wow.org/?item=14481
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Gloves
+Requires Tailoring (275)
+Use:
+Teaches you how to sew Runecloth Gloves.
+
+
+Item #14489
+URL: https://database.turtle-wow.org/?item=14489
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Frostweave Pants
+Requires Tailoring (280)
+Use:
+Teaches you how to sew Frostweave Pants.
+
+
+Item #14492
+URL: https://database.turtle-wow.org/?item=14492
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Felcloth Boots
+Requires Tailoring (285)
+Use:
+Teaches you how to sew Felcloth Boots.
+
+
+Item #14495
+URL: https://database.turtle-wow.org/?item=14495
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Ghostweave Pants
+Requires Tailoring (290)
+Use:
+Teaches you how to sew Ghostweave Pants.
+
+
+Item #14499
+URL: https://database.turtle-wow.org/?item=14499
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mooncloth Bag
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Mooncloth Bag.
+
+
+Item #14491
+URL: https://database.turtle-wow.org/?item=14491
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Pants
+Requires Tailoring (285)
+Use:
+Teaches you how to sew Runecloth Pants.
+
+
+Item #14496
+URL: https://database.turtle-wow.org/?item=14496
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Felcloth Hood
+Requires Tailoring (290)
+Use:
+Teaches you how to sew a Felcloth Hood.
+
+
+Item #14500
+URL: https://database.turtle-wow.org/?item=14500
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Wizardweave Robe
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Wizardweave Robe.
+
+
+Item #14498
+URL: https://database.turtle-wow.org/?item=14498
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Headband
+Requires Tailoring (295)
+Use:
+Teaches you how to sew a Runecloth Headband.
+
+
+Item #14493
+URL: https://database.turtle-wow.org/?item=14493
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Robe of Winter Night
+Binds when picked up
+Requires Tailoring (285)
+Use:
+Teaches you how to sew a Robe of Winter Night.
+
+
+Item #14497
+URL: https://database.turtle-wow.org/?item=14497
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mooncloth Leggings
+Requires Tailoring (290)
+Use:
+Teaches you how to sew Mooncloth Leggings.
+
+
+Item #14494
+URL: https://database.turtle-wow.org/?item=14494
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Brightcloth Pants
+Requires Tailoring (290)
+Use:
+Teaches you how to sew Brightcloth Pants.
+
+
+Item #14505
+URL: https://database.turtle-wow.org/?item=14505
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Wizardweave Turban
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Wizardweave Turban.
+
+
+Item #14506
+URL: https://database.turtle-wow.org/?item=14506
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Felcloth Robe
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Felcloth Robe.
+
+
+Item #14504
+URL: https://database.turtle-wow.org/?item=14504
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runecloth Shoulders
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Runecloth Shoulders.
+
+
+Item #14510
+URL: https://database.turtle-wow.org/?item=14510
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Bottomless Bag
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Bottomless Bag.
+
+
+Item #14508
+URL: https://database.turtle-wow.org/?item=14508
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Felcloth Shoulders
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Felcloth Shoulders.
+
+
+Item #14509
+URL: https://database.turtle-wow.org/?item=14509
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mooncloth Circlet
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Mooncloth Circlet.
+
+
+Item #14501
+URL: https://database.turtle-wow.org/?item=14501
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mooncloth Vest
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Mooncloth Vest.
+
+
+Item #14507
+URL: https://database.turtle-wow.org/?item=14507
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mooncloth Shoulders
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Mooncloth Shoulders.
+
+
+Item #14514
+URL: https://database.turtle-wow.org/?item=14514
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Robe of the Void
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Robe of the Void.
+
+
+Item #14512
+URL: https://database.turtle-wow.org/?item=14512
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Truefaith Vestments
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Truefaith Vestments.
+
+
+Item #14511
+URL: https://database.turtle-wow.org/?item=14511
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Gloves of Spell Mastery
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Gloves of Spell Mastery.
+
+
+Item #14513
+URL: https://database.turtle-wow.org/?item=14513
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Robe of the Archmage
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Robe of the Archmage.
+
+
+Item #14526
+URL: https://database.turtle-wow.org/?item=14526
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mooncloth
+Requires Tailoring (250)
+Use:
+Teaches you how to purify Felcloth and turn it into Mooncloth.
+
+
+Item #14627
+URL: https://database.turtle-wow.org/?item=14627
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Bright Yellow Shirt
+Requires Tailoring (135)
+Use:
+Teaches you how to sew a Bright Yellow Shirt.
+
+
+Item #14630
+URL: https://database.turtle-wow.org/?item=14630
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Enchanter's Cowl
+Requires Tailoring (165)
+Use:
+Teaches you how to sew an Enchanter's Cowl.
+
+
+Item #17018
+URL: https://database.turtle-wow.org/?item=17018
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Flarecore Gloves
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Flarecore Gloves.
+
+
+Item #17017
+URL: https://database.turtle-wow.org/?item=17017
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Flarecore Mantle
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Flarecore Mantle.
+
+
+Item #17724
+URL: https://database.turtle-wow.org/?item=17724
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Green Holiday Shirt
+Requires Tailoring (190)
+Use:
+Teaches you how to sew a Green Holiday Shirt.
+
+
+Item #18265
+URL: https://database.turtle-wow.org/?item=18265
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Flarecore Wraps
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Flarecore Wraps.
+
+
+Item #18417
+URL: https://database.turtle-wow.org/?item=18417
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mooncloth Gloves
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Mooncloth Gloves.
+
+
+Item #18416
+URL: https://database.turtle-wow.org/?item=18416
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Inferno Gloves
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Inferno Gloves.
+
+
+Item #18415
+URL: https://database.turtle-wow.org/?item=18415
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Felcloth Gloves
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Felcloth Gloves.
+
+
+Item #18418
+URL: https://database.turtle-wow.org/?item=18418
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cloak of Warding
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Cloak of Warding.
+
+
+Item #18414
+URL: https://database.turtle-wow.org/?item=18414
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Belt of the Archmage
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Belt of the Archmage.
+
+
+Item #18487
+URL: https://database.turtle-wow.org/?item=18487
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mooncloth Robe
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Mooncloth Robe.
+
+
+Item #19215
+URL: https://database.turtle-wow.org/?item=19215
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Wisdom of the Timbermaw
+Binds when picked up
+Requires Tailoring (290)
+Requires Timbermaw Hold - Honored
+Use:
+Teaches you how to sew the Wisdom of the Timbermaw.
+
+
+Item #19217
+URL: https://database.turtle-wow.org/?item=19217
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Argent Shoulders
+Binds when picked up
+Requires Tailoring (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to sew Argent Shoulders.
+
+
+Item #19219
+URL: https://database.turtle-wow.org/?item=19219
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Flarecore Robe
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Flarecore Robe.
+
+
+Item #19216
+URL: https://database.turtle-wow.org/?item=19216
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Argent Boots
+Binds when picked up
+Requires Tailoring (290)
+Requires Argent Dawn - Honored
+Use:
+Teaches you how to sew Argent Boots.
+
+
+Item #19220
+URL: https://database.turtle-wow.org/?item=19220
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Flarecore Leggings
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Flarecore Leggings.
+
+
+Item #19218
+URL: https://database.turtle-wow.org/?item=19218
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Mantle of the Timbermaw
+Binds when picked up
+Requires Tailoring (300)
+Requires Timbermaw Hold - Revered
+Use:
+Teaches you how to sew a Mantle of the Timbermaw.
+
+
+Item #19766
+URL: https://database.turtle-wow.org/?item=19766
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Bloodvine Boots
+Binds when picked up
+Requires Tailoring (300)
+Requires Zandalar Tribe - Friendly
+Use:
+Teaches you how to sew Bloodvine Boots.
+
+
+Item #19764
+URL: https://database.turtle-wow.org/?item=19764
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Bloodvine Vest
+Binds when picked up
+Requires Tailoring (300)
+Requires Zandalar Tribe - Revered
+Use:
+Teaches you how to sew a Bloodvine Vest.
+
+
+Item #19765
+URL: https://database.turtle-wow.org/?item=19765
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Bloodvine Leggings
+Binds when picked up
+Requires Tailoring (300)
+Requires Zandalar Tribe - Honored
+Use:
+Teaches you how to sew Bloodvine Leggings.
+
+
+Item #20547
+URL: https://database.turtle-wow.org/?item=20547
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runed Stygian Boots
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Runed Stygian Boots.
+
+
+Item #20548
+URL: https://database.turtle-wow.org/?item=20548
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runed Stygian Belt
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Runed Stygian Belt.
+
+
+Item #20546
+URL: https://database.turtle-wow.org/?item=20546
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Runed Stygian Leggings
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Runed Stygian Leggings.
+
+
+Item #21358
+URL: https://database.turtle-wow.org/?item=21358
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Soul Pouch
+Requires Tailoring (260)
+Use:
+Teaches you how to sew a Soul Pouch.
+
+
+Item #21369
+URL: https://database.turtle-wow.org/?item=21369
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Felcloth Bag
+Requires Tailoring (285)
+Use:
+Teaches you how to sew a Felcloth Bag.
+
+
+Item #21371
+URL: https://database.turtle-wow.org/?item=21371
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Core Felcloth Bag
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Core Felcloth Bag.
+
+
+Item #21722
+URL: https://database.turtle-wow.org/?item=21722
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Festival Dress
+Requires Tailoring (250)
+Use:
+Teaches you how to sew a Festive Red Dress.
+
+
+Item #21723
+URL: https://database.turtle-wow.org/?item=21723
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Festival Suit
+Requires Tailoring (250)
+Use:
+Teaches you how to sew a Festival Suit.
+
+
+Item #22309
+URL: https://database.turtle-wow.org/?item=22309
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Big Bag of Enchantment
+Requires Tailoring (300)
+Use:
+Teaches you how to sew an Big Bag of Enchantment.
+
+
+Item #22310
+URL: https://database.turtle-wow.org/?item=22310
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cenarion Herb Bag
+Binds when picked up
+Requires Tailoring (275)
+Requires Cenarion Circle - Friendly
+Use:
+Teaches you how to sew a Cenarion Herb Bag.
+
+
+Item #22307
+URL: https://database.turtle-wow.org/?item=22307
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Enchanted Mageweave Pouch
+Requires Tailoring (225)
+Use:
+Teaches you how to sew an Enchanted Mageweave Pouch.
+
+
+Item #22308
+URL: https://database.turtle-wow.org/?item=22308
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Enchanted Runecloth Bag
+Requires Tailoring (275)
+Use:
+Teaches you how to sew an Enchanted Runecloth Bag.
+
+
+Item #22312
+URL: https://database.turtle-wow.org/?item=22312
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Satchel of Cenarius
+Binds when picked up
+Requires Tailoring (300)
+Requires Cenarion Circle - Revered
+Use:
+Teaches you how to sew a Satchel of Cenarius.
+
+
+Item #22687
+URL: https://database.turtle-wow.org/?item=22687
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Glacial Wrists
+Binds when picked up
+Requires Tailoring (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to sew a Glacial Wrists.
+
+
+Item #22683
+URL: https://database.turtle-wow.org/?item=22683
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Gaea's Embrace
+Binds when picked up
+Requires Tailoring (300)
+Requires Cenarion Circle - Revered
+Use:
+Teaches you how to sew Gaea's Embrace.
+
+
+Item #22684
+URL: https://database.turtle-wow.org/?item=22684
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Glacial Gloves
+Binds when picked up
+Requires Tailoring (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to sew Glacial Gloves.
+
+
+Item #22685
+URL: https://database.turtle-wow.org/?item=22685
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Glacial Cloak
+Binds when picked up
+Requires Tailoring (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to sew a Glacial Cloak.
+
+
+Item #22686
+URL: https://database.turtle-wow.org/?item=22686
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Glacial Vest
+Binds when picked up
+Requires Tailoring (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to sew Glacial Vest.
+
+
+Item #22695
+URL: https://database.turtle-wow.org/?item=22695
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Polar Bracers
+Binds when picked up
+Requires Leatherworking (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to craft Polar Bracers.
+
+
+Item #22697
+URL: https://database.turtle-wow.org/?item=22697
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Icy Scale Gauntlets
+Binds when picked up
+Requires Leatherworking (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to craft Icy Scale Gauntlets.
+
+
+Item #22694
+URL: https://database.turtle-wow.org/?item=22694
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Polar Gloves
+Binds when picked up
+Requires Leatherworking (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to craft Polar Gloves.
+
+
+Item #22698
+URL: https://database.turtle-wow.org/?item=22698
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Icy Scale Bracers
+Binds when picked up
+Requires Leatherworking (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to craft Icy Scale Bracers.
+
+
+Item #22773
+URL: https://database.turtle-wow.org/?item=22773
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Sylvan Crown
+Binds when picked up
+Requires Tailoring (300)
+Requires Cenarion Circle - Honored
+Use:
+Teaches you how to sew a Sylvan Crown.
+
+
+Item #22774
+URL: https://database.turtle-wow.org/?item=22774
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Sylvan Vest
+Binds when picked up
+Requires Tailoring (300)
+Requires Cenarion Circle - Revered
+Use:
+Teaches you how to sew a Sylvan Vest.
+
+
+Item #22772
+URL: https://database.turtle-wow.org/?item=22772
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Sylvan Shoulders
+Binds when picked up
+Requires Tailoring (300)
+Requires Cenarion Circle - Friendly
+Use:
+Teaches you how to sew Sylvan Shoulders.
+
+
+Item #51277
+URL: https://database.turtle-wow.org/?item=51277
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Gloves of Manathirst
+Requires Tailoring (75)
+Use:
+Teaches you how to sew Gloves of Manathirst.
+
+
+Item #55031
+URL: https://database.turtle-wow.org/?item=55031
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Royal Robes of the Alteraci Princess
+Binds when picked up
+Requires Tailoring (300)
+Requires Syndicate - Exalted
+
+
+Item #55051
+URL: https://database.turtle-wow.org/?item=55051
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Astronomer Raiments
+Binds when picked up
+Requires Tailoring (300)
+Requires Shen'dralar - Revered
+Use:
+Teaches you how to make Astronomer Raiments.
+
+
+Item #55055
+URL: https://database.turtle-wow.org/?item=55055
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Spellwoven Nobility Drape
+Binds when picked up
+Requires Tailoring (300)
+Requires Shen'dralar - Exalted
+Use:
+Teaches you how to make a Spellwoven Nobility Drape.
+
+
+Item #55536
+URL: https://database.turtle-wow.org/?item=55536
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cosmic Mantle
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Cosmic Mantle.
+
+
+Item #55535
+URL: https://database.turtle-wow.org/?item=55535
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cosmic Headdress
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Cosmic Headdress.
+
+
+Item #55537
+URL: https://database.turtle-wow.org/?item=55537
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cosmic Vest
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to craft a Cosmic Vest.
+
+
+Item #55538
+URL: https://database.turtle-wow.org/?item=55538
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Cosmic Leggings
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Cosmic Leggings.
+
+
+Item #55551
+URL: https://database.turtle-wow.org/?item=55551
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Ley-Kissed Drape
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to sew a Ley-Kissed Drape.
+
+
+Item #61190
+URL: https://database.turtle-wow.org/?item=61190
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Gloves of Unwinding Mystery
+Requires Tailoring (300)
+Use:
+Teaches you how to sew Gloves of Unwinding Mystery.
+
+
+Item #61227
+URL: https://database.turtle-wow.org/?item=61227
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Book: Craft Dreamthread
+Binds when picked up
+Requires Tailoring (300)
+Use:
+Teaches you how to make Dreamthread.
+
+
+Item #62005
+URL: https://database.turtle-wow.org/?item=62005
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Flarecore Boots
+Binds when picked up
+Requires Tailoring (300)
+Requires Thorium Brotherhood - Exalted
+Use:
+Teaches you how to sew a Flarecore Boots.
+
+
+Item #83545
+URL: https://database.turtle-wow.org/?item=83545
+Category: Database/Items/Recipes/Tailoring
+Item: 
+Pattern: Robe of Sacrifice
+Requires Tailoring (300)
+Use:
+Teaches you how to make Robe of Sacrifice.
+
+

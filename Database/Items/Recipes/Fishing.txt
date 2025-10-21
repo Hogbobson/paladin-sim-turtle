@@ -1,0 +1,22 @@
+Item #16082
+URL: https://database.turtle-wow.org/?item=16082
+Category: Database/Items/Recipes/Fishing
+Item: 
+Artisan Fishing - The Way of the Lure
+Requires Level 35
+Requires Fishing (200)
+Use:
+Teaches you how to be an Artisan Fisherman, allowing a maximum of 300 fishing skill.
+
+
+Item #16083
+URL: https://database.turtle-wow.org/?item=16083
+Category: Database/Items/Recipes/Fishing
+Item: 
+Expert Fishing - The Bass and You
+Requires Level 20
+Requires Fishing (125)
+Use:
+Teaches you how to be an Expert Fisherman, allowing a maximum of 225 fishing skill.
+
+

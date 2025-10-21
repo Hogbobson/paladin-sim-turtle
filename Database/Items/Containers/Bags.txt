@@ -1,0 +1,784 @@
+Item #804
+URL: https://database.turtle-wow.org/?item=804
+Category: Database/Items/Containers/Bags
+Item: 
+Large Blue Sack
+10 Slot Bag
+
+
+Item #805
+URL: https://database.turtle-wow.org/?item=805
+Category: Database/Items/Containers/Bags
+Item: 
+Small Red Pouch
+6 Slot Bag
+
+
+Item #828
+URL: https://database.turtle-wow.org/?item=828
+Category: Database/Items/Containers/Bags
+Item: 
+Small Blue Pouch
+6 Slot Bag
+
+
+Item #856
+URL: https://database.turtle-wow.org/?item=856
+Category: Database/Items/Containers/Bags
+Item: 
+Blue Leather Bag
+8 Slot Bag
+
+
+Item #857
+URL: https://database.turtle-wow.org/?item=857
+Category: Database/Items/Containers/Bags
+Item: 
+Large Red Sack
+10 Slot Bag
+
+
+Item #918
+URL: https://database.turtle-wow.org/?item=918
+Category: Database/Items/Containers/Bags
+Item: 
+Deviate Hide Pack
+Binds when picked up
+Unique
+10 Slot Bag
+
+
+Item #932
+URL: https://database.turtle-wow.org/?item=932
+Category: Database/Items/Containers/Bags
+Item: 
+Fel Steed Saddlebags
+Unique
+10 Slot Bag
+
+
+Item #933
+URL: https://database.turtle-wow.org/?item=933
+Category: Database/Items/Containers/Bags
+Item: 
+Large Rucksack
+10 Slot Bag
+
+
+Item #1470
+URL: https://database.turtle-wow.org/?item=1470
+Category: Database/Items/Containers/Bags
+Item: 
+Murloc Skin Bag
+Unique
+10 Slot Bag
+
+
+Item #1537
+URL: https://database.turtle-wow.org/?item=1537
+Category: Database/Items/Containers/Bags
+Item: 
+Old Blanchy's Feed Pouch
+Binds when picked up
+Unique
+4 Slot Bag
+
+
+Item #1623
+URL: https://database.turtle-wow.org/?item=1623
+Category: Database/Items/Containers/Bags
+Item: 
+Raptor Skin Pouch
+Unique
+12 Slot Bag
+
+
+Item #1652
+URL: https://database.turtle-wow.org/?item=1652
+Category: Database/Items/Containers/Bags
+Item: 
+Sturdy Lunchbox
+12 Slot Bag
+
+
+Item #1685
+URL: https://database.turtle-wow.org/?item=1685
+Category: Database/Items/Containers/Bags
+Item: 
+Troll-hide Bag
+14 Slot Bag
+
+
+Item #1729
+URL: https://database.turtle-wow.org/?item=1729
+Category: Database/Items/Containers/Bags
+Item: 
+Gunnysack of the Night Watch
+Binds when picked up
+Unique
+10 Slot Bag
+
+
+Item #1725
+URL: https://database.turtle-wow.org/?item=1725
+Category: Database/Items/Containers/Bags
+Item: 
+Large Knapsack
+12 Slot Bag
+
+
+Item #2082
+URL: https://database.turtle-wow.org/?item=2082
+Category: Database/Items/Containers/Bags
+Item: 
+Wizbang's Gunnysack
+Binds when picked up
+Unique
+6 Slot Bag
+
+
+Item #2657
+URL: https://database.turtle-wow.org/?item=2657
+Category: Database/Items/Containers/Bags
+Item: 
+Red Leather Bag
+8 Slot Bag
+
+
+Item #3233
+URL: https://database.turtle-wow.org/?item=3233
+Category: Database/Items/Containers/Bags
+Item: 
+Gnoll Hide Sack
+Unique
+8 Slot Bag
+
+
+Item #3352
+URL: https://database.turtle-wow.org/?item=3352
+Category: Database/Items/Containers/Bags
+Item: 
+Ooze-covered Bag
+Binds when picked up
+Unique
+10 Slot Bag
+
+
+Item #3343
+URL: https://database.turtle-wow.org/?item=3343
+Category: Database/Items/Containers/Bags
+Item: 
+Captain Sander's Booty Bag
+Binds when picked up
+Unique
+8 Slot Bag
+
+
+Item #3762
+URL: https://database.turtle-wow.org/?item=3762
+Category: Database/Items/Containers/Bags
+Item: 
+Adventurer's Satchel
+Binds when picked up
+Unique
+14 Slot Bag
+"Bigger pockets for bigger adventures!"
+
+
+Item #3914
+URL: https://database.turtle-wow.org/?item=3914
+Category: Database/Items/Containers/Bags
+Item: 
+Journeyman's Backpack
+14 Slot Bag
+
+
+Item #4238
+URL: https://database.turtle-wow.org/?item=4238
+Category: Database/Items/Containers/Bags
+Item: 
+Linen Bag
+6 Slot Bag
+
+
+Item #4240
+URL: https://database.turtle-wow.org/?item=4240
+Category: Database/Items/Containers/Bags
+Item: 
+Woolen Bag
+8 Slot Bag
+
+
+Item #4241
+URL: https://database.turtle-wow.org/?item=4241
+Category: Database/Items/Containers/Bags
+Item: 
+Green Woolen Bag
+8 Slot Bag
+
+
+Item #4245
+URL: https://database.turtle-wow.org/?item=4245
+Category: Database/Items/Containers/Bags
+Item: 
+Small Silk Pack
+10 Slot Bag
+
+
+Item #4500
+URL: https://database.turtle-wow.org/?item=4500
+Category: Database/Items/Containers/Bags
+Item: 
+Traveler's Backpack
+16 Slot Bag
+
+
+Item #4497
+URL: https://database.turtle-wow.org/?item=4497
+Category: Database/Items/Containers/Bags
+Item: 
+Heavy Brown Bag
+10 Slot Bag
+
+
+Item #4499
+URL: https://database.turtle-wow.org/?item=4499
+Category: Database/Items/Containers/Bags
+Item: 
+Huge Brown Sack
+12 Slot Bag
+
+
+Item #4498
+URL: https://database.turtle-wow.org/?item=4498
+Category: Database/Items/Containers/Bags
+Item: 
+Brown Leather Satchel
+8 Slot Bag
+
+
+Item #4496
+URL: https://database.turtle-wow.org/?item=4496
+Category: Database/Items/Containers/Bags
+Item: 
+Small Brown Pouch
+6 Slot Bag
+
+
+Item #4930
+URL: https://database.turtle-wow.org/?item=4930
+Category: Database/Items/Containers/Bags
+Item: 
+Handmade Leather Bag
+Binds when picked up
+Unique
+6 Slot Bag
+
+
+Item #4957
+URL: https://database.turtle-wow.org/?item=4957
+Category: Database/Items/Containers/Bags
+Item: 
+Old Moneybag
+Binds when picked up
+Unique
+6 Slot Bag
+
+
+Item #4981
+URL: https://database.turtle-wow.org/?item=4981
+Category: Database/Items/Containers/Bags
+Item: 
+Adventurer's Belt Pouch
+Binds when picked up
+Unique
+8 Slot Bag
+"An adventurer's best friend — can't pick this pocket!"
+
+
+Item #5081
+URL: https://database.turtle-wow.org/?item=5081
+Category: Database/Items/Containers/Bags
+Item: 
+Kodo Hide Bag
+6 Slot Bag
+
+
+Item #5572
+URL: https://database.turtle-wow.org/?item=5572
+Category: Database/Items/Containers/Bags
+Item: 
+Small Green Pouch
+6 Slot Bag
+
+
+Item #5571
+URL: https://database.turtle-wow.org/?item=5571
+Category: Database/Items/Containers/Bags
+Item: 
+Small Black Pouch
+6 Slot Bag
+
+
+Item #5573
+URL: https://database.turtle-wow.org/?item=5573
+Category: Database/Items/Containers/Bags
+Item: 
+Green Leather Bag
+8 Slot Bag
+
+
+Item #5574
+URL: https://database.turtle-wow.org/?item=5574
+Category: Database/Items/Containers/Bags
+Item: 
+White Leather Bag
+8 Slot Bag
+
+
+Item #5575
+URL: https://database.turtle-wow.org/?item=5575
+Category: Database/Items/Containers/Bags
+Item: 
+Large Green Sack
+10 Slot Bag
+
+
+Item #5576
+URL: https://database.turtle-wow.org/?item=5576
+Category: Database/Items/Containers/Bags
+Item: 
+Large Brown Sack
+10 Slot Bag
+
+
+Item #5603
+URL: https://database.turtle-wow.org/?item=5603
+Category: Database/Items/Containers/Bags
+Item: 
+Wizbang's Gunnysack
+Binds when picked up
+8 Slot Bag
+
+
+Item #5764
+URL: https://database.turtle-wow.org/?item=5764
+Category: Database/Items/Containers/Bags
+Item: 
+Green Silk Pack
+10 Slot Bag
+
+
+Item #5762
+URL: https://database.turtle-wow.org/?item=5762
+Category: Database/Items/Containers/Bags
+Item: 
+Red Linen Bag
+6 Slot Bag
+
+
+Item #5763
+URL: https://database.turtle-wow.org/?item=5763
+Category: Database/Items/Containers/Bags
+Item: 
+Red Woolen Bag
+8 Slot Bag
+
+
+Item #5765
+URL: https://database.turtle-wow.org/?item=5765
+Category: Database/Items/Containers/Bags
+Item: 
+Black Silk Pack
+10 Slot Bag
+
+
+Item #6446
+URL: https://database.turtle-wow.org/?item=6446
+Category: Database/Items/Containers/Bags
+Item: 
+Snakeskin Bag
+Unique
+10 Slot Bag
+
+
+Item #6756
+URL: https://database.turtle-wow.org/?item=6756
+Category: Database/Items/Containers/Bags
+Item: 
+Jewelry Box
+Binds when picked up
+Unique
+6 Slot Bag
+
+
+Item #6754
+URL: https://database.turtle-wow.org/?item=6754
+Category: Database/Items/Containers/Bags
+Item: 
+Large Moneybag
+Binds when picked up
+Unique
+8 Slot Bag
+
+
+Item #9587
+URL: https://database.turtle-wow.org/?item=9587
+Category: Database/Items/Containers/Bags
+Item: 
+Thawpelt Sack
+Binds when picked up
+Unique
+14 Slot Bag
+
+
+Item #10050
+URL: https://database.turtle-wow.org/?item=10050
+Category: Database/Items/Containers/Bags
+Item: 
+Mageweave Bag
+12 Slot Bag
+
+
+Item #10051
+URL: https://database.turtle-wow.org/?item=10051
+Category: Database/Items/Containers/Bags
+Item: 
+Red Mageweave Bag
+12 Slot Bag
+
+
+Item #9587
+URL: https://database.turtle-wow.org/?item=9587
+Category: Database/Items/Containers/Bags
+Item: 
+Thawpelt Sack
+Binds when picked up
+Unique
+14 Slot Bag
+
+
+Item #10050
+URL: https://database.turtle-wow.org/?item=10050
+Category: Database/Items/Containers/Bags
+Item: 
+Mageweave Bag
+12 Slot Bag
+
+
+Item #10051
+URL: https://database.turtle-wow.org/?item=10051
+Category: Database/Items/Containers/Bags
+Item: 
+Red Mageweave Bag
+12 Slot Bag
+
+
+Item #10683
+URL: https://database.turtle-wow.org/?item=10683
+Category: Database/Items/Containers/Bags
+Item: 
+Adventurer's Knapsack
+Binds when picked up
+16 Slot Bag
+"With this on your back, you're basically a turtle."
+
+
+Item #10959
+URL: https://database.turtle-wow.org/?item=10959
+Category: Database/Items/Containers/Bags
+Item: 
+Demon Hide Sack
+Binds when picked up
+Unique
+16 Slot Bag
+
+
+Item #11324
+URL: https://database.turtle-wow.org/?item=11324
+Category: Database/Items/Containers/Bags
+Item: 
+Explorer's Knapsack
+Binds when picked up
+Unique
+14 Slot Bag
+
+
+Item #11742
+URL: https://database.turtle-wow.org/?item=11742
+Category: Database/Items/Containers/Bags
+Item: 
+Wayfarer's Knapsack
+Binds when picked up
+Unique
+16 Slot Bag
+
+
+Item #11845
+URL: https://database.turtle-wow.org/?item=11845
+Category: Database/Items/Containers/Bags
+Item: 
+Handmade Leather Bag
+Binds when picked up
+Unique
+4 Slot Bag
+
+
+Item #13330
+URL: https://database.turtle-wow.org/?item=13330
+Category: Database/Items/Containers/Bags
+Item: 
+Dereks Radish Bag
+18 Slot Bag
+"Derek keeps all his Radish Pals here"
+
+
+Item #14046
+URL: https://database.turtle-wow.org/?item=14046
+Category: Database/Items/Containers/Bags
+Item: 
+Runecloth Bag
+14 Slot Bag
+
+
+Item #14156
+URL: https://database.turtle-wow.org/?item=14156
+Category: Database/Items/Containers/Bags
+Item: 
+Bottomless Bag
+Binds when equipped
+20 Slot Bag
+
+
+Item #14155
+URL: https://database.turtle-wow.org/?item=14155
+Category: Database/Items/Containers/Bags
+Item: 
+Mooncloth Bag
+18 Slot Bag
+
+
+Item #16057
+URL: https://database.turtle-wow.org/?item=16057
+Category: Database/Items/Containers/Bags
+Item: 
+Explorer's Knapsack
+Binds when picked up
+12 Slot Bag
+
+
+Item #17966
+URL: https://database.turtle-wow.org/?item=17966
+Category: Database/Items/Containers/Bags
+Item: 
+Onyxia Hide Backpack
+Binds when picked up
+20 Slot Bag
+
+
+Item #19291
+URL: https://database.turtle-wow.org/?item=19291
+Category: Database/Items/Containers/Bags
+Item: 
+Darkmoon Storage Box
+Unique
+14 Slot Bag
+
+
+Item #19914
+URL: https://database.turtle-wow.org/?item=19914
+Category: Database/Items/Containers/Bags
+Item: 
+Panther Hide Sack
+Binds when picked up
+Unique
+20 Slot Bag
+
+
+Item #20400
+URL: https://database.turtle-wow.org/?item=20400
+Category: Database/Items/Containers/Bags
+Item: 
+Pumpkin Bag
+Binds when picked up
+16 Slot Bag
+
+
+Item #22679
+URL: https://database.turtle-wow.org/?item=22679
+Category: Database/Items/Containers/Bags
+Item: 
+Supply Bag
+Binds when picked up
+Unique
+20 Slot Bag
+
+
+Item #41684
+URL: https://database.turtle-wow.org/?item=41684
+Category: Database/Items/Containers/Bags
+Item: 
+Lavishly Crafted Purse
+Binds when picked up
+Unique
+12 Slot Bag
+
+
+Item #41698
+URL: https://database.turtle-wow.org/?item=41698
+Category: Database/Items/Containers/Bags
+Item: 
+Everlook Broadcasting Co. Backpack
+Binds when picked up
+Unique
+16 Slot Bag
+"Brand new merchandise decorated with Zappo's beautiful face."
+
+
+Item #41707
+URL: https://database.turtle-wow.org/?item=41707
+Category: Database/Items/Containers/Bags
+Item: 
+Satchel of Lunar Giving
+Binds when picked up
+Unique
+20 Slot Bag
+
+
+Item #50004
+URL: https://database.turtle-wow.org/?item=50004
+Category: Database/Items/Containers/Bags
+Item: 
+Portable Pocket Dimension
+Binds when picked up
+36 Slot Bag
+"No matter how heavy the contents, this bag's shape and weight never seem to change."
+
+
+Item #50003
+URL: https://database.turtle-wow.org/?item=50003
+Category: Database/Items/Containers/Bags
+Item: 
+Loremaster's Backpack
+Binds when picked up
+28 Slot Bag
+
+
+Item #50003
+URL: https://database.turtle-wow.org/?item=50003
+Category: Database/Items/Containers/Bags
+Item: 
+Loremaster's Backpack
+Binds when picked up
+28 Slot Bag
+
+
+Item #50004
+URL: https://database.turtle-wow.org/?item=50004
+Category: Database/Items/Containers/Bags
+Item: 
+Portable Pocket Dimension
+Binds when picked up
+36 Slot Bag
+"No matter how heavy the contents, this bag's shape and weight never seem to change."
+
+
+Item #50018
+URL: https://database.turtle-wow.org/?item=50018
+Category: Database/Items/Containers/Bags
+Item: 
+Wanderer's Pouch
+Binds when picked up
+20 Slot Bag
+
+
+Item #50703
+URL: https://database.turtle-wow.org/?item=50703
+Category: Database/Items/Containers/Bags
+Item: 
+Dreambough Satchel
+Binds when picked up
+Unique
+24 Slot Bag
+
+
+Item #51043
+URL: https://database.turtle-wow.org/?item=51043
+Category: Database/Items/Containers/Bags
+Item: 
+Void-Linked Satchel
+Binds when picked up
+Unique
+20 Slot Bag
+Requires  - Exalted
+"The means how this bag holds so many things is better left unspoken."
+
+
+Item #51254
+URL: https://database.turtle-wow.org/?item=51254
+Category: Database/Items/Containers/Bags
+Item: 
+Empty Festive Bag
+Binds when picked up
+Unique
+18 Slot Bag
+
+
+Item #51258
+URL: https://database.turtle-wow.org/?item=51258
+Category: Database/Items/Containers/Bags
+Item: 
+Large Lovely Hand-Made Bag
+Binds when picked up
+36 Slot Bag
+"As big as your heart."
+
+
+Item #51257
+URL: https://database.turtle-wow.org/?item=51257
+Category: Database/Items/Containers/Bags
+Item: 
+Lovely Heart-Shaped Box
+Binds when picked up
+28 Slot Bag
+"Originally designed to store chocolates."
+
+
+Item #51821
+URL: https://database.turtle-wow.org/?item=51821
+Category: Database/Items/Containers/Bags
+Item: 
+Decaying Pouch
+Binds when picked up
+6 Slot Bag
+
+
+Item #58052
+URL: https://database.turtle-wow.org/?item=58052
+Category: Database/Items/Containers/Bags
+Item: 
+Royal Saddle Pouch
+Binds when equipped
+Unique
+14 Slot Bag
+
+
+Item #61089
+URL: https://database.turtle-wow.org/?item=61089
+Category: Database/Items/Containers/Bags
+Item: 
+The Great Sack of Winter Veil
+Binds when picked up
+20 Slot Bag
+
+
+Item #61196
+URL: https://database.turtle-wow.org/?item=61196
+Category: Database/Items/Containers/Bags
+Item: 
+Bag of Vast Consciousness
+Binds when picked up
+Unique
+22 Slot Bag
+
+

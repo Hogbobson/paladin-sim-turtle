@@ -1,0 +1,278 @@
+Item #10507
+URL: https://database.turtle-wow.org/?item=10507
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Solid Dynamite
+Requires Engineering (175)
+Use:
+Inflicts 213 to 288 Fire damage in a 5 yard radius.
+
+
+Item #10514
+URL: https://database.turtle-wow.org/?item=10514
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Mithril Frag Bomb
+Requires Engineering (205)
+Use:
+Inflicts 149 to 202 Fire damage and stuns targets in a 8 yard radius for 2 sec.  Any damage will break the effect.
+
+
+Item #10562
+URL: https://database.turtle-wow.org/?item=10562
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Hi-Explosive Bomb
+Requires Engineering (235)
+Use:
+Inflicts 255 to 346 Fire damage and stuns targets in a 3 yard radius for 3 sec.  Any damage will break the effect.
+
+
+Item #10580
+URL: https://database.turtle-wow.org/?item=10580
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Goblin "Boom" Box
+
+
+Item #10586
+URL: https://database.turtle-wow.org/?item=10586
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+The Big One
+Requires Engineering (225)
+Use:
+Inflicts 340 to 461 Fire damage and stuns targets for 5 sec in a 10 yard radius.  Any damage will break the effect.
+
+
+Item #10646
+URL: https://database.turtle-wow.org/?item=10646
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Goblin Sapper Charge
+Requires Engineering (205)
+Use:
+Explodes when triggered dealing 450 to 751 Fire damage to all enemies nearby and 375 to 626 damage to you.
+
+
+Item #15993
+URL: https://database.turtle-wow.org/?item=15993
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Thorium Grenade
+Requires Engineering (260)
+Use:
+Inflicts 300 to 501 Fire damage and stuns targets for 3 sec in a 3 yard radius.  Any damage will break the effect.
+
+
+Item #16005
+URL: https://database.turtle-wow.org/?item=16005
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Dark Iron Bomb
+Requires Engineering (285)
+Use:
+Inflicts 225 to 676 Fire damage and stuns targets in a 5 yard radius for 4 sec.  Any damage will break the effect.
+
+
+Item #16040
+URL: https://database.turtle-wow.org/?item=16040
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Arcane Bomb
+Requires Engineering (300)
+Use:
+Drains 675 to 1126 mana from those in the blast radius and does 50% of the mana drained in damage to the target.  Also Silences targets in the blast for 5 sec.
+
+
+Item #18588
+URL: https://database.turtle-wow.org/?item=18588
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Ez-Thro Dynamite II
+Requires Level 30
+Use:
+Inflicts 213 to 288 Fire damage in a 5 yard radius (Assuming that it gets to the target, some restrictions may apply.)
+"The dynamite for Non-Engineers that rarely* blows up in your hand with over twice the blasting power of standard EZ-Thro."
+
+
+Item #18594
+URL: https://database.turtle-wow.org/?item=18594
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Powerful Seaforium Charge
+Requires Engineering (275)
+Use:
+Blasts open nearly any locked door.
+
+
+Item #18641
+URL: https://database.turtle-wow.org/?item=18641
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Dense Dynamite
+Requires Engineering (250)
+Use:
+Inflicts 340 to 461 Fire damage in a 5 yard radius.
+
+
+Item #51268
+URL: https://database.turtle-wow.org/?item=51268
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Unstable Mining Dynamite
+Requires Level 10
+Use:
+Light the dynamite and damage enemies 8 yards around you for 121 to 170 Fire damage and damaging you for 1 to 100 Fire damage. This makeshift explosive clearly doesn't follow workplace standards.
+
+
+Item #4358
+URL: https://database.turtle-wow.org/?item=4358
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Rough Dynamite
+Requires Engineering (1)
+Use:
+Inflicts 26 to 35 Fire damage in a 5 yard radius.
+
+
+Item #4360
+URL: https://database.turtle-wow.org/?item=4360
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Rough Copper Bomb
+Requires Engineering (30)
+Use:
+Inflicts 22 to 29 Fire damage and stuns targets in a 3 yard radius for 1 sec.  Any damage will break the effect.
+
+
+Item #4370
+URL: https://database.turtle-wow.org/?item=4370
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Large Copper Bomb
+Requires Engineering (105)
+Use:
+Inflicts 43 to 58 Fire damage and stuns targets in a 5 yard radius for 1 sec.  Any damage will break the effect.
+
+
+Item #4367
+URL: https://database.turtle-wow.org/?item=4367
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Small Seaforium Charge
+Requires Engineering (100)
+Use:
+Blasts open simple locked doors.
+
+
+Item #4365
+URL: https://database.turtle-wow.org/?item=4365
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Coarse Dynamite
+Requires Engineering (75)
+Use:
+Inflicts 51 to 70 Fire damage in a 5 yard radius.
+
+
+Item #4374
+URL: https://database.turtle-wow.org/?item=4374
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Small Bronze Bomb
+Requires Engineering (120)
+Use:
+Inflicts 73 to 98 Fire damage and stuns targets in a 3 yard radius for 2 sec.  Any damage will break the effect.
+
+
+Item #4378
+URL: https://database.turtle-wow.org/?item=4378
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Heavy Dynamite
+Requires Engineering (125)
+Use:
+Inflicts 128 to 173 Fire damage in a 5 yard radius.
+
+
+Item #4380
+URL: https://database.turtle-wow.org/?item=4380
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Big Bronze Bomb
+Requires Engineering (140)
+Use:
+Inflicts 85 to 116 Fire damage and stuns targets in a 5 yard radius for 2 sec.  Any damage will break the effect.
+
+
+Item #4384
+URL: https://database.turtle-wow.org/?item=4384
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Explosive Sheep
+Requires Engineering (150)
+Use:
+Summons an Explosive Sheep which will charge at a nearby enemy and explode for 135 to 166 damage.  Lasts for 3 min or until it explodes.
+
+
+Item #4390
+URL: https://database.turtle-wow.org/?item=4390
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Iron Grenade
+Requires Engineering (175)
+Use:
+Inflicts 132 to 219 Fire damage and stuns targets for 3 sec in a 3 yard radius.  Any damage will break the effect.
+
+
+Item #4395
+URL: https://database.turtle-wow.org/?item=4395
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Goblin Land Mine
+Requires Engineering (195)
+Use:
+Places the Goblin Land Mine on the ground.  It will explode for 394 to 507 fire damage the next time a hostile creature passes near it.  The mine has a duration of 60 sec.
+
+
+Item #4394
+URL: https://database.turtle-wow.org/?item=4394
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Big Iron Bomb
+Requires Engineering (190)
+Use:
+Inflicts 149 to 202 Fire damage and stuns targets in a 5 yard radius for 3 sec.  Any damage will break the effect.
+
+
+Item #4398
+URL: https://database.turtle-wow.org/?item=4398
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Large Seaforium Charge
+Requires Engineering (200)
+Use:
+Blasts open difficult locked doors.
+
+
+Item #4852
+URL: https://database.turtle-wow.org/?item=4852
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Flash Bomb
+Requires Level 27
+Use:
+Causes all Beasts in a 5 yard radius to run away for 10 sec.
+
+
+Item #6714
+URL: https://database.turtle-wow.org/?item=6714
+Category: Database/Items/Trade Goods/Explosives
+Item: 
+Ez-Thro Dynamite
+Requires Level 10
+Use:
+The dynamite for Non-Engineers that nearly always gets to the target!  Inflicts 51 to 70 Fire damage in a 5 yard radius.
+
+

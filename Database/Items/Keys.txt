@@ -1,0 +1,979 @@
+Item #2629
+URL: https://database.turtle-wow.org/?item=2629
+Category: Database/Items/Keys
+Item: 
+Intrepid Strongbox Key
+Quest Item
+Unique
+
+
+Item #2719
+URL: https://database.turtle-wow.org/?item=2719
+Category: Database/Items/Keys
+Item: 
+Small Brass Key
+Quest Item
+Unique
+
+
+Item #3467
+URL: https://database.turtle-wow.org/?item=3467
+Category: Database/Items/Keys
+Item: 
+Dull Iron Key
+Quest Item
+Unique
+
+
+Item #3499
+URL: https://database.turtle-wow.org/?item=3499
+Category: Database/Items/Keys
+Item: 
+Burnished Gold Key
+Quest Item
+Unique
+
+
+Item #3704
+URL: https://database.turtle-wow.org/?item=3704
+Category: Database/Items/Keys
+Item: 
+Rusted Iron Key
+Quest Item
+Unique
+
+
+Item #3930
+URL: https://database.turtle-wow.org/?item=3930
+Category: Database/Items/Keys
+Item: 
+Maury's Key
+Quest Item
+Unique
+
+
+Item #4103
+URL: https://database.turtle-wow.org/?item=4103
+Category: Database/Items/Keys
+Item: 
+Shackle Key
+Quest Item
+Unique
+
+
+Item #4484
+URL: https://database.turtle-wow.org/?item=4484
+Category: Database/Items/Keys
+Item: 
+Cresting Key
+Quest Item
+Unique
+
+
+Item #4483
+URL: https://database.turtle-wow.org/?item=4483
+Category: Database/Items/Keys
+Item: 
+Burning Key
+Quest Item
+Unique
+
+
+Item #4485
+URL: https://database.turtle-wow.org/?item=4485
+Category: Database/Items/Keys
+Item: 
+Thundering Key
+Quest Item
+Unique
+
+
+Item #4882
+URL: https://database.turtle-wow.org/?item=4882
+Category: Database/Items/Keys
+Item: 
+Benedict's Key
+Unique
+
+
+Item #5020
+URL: https://database.turtle-wow.org/?item=5020
+Category: Database/Items/Keys
+Item: 
+Kolkar Booty Key
+Unique
+Use:
+Opens the Kolkar Booty chest.
+
+
+Item #5050
+URL: https://database.turtle-wow.org/?item=5050
+Category: Database/Items/Keys
+Item: 
+Ignition Key
+Quest Item
+Unique
+
+
+Item #5089
+URL: https://database.turtle-wow.org/?item=5089
+Category: Database/Items/Keys
+Item: 
+Console Key
+Quest Item
+Unique
+
+
+Item #5397
+URL: https://database.turtle-wow.org/?item=5397
+Category: Database/Items/Keys
+Item: 
+Defias Gunpowder
+Binds when picked up
+Unique
+
+
+Item #5396
+URL: https://database.turtle-wow.org/?item=5396
+Category: Database/Items/Keys
+Item: 
+Key to Searing Gorge
+Binds when picked up
+Unique
+
+
+Item #5475
+URL: https://database.turtle-wow.org/?item=5475
+Category: Database/Items/Keys
+Item: 
+Wooden Key
+Quest Item
+Use:
+Unlocks a worn chest.
+
+
+Item #5517
+URL: https://database.turtle-wow.org/?item=5517
+Category: Database/Items/Keys
+Item: 
+Tiny Bronze Key
+Classes: Mage
+"A reagent for mage spells."
+
+
+Item #5518
+URL: https://database.turtle-wow.org/?item=5518
+Category: Database/Items/Keys
+Item: 
+Tiny Iron Key
+Classes: Mage
+"A reagent for mage spells."
+
+
+Item #5851
+URL: https://database.turtle-wow.org/?item=5851
+Category: Database/Items/Keys
+Item: 
+Cozzle's Key
+Quest Item
+Unique
+
+
+Item #5916
+URL: https://database.turtle-wow.org/?item=5916
+Category: Database/Items/Keys
+Item: 
+Gnome Camera Key
+Use:
+Use on the Gnome Camera Terminal.
+"NYI"
+
+
+Item #5937
+URL: https://database.turtle-wow.org/?item=5937
+Category: Database/Items/Keys
+Item: 
+Goblin Camera Key
+"NYI"
+
+
+Item #6208
+URL: https://database.turtle-wow.org/?item=6208
+Category: Database/Items/Keys
+Item: 
+PVP - Alliance Tower Plans
+Unique
+
+
+Item #6209
+URL: https://database.turtle-wow.org/?item=6209
+Category: Database/Items/Keys
+Item: 
+PVP - Horde Mine Deed
+Unique
+
+
+Item #6210
+URL: https://database.turtle-wow.org/?item=6210
+Category: Database/Items/Keys
+Item: 
+PVP - Alliance Mine Deed
+Unique
+
+
+Item #6893
+URL: https://database.turtle-wow.org/?item=6893
+Category: Database/Items/Keys
+Item: 
+Workshop Key
+Binds when picked up
+Unique
+
+
+Item #7146
+URL: https://database.turtle-wow.org/?item=7146
+Category: Database/Items/Keys
+Item: 
+The Scarlet Key
+Binds when picked up
+Unique
+
+
+Item #7923
+URL: https://database.turtle-wow.org/?item=7923
+Category: Database/Items/Keys
+Item: 
+Defias Tower Key
+Quest Item
+Unique
+
+
+Item #8072
+URL: https://database.turtle-wow.org/?item=8072
+Category: Database/Items/Keys
+Item: 
+Silixiz's Tower Key
+Quest Item
+Unique
+
+
+Item #8148
+URL: https://database.turtle-wow.org/?item=8148
+Category: Database/Items/Keys
+Item: 
+Tiny Silver Key
+Classes: Mage
+"A reagent for mage spells."
+
+
+Item #8147
+URL: https://database.turtle-wow.org/?item=8147
+Category: Database/Items/Keys
+Item: 
+Tiny Copper Key
+Classes: Mage
+"A reagent for mage spells."
+
+
+Item #9249
+URL: https://database.turtle-wow.org/?item=9249
+Category: Database/Items/Keys
+Item: 
+Captain's Key
+Unique
+
+
+Item #9299
+URL: https://database.turtle-wow.org/?item=9299
+Category: Database/Items/Keys
+Item: 
+Thermaplugg's Safe Combination
+Quest Item
+Unique
+
+
+Item #10460
+URL: https://database.turtle-wow.org/?item=10460
+Category: Database/Items/Keys
+Item: 
+Hakkari Blood
+Unique
+Use:
+Use on an Eternal Flame.
+
+
+Item #10460
+URL: https://database.turtle-wow.org/?item=10460
+Category: Database/Items/Keys
+Item: 
+Hakkari Blood
+Unique
+Use:
+Use on an Eternal Flame.
+
+
+Item #10757
+URL: https://database.turtle-wow.org/?item=10757
+Category: Database/Items/Keys
+Item: 
+Ward of the Defiler
+Quest Item
+Unique
+Use:
+Use at the Altar of the Defiler to summon Razelikh the Defiler.
+"The completed amulet of Rakh'likh."
+
+
+Item #11000
+URL: https://database.turtle-wow.org/?item=11000
+Category: Database/Items/Keys
+Item: 
+Shadowforge Key
+Quest Item
+Unique
+"Master Key to the Depths, Courtesy of F.F.F."
+
+
+Item #11079
+URL: https://database.turtle-wow.org/?item=11079
+Category: Database/Items/Keys
+Item: 
+Gor'tesh's Lopped Off Head
+Quest Item
+Unique
+Use:
+Place on a SOFT DIRT MOUND.
+"Gor'tesh's severed head, propped up on a pike."
+
+
+Item #11078
+URL: https://database.turtle-wow.org/?item=11078
+Category: Database/Items/Keys
+Item: 
+Relic Coffer Key
+Use:
+Opens a Black Vault Relic Coffer Door.
+
+
+Item #11085
+URL: https://database.turtle-wow.org/?item=11085
+Category: Database/Items/Keys
+Item: 
+Customer of the Month Coffer Key
+Quest Item
+Use:
+Use on the Dark Coffer in the Black Vault.
+
+
+Item #11115
+URL: https://database.turtle-wow.org/?item=11115
+Category: Database/Items/Keys
+Item: 
+Secret Safe Key
+Unique
+Use:
+Use on the Secret Safe.
+
+
+Item #11140
+URL: https://database.turtle-wow.org/?item=11140
+Category: Database/Items/Keys
+Item: 
+Prison Cell Key
+Binds when picked up
+Unique
+"Various runes and etchings cover the surface of the key."
+
+
+Item #11602
+URL: https://database.turtle-wow.org/?item=11602
+Category: Database/Items/Keys
+Item: 
+Grim Guzzler Key
+Unique
+Use:
+Open locked bar door.
+
+
+Item #12143
+URL: https://database.turtle-wow.org/?item=12143
+Category: Database/Items/Keys
+Item: 
+Dragonspine Key
+Quest Item
+Unique
+
+
+Item #12144
+URL: https://database.turtle-wow.org/?item=12144
+Category: Database/Items/Keys
+Item: 
+Eggscilloscope
+Binds when picked up
+Unique
+Use:
+Freeze a nearby Rookery Egg.
+
+
+Item #12301
+URL: https://database.turtle-wow.org/?item=12301
+Category: Database/Items/Keys
+Item: 
+Bamboo Cage Key
+Quest Item
+Unique
+
+
+Item #12382
+URL: https://database.turtle-wow.org/?item=12382
+Category: Database/Items/Keys
+Item: 
+Key to the City
+Binds when picked up
+Unique
+"Master Key to the City of Stratholme"
+
+
+Item #12973
+URL: https://database.turtle-wow.org/?item=12973
+Category: Database/Items/Keys
+Item: 
+Scarlet Cannonball
+Unique
+
+
+Item #13303
+URL: https://database.turtle-wow.org/?item=13303
+Category: Database/Items/Keys
+Item: 
+Crusaders' Square Postbox Key
+Use:
+Opens a Stratholme postbox.
+
+
+Item #13305
+URL: https://database.turtle-wow.org/?item=13305
+Category: Database/Items/Keys
+Item: 
+Elders' Square Postbox Key
+Use:
+Opens a Stratholme postbox.
+
+
+Item #13307
+URL: https://database.turtle-wow.org/?item=13307
+Category: Database/Items/Keys
+Item: 
+Fras Siabi's Postbox Key
+Use:
+Opens a Stratholme postbox.
+
+
+Item #13304
+URL: https://database.turtle-wow.org/?item=13304
+Category: Database/Items/Keys
+Item: 
+Festival Lane Postbox Key
+Use:
+Opens a Stratholme postbox.
+
+
+Item #13306
+URL: https://database.turtle-wow.org/?item=13306
+Category: Database/Items/Keys
+Item: 
+King's Square Postbox Key
+Use:
+Opens a Stratholme postbox.
+
+
+Item #13302
+URL: https://database.turtle-wow.org/?item=13302
+Category: Database/Items/Keys
+Item: 
+Market Row Postbox Key
+Use:
+Opens a Stratholme postbox.
+
+
+Item #13704
+URL: https://database.turtle-wow.org/?item=13704
+Category: Database/Items/Keys
+Item: 
+Skeleton Key
+Quest Item
+Unique
+
+
+Item #13873
+URL: https://database.turtle-wow.org/?item=13873
+Category: Database/Items/Keys
+Item: 
+Viewing Room Key
+Binds when picked up
+Unique
+
+
+Item #15869
+URL: https://database.turtle-wow.org/?item=15869
+Category: Database/Items/Keys
+Item: 
+Silver Skeleton Key
+Requires Blacksmithing (100)
+Use:
+Allows opening of simple locks.  The skeleton key is consumed in the process.
+
+
+Item #15870
+URL: https://database.turtle-wow.org/?item=15870
+Category: Database/Items/Keys
+Item: 
+Golden Skeleton Key
+Requires Blacksmithing (150)
+Use:
+Allows opening of standard locks.  The skeleton key is consumed in the process.
+
+
+Item #15871
+URL: https://database.turtle-wow.org/?item=15871
+Category: Database/Items/Keys
+Item: 
+Truesilver Skeleton Key
+Requires Blacksmithing (200)
+Use:
+Allows opening of difficult locks.  The skeleton key is consumed in the process.
+
+
+Item #15872
+URL: https://database.turtle-wow.org/?item=15872
+Category: Database/Items/Keys
+Item: 
+Arcanite Skeleton Key
+Requires Blacksmithing (275)
+Use:
+Allows opening of hard locks.  The skeleton key is consumed in the process.
+
+
+Item #15874
+URL: https://database.turtle-wow.org/?item=15874
+Category: Database/Items/Keys
+Item: 
+Soft-shelled Clam
+Quest Item
+
+
+Item #16308
+URL: https://database.turtle-wow.org/?item=16308
+Category: Database/Items/Keys
+Item: 
+Northridge Crowbar
+Quest Item
+Unique
+Use:
+Opens the termite barrel placed in the Northridge Lumber Mill.
+
+
+Item #17242
+URL: https://database.turtle-wow.org/?item=17242
+Category: Database/Items/Keys
+Item: 
+Key to Salem's Chest
+"Opens Dark Cleric Salem's Chest"
+
+
+Item #17262
+URL: https://database.turtle-wow.org/?item=17262
+Category: Database/Items/Keys
+Item: 
+James' Key
+"Opens the stolen chest from the Cathedral of Light"
+
+
+Item #18250
+URL: https://database.turtle-wow.org/?item=18250
+Category: Database/Items/Keys
+Item: 
+Gordok Shackle Key
+Binds when picked up
+Unique
+"Used with Gordok ogre shackles."
+
+
+Item #18249
+URL: https://database.turtle-wow.org/?item=18249
+Category: Database/Items/Keys
+Item: 
+Crescent Key
+Binds when picked up
+Unique
+
+
+Item #18266
+URL: https://database.turtle-wow.org/?item=18266
+Category: Database/Items/Keys
+Item: 
+Gordok Courtyard Key
+Binds when picked up
+Unique
+Dire Maul (Dungeon)
+
+
+Item #18268
+URL: https://database.turtle-wow.org/?item=18268
+Category: Database/Items/Keys
+Item: 
+Gordok Inner Door Key
+Binds when picked up
+Unique
+Dire Maul (Dungeon)
+
+
+Item #19470
+URL: https://database.turtle-wow.org/?item=19470
+Category: Database/Items/Keys
+Item: 
+Emerald Key
+Binds when picked up
+Unique
+
+
+Item #21761
+URL: https://database.turtle-wow.org/?item=21761
+Category: Database/Items/Keys
+Item: 
+Scarab Coffer Key
+Use:
+Opens a Scarab Coffer.
+
+
+Item #21762
+URL: https://database.turtle-wow.org/?item=21762
+Category: Database/Items/Keys
+Item: 
+Greater Scarab Coffer Key
+Use:
+Opens a Greater Scarab Coffer.
+
+
+Item #41452
+URL: https://database.turtle-wow.org/?item=41452
+Category: Database/Items/Keys
+Item: 
+Orb of Whisperwind Grove
+Binds when picked up
+Unique
+"Orb glows in your hands, shimmering with yellow colors"
+
+
+Item #41676
+URL: https://database.turtle-wow.org/?item=41676
+Category: Database/Items/Keys
+Item: 
+Winery Key
+Binds when picked up
+Unique
+
+
+Item #41692
+URL: https://database.turtle-wow.org/?item=41692
+Category: Database/Items/Keys
+Item: 
+Blackrock Coffer Key
+Binds when picked up
+Unique
+Use:
+Opens the Blackrock Coffer.
+
+
+Item #41876
+URL: https://database.turtle-wow.org/?item=41876
+Category: Database/Items/Keys
+Item: 
+Lower Reserve Key
+Binds when picked up
+Use:
+Opens Lower Reserve Gate.
+"For use within the mining networks beneath Grim Batol"
+
+
+Item #41905
+URL: https://database.turtle-wow.org/?item=41905
+Category: Database/Items/Keys
+Item: 
+Kwabit's Chest Key
+Binds when picked up
+Unique
+Use:
+Opens the Kwabit's Chest.
+
+
+Item #41913
+URL: https://database.turtle-wow.org/?item=41913
+Category: Database/Items/Keys
+Item: 
+Key to Stormwrought Castle
+Binds when picked up
+Use:
+Opens Stormwrought Castle Gate.
+
+
+Item #50010
+URL: https://database.turtle-wow.org/?item=50010
+Category: Database/Items/Keys
+Item: 
+[Deprecated] Glyph of the Turtle
+Binds when picked up
+Unique
+
+
+Item #50521
+URL: https://database.turtle-wow.org/?item=50521
+Category: Database/Items/Keys
+Item: 
+[Deprecated] Glyph of Exhaustion
+Binds when picked up
+Unique
+
+
+Item #50746
+URL: https://database.turtle-wow.org/?item=50746
+Category: Database/Items/Keys
+Item: 
+Glyph of the Honorless
+Binds when picked up
+Unique
+"I PvP for fun! This glyph prevents you from gaining honor."
+
+
+Item #50745
+URL: https://database.turtle-wow.org/?item=50745
+Category: Database/Items/Keys
+Item: 
+Glyph of Self-Restraint
+Binds when picked up
+Unique
+"This glyph prevents you from gambling."
+
+
+Item #51055
+URL: https://database.turtle-wow.org/?item=51055
+Category: Database/Items/Keys
+Item: 
+Glyph of the Oak
+Binds when picked up
+Unique
+Classes: Druid
+"Use this Glyph to Shapeshift into the Tree of Life."
+
+
+Item #51056
+URL: https://database.turtle-wow.org/?item=51056
+Category: Database/Items/Keys
+Item: 
+Glyph of the Forest Stag
+Binds when picked up
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Travel Form will take the appearance of a Forest Stag."
+
+
+Item #51057
+URL: https://database.turtle-wow.org/?item=51057
+Category: Database/Items/Keys
+Item: 
+Glyph of the Frostsaber
+Binds when picked up
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Cat Form will take the appearance of a Frostsaber."
+
+
+Item #51064
+URL: https://database.turtle-wow.org/?item=51064
+Category: Database/Items/Keys
+Item: 
+Glyph of the White Stag
+Binds when picked up
+Unique
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Travel Form will take the appearance of a White Stag."
+
+
+Item #51070
+URL: https://database.turtle-wow.org/?item=51070
+Category: Database/Items/Keys
+Item: 
+Glyph of the Arcane Treant
+Binds when picked up
+Unique
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Tree Form will take the appearance of an Arcane Treant."
+
+
+Item #51266
+URL: https://database.turtle-wow.org/?item=51266
+Category: Database/Items/Keys
+Item: 
+Glyph of the Ice Bear
+Binds when picked up
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Bear Form will take the appearance of an Ice Bear."
+
+
+Item #51356
+URL: https://database.turtle-wow.org/?item=51356
+Category: Database/Items/Keys
+Item: 
+Karazhan Crypt Key
+Binds when picked up
+Unique
+Use:
+Opens Karazhan Crypt.
+"Covered in rust."
+
+
+Item #51360
+URL: https://database.turtle-wow.org/?item=51360
+Category: Database/Items/Keys
+Item: 
+Glyph of the Emerald Bear
+Binds when picked up
+Unique
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Bear Form will take the appearance of an Emerald Bear."
+
+
+Item #51361
+URL: https://database.turtle-wow.org/?item=51361
+Category: Database/Items/Keys
+Item: 
+Glyph of the Dreamkin
+Binds when picked up
+Unique
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Moonkin Form will take the appearance of a Dreamkin."
+
+
+Item #51362
+URL: https://database.turtle-wow.org/?item=51362
+Category: Database/Items/Keys
+Item: 
+Glyph of the Dream Panther
+Binds when picked up
+Unique
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Cat Form will take the appearance of a Dream Panther."
+
+
+Item #51432
+URL: https://database.turtle-wow.org/?item=51432
+Category: Database/Items/Keys
+Item: 
+Glyph of Stars
+Binds when picked up
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Moonkin Form will take the appearance of an Astral Form."
+
+
+Item #51431
+URL: https://database.turtle-wow.org/?item=51431
+Category: Database/Items/Keys
+Item: 
+Glyph of the Frostkin
+Binds when picked up
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Moonkin Form will take the appearance of a Frostkin."
+
+
+Item #51830
+URL: https://database.turtle-wow.org/?item=51830
+Category: Database/Items/Keys
+Item: 
+Glyph of the Orca
+Binds when picked up
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Aquatic Form will take the appearance of an Orca."
+
+
+Item #51831
+URL: https://database.turtle-wow.org/?item=51831
+Category: Database/Items/Keys
+Item: 
+Glyph of the Spectral Wolf
+Binds when picked up
+Unique
+Classes: Shaman
+Use:
+Add a new glyph to your spellbook.
+"While active, your Ghost Form will take the appearance of a Spectral Wolf."
+
+
+Item #51909
+URL: https://database.turtle-wow.org/?item=51909
+Category: Database/Items/Keys
+Item: 
+Glyph of the Penguin
+Binds when picked up
+Classes: Druid
+Use:
+Add a new glyph to your spellbook.
+"While active, your Aquatic Form will take the appearance of a Penguin."
+
+
+Item #53005
+URL: https://database.turtle-wow.org/?item=53005
+Category: Database/Items/Keys
+Item: 
+Scarlet Crusade Insignia
+Binds when picked up
+Unique
+"This insignia marks the bearer as a fully fledged member of the Scarlet Crusade."
+
+
+Item #60302
+URL: https://database.turtle-wow.org/?item=60302
+Category: Database/Items/Keys
+Item: 
+Lapidis Tower Key
+Quest Item
+Unique
+Use:
+Opens Magically Sealed Door.
+
+
+Item #61234
+URL: https://database.turtle-wow.org/?item=61234
+Category: Database/Items/Keys
+Item: 
+Upper Karazhan Tower Key
+Binds when picked up
+
+
+Item #6207
+URL: https://database.turtle-wow.org/?item=6207
+Category: Database/Items/Keys
+Item: 
+PVP - Horde Tower Plans
+Unique
+
+

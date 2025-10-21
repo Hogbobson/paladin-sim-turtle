@@ -1,0 +1,1200 @@
+Item #76
+URL: https://database.turtle-wow.org/?item=76
+Category: Database/Items/Recipes
+Item: 
+Plans: Refined Dwarven Necklace
+Binds when picked up
+Use:
+Teaches you how to craft a Refined Dwarven Necklace.
+
+
+Item #77
+URL: https://database.turtle-wow.org/?item=77
+Category: Database/Items/Recipes
+Item: 
+Plans: Ancient Dwarven Gemstone
+Binds when picked up
+Use:
+Teaches you how to craft a Refined Dwarven Necklace.
+
+
+Item #50298
+URL: https://database.turtle-wow.org/?item=50298
+Category: Database/Items/Recipes
+Item: 
+Plans: Minor Trollblood Ring
+Use:
+Teaches you how to craft a Minor Trollblood Ring.
+
+
+Item #55076
+URL: https://database.turtle-wow.org/?item=55076
+Category: Database/Items/Recipes
+Item: 
+Design: Carnelia's Sunset
+Binds when picked up
+Requires Ravenholdt - Exalted
+
+
+Item #56024
+URL: https://database.turtle-wow.org/?item=56024
+Category: Database/Items/Recipes
+Item: 
+Plans: Blue Starfire
+Use:
+Teaches you how to craft a Blue Starfire.
+
+
+Item #56022
+URL: https://database.turtle-wow.org/?item=56022
+Category: Database/Items/Recipes
+Item: 
+Plans: Bulky Copper Ring
+Use:
+Teaches you how to craft a Bulky Copper Ring.
+
+
+Item #56021
+URL: https://database.turtle-wow.org/?item=56021
+Category: Database/Items/Recipes
+Item: 
+Plans: Small Pearl Ring
+Use:
+Teaches you how to craft a Small Pearl Ring.
+
+
+Item #56027
+URL: https://database.turtle-wow.org/?item=56027
+Category: Database/Items/Recipes
+Item: 
+Plans: Arcanum Baton
+Use:
+Teaches you how to craft a Arcanum Baton.
+
+
+Item #56028
+URL: https://database.turtle-wow.org/?item=56028
+Category: Database/Items/Recipes
+Item: 
+Plans: Sunburst Tiara
+Use:
+Teaches you how to craft a Sunburst Tiara.
+
+
+Item #56025
+URL: https://database.turtle-wow.org/?item=56025
+Category: Database/Items/Recipes
+Item: 
+Plans: Emerald Monarch's Glow
+Use:
+Teaches you how to craft a Emerald Monarch's Glow.
+
+
+Item #56026
+URL: https://database.turtle-wow.org/?item=56026
+Category: Database/Items/Recipes
+Item: 
+Plans: Sapphire Luminescence
+Requires Goldsmith
+Use:
+Teaches you how to craft a Sapphire Luminescence.
+
+
+Item #56030
+URL: https://database.turtle-wow.org/?item=56030
+Category: Database/Items/Recipes
+Item: 
+Plans: Starry Thorium Band
+Use:
+Teaches you how to craft a Starry Thorium Band.
+
+
+Item #56029
+URL: https://database.turtle-wow.org/?item=56029
+Category: Database/Items/Recipes
+Item: 
+Plans: Ocean's Gaze
+Use:
+Teaches you how to craft a Ocean's Gaze.
+
+
+Item #70104
+URL: https://database.turtle-wow.org/?item=70104
+Category: Database/Items/Recipes
+Item: 
+Plans: Gemmed Citrine Pendant
+Use:
+Teaches you how to craft a Gemmed Citrine Pendant.
+
+
+Item #70103
+URL: https://database.turtle-wow.org/?item=70103
+Category: Database/Items/Recipes
+Item: 
+Plans: Prism Amulet
+Use:
+Teaches you how to craft a Prism Amulet.
+
+
+Item #70101
+URL: https://database.turtle-wow.org/?item=70101
+Category: Database/Items/Recipes
+Item: 
+Plans: Ruby Ring of Ruin
+Requires Goldsmith
+Use:
+Teaches you how to craft a Ruby Ring of Ruin.
+
+
+Item #70102
+URL: https://database.turtle-wow.org/?item=70102
+Category: Database/Items/Recipes
+Item: 
+Plans: Encrusted Gemstone Ring
+Requires Goldsmith
+Use:
+Teaches you how to craft a Encrusted Gemstone Ring.
+
+
+Item #70107
+URL: https://database.turtle-wow.org/?item=70107
+Category: Database/Items/Recipes
+Item: 
+Plans: Runebound Amulet
+Use:
+Teaches you how to craft a Runebound Amulet.
+
+
+Item #70108
+URL: https://database.turtle-wow.org/?item=70108
+Category: Database/Items/Recipes
+Item: 
+Plans: Shimmering Moonstone Tablet
+Use:
+Teaches you how to craft a Shimmering Moonstone Tablet.
+
+
+Item #70106
+URL: https://database.turtle-wow.org/?item=70106
+Category: Database/Items/Recipes
+Item: 
+Plans: Voidheart Charm
+Use:
+Teaches you how to craft a Voidheart Charm.
+
+
+Item #70105
+URL: https://database.turtle-wow.org/?item=70105
+Category: Database/Items/Recipes
+Item: 
+Plans: Starforge Amulet
+Use:
+Teaches you how to craft a Starforge Amulet.
+
+
+Item #70112
+URL: https://database.turtle-wow.org/?item=70112
+Category: Database/Items/Recipes
+Item: 
+Plans: Medallion of Flame
+Use:
+Teaches you how to craft a Medallion of Flame.
+
+
+Item #70109
+URL: https://database.turtle-wow.org/?item=70109
+Category: Database/Items/Recipes
+Item: 
+Plans: Stormcloud Sigil
+Use:
+Teaches you how to craft a Stormcloud Sigil.
+
+
+Item #70111
+URL: https://database.turtle-wow.org/?item=70111
+Category: Database/Items/Recipes
+Item: 
+Plans: Talisman of Stone
+Use:
+Teaches you how to craft a Talisman of Stone.
+
+
+Item #70110
+URL: https://database.turtle-wow.org/?item=70110
+Category: Database/Items/Recipes
+Item: 
+Plans: Gleaming Chain
+Use:
+Teaches you how to craft a Gleaming Chain.
+
+
+Item #70113
+URL: https://database.turtle-wow.org/?item=70113
+Category: Database/Items/Recipes
+Item: 
+Plans: Gleaming Silver Necklace
+Use:
+Teaches you how to craft a Gleaming Silver Necklace.
+
+
+Item #70116
+URL: https://database.turtle-wow.org/?item=70116
+Category: Database/Items/Recipes
+Item: 
+Plans: Gem Encrusted Choker
+Use:
+Teaches you how to craft a Gem Encrusted Choker.
+
+
+Item #70115
+URL: https://database.turtle-wow.org/?item=70115
+Category: Database/Items/Recipes
+Item: 
+Plans: Goldcrest Amulet
+Use:
+Teaches you how to craft a Goldcrest Amulet.
+
+
+Item #70114
+URL: https://database.turtle-wow.org/?item=70114
+Category: Database/Items/Recipes
+Item: 
+Plans: Ring of The Turtle
+Use:
+Teaches you how to craft a Ring of The Turtle.
+
+
+Item #70118
+URL: https://database.turtle-wow.org/?item=70118
+Category: Database/Items/Recipes
+Item: 
+Plans: Dawnbright Cuffs
+Use:
+Teaches you how to craft a Dawnbright Cuffs.
+
+
+Item #70120
+URL: https://database.turtle-wow.org/?item=70120
+Category: Database/Items/Recipes
+Item: 
+[DEPRECATED] Plans: Eternal Jade Crown
+Use:
+Teaches you how to craft a Eternal Jade Crown.
+
+
+Item #70117
+URL: https://database.turtle-wow.org/?item=70117
+Category: Database/Items/Recipes
+Item: 
+Plans: Shining Copper Cuffs
+Use:
+Teaches you how to craft a Shining Copper Cuffs.
+
+
+Item #70119
+URL: https://database.turtle-wow.org/?item=70119
+Category: Database/Items/Recipes
+Item: 
+Plans: Circlet of Dampening
+Use:
+Teaches you how to craft a Circlet of Dampening.
+
+
+Item #70127
+URL: https://database.turtle-wow.org/?item=70127
+Category: Database/Items/Recipes
+Item: 
+Plans: Opaline Illuminator
+Use:
+Teaches you how to craft a Opaline Illuminator.
+
+
+Item #70125
+URL: https://database.turtle-wow.org/?item=70125
+Category: Database/Items/Recipes
+Item: 
+Plans: Crystalfire Armlets
+Use:
+Teaches you how to craft a Crystalfire Armlets.
+
+
+Item #70126
+URL: https://database.turtle-wow.org/?item=70126
+Category: Database/Items/Recipes
+Item: 
+Plans: Cinderfall Band
+Use:
+Teaches you how to craft a Cinderfall Band.
+
+
+Item #70128
+URL: https://database.turtle-wow.org/?item=70128
+Category: Database/Items/Recipes
+Item: 
+Plans: Skyfire Jewel
+Use:
+Teaches you how to craft a Skyfire Jewel.
+
+
+Item #70129
+URL: https://database.turtle-wow.org/?item=70129
+Category: Database/Items/Recipes
+Item: 
+Plans: Gemstone Compendium
+Use:
+Teaches you how to craft a Gemstone Compendium.
+
+
+Item #70132
+URL: https://database.turtle-wow.org/?item=70132
+Category: Database/Items/Recipes
+Item: 
+Plans: Dazzling Aquamarine Loop
+Use:
+Teaches you how to craft a Dazzling Aquamarine Loop.
+
+
+Item #70136
+URL: https://database.turtle-wow.org/?item=70136
+Category: Database/Items/Recipes
+Item: 
+Plans: Heart of the Sea
+Use:
+Teaches you how to craft a Heart of the Sea.
+
+
+Item #70133
+URL: https://database.turtle-wow.org/?item=70133
+Category: Database/Items/Recipes
+Item: 
+Plans: Crystal Earring
+Use:
+Teaches you how to craft a Crystal Earring.
+
+
+Item #70134
+URL: https://database.turtle-wow.org/?item=70134
+Category: Database/Items/Recipes
+Item: 
+Plans: Alluring Citrine Choker
+Use:
+Teaches you how to craft a Alluring Citrine Choker.
+
+
+Item #70135
+URL: https://database.turtle-wow.org/?item=70135
+Category: Database/Items/Recipes
+Item: 
+Plans: Elaborate Golden Bracelets
+Use:
+Teaches you how to craft a Elaborate Golden Bracelets.
+
+
+Item #70138
+URL: https://database.turtle-wow.org/?item=70138
+Category: Database/Items/Recipes
+Item: 
+Plans: Golden Jade Ring
+Use:
+Teaches you how to craft a Golden Jade Ring.
+
+
+Item #70137
+URL: https://database.turtle-wow.org/?item=70137
+Category: Database/Items/Recipes
+Item: 
+Plans: Staff of Gallitrea
+Use:
+Teaches you how to craft a Staff of Gallitrea.
+
+
+Item #70139
+URL: https://database.turtle-wow.org/?item=70139
+Category: Database/Items/Recipes
+Item: 
+Plans: Delicate Mithril Amulet
+Use:
+Teaches you how to craft a Delicate Mithril Amulet.
+
+
+Item #70140
+URL: https://database.turtle-wow.org/?item=70140
+Category: Database/Items/Recipes
+Item: 
+Plans: Draenethyst Baton
+Use:
+Teaches you how to craft a Draenethyst Baton.
+
+
+Item #70143
+URL: https://database.turtle-wow.org/?item=70143
+Category: Database/Items/Recipes
+Item: 
+Plans: Shadowfall Jewel
+Use:
+Teaches you how to craft a Shadowfall Jewel.
+
+
+Item #70142
+URL: https://database.turtle-wow.org/?item=70142
+Category: Database/Items/Recipes
+Item: 
+Plans: The King's Conviction
+Use:
+Teaches you how to craft a The King's Conviction.
+
+
+Item #70144
+URL: https://database.turtle-wow.org/?item=70144
+Category: Database/Items/Recipes
+Item: 
+Plans: Ocean's Wrath
+Use:
+Teaches you how to craft a Ocean's Wrath.
+
+
+Item #70141
+URL: https://database.turtle-wow.org/?item=70141
+Category: Database/Items/Recipes
+Item: 
+Plans: Ebon Ring
+Use:
+Teaches you how to craft a Ebon Ring.
+
+
+Item #70148
+URL: https://database.turtle-wow.org/?item=70148
+Category: Database/Items/Recipes
+Item: 
+Plans: Ogre Bone Band
+Use:
+Teaches you how to craft a Ogre Bone Band.
+
+
+Item #70146
+URL: https://database.turtle-wow.org/?item=70146
+Category: Database/Items/Recipes
+Item: 
+Plans: Harpy Talon Ring
+Use:
+Teaches you how to craft a Harpy Talon Ring.
+
+
+Item #70145
+URL: https://database.turtle-wow.org/?item=70145
+Category: Database/Items/Recipes
+Item: 
+Plans: Dazzling Moonstone Band
+Use:
+Teaches you how to craft a Dazzling Moonstone Band.
+
+
+Item #70147
+URL: https://database.turtle-wow.org/?item=70147
+Category: Database/Items/Recipes
+Item: 
+Plans: Centaur Hoof Circlet
+Use:
+Teaches you how to craft a Centaur Hoof Circlet.
+
+
+Item #70151
+URL: https://database.turtle-wow.org/?item=70151
+Category: Database/Items/Recipes
+Item: 
+Plans: Marine's Demise
+Use:
+Teaches you how to craft a Marine's Demise.
+
+
+Item #70150
+URL: https://database.turtle-wow.org/?item=70150
+Category: Database/Items/Recipes
+Item: 
+Plans: Malachite Ring
+Use:
+Teaches you how to craft a Malachite Ring.
+
+
+Item #70149
+URL: https://database.turtle-wow.org/?item=70149
+Category: Database/Items/Recipes
+Item: 
+Plans: Spectre Shade Ring
+Use:
+Teaches you how to craft a Specter's Shade Ring.
+
+
+Item #70152
+URL: https://database.turtle-wow.org/?item=70152
+Category: Database/Items/Recipes
+Item: 
+Plans: Serpent's Coil Staff
+Use:
+Teaches you how to craft a Serpent's Coil Staff.
+
+
+Item #70154
+URL: https://database.turtle-wow.org/?item=70154
+Category: Database/Items/Recipes
+Item: 
+Plans: Sphinx's Wisdom Staff
+Use:
+Teaches you how to craft a Sphinx's Wisdom Staff.
+
+
+Item #70155
+URL: https://database.turtle-wow.org/?item=70155
+Category: Database/Items/Recipes
+Item: 
+Plans: Gloomweed Bindings
+Use:
+Teaches you how to craft a Gloomweed Bindings.
+
+
+Item #70156
+URL: https://database.turtle-wow.org/?item=70156
+Category: Database/Items/Recipes
+Item: 
+Plans: Sharpened Citrine Gemstone
+Binds when picked up
+Use:
+Teaches you how to craft a Sharpened Citrine Gemstone.
+
+
+Item #70153
+URL: https://database.turtle-wow.org/?item=70153
+Category: Database/Items/Recipes
+Item: 
+Plans: Farraki Ceremony Totem
+Use:
+Teaches you how to craft a Farraki Ceremony Totem.
+
+
+Item #70158
+URL: https://database.turtle-wow.org/?item=70158
+Category: Database/Items/Recipes
+Item: 
+Plans: Glowing Ruby Gemstone
+Binds when picked up
+Use:
+Teaches you how to craft a Glowing Ruby Gemstone.
+
+
+Item #70157
+URL: https://database.turtle-wow.org/?item=70157
+Category: Database/Items/Recipes
+Item: 
+Plans: Radiant Ember Gemstone
+Binds when picked up
+Use:
+Teaches you how to craft a Radiant Ember Gemstone.
+
+
+Item #70160
+URL: https://database.turtle-wow.org/?item=70160
+Category: Database/Items/Recipes
+Item: 
+Plans: Azerothian Ruby Gemstone
+Binds when picked up
+Requires Gemology
+Use:
+Teaches you how to craft a Azerothian Ruby Gemstone.
+
+
+Item #70159
+URL: https://database.turtle-wow.org/?item=70159
+Category: Database/Items/Recipes
+Item: 
+Plans: Shimmering Aqua Gemstone
+Use:
+Teaches you how to craft a Shimmering Aqua Gemstone.
+
+
+Item #70162
+URL: https://database.turtle-wow.org/?item=70162
+Category: Database/Items/Recipes
+Item: 
+Plans: Flawless Black Gemstone
+Requires Gemology
+Use:
+Teaches you how to craft a Flawless Black Gemstone.
+
+
+Item #70163
+URL: https://database.turtle-wow.org/?item=70163
+Category: Database/Items/Recipes
+Item: 
+Plans: Arcane Emerald Gemstone
+Requires Gemology
+Use:
+Teaches you how to craft a Arcane Emerald Gemstone.
+
+
+Item #70161
+URL: https://database.turtle-wow.org/?item=70161
+Category: Database/Items/Recipes
+Item: 
+Plans: Gloomy Diamond Gemstone
+Use:
+Teaches you how to craft a Gloomy Diamond Gemstone.
+
+
+Item #70164
+URL: https://database.turtle-wow.org/?item=70164
+Category: Database/Items/Recipes
+Item: 
+Plans: Tempered Azerothian Gemstone
+Requires Gemology
+Use:
+Teaches you how to craft a Tempered Azerothian Gemstone.
+
+
+Item #70166
+URL: https://database.turtle-wow.org/?item=70166
+Category: Database/Items/Recipes
+Item: 
+Plans: Stunning Imperial Gemstone
+Binds when picked up
+Requires Gemology
+Use:
+Teaches you how to craft a Stunning Imperial Gemstone.
+
+
+Item #70168
+URL: https://database.turtle-wow.org/?item=70168
+Category: Database/Items/Recipes
+Item: 
+Plans: Pure Shining Moonstone
+Use:
+Teaches you how to craft a Pure Shining Moonstone.
+
+
+Item #70167
+URL: https://database.turtle-wow.org/?item=70167
+Category: Database/Items/Recipes
+Item: 
+Plans: Enchanted Emerald Gemstone
+Requires Gemology
+Use:
+Teaches you how to craft a Enchanted Emerald Gemstone.
+
+
+Item #70172
+URL: https://database.turtle-wow.org/?item=70172
+Category: Database/Items/Recipes
+Item: 
+Plans: Embergem Cuffs
+Use:
+Teaches you how to craft a Embergem Cuffs.
+
+
+Item #70169
+URL: https://database.turtle-wow.org/?item=70169
+Category: Database/Items/Recipes
+Item: 
+Plans: Beautiful Diamond Gemstone
+Requires Gemology
+Use:
+Teaches you how to craft a Beautiful Diamond Gemstone.
+
+
+Item #70170
+URL: https://database.turtle-wow.org/?item=70170
+Category: Database/Items/Recipes
+Item: 
+Plans: Shimmering Diamond Band
+Requires Goldsmith
+Use:
+Teaches you how to craft a Shimmering Diamond Band.
+
+
+Item #70171
+URL: https://database.turtle-wow.org/?item=70171
+Category: Database/Items/Recipes
+Item: 
+Plans: Crown of Molten Ascension
+Requires Goldsmith
+Use:
+Teaches you how to craft a Crown of Molten Ascension.
+
+
+Item #70175
+URL: https://database.turtle-wow.org/?item=70175
+Category: Database/Items/Recipes
+Item: 
+Plans: Mastercrafted Diamond Crown
+Binds when picked up
+Use:
+Teaches you how to craft a Mastercrafted Diamond Crown.
+
+
+Item #70174
+URL: https://database.turtle-wow.org/?item=70174
+Category: Database/Items/Recipes
+Item: 
+Plans: Talisman of Hinderance
+Binds when picked up
+Use:
+Teaches you how to craft a Talisman of Hinderance.
+
+
+Item #70173
+URL: https://database.turtle-wow.org/?item=70173
+Category: Database/Items/Recipes
+Item: 
+Plans: Blackwing Signet of Command
+Binds when picked up
+Requires Goldsmith
+Use:
+Teaches you how to craft a Blackwing Signet of Command.
+
+
+Item #70176
+URL: https://database.turtle-wow.org/?item=70176
+Category: Database/Items/Recipes
+Item: 
+Plans: Opalstone Circle
+Use:
+Teaches you how to craft a Opalstone Circle.
+
+
+Item #70177
+URL: https://database.turtle-wow.org/?item=70177
+Category: Database/Items/Recipes
+Item: 
+Plans: Deep Sapphire Circlet
+Binds when picked up
+Requires Goldsmith
+Use:
+Teaches you how to craft a Deep Sapphire Circlet.
+
+
+Item #70178
+URL: https://database.turtle-wow.org/?item=70178
+Category: Database/Items/Recipes
+Item: 
+Plans: Dark Iron Signet Ring
+Use:
+Teaches you how to craft a Dark Iron Signet Ring.
+
+
+Item #70180
+URL: https://database.turtle-wow.org/?item=70180
+Category: Database/Items/Recipes
+Item: 
+Plans: Crown of Elegance
+Use:
+Teaches you how to craft a Crown of Elegance.
+
+
+Item #70179
+URL: https://database.turtle-wow.org/?item=70179
+Category: Database/Items/Recipes
+Item: 
+Plans: Opal Guided Bangles
+Use:
+Teaches you how to craft a Opal Guided Bangles.
+
+
+Item #70183
+URL: https://database.turtle-wow.org/?item=70183
+Category: Database/Items/Recipes
+Item: 
+Plans: Pendant of Instability
+Use:
+Teaches you how to craft a Pendant of Instability.
+
+
+Item #70181
+URL: https://database.turtle-wow.org/?item=70181
+Category: Database/Items/Recipes
+Item: 
+Plans: Ornate Mithril Bracelets
+Binds when picked up
+Use:
+Teaches you how to craft a Ornate Mithril Bracelets.
+
+
+Item #70182
+URL: https://database.turtle-wow.org/?item=70182
+Category: Database/Items/Recipes
+Item: 
+Plans: Regal Twilight Staff
+Binds when picked up
+Use:
+Teaches you how to craft a Regal Twilight Staff.
+
+
+Item #70184
+URL: https://database.turtle-wow.org/?item=70184
+Category: Database/Items/Recipes
+Item: 
+Plans: Ornament of Restraint
+Use:
+Teaches you how to craft a Ornament of Restraint.
+
+
+Item #70188
+URL: https://database.turtle-wow.org/?item=70188
+Category: Database/Items/Recipes
+Item: 
+Plans: Shadowmoon Orb
+Use:
+Teaches you how to craft a Shadowmoon Tome.
+
+
+Item #70186
+URL: https://database.turtle-wow.org/?item=70186
+Category: Database/Items/Recipes
+Item: 
+Plans: Blackrock Ironclamps
+Use:
+Teaches you how to craft a Blackrock Ironclamps.
+
+
+Item #70185
+URL: https://database.turtle-wow.org/?item=70185
+Category: Database/Items/Recipes
+Item: 
+Plans: Hydrathorn Bracers
+Use:
+Teaches you how to craft a Hydrathorn Bracers.
+
+
+Item #70187
+URL: https://database.turtle-wow.org/?item=70187
+Category: Database/Items/Recipes
+Item: 
+Plans: Monastery Emberbrace
+Use:
+Teaches you how to craft a Monastery Emberbrace.
+
+
+Item #70191
+URL: https://database.turtle-wow.org/?item=70191
+Category: Database/Items/Recipes
+Item: 
+Plans: Marine Root
+Use:
+Teaches you how to craft a Marine Root.
+
+
+Item #70192
+URL: https://database.turtle-wow.org/?item=70192
+Category: Database/Items/Recipes
+Item: 
+Plans: Mistwood Tiara
+Use:
+Teaches you how to craft a Mistwood Tiara.
+
+
+Item #70189
+URL: https://database.turtle-wow.org/?item=70189
+Category: Database/Items/Recipes
+Item: 
+Plans: Fangclaw Relic
+Use:
+Teaches you how to craft a Fangclaw Relic.
+
+
+Item #70190
+URL: https://database.turtle-wow.org/?item=70190
+Category: Database/Items/Recipes
+Item: 
+Plans: Netherbane Rod
+Use:
+Teaches you how to craft a Netherbane Spellbook.
+
+
+Item #70193
+URL: https://database.turtle-wow.org/?item=70193
+Category: Database/Items/Recipes
+Item: 
+Plans: Venomspire Diadem
+Use:
+Teaches you how to craft a Venomspire Diadem.
+
+
+Item #70196
+URL: https://database.turtle-wow.org/?item=70196
+Category: Database/Items/Recipes
+Item: 
+Plans: Smoldering Brooch
+Use:
+Teaches you how to craft a Smoldering Brooch.
+
+
+Item #70195
+URL: https://database.turtle-wow.org/?item=70195
+Category: Database/Items/Recipes
+Item: 
+Plans: Obsidian Brooch
+Use:
+Teaches you how to craft a Obsidian Brooch.
+
+
+Item #70194
+URL: https://database.turtle-wow.org/?item=70194
+Category: Database/Items/Recipes
+Item: 
+Plans: Facetted Moonstone Brooch
+Use:
+Teaches you how to craft a Facetted Moonstone Brooch.
+
+
+Item #70197
+URL: https://database.turtle-wow.org/?item=70197
+Category: Database/Items/Recipes
+Item: 
+Plans: Vitriol Brooch
+Use:
+Teaches you how to craft a Vitriol Brooch.
+
+
+Item #70199
+URL: https://database.turtle-wow.org/?item=70199
+Category: Database/Items/Recipes
+Item: 
+Plans: Graceful Agate Gemstone
+Use:
+Teaches you how to craft a Graceful Agate Gemstone.
+
+
+Item #70198
+URL: https://database.turtle-wow.org/?item=70198
+Category: Database/Items/Recipes
+Item: 
+Formula: Enchanted Gemstone Oil
+Requires Enchanting (275)
+Use:
+Teaches you how to craft a Enchanted Gemstone Oil.
+
+
+Item #70200
+URL: https://database.turtle-wow.org/?item=70200
+Category: Database/Items/Recipes
+Item: 
+Plans: Dreary Opal Gemstone
+Use:
+Teaches you how to craft a Dreary Opal Gemstone.
+
+
+Item #70202
+URL: https://database.turtle-wow.org/?item=70202
+Category: Database/Items/Recipes
+Item: 
+Plans: Resilient Arcane Gemstone
+Use:
+Teaches you how to craft a Resilient Arcane Gemstone.
+
+
+Item #70204
+URL: https://database.turtle-wow.org/?item=70204
+Category: Database/Items/Recipes
+Item: 
+Plans: Shadowforged Eye
+Use:
+Teaches you how to craft a Shadowforged Eye.
+
+
+Item #70201
+URL: https://database.turtle-wow.org/?item=70201
+Category: Database/Items/Recipes
+Item: 
+Plans: Resurged Topaz Gemstone
+Use:
+Teaches you how to craft a Resurged Topaz Gemstone.
+
+
+Item #70203
+URL: https://database.turtle-wow.org/?item=70203
+Category: Database/Items/Recipes
+Item: 
+Plans: Bloodfire Circlet
+Use:
+Teaches you how to craft a Bloodfire Circlet.
+
+
+Item #70208
+URL: https://database.turtle-wow.org/?item=70208
+Category: Database/Items/Recipes
+Item: 
+Plans: Ring of Midnight
+Use:
+Teaches you how to craft a Ring of Midnight.
+
+
+Item #70205
+URL: https://database.turtle-wow.org/?item=70205
+Category: Database/Items/Recipes
+Item: 
+Plans: Totem of Self Preservation
+Use:
+Teaches you how to craft a Totem of Self Preservation.
+
+
+Item #70206
+URL: https://database.turtle-wow.org/?item=70206
+Category: Database/Items/Recipes
+Item: 
+Plans: Ornate Mithril Crown
+Use:
+Teaches you how to craft a Ornate Mithril Crown.
+
+
+Item #70207
+URL: https://database.turtle-wow.org/?item=70207
+Category: Database/Items/Recipes
+Item: 
+Plans: Spellweaver Pendant
+Use:
+Teaches you how to craft a Spellweaver Pendant.
+
+
+Item #70212
+URL: https://database.turtle-wow.org/?item=70212
+Category: Database/Items/Recipes
+Item: 
+Plans: Mana Binding Signet
+Use:
+Teaches you how to craft a Mana Binding Signet.
+
+
+Item #70210
+URL: https://database.turtle-wow.org/?item=70210
+Category: Database/Items/Recipes
+Item: 
+Plans: Stormcloud Signet
+Requires Goldsmith
+Use:
+Teaches you how to craft a Stormcloud Signet.
+
+
+Item #70209
+URL: https://database.turtle-wow.org/?item=70209
+Category: Database/Items/Recipes
+Item: 
+Plans: Gorgeous Mountain Gemstone
+Requires Gemology
+Use:
+Teaches you how to craft a Gorgeous Mountain Gemstone.
+
+
+Item #70211
+URL: https://database.turtle-wow.org/?item=70211
+Category: Database/Items/Recipes
+Item: 
+Plans: Golden Runed Ring
+Requires Goldsmith
+Use:
+Teaches you how to craft a Golden Runed Ring.
+
+
+Item #70216
+URL: https://database.turtle-wow.org/?item=70216
+Category: Database/Items/Recipes
+Item: 
+Plans: Orb of Clairvoyance
+Requires Argent Dawn - Honored
+Use:
+Teaches you how to craft a Orb of Clairvoyance.
+
+
+Item #70214
+URL: https://database.turtle-wow.org/?item=70214
+Category: Database/Items/Recipes
+Item: 
+Plans: Ring of Unleashed Potential
+Requires Goldsmith
+Use:
+Teaches you how to craft a Ring of Unleashed Potential.
+
+
+Item #70215
+URL: https://database.turtle-wow.org/?item=70215
+Category: Database/Items/Recipes
+Item: 
+Plans: Empowered Domination Rod
+Requires Goldsmith
+Use:
+Teaches you how to craft a Empowered Domination Rod.
+
+
+Item #70213
+URL: https://database.turtle-wow.org/?item=70213
+Category: Database/Items/Recipes
+Item: 
+Plans: Blazefury Circlet
+Binds when picked up
+Requires Goldsmith
+Use:
+Teaches you how to craft a Blazefury Circlet.
+
+
+Item #70217
+URL: https://database.turtle-wow.org/?item=70217
+Category: Database/Items/Recipes
+Item: 
+Plans: Grail of Forgotten Memories
+Requires Goldsmith
+Use:
+Teaches you how to craft a Grail of Forgotten Memories.
+
+
+Item #70220
+URL: https://database.turtle-wow.org/?item=70220
+Category: Database/Items/Recipes
+Item: 
+Plans: Spire of Channeled Power
+Use:
+Teaches you how to craft a Spire of Channeled Power.
+
+
+Item #70218
+URL: https://database.turtle-wow.org/?item=70218
+Category: Database/Items/Recipes
+Item: 
+Plans: Guardbreaker Charm
+Use:
+Teaches you how to craft a Shard of Aman'zasi.
+
+
+Item #70219
+URL: https://database.turtle-wow.org/?item=70219
+Category: Database/Items/Recipes
+Item: 
+Plans: Rudeus' Focusing Cane
+Requires Goldsmith
+Use:
+Teaches you how to craft a Rudeus' Focusing Cane.
+
+
+Item #70221
+URL: https://database.turtle-wow.org/?item=70221
+Category: Database/Items/Recipes
+Item: 
+Plans: Bindings of Luminance
+Use:
+Teaches you how to craft a Bindings of Luminance.
+
+
+Item #70222
+URL: https://database.turtle-wow.org/?item=70222
+Category: Database/Items/Recipes
+Item: 
+Plans: Crown of the Illustrious Queen
+Use:
+Teaches you how to craft a Crown of the Illustrious Queen.
+
+
+Item #70223
+URL: https://database.turtle-wow.org/?item=70223
+Category: Database/Items/Recipes
+Item: 
+Plans: Mastercrafted Diamond Bangles
+Binds when picked up
+Use:
+Teaches you how to craft a Mastercrafted Diamond Bangles.
+
+

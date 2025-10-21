@@ -1,0 +1,27 @@
+Item #22250
+URL: https://database.turtle-wow.org/?item=22250
+Category: Database/Items/Containers/Herb Bags
+Item: 
+Herb Pouch
+Binds when equipped
+12 Slot Bag
+
+
+Item #22251
+URL: https://database.turtle-wow.org/?item=22251
+Category: Database/Items/Containers/Herb Bags
+Item: 
+Cenarion Herb Bag
+Binds when equipped
+20 Slot Bag
+
+
+Item #22252
+URL: https://database.turtle-wow.org/?item=22252
+Category: Database/Items/Containers/Herb Bags
+Item: 
+Satchel of Cenarius
+Binds when equipped
+24 Slot Bag
+
+

@@ -1,0 +1,140 @@
+Item #19319
+URL: https://database.turtle-wow.org/?item=19319
+Category: Database/Items/Quivers/Quivers
+Item: 
+Harpy Hide Quiver
+Binds when picked up
+Unique
+16 Slot Bag
+Requires Level 55
+Equip:
+Increases ranged attack speed by 15%.
+
+
+Item #18714
+URL: https://database.turtle-wow.org/?item=18714
+Category: Database/Items/Quivers/Quivers
+Item: 
+Ancient Sinew Wrapped Lamina
+Binds when picked up
+Unique
+18 Slot Bag
+Classes: Hunter
+Requires Level 60
+Equip:
+Increases ranged attack speed by 15%.
+
+
+Item #61549
+URL: https://database.turtle-wow.org/?item=61549
+Category: Database/Items/Quivers/Quivers
+Item: 
+Swiftfeather Quiver
+Binds when equipped
+Unique
+16 Slot Bag
+Requires Level 57
+Equip:
+Increases ranged attack speed by 14%.
+
+
+Item #2662
+URL: https://database.turtle-wow.org/?item=2662
+Category: Database/Items/Quivers/Quivers
+Item: 
+Ribbly's Quiver
+Binds when picked up
+Unique
+16 Slot Bag
+Requires Level 50
+Equip:
+Increases ranged attack speed by 14%.
+
+
+Item #2101
+URL: https://database.turtle-wow.org/?item=2101
+Category: Database/Items/Quivers/Quivers
+Item: 
+Light Quiver
+6 Slot Bag
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #3573
+URL: https://database.turtle-wow.org/?item=3573
+Category: Database/Items/Quivers/Quivers
+Item: 
+Hunting Quiver
+Binds when picked up
+Unique
+10 Slot Bag
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #5439
+URL: https://database.turtle-wow.org/?item=5439
+Category: Database/Items/Quivers/Quivers
+Item: 
+Small Quiver
+8 Slot Bag
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #3605
+URL: https://database.turtle-wow.org/?item=3605
+Category: Database/Items/Quivers/Quivers
+Item: 
+Quiver of the Night Watch
+Binds when picked up
+Unique
+12 Slot Bag
+Equip:
+Increases ranged attack speed by 11%.
+
+
+Item #7278
+URL: https://database.turtle-wow.org/?item=7278
+Category: Database/Items/Quivers/Quivers
+Item: 
+Light Leather Quiver
+8 Slot Bag
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #7371
+URL: https://database.turtle-wow.org/?item=7371
+Category: Database/Items/Quivers/Quivers
+Item: 
+Heavy Quiver
+14 Slot Bag
+Requires Level 30
+Equip:
+Increases ranged attack speed by 12%.
+
+
+Item #8217
+URL: https://database.turtle-wow.org/?item=8217
+Category: Database/Items/Quivers/Quivers
+Item: 
+Quickdraw Quiver
+16 Slot Bag
+Requires Level 40
+Equip:
+Increases ranged attack speed by 13%.
+
+
+Item #11362
+URL: https://database.turtle-wow.org/?item=11362
+Category: Database/Items/Quivers/Quivers
+Item: 
+Medium Quiver
+10 Slot Bag
+Requires Level 10
+Equip:
+Increases ranged attack speed by 10%.
+
+

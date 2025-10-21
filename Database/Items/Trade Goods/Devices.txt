@@ -1,0 +1,547 @@
+Item #10548
+URL: https://database.turtle-wow.org/?item=10548
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Sniper Scope
+Requires Level 40
+Use:
+Attaches a permanent scope to a bow or gun that increases its damage by 7.
+
+
+Item #10546
+URL: https://database.turtle-wow.org/?item=10546
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Deadly Scope
+Requires Level 30
+Use:
+Attaches a permanent scope to a bow or gun that increases its damage by 5.
+
+
+Item #10577
+URL: https://database.turtle-wow.org/?item=10577
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Goblin Mortar
+Binds when equipped
+Trinket
+Requires Engineering (205)
+Use:
+Inflicts 383 to 518 Fire damage and stuns the targets in a 5 yard radius for 3 sec.
+6  Charges
+
+
+Item #10576
+URL: https://database.turtle-wow.org/?item=10576
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Mithril Mechanical Dragonling
+Binds when equipped
+Unique
+Trinket
+Requires Level 40
+Requires Engineering (250)
+Use:
+Activates your Mithril Mechanical Dragonling to fight for you for 60 sec.  It requires an hour to cool down before it can be used again.
+
+
+Item #10587
+URL: https://database.turtle-wow.org/?item=10587
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Goblin Bomb Dispenser
+Binds when picked up
+Trinket
+Requires Engineering (230)
+Use:
+Creates a mobile bomb that charges the nearest enemy and explodes for 315 to 386 fire damage.
+
+
+Item #10645
+URL: https://database.turtle-wow.org/?item=10645
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Gnomish Death Ray
+Binds when picked up
+Trinket
+Use:
+The devices charges over time using your life force and then directs a burst of energy at your opponent.
+"Death or Serious Injury may result from use of this device."
+
+
+Item #10720
+URL: https://database.turtle-wow.org/?item=10720
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Gnomish Net-o-Matic Projector
+Binds when equipped
+Trinket
+Requires Engineering (210)
+Use:
+Captures the target in a net for 10 sec.  The net has a lot of hooks however and sometimes gets caught in the user's clothing when fired......
+
+
+Item #10719
+URL: https://database.turtle-wow.org/?item=10719
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Mobile Alarm
+Requires Engineering (205)
+Use:
+Summons an Explosive Sheep which will charge at a nearby enemy and explode for 135 to 166 damage.  Lasts for 3 min or until it explodes.
+
+
+Item #10716
+URL: https://database.turtle-wow.org/?item=10716
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Gnomish Shrink Ray
+Binds when equipped
+Trinket
+Requires Engineering (205)
+Use:
+Shrinks the target reducing their attack power by 250.  Thats what it usually does anyway.....
+
+
+Item #10723
+URL: https://database.turtle-wow.org/?item=10723
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Gnomish Ham Radio
+Trinket
+
+
+Item #10725
+URL: https://database.turtle-wow.org/?item=10725
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Gnomish Battle Chicken
+Binds when picked up
+Trinket
+Requires Engineering (230)
+Use:
+Creates a Battle Chicken that will fight for you for 90 sec or until it is destroyed.
+
+
+Item #10727
+URL: https://database.turtle-wow.org/?item=10727
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Goblin Dragon Gun
+Binds when picked up
+Trinket
+Use:
+Deals 61 to 70 fire damage for 10 sec to all targets in a cone in front of the engineer using the weapon.   That is unless it explodes.....
+
+
+Item #11590
+URL: https://database.turtle-wow.org/?item=11590
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Mechanical Repair Kit
+Requires Engineering (200)
+Use:
+Restores 700 health to a friendly mechanical target
+
+
+Item #11826
+URL: https://database.turtle-wow.org/?item=11826
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Lil' Smoky
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A loyal robotic companion, Lil' Smoky is always there to lend a mechanical paw when you need it most."
+
+
+Item #11825
+URL: https://database.turtle-wow.org/?item=11825
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Tiny Walking Bombling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Crafted by goblin tinkers, this explosive little companion loves to leave a trail of mayhem in its wake."
+
+
+Item #15846
+URL: https://database.turtle-wow.org/?item=15846
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Salt Shaker
+Requires Leatherworking (250)
+Use:
+Allows an experienced leatherworker to turn Deeprock Salt into Refined Deeprock Salt.  Use of the device exposes the user to sub-core micro radiation and should not be used more than once every few days.
+
+
+Item #15996
+URL: https://database.turtle-wow.org/?item=15996
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Lifelike Mechanical Toad
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"This realistic toad companion is magically enchanted, hopping alongside you as you explore the realms of Azeroth."
+
+
+Item #16022
+URL: https://database.turtle-wow.org/?item=16022
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Arcanite Dragonling
+Binds when equipped
+Unique
+Trinket
+Requires Level 50
+Requires Engineering (300)
+Use:
+Activates your Arcanite Dragonling to fight for you for 60 sec.  It requires an hour to cool down before it can be used again.
+
+
+Item #16023
+URL: https://database.turtle-wow.org/?item=16023
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Masterwork Target Dummy
+Requires Engineering (275)
+Use:
+Drops a target dummy on the ground that attracts nearby monsters to attack it. Lasts for 15 seconds or until killed.
+
+
+Item #17716
+URL: https://database.turtle-wow.org/?item=17716
+Category: Database/Items/Trade Goods/Devices
+Item: 
+SnowMaster 9000
+Requires Engineering (190)
+Use:
+Allows an experienced engineer to turn water into a snowball.  The Snowmaster requires a day to build up enough chill to freeze another snowball.
+
+
+Item #18232
+URL: https://database.turtle-wow.org/?item=18232
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Field Repair Bot 74A
+Requires Engineering (300)
+Use:
+Unfolds into a Field Repair Bot that can repair damaged items and purchase unwanted goods.  After 10 minutes its internal motor fails.
+
+
+Item #18283
+URL: https://database.turtle-wow.org/?item=18283
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Biznicks 247x128 Accurascope
+Requires Level 50
+Use:
+Attaches a permanent scope to a bow or gun that increases its chance to hit by 3%.
+
+
+Item #18587
+URL: https://database.turtle-wow.org/?item=18587
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Goblin Jumper Cables XL
+Trinket
+Requires Engineering (265)
+Use:
+Jumper Cables will sometimes be able to shock a dead player back to life.  Cannot be used when in combat.
+
+
+Item #18638
+URL: https://database.turtle-wow.org/?item=18638
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Hyper-Radiant Flame Reflector
+Binds when equipped
+Trinket
++18 Fire Resistance
+Requires Level 53
+Requires Engineering (290)
+Use:
+Reflects Fire spells back at their caster for 5 sec.
+
+
+Item #18639
+URL: https://database.turtle-wow.org/?item=18639
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Ultra-Flash Shadow Reflector
+Binds when equipped
+Trinket
++20 Shadow Resistance
+Requires Level 55
+Requires Engineering (300)
+Use:
+Reflects Shadow spells back at their caster for 5 sec.
+
+
+Item #18636
+URL: https://database.turtle-wow.org/?item=18636
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Ruined Jumper Cables XL
+
+
+Item #18637
+URL: https://database.turtle-wow.org/?item=18637
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Major Recombobulator
+Trinket
+Requires Engineering (275)
+Use:
+Dispels Polymorph effects on a friendly target.  Also restores 375 to 626 health and mana.
+
+
+Item #18645
+URL: https://database.turtle-wow.org/?item=18645
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Gnomish Alarm-O-Bot
+Requires Engineering (265)
+Use:
+Summons an Alarm-O-Bot for 10 minutes that occasionally sends out a pulse that detects nearby stealthy or invisible enemies.
+
+
+Item #18660
+URL: https://database.turtle-wow.org/?item=18660
+Category: Database/Items/Trade Goods/Devices
+Item: 
+World Enlarger
+Requires Engineering (250)
+Requires Gnomish Engineer
+Use:
+Enlarges the entire world for 300 sec or until you attack.
+"Only Gnomish Technology could invent a device that affects the entire world!"
+
+
+Item #20834
+URL: https://database.turtle-wow.org/?item=20834
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Ornate Spyglass XT
+Use:
+Allows you to look far into the distance.
+
+
+Item #21277
+URL: https://database.turtle-wow.org/?item=21277
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Tranquil Mechanical Yeti
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"A peaceful creation of gnomish ingenuity, this mechanical yeti brings a sense of calm and tranquility to your journeys."
+
+
+Item #22728
+URL: https://database.turtle-wow.org/?item=22728
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Steam Tonk Controller
+"Take control of a Steam Tonk."
+
+
+Item #4366
+URL: https://database.turtle-wow.org/?item=4366
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Target Dummy
+Requires Engineering (85)
+Use:
+Drops a target dummy on the ground that attracts nearby monsters to attack it.  Lasts for 15 seconds or until killed.
+
+
+Item #4376
+URL: https://database.turtle-wow.org/?item=4376
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Flame Deflector
+Requires Level 15
+Use:
+Absorbs 500 fire damage.  Lasts 60 sec.
+
+
+Item #4381
+URL: https://database.turtle-wow.org/?item=4381
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Minor Recombobulator
+Trinket
+Requires Engineering (140)
+Use:
+Dispels Polymorph effects on a friendly target.  Also restores 150 to 251 health and mana.
+
+
+Item #4386
+URL: https://database.turtle-wow.org/?item=4386
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Ice Deflector
+Requires Level 21
+Use:
+Absorbs 600 frost damage.  Lasts 60 sec.
+
+
+Item #4391
+URL: https://database.turtle-wow.org/?item=4391
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Compact Harvest Reaper Kit
+Requires Level 30
+Requires Engineering (175)
+Use:
+Creates a Compact Harvest Reaper that will fight for you for 10 min or until it is destroyed.
+
+
+Item #4388
+URL: https://database.turtle-wow.org/?item=4388
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Discombobulator Ray
+Use:
+Transforms the target into a Leper Gnome, reducing its melee and spell damage by 40 and its movement rate by 20% for 12 sec.
+
+
+Item #4392
+URL: https://database.turtle-wow.org/?item=4392
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Advanced Target Dummy
+Requires Engineering (185)
+Use:
+Drops a target dummy on the ground that attracts nearby monsters to attack it. Lasts for 15 seconds or until killed.
+
+
+Item #4396
+URL: https://database.turtle-wow.org/?item=4396
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Mechanical Dragonling
+Binds when equipped
+Unique
+Trinket
+Requires Level 30
+Requires Engineering (200)
+Use:
+Activates your Mechanical Dragonling to fight for you for 60 sec.  It requires an hour to cool down before it can be used again.
+
+
+Item #4397
+URL: https://database.turtle-wow.org/?item=4397
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Gnomish Cloaking Device
+Binds when equipped
+Trinket
+Requires Engineering (200)
+Use:
+Gives invisibility for 10 sec.  It can only be used every 60 minutes.
+
+
+Item #4401
+URL: https://database.turtle-wow.org/?item=4401
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Mechanical Squirrel Box
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"A marvel of gnomish engineering, this box contains a mischievous mechanical squirrel ready to assist you in your adventures."
+
+
+Item #4405
+URL: https://database.turtle-wow.org/?item=4405
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Crude Scope
+Requires Level 5
+Use:
+Attaches a permanent scope to a bow or gun that increases its damage by 1.
+
+
+Item #4403
+URL: https://database.turtle-wow.org/?item=4403
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Portable Bronze Mortar
+Requires Engineering (165)
+Use:
+Inflicts 85 to 116 Fire damage and stuns targets in a 5 yard radius for 2 sec.  Any damage will break the effect.
+
+
+Item #4406
+URL: https://database.turtle-wow.org/?item=4406
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Standard Scope
+Requires Level 10
+Use:
+Attaches a permanent scope to a bow or gun that increases its damage by 2.
+
+
+Item #4407
+URL: https://database.turtle-wow.org/?item=4407
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Accurate Scope
+Requires Level 20
+Use:
+Attaches a permanent scope to a bow or gun that increases its damage by 3.
+
+
+Item #5507
+URL: https://database.turtle-wow.org/?item=5507
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Ornate Spyglass
+Use:
+Allows you to look far into the distance.
+
+
+Item #6533
+URL: https://database.turtle-wow.org/?item=6533
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Aquadynamic Fish Attractor
+Requires Fishing (100)
+Use:
+When applied to your fishing pole, increases Fishing by 100 for 5 minutes.
+
+
+Item #6715
+URL: https://database.turtle-wow.org/?item=6715
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Ruined Jumper Cables
+
+
+Item #7148
+URL: https://database.turtle-wow.org/?item=7148
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Goblin Jumper Cables
+Trinket
+Requires Engineering (165)
+Use:
+Jumper Cables will sometimes be able to shock a dead player back to life.  Cannot be used when in combat.
+
+
+Item #7506
+URL: https://database.turtle-wow.org/?item=7506
+Category: Database/Items/Trade Goods/Devices
+Item: 
+Gnomish Universal Remote
+Binds when equipped
+Trinket
+Requires Engineering (125)
+Use:
+Allows control of a mechanical target for a short time.  It may not always work and may just root the machine or make it very very angry.  Gnomish engineering at its finest.
+
+

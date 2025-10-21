@@ -1,0 +1,2422 @@
+Item #70
+URL: https://database.turtle-wow.org/?item=70
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Steel Belt Buckle
+Binds when picked up
+Requires Blacksmithing (200)
+Use:
+Teaches you how to create Steel Belt Buckle.
+
+
+Item #71
+URL: https://database.turtle-wow.org/?item=71
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Gold Belt Buckle
+Binds when picked up
+Requires Blacksmithing (175)
+Use:
+Teaches you how to create Gold Belt Buckle.
+
+
+Item #88
+URL: https://database.turtle-wow.org/?item=88
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dragonscale Belt Buckle
+Requires Blacksmithing (235)
+Use:
+Teaches you how to create Dragonscale Belt Buckle.
+
+
+Item #104
+URL: https://database.turtle-wow.org/?item=104
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Belt Buckle
+Binds when picked up
+Requires Blacksmithing (275)
+Requires Thorium Brotherhood - Revered
+Use:
+Teaches you how to create Dark Iron Belt Buckle.
+
+
+Item #113
+URL: https://database.turtle-wow.org/?item=113
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Truesilver Belt Buckle
+Binds when picked up
+Requires Blacksmithing (225)
+Use:
+Teaches you how to create Truesilver Belt Buckle.
+
+
+Item #124
+URL: https://database.turtle-wow.org/?item=124
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Enchanted Thorium Belt Buckle
+Binds when picked up
+Requires Blacksmithing (285)
+Use:
+Teaches you how to create Enchanted Thorium Belt Buckle.
+
+
+Item #132
+URL: https://database.turtle-wow.org/?item=132
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Obsidian Belt Buckle
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to create Obsidian Belt Buckle.
+
+
+Item #2881
+URL: https://database.turtle-wow.org/?item=2881
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Runed Copper Breastplate
+Requires Blacksmithing (80)
+Use:
+Teaches you how to make a Runed Copper Breastplate.
+
+
+Item #2883
+URL: https://database.turtle-wow.org/?item=2883
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Deadly Bronze Poniard
+Requires Blacksmithing (125)
+Use:
+Teaches you how to make a Deadly Bronze Poniard.
+
+
+Item #2882
+URL: https://database.turtle-wow.org/?item=2882
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Silvered Bronze Shoulders
+Requires Blacksmithing (125)
+Use:
+Teaches you how to make Silvered Bronze Shoulders.
+
+
+Item #3611
+URL: https://database.turtle-wow.org/?item=3611
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Green Iron Boots
+Requires Blacksmithing (145)
+Use:
+Teaches you how to make Green Iron Boots.
+
+
+Item #3609
+URL: https://database.turtle-wow.org/?item=3609
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Copper Chain Vest
+Requires Blacksmithing (35)
+Use:
+Teaches you how to make a Copper Chain Vest.
+
+
+Item #3608
+URL: https://database.turtle-wow.org/?item=3608
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Mighty Iron Hammer
+Requires Blacksmithing (145)
+Use:
+Teaches you how to make a Mighty Iron Hammer.
+
+
+Item #3610
+URL: https://database.turtle-wow.org/?item=3610
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Gemmed Copper Gauntlets
+Requires Blacksmithing (60)
+Use:
+Teaches you how to make Gemmed Copper Gauntlets.
+
+
+Item #3612
+URL: https://database.turtle-wow.org/?item=3612
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Green Iron Gauntlets
+Requires Blacksmithing (150)
+Use:
+Teaches you how to make Green Iron Gauntlets.
+
+
+Item #3866
+URL: https://database.turtle-wow.org/?item=3866
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Jade Serpentblade
+Requires Blacksmithing (175)
+Use:
+Teaches you how to make a Jade Serpentblade.
+
+
+Item #3867
+URL: https://database.turtle-wow.org/?item=3867
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Golden Iron Destroyer
+Requires Blacksmithing (170)
+Use:
+Teaches you how to make a Golden Iron Destroyer.
+
+
+Item #3868
+URL: https://database.turtle-wow.org/?item=3868
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Frost Tiger Blade
+Requires Blacksmithing (200)
+Use:
+Teaches you how to make a Frost Tiger Blade.
+
+
+Item #3873
+URL: https://database.turtle-wow.org/?item=3873
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Golden Scale Cuirass
+Requires Blacksmithing (195)
+Use:
+Teaches you how to make a Golden Scale Cuirass.
+
+
+Item #3875
+URL: https://database.turtle-wow.org/?item=3875
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Golden Scale Boots
+Requires Blacksmithing (200)
+Use:
+Teaches you how to make Golden Scale Boots.
+
+
+Item #3871
+URL: https://database.turtle-wow.org/?item=3871
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Golden Scale Shoulders
+Requires Blacksmithing (175)
+Use:
+Teaches you how to make Golden Scale Shoulders.
+
+
+Item #3869
+URL: https://database.turtle-wow.org/?item=3869
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Shadow Crescent Axe
+Requires Blacksmithing (200)
+Use:
+Teaches you how to make a Shadow Crescent Axe.
+
+
+Item #3874
+URL: https://database.turtle-wow.org/?item=3874
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Polished Steel Boots
+Requires Blacksmithing (185)
+Use:
+Teaches you how to make Polished Steel Boots.
+
+
+Item #3872
+URL: https://database.turtle-wow.org/?item=3872
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Golden Scale Leggings
+Requires Blacksmithing (170)
+Use:
+Teaches you how to make Golden Scale Leggings.
+
+
+Item #3870
+URL: https://database.turtle-wow.org/?item=3870
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Green Iron Shoulders
+Requires Blacksmithing (160)
+Use:
+Teaches you how to make Green Iron Shoulders.
+
+
+Item #5543
+URL: https://database.turtle-wow.org/?item=5543
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Iridescent Hammer
+Requires Blacksmithing (140)
+Use:
+Teaches you how to make an Iridescent Hammer.
+
+
+Item #5578
+URL: https://database.turtle-wow.org/?item=5578
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Silvered Bronze Breastplate
+Requires Blacksmithing (130)
+Use:
+Teaches you how to make a Silvered Bronze Breastplate.
+
+
+Item #5577
+URL: https://database.turtle-wow.org/?item=5577
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Rough Bronze Bracers
+Requires Blacksmithing (100)
+Use:
+Teaches you how to make Rough Bronze Bracers.
+
+
+Item #6047
+URL: https://database.turtle-wow.org/?item=6047
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Golden Scale Coif
+Requires Blacksmithing (190)
+Use:
+Teaches you how to make a Golden Scale Coif.
+
+
+Item #6044
+URL: https://database.turtle-wow.org/?item=6044
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Iron Shield Spike
+Requires Blacksmithing (150)
+Use:
+Teaches you how to make an Iron Shield Spike.
+
+
+Item #6046
+URL: https://database.turtle-wow.org/?item=6046
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Steel Weapon Chain
+Requires Blacksmithing (190)
+Use:
+Teaches you how to make a Steel Weapon Chain to prevent you from being disarmed.
+
+
+Item #6045
+URL: https://database.turtle-wow.org/?item=6045
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Iron Counterweight
+Requires Blacksmithing (165)
+Use:
+Teaches you how to make an Iron Counterweight to help balance a two-handed weapon.
+
+
+Item #6734
+URL: https://database.turtle-wow.org/?item=6734
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ironforge Chain
+Requires Blacksmithing (70)
+Use:
+Teaches you how to make Ironforge Chain.
+
+
+Item #6736
+URL: https://database.turtle-wow.org/?item=6736
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ironforge Gauntlets
+Requires Blacksmithing (140)
+Use:
+Teaches you how to make Ironforge Gauntlets.
+
+
+Item #6735
+URL: https://database.turtle-wow.org/?item=6735
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ironforge Breastplate
+Requires Blacksmithing (100)
+Use:
+Teaches you how to make an Ironforge Breastplate.
+
+
+Item #7975
+URL: https://database.turtle-wow.org/?item=7975
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Heavy Mithril Pants
+Requires Blacksmithing (210)
+Use:
+Teaches you how to make Heavy Mithril Pants.
+
+
+Item #7976
+URL: https://database.turtle-wow.org/?item=7976
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Mithril Shield Spike
+Requires Blacksmithing (215)
+Use:
+Teaches you how to make a Mithril Shield Spike.
+
+
+Item #7980
+URL: https://database.turtle-wow.org/?item=7980
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Barbaric Iron Helm
+Requires Blacksmithing (175)
+Use:
+Teaches you how to make a Barbaric Iron Helm.
+
+
+Item #7978
+URL: https://database.turtle-wow.org/?item=7978
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Barbaric Iron Shoulders
+Requires Blacksmithing (160)
+Use:
+Teaches you how to make Barbaric Iron Shoulders.
+
+
+Item #7979
+URL: https://database.turtle-wow.org/?item=7979
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Barbaric Iron Breastplate
+Requires Blacksmithing (160)
+Use:
+Teaches you how to make a Barbaric Iron Breastplate.
+
+
+Item #7982
+URL: https://database.turtle-wow.org/?item=7982
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Barbaric Iron Gloves
+Requires Blacksmithing (185)
+Use:
+Teaches you how to make Barbaric Iron Gloves.
+
+
+Item #7981
+URL: https://database.turtle-wow.org/?item=7981
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Barbaric Iron Boots
+Requires Blacksmithing (180)
+Use:
+Teaches you how to make Barbaric Iron Boots.
+
+
+Item #7977
+URL: https://database.turtle-wow.org/?item=7977
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Mithril Scale Gloves
+Requires Blacksmithing (220)
+Use:
+Teaches you how to make Mithril Scale Gloves.
+
+
+Item #7984
+URL: https://database.turtle-wow.org/?item=7984
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ornate Mithril Gloves
+Binds when picked up
+Requires Blacksmithing (220)
+Use:
+Teaches you how to make Ornate Mithril Gloves.
+
+
+Item #7983
+URL: https://database.turtle-wow.org/?item=7983
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ornate Mithril Pants
+Binds when picked up
+Requires Blacksmithing (220)
+Use:
+Teaches you how to make Ornate Mithril Pants.
+
+
+Item #7987
+URL: https://database.turtle-wow.org/?item=7987
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ornate Mithril Helm
+Binds when picked up
+Requires Blacksmithing (245)
+Use:
+Teaches you how to make Ornate Mithril Helm.
+
+
+Item #7991
+URL: https://database.turtle-wow.org/?item=7991
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Mithril Scale Shoulders
+Requires Blacksmithing (235)
+Use:
+Teaches you how to make Mithril Scale Shoulders.
+
+
+Item #7988
+URL: https://database.turtle-wow.org/?item=7988
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ornate Mithril Boots
+Binds when picked up
+Requires Blacksmithing (245)
+Use:
+Teaches you how to make Ornate Mithril Boots.
+
+
+Item #7986
+URL: https://database.turtle-wow.org/?item=7986
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ornate Mithril Breastplate
+Binds when picked up
+Requires Blacksmithing (240)
+Use:
+Teaches you how to make Ornate Mithril Breastplate.
+
+
+Item #7985
+URL: https://database.turtle-wow.org/?item=7985
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ornate Mithril Shoulder
+Binds when picked up
+Requires Blacksmithing (225)
+Use:
+Teaches you how to make Ornate Mithril Shoulders.
+
+
+Item #7990
+URL: https://database.turtle-wow.org/?item=7990
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Heavy Mithril Helm
+Requires Blacksmithing (245)
+Use:
+Teaches you how to make a Heavy Mithril Helm.
+
+
+Item #7989
+URL: https://database.turtle-wow.org/?item=7989
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Mithril Spurs
+Requires Blacksmithing (235)
+Use:
+Teaches you how to make Mithril Spurs.
+
+
+Item #7992
+URL: https://database.turtle-wow.org/?item=7992
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Blue Glittering Axe
+Requires Blacksmithing (220)
+Use:
+Teaches you how to make a Blue Glittering Axe.
+
+
+Item #7994
+URL: https://database.turtle-wow.org/?item=7994
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Orcish War Leggings
+Requires Blacksmithing (230)
+Use:
+Teaches you how to make Orcish War Leggings.
+
+
+Item #7993
+URL: https://database.turtle-wow.org/?item=7993
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dazzling Mithril Rapier
+Requires Blacksmithing (240)
+Use:
+Teaches you how to make a Dazzling Mithril Rapier.
+
+
+Item #7995
+URL: https://database.turtle-wow.org/?item=7995
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Mithril Scale Bracers
+Requires Blacksmithing (215)
+Use:
+Teaches you how to make Mithril Scale Bracers.
+
+
+Item #8028
+URL: https://database.turtle-wow.org/?item=8028
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Runed Mithril Hammer
+Requires Blacksmithing (245)
+Use:
+Teaches you how to make a Runed Mithril Hammer.
+
+
+Item #8029
+URL: https://database.turtle-wow.org/?item=8029
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Wicked Mithril Blade
+Binds when picked up
+Requires Blacksmithing (225)
+Use:
+Teaches you how to make a Wicked Mithril Blade.
+
+
+Item #8030
+URL: https://database.turtle-wow.org/?item=8030
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ebon Shiv
+Binds when picked up
+Requires Blacksmithing (255)
+Use:
+Teaches you how to make an Ebon Shiv.
+
+
+Item #9367
+URL: https://database.turtle-wow.org/?item=9367
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Golden Scale Gauntlets
+Requires Blacksmithing (205)
+Use:
+Teaches you how to make Golden Scale Gauntlets.
+
+
+Item #10424
+URL: https://database.turtle-wow.org/?item=10424
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Silvered Bronze Leggings
+Requires Blacksmithing (155)
+Use:
+Teaches you how to make Silvered Bronze Leggings.
+
+
+Item #10424
+URL: https://database.turtle-wow.org/?item=10424
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Silvered Bronze Leggings
+Requires Blacksmithing (155)
+Use:
+Teaches you how to make Silvered Bronze Leggings.
+
+
+Item #10713
+URL: https://database.turtle-wow.org/?item=10713
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Inlaid Mithril Cylinder
+Requires Blacksmithing (200)
+Use:
+Teaches you how to make an Inlaid Mithril Cylinder.  This item is used by Gnomish Engineers.
+
+
+Item #10858
+URL: https://database.turtle-wow.org/?item=10858
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Solid Iron Maul
+Requires Blacksmithing (155)
+Use:
+Teaches you how to make a Solid Iron Maul.
+
+
+Item #11610
+URL: https://database.turtle-wow.org/?item=11610
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Pulverizer
+Requires Blacksmithing (265)
+Requires Weaponsmith
+Use:
+Teaches you how to make a Dark Iron Pulverizer.
+
+
+Item #11614
+URL: https://database.turtle-wow.org/?item=11614
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Mail
+Binds when picked up
+Requires Blacksmithing (270)
+Use:
+Teaches you how to make Dark Iron Mail.
+
+
+Item #11615
+URL: https://database.turtle-wow.org/?item=11615
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Shoulders
+Binds when picked up
+Requires Blacksmithing (280)
+Use:
+Teaches you how to make Dark Iron Shoulders.
+
+
+Item #11611
+URL: https://database.turtle-wow.org/?item=11611
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Sunderer
+Requires Blacksmithing (275)
+Requires Weaponsmith
+Use:
+Teaches you how to make a Dark Iron Sunderer.
+
+
+Item #11612
+URL: https://database.turtle-wow.org/?item=11612
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Plate
+Requires Blacksmithing (285)
+Requires Armorsmith
+Use:
+Teaches you how to make Dark Iron Plate.
+
+
+Item #12163
+URL: https://database.turtle-wow.org/?item=12163
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Moonsteel Broadsword
+Requires Blacksmithing (180)
+Use:
+Teaches you how to make a Moonsteel Broadsword.
+
+
+Item #12162
+URL: https://database.turtle-wow.org/?item=12162
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Hardened Iron Shortsword
+Requires Blacksmithing (160)
+Use:
+Teaches you how to make a Hardened Iron Shortsword.
+
+
+Item #12164
+URL: https://database.turtle-wow.org/?item=12164
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Massive Iron Axe
+Requires Blacksmithing (185)
+Use:
+Teaches you how to make a Massive Iron Axe.
+
+
+Item #12261
+URL: https://database.turtle-wow.org/?item=12261
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Searing Golden Blade
+Requires Blacksmithing (190)
+Use:
+Teaches you how to make a Searing Golden Blade.
+
+
+Item #12689
+URL: https://database.turtle-wow.org/?item=12689
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Radiant Breastplate
+Requires Blacksmithing (270)
+Use:
+Teaches you how to make a Radiant Breastplate.
+
+
+Item #12688
+URL: https://database.turtle-wow.org/?item=12688
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Imperial Plate Belt
+Binds when picked up
+Requires Blacksmithing (265)
+Use:
+Teaches you how to make Imperial Plate Belt.
+
+
+Item #12683
+URL: https://database.turtle-wow.org/?item=12683
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Belt
+Requires Blacksmithing (250)
+Use:
+Teaches you how to make a Thorium Belt.
+
+
+Item #12682
+URL: https://database.turtle-wow.org/?item=12682
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Armor
+Requires Blacksmithing (250)
+Use:
+Teaches you how to make Thorium Armor.
+
+
+Item #12684
+URL: https://database.turtle-wow.org/?item=12684
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Bracers
+Requires Blacksmithing (255)
+Use:
+Teaches you how to make Thorium Bracers.
+
+
+Item #12687
+URL: https://database.turtle-wow.org/?item=12687
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Imperial Plate Shoulders
+Binds when picked up
+Requires Blacksmithing (265)
+Use:
+Teaches you how to make Imperial Plate Shoulders.
+
+
+Item #12685
+URL: https://database.turtle-wow.org/?item=12685
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Radiant Belt
+Requires Blacksmithing (260)
+Use:
+Teaches you how to make a Radiant Belt.
+
+
+Item #12690
+URL: https://database.turtle-wow.org/?item=12690
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Imperial Plate Bracers
+Binds when picked up
+Requires Blacksmithing (270)
+Use:
+Teaches you how to make Imperial Plate Bracers.
+
+
+Item #12695
+URL: https://database.turtle-wow.org/?item=12695
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Radiant Gloves
+Requires Blacksmithing (285)
+Use:
+Teaches you how to make Radiant Gloves.
+
+
+Item #12698
+URL: https://database.turtle-wow.org/?item=12698
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dawnbringer Shoulders
+Requires Blacksmithing (290)
+Requires Armorsmith
+Use:
+Teaches you how to make Dawnbringer Shoulders.
+
+
+Item #12700
+URL: https://database.turtle-wow.org/?item=12700
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Imperial Plate Boots
+Binds when picked up
+Requires Blacksmithing (295)
+Use:
+Teaches you how to make Imperial Plate Boots.
+
+
+Item #12691
+URL: https://database.turtle-wow.org/?item=12691
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Wildthorn Mail
+Requires Blacksmithing (270)
+Requires Armorsmith
+Use:
+Teaches you how to make Wildthorn Mail.
+
+
+Item #12693
+URL: https://database.turtle-wow.org/?item=12693
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Boots
+Requires Blacksmithing (280)
+Use:
+Teaches you how to make Thorium Boots.
+
+
+Item #12694
+URL: https://database.turtle-wow.org/?item=12694
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Helm
+Requires Blacksmithing (280)
+Use:
+Teaches you how to make a Thorium Helm.
+
+
+Item #12699
+URL: https://database.turtle-wow.org/?item=12699
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Fiery Plate Gauntlets
+Binds when picked up
+Requires Blacksmithing (290)
+Requires Armorsmith
+Use:
+Teaches you how to make Fiery Plate Gaunlets.
+
+
+Item #12696
+URL: https://database.turtle-wow.org/?item=12696
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Demon Forged Breastplate
+Binds when picked up
+Requires Blacksmithing (285)
+Requires Armorsmith
+Use:
+Teaches you how to make a Demon Forged Breastplate.
+
+
+Item #12692
+URL: https://database.turtle-wow.org/?item=12692
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Shield Spike
+Requires Blacksmithing (275)
+Use:
+Teaches you how to make a Thorium Shield Spike.
+
+
+Item #12697
+URL: https://database.turtle-wow.org/?item=12697
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Radiant Boots
+Requires Blacksmithing (290)
+Use:
+Teaches you how to make Radiant Boots.
+
+
+Item #12707
+URL: https://database.turtle-wow.org/?item=12707
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Runic Plate Boots
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Runic Plate Boots.
+
+
+Item #12701
+URL: https://database.turtle-wow.org/?item=12701
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Imperial Plate Helm
+Binds when picked up
+Requires Blacksmithing (295)
+Use:
+Teaches you how to make an Imperial Plate Helm.
+
+
+Item #12706
+URL: https://database.turtle-wow.org/?item=12706
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Runic Plate Shoulders
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Runic Plate Shoulders.
+
+
+Item #12704
+URL: https://database.turtle-wow.org/?item=12704
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Leggings
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Thorium Leggings.
+
+
+Item #12705
+URL: https://database.turtle-wow.org/?item=12705
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Imperial Plate Chest
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make an Imperial Plate Chest.
+
+
+Item #12703
+URL: https://database.turtle-wow.org/?item=12703
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Storm Gauntlets
+Requires Blacksmithing (295)
+Requires Armorsmith
+Use:
+Teaches you how to make Storm Gauntlets.
+
+
+Item #12702
+URL: https://database.turtle-wow.org/?item=12702
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Radiant Circlet
+Requires Blacksmithing (295)
+Use:
+Teaches you how to make a Radiant Circlet.
+
+
+Item #12719
+URL: https://database.turtle-wow.org/?item=12719
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Runic Plate Leggings
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Runic Plate Leggings.
+
+
+Item #12717
+URL: https://database.turtle-wow.org/?item=12717
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Lionheart Helm
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make a Lionheart Helm.
+
+
+Item #12715
+URL: https://database.turtle-wow.org/?item=12715
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Imperial Plate Leggings
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Imperial Plate Leggings.
+
+
+Item #12711
+URL: https://database.turtle-wow.org/?item=12711
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Whitesoul Helm
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make a Whitesoul Helm.
+
+
+Item #12716
+URL: https://database.turtle-wow.org/?item=12716
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Helm of the Great Chief
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make a Helm of the Great Chief.
+
+
+Item #12713
+URL: https://database.turtle-wow.org/?item=12713
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Radiant Leggings
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Radiant Leggings.
+
+
+Item #12714
+URL: https://database.turtle-wow.org/?item=12714
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Runic Plate Helm
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make a Runic Plate Helm.
+
+
+Item #12718
+URL: https://database.turtle-wow.org/?item=12718
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Runic Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make a Runic Breastplate.
+
+
+Item #12720
+URL: https://database.turtle-wow.org/?item=12720
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Stronghold Gauntlets
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Stronghold Gauntlets.
+
+
+Item #12725
+URL: https://database.turtle-wow.org/?item=12725
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Enchanted Thorium Helm
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Enchanted Thorium Helm.
+
+
+Item #12726
+URL: https://database.turtle-wow.org/?item=12726
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Enchanted Thorium Leggings
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Enchanted Thorium Leggings.
+
+
+Item #12727
+URL: https://database.turtle-wow.org/?item=12727
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Enchanted Thorium Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make an Enchanted Thorium Breastplate.
+
+
+Item #12728
+URL: https://database.turtle-wow.org/?item=12728
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Invulnerable Mail
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Invulnerable Mail.
+
+
+Item #12819
+URL: https://database.turtle-wow.org/?item=12819
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ornate Thorium Handaxe
+Binds when picked up
+Requires Blacksmithing (275)
+Use:
+Teaches you how to make an Ornate Thorium Handaxe.
+
+
+Item #12816
+URL: https://database.turtle-wow.org/?item=12816
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Greatsword
+Requires Blacksmithing (260)
+Use:
+Teaches you how to make a Thorium Greatsword.
+
+
+Item #12818
+URL: https://database.turtle-wow.org/?item=12818
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Inlaid Thorium Hammer
+Requires Blacksmithing (270)
+Use:
+Teaches you how to make an Inlaid Thorium Hammer.
+
+
+Item #12817
+URL: https://database.turtle-wow.org/?item=12817
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Bleakwood Hew
+Requires Blacksmithing (270)
+Requires Weaponsmith
+Use:
+Teaches you how to make Bleakwood Hew.
+
+
+Item #12823
+URL: https://database.turtle-wow.org/?item=12823
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Huge Thorium Battleaxe
+Binds when picked up
+Requires Blacksmithing (280)
+Use:
+Teaches you how to make a Huge Thorium Battleaxe.
+
+
+Item #12824
+URL: https://database.turtle-wow.org/?item=12824
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Enchanted Battlehammer
+Requires Blacksmithing (280)
+Requires Master Hammersmith
+Use:
+Teaches you how to make an Enchanted Battlehammer.
+
+
+Item #12821
+URL: https://database.turtle-wow.org/?item=12821
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dawn's Edge
+Requires Blacksmithing (275)
+Requires Master Axesmith
+Use:
+Teaches you how to make Dawn's Edge.
+
+
+Item #12827
+URL: https://database.turtle-wow.org/?item=12827
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Serenity
+Requires Blacksmithing (285)
+Requires Master Hammersmith
+Use:
+Teaches you how to make Serenity.
+
+
+Item #12830
+URL: https://database.turtle-wow.org/?item=12830
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Corruption
+Requires Blacksmithing (290)
+Requires Master Swordsmith
+Use:
+Teaches you how to make Corruption.
+
+
+Item #12828
+URL: https://database.turtle-wow.org/?item=12828
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Volcanic Hammer
+Requires Blacksmithing (290)
+Use:
+Teaches you how to make a Volcanic Hammer.
+
+
+Item #12826
+URL: https://database.turtle-wow.org/?item=12826
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Rune Edge
+Requires Blacksmithing (285)
+Use:
+Teaches you how to make Rune Edge.
+
+
+Item #12825
+URL: https://database.turtle-wow.org/?item=12825
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Blazing Rapier
+Requires Blacksmithing (280)
+Requires Master Swordsmith
+Use:
+Teaches you how to make a Blazing Rapier.
+
+
+Item #12832
+URL: https://database.turtle-wow.org/?item=12832
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Darkspear
+Requires Blacksmithing (300)
+Requires Weaponsmith
+Use:
+Teaches you how to make a Darkspear.
+
+
+Item #12834
+URL: https://database.turtle-wow.org/?item=12834
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Arcanite Champion
+Requires Blacksmithing (300)
+Requires Master Swordsmith
+Use:
+Teaches you how to make an Arcanite Champion.
+
+
+Item #12831
+URL: https://database.turtle-wow.org/?item=12831
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Blood Talon
+Requires Blacksmithing (300)
+Requires Weaponsmith
+Use:
+Teaches you how to make Blood Talon.
+
+
+Item #12835
+URL: https://database.turtle-wow.org/?item=12835
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Annihilator
+Requires Blacksmithing (300)
+Requires Master Axesmith
+Use:
+Teaches you how to make an Annihilator.
+
+
+Item #12833
+URL: https://database.turtle-wow.org/?item=12833
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Hammer of the Titans
+Requires Blacksmithing (300)
+Requires Master Hammersmith
+Use:
+Teaches you how to make a Hammer of the Titans.
+
+
+Item #12836
+URL: https://database.turtle-wow.org/?item=12836
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Frostguard
+Requires Blacksmithing (300)
+Requires Master Swordsmith
+Use:
+Teaches you how to make a Frostguard.
+
+
+Item #12839
+URL: https://database.turtle-wow.org/?item=12839
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Heartseeker
+Requires Blacksmithing (300)
+Requires Weaponsmith
+Use:
+Teaches you how to make Heartseeker.
+
+
+Item #12838
+URL: https://database.turtle-wow.org/?item=12838
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Arcanite Reaper
+Requires Blacksmithing (300)
+Requires Master Axesmith
+Use:
+Teaches you how to make an Arcanite Reaper.
+
+
+Item #12837
+URL: https://database.turtle-wow.org/?item=12837
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Masterwork Stormhammer
+Requires Blacksmithing (300)
+Requires Master Hammersmith
+Use:
+Teaches you how to make a Masterwork Stormhammer.
+
+
+Item #17049
+URL: https://database.turtle-wow.org/?item=17049
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Fiery Chain Girdle
+Binds when picked up
+Requires Armorsmith
+Use:
+Teaches you how to make a Fiery Chain Girdle.
+
+
+Item #17052
+URL: https://database.turtle-wow.org/?item=17052
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Leggings
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Dark Iron Leggings.
+
+
+Item #17060
+URL: https://database.turtle-wow.org/?item=17060
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Destroyer
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Master Axesmith
+Use:
+Teaches you how to make a Dark Iron Destroyer.
+
+
+Item #17059
+URL: https://database.turtle-wow.org/?item=17059
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Reaver
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Master Swordsmith
+Use:
+Teaches you how to make a Dark Iron Reaver.
+
+
+Item #17053
+URL: https://database.turtle-wow.org/?item=17053
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Fiery Chain Shoulders
+Binds when picked up
+Requires Armorsmith
+Use:
+Teaches you how to make Fiery Chain Shoulders.
+
+
+Item #17051
+URL: https://database.turtle-wow.org/?item=17051
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Bracers
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Dark Iron Bracers.
+
+
+Item #17706
+URL: https://database.turtle-wow.org/?item=17706
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Edge of Winter
+Requires Blacksmithing (190)
+Use:
+Teaches you how to make the Edge of Winter.
+
+
+Item #18264
+URL: https://database.turtle-wow.org/?item=18264
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Elemental Sharpening Stone
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make an Elemental Sharpening Stone.
+
+
+Item #18592
+URL: https://database.turtle-wow.org/?item=18592
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Sulfuron Hammer
+Unique
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make a Sulfuron Hammer.
+
+
+Item #19203
+URL: https://database.turtle-wow.org/?item=19203
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Girdle of the Dawn
+Binds when picked up
+Requires Blacksmithing (290)
+Requires Argent Dawn - Honored
+Use:
+Teaches you how to make a Girdle of the Dawn.
+
+
+Item #19207
+URL: https://database.turtle-wow.org/?item=19207
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Gauntlets
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Dark Iron Gauntlets.
+
+
+Item #19202
+URL: https://database.turtle-wow.org/?item=19202
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Heavy Timbermaw Belt
+Binds when picked up
+Requires Blacksmithing (290)
+Requires Timbermaw Hold - Honored
+Use:
+Teaches you how to make a Heavy Timbermaw Belt.
+
+
+Item #19210
+URL: https://database.turtle-wow.org/?item=19210
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ebon Hand
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Master Hammersmith
+Use:
+Teaches you how to make the Ebon Hand.
+
+
+Item #19209
+URL: https://database.turtle-wow.org/?item=19209
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Blackfury
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Weaponsmith
+Use:
+Teaches you how to make Blackfury.
+
+
+Item #19208
+URL: https://database.turtle-wow.org/?item=19208
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Black Amnesty
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Weaponsmith
+Use:
+Teaches you how to make Black Amnesty.
+
+
+Item #19205
+URL: https://database.turtle-wow.org/?item=19205
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Gloves of the Dawn
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to make Gloves of the Dawn.
+
+
+Item #19204
+URL: https://database.turtle-wow.org/?item=19204
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Heavy Timbermaw Boots
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Timbermaw Hold - Revered
+Use:
+Teaches you how to make Heavy Timbermaw Boots.
+
+
+Item #19206
+URL: https://database.turtle-wow.org/?item=19206
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Helm
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make a Dark Iron Helm.
+
+
+Item #19212
+URL: https://database.turtle-wow.org/?item=19212
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Nightfall
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Master Axesmith
+Use:
+Teaches you how to make Nightfall.
+
+
+Item #19211
+URL: https://database.turtle-wow.org/?item=19211
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Blackguard
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Master Swordsmith
+Use:
+Teaches you how to make Blackguard.
+
+
+Item #19777
+URL: https://database.turtle-wow.org/?item=19777
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Bloodsoul Shoulders
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Zandalar Tribe - Honored
+Use:
+Teaches you how to make Bloodsoul Shoulders
+
+
+Item #19776
+URL: https://database.turtle-wow.org/?item=19776
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Bloodsoul Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Zandalar Tribe - Revered
+Use:
+Teaches you how to make a Bloodsoul Breastplate.
+
+
+Item #19778
+URL: https://database.turtle-wow.org/?item=19778
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Bloodsoul Gauntlets
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Zandalar Tribe - Friendly
+Use:
+Teaches you how to make Bloodsoul Gauntlets.
+
+
+Item #19780
+URL: https://database.turtle-wow.org/?item=19780
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Darksoul Leggings
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Zandalar Tribe - Honored
+Use:
+Teaches you how to make Darksoul Leggings.
+
+
+Item #19779
+URL: https://database.turtle-wow.org/?item=19779
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Darksoul Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Zandalar Tribe - Revered
+Use:
+Teaches you how to make a Darksoul Breastplate.
+
+
+Item #19781
+URL: https://database.turtle-wow.org/?item=19781
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Darksoul Shoulders
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Zandalar Tribe - Friendly
+Use:
+Teaches you how to make Darksoul Shoulders.
+
+
+Item #20040
+URL: https://database.turtle-wow.org/?item=20040
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dark Iron Boots
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Dark Iron Boots.
+
+
+Item #20554
+URL: https://database.turtle-wow.org/?item=20554
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Darkrune Breastplate
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make a Darkrune Breastplate.
+
+
+Item #20555
+URL: https://database.turtle-wow.org/?item=20555
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Darkrune Helm
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make a Darkrune Helm.
+
+
+Item #20553
+URL: https://database.turtle-wow.org/?item=20553
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Darkrune Gauntlets
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Darkrune Gauntlets.
+
+
+Item #22209
+URL: https://database.turtle-wow.org/?item=22209
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Heavy Obsidian Belt
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Cenarion Circle - Friendly
+Use:
+Teaches you how to make a Heavy Obsidian Belt.
+
+
+Item #22220
+URL: https://database.turtle-wow.org/?item=22220
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Black Grasp of the Destroyer
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make the Black Grasp of the Destroyer.
+
+
+Item #22214
+URL: https://database.turtle-wow.org/?item=22214
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Light Obsidian Belt
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Cenarion Circle - Honored
+Use:
+Teaches you how to make a Light Obsidian Belt.
+
+
+Item #22219
+URL: https://database.turtle-wow.org/?item=22219
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Jagged Obsidian Shield
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Cenarion Circle - Revered
+Use:
+Teaches you how to make a Jagged Obsidian Shield.
+
+
+Item #22222
+URL: https://database.turtle-wow.org/?item=22222
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thick Obsidian Breastplate
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make a Thick Obsidian Breastplate.
+
+
+Item #22221
+URL: https://database.turtle-wow.org/?item=22221
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Obsidian Mail Tunic
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Cenarion Circle - Exalted
+Use:
+Teaches you how to make an Obsidian Mail Tunic.
+
+
+Item #22388
+URL: https://database.turtle-wow.org/?item=22388
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Titanic Leggings
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Titanic Leggings.
+
+
+Item #22389
+URL: https://database.turtle-wow.org/?item=22389
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Sageblade
+Requires Blacksmithing (300)
+Requires Master Swordsmith
+Use:
+Teaches you how to make a Sageblade.
+
+
+Item #22390
+URL: https://database.turtle-wow.org/?item=22390
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Persuader
+Requires Blacksmithing (300)
+Requires Master Hammersmith
+Use:
+Teaches you how to make the Persuader.
+
+
+Item #22703
+URL: https://database.turtle-wow.org/?item=22703
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Icebane Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Argent Dawn - Exalted
+Use:
+Teaches you how to make an Icebane Breastplate.
+
+
+Item #22705
+URL: https://database.turtle-wow.org/?item=22705
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Icebane Bracers
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to make Icebane Bracers.
+
+
+Item #22704
+URL: https://database.turtle-wow.org/?item=22704
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Icebane Gauntlets
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to make Icebane Gauntlets.
+
+
+Item #22766
+URL: https://database.turtle-wow.org/?item=22766
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ironvine Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Cenarion Circle - Revered
+Use:
+Teaches you how to make an Ironvine Breastplate
+
+
+Item #22767
+URL: https://database.turtle-wow.org/?item=22767
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ironvine Gloves
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Cenarion Circle - Honored
+Use:
+Teaches you how to make Ironvine Gloves.
+
+
+Item #22768
+URL: https://database.turtle-wow.org/?item=22768
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ironvine Belt
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Cenarion Circle - Friendly
+Use:
+Teaches you how to make an Ironvine Belt.
+
+
+Item #51265
+URL: https://database.turtle-wow.org/?item=51265
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Blast Shield
+Requires Blacksmithing (75)
+Use:
+Teaches you how to make Blast Shield.
+
+
+Item #55074
+URL: https://database.turtle-wow.org/?item=55074
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: The Frigid Whisper
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Weaponsmith
+Requires Ravenholdt - Exalted
+"Needs spell: Use: Teaches you how to create The Frigid Whisper."
+
+
+Item #55543
+URL: https://database.turtle-wow.org/?item=55543
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Otherworldly Coif
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to craft a Otherworldly Coif.
+
+
+Item #55544
+URL: https://database.turtle-wow.org/?item=55544
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Otherworldly Spaulders
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to craft a Otherworldly Spaulders.
+
+
+Item #55546
+URL: https://database.turtle-wow.org/?item=55546
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Otherworldly Leggings
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to craft a Otherworldly Leggings.
+
+
+Item #55547
+URL: https://database.turtle-wow.org/?item=55547
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Reflective Helmet
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to craft a Reflective Helmet.
+
+
+Item #55548
+URL: https://database.turtle-wow.org/?item=55548
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Reflective Pauldrons
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to craft a Reflective Pauldrons.
+
+
+Item #55545
+URL: https://database.turtle-wow.org/?item=55545
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Otherworldly Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to craft a Otherworldly Breastplate.
+
+
+Item #55550
+URL: https://database.turtle-wow.org/?item=55550
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Reflective Leggings
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to craft a Reflective Leggings.
+
+
+Item #55549
+URL: https://database.turtle-wow.org/?item=55549
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Reflective Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to craft a Reflective Breastplate.
+
+
+Item #61178
+URL: https://database.turtle-wow.org/?item=61178
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Spurs
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to create Thorium Spurs.
+
+
+Item #61189
+URL: https://database.turtle-wow.org/?item=61189
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dawnstone Hammer
+Requires Blacksmithing (300)
+Requires Master Hammersmith
+Use:
+Teaches you how to make a Dawnstone Hammer.
+
+
+Item #61786
+URL: https://database.turtle-wow.org/?item=61786
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Copper Belt Buckle
+Binds when picked up
+Requires Blacksmithing (25)
+Use:
+Teaches you how to create Copper Buckle.
+
+
+Item #61787
+URL: https://database.turtle-wow.org/?item=61787
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Bronze Belt Buckle
+Binds when picked up
+Requires Blacksmithing (90)
+Use:
+Teaches you how to create Bronze Buckle.
+
+
+Item #61788
+URL: https://database.turtle-wow.org/?item=61788
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Iron Belt Buckle
+Binds when picked up
+Requires Blacksmithing (140)
+Use:
+Teaches you how to create Iron Buckle.
+
+
+Item #61790
+URL: https://database.turtle-wow.org/?item=61790
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Thorium Belt Buckle
+Requires Blacksmithing (240)
+Use:
+Teaches you how to create Thorium Buckle.
+
+
+Item #61791
+URL: https://database.turtle-wow.org/?item=61791
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Arcanite Belt Buckle
+Requires Blacksmithing (275)
+Use:
+Teaches you how to create Arcanite Buckle.
+
+
+Item #61789
+URL: https://database.turtle-wow.org/?item=61789
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Mithril Belt Buckle
+Binds when picked up
+Requires Blacksmithing (190)
+Use:
+Teaches you how to create Mithril Buckle.
+
+
+Item #61792
+URL: https://database.turtle-wow.org/?item=61792
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dreamsteel Belt Buckle
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to create Dreamsteel Buckle.
+
+
+Item #61799
+URL: https://database.turtle-wow.org/?item=61799
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Ornate Bloodstone Dagger
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Weaponsmith
+Use:
+Teaches you how to make an Ornate Bloodstone Dagger.
+
+
+Item #61803
+URL: https://database.turtle-wow.org/?item=61803
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Bloody Belt Buckle
+Binds when picked up
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make a Bloody Belt Buckle.
+
+
+Item #61807
+URL: https://database.turtle-wow.org/?item=61807
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Towerforge Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make a Towerforge Breastplate.
+
+
+Item #61806
+URL: https://database.turtle-wow.org/?item=61806
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Towerforge Pauldrons
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Towerforge Pauldrons.
+
+
+Item #61808
+URL: https://database.turtle-wow.org/?item=61808
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Towerforge Crown
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make a Towerforge Crown.
+
+
+Item #61805
+URL: https://database.turtle-wow.org/?item=61805
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Towerforge Demolisher
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Master Hammersmith
+Use:
+Teaches you how to make a Towerforge Demolisher.
+
+
+Item #61809
+URL: https://database.turtle-wow.org/?item=61809
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Towerforge Crown
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make a Towerforge Crown.
+
+
+Item #62004
+URL: https://database.turtle-wow.org/?item=62004
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Fiery Chain Breastplate
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Thorium Brotherhood - Exalted
+Use:
+Teaches you how to make a Fiery Chain Breastplate.
+
+
+Item #62001
+URL: https://database.turtle-wow.org/?item=62001
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Fury of the Timbermaw
+Binds when picked up
+Requires Blacksmithing (290)
+Requires Armorsmith
+Requires Timbermaw Hold - Honored
+Use:
+Teaches you how to make a Fury of the Timbermaw.
+
+
+Item #62002
+URL: https://database.turtle-wow.org/?item=62002
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Pauldrons of the Timbermaw
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Armorsmith
+Requires Timbermaw Hold - Revered
+Use:
+Teaches you how to make a Pauldrons of the Timbermaw.
+
+
+Item #83504
+URL: https://database.turtle-wow.org/?item=83504
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Rune-Etched Crown
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Rune-Etched Crown.
+
+
+Item #83503
+URL: https://database.turtle-wow.org/?item=83503
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Rune-Etched Breastplate
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Rune-Etched Breastplate.
+
+
+Item #83501
+URL: https://database.turtle-wow.org/?item=83501
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Rune-Etched Greaves
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Rune-Etched Greaves.
+
+
+Item #83502
+URL: https://database.turtle-wow.org/?item=83502
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Rune-Etched Legplates
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Rune-Etched Legplates.
+
+
+Item #83507
+URL: https://database.turtle-wow.org/?item=83507
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Bloodstone Warblade
+Binds when picked up
+Requires Blacksmithing (225)
+Use:
+Teaches you how to make a Bloodstone Warblade.
+
+
+Item #83506
+URL: https://database.turtle-wow.org/?item=83506
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Rune-Etched Grips
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Rune-Etched Grips.
+
+
+Item #83505
+URL: https://database.turtle-wow.org/?item=83505
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Rune-Etched Mantle
+Requires Blacksmithing (300)
+Use:
+Teaches you how to make Rune-Etched Mantle.
+
+
+Item #83518
+URL: https://database.turtle-wow.org/?item=83518
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Imperial Plate Gauntlets
+Binds when picked up
+Requires Blacksmithing (270)
+Use:
+Teaches you how to make Imperial Plate Gauntlets.
+
+
+Item #83519
+URL: https://database.turtle-wow.org/?item=83519
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Lordaeron Breastplate
+Requires Blacksmithing (100)
+Use:
+Teaches you how to make an Lordaeon Breastplate.
+
+
+Item #83548
+URL: https://database.turtle-wow.org/?item=83548
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Dream's Herald
+Binds when picked up
+Requires Blacksmithing (300)
+Requires Master Swordsmith
+Requires Cenarion Circle - Exalted
+Use:
+Teaches you how to make Dream's Herald.
+
+
+Item #83547
+URL: https://database.turtle-wow.org/?item=83547
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Pauldron of Deflection
+Requires Blacksmithing (300)
+Requires Armorsmith
+Use:
+Teaches you how to make Pauldron of Deflection.
+
+
+Item #83549
+URL: https://database.turtle-wow.org/?item=83549
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Frostbound Slasher
+Requires Blacksmithing (180)
+Use:
+Teaches you how to make a Frostbound Slasher.
+
+
+Item #84012
+URL: https://database.turtle-wow.org/?item=84012
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Hateforge Grips
+Requires Blacksmithing (285)
+Use:
+Teaches you how to make Hateforge Grips.
+
+
+Item #84010
+URL: https://database.turtle-wow.org/?item=84010
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Hateforge Belt
+Requires Blacksmithing (275)
+Use:
+Teaches you how to make Hateforge Belt.
+
+
+Item #84011
+URL: https://database.turtle-wow.org/?item=84011
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Hateforge Boots
+Requires Blacksmithing (275)
+Use:
+Teaches you how to make Hateforge Boots.
+
+
+Item #84014
+URL: https://database.turtle-wow.org/?item=84014
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Hateforge Helmet
+Requires Blacksmithing (290)
+Use:
+Teaches you how to make Hateforge Helmet.
+
+
+Item #84015
+URL: https://database.turtle-wow.org/?item=84015
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Hateforge Leggings
+Requires Blacksmithing (290)
+Use:
+Teaches you how to make Hateforge Leggings.
+
+
+Item #84013
+URL: https://database.turtle-wow.org/?item=84013
+Category: Database/Items/Recipes/Blacksmithing
+Item: 
+Plans: Hateforge Cuirass
+Requires Blacksmithing (290)
+Use:
+Teaches you how to make Hateforge Curiass.
+
+

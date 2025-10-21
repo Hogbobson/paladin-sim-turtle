@@ -1,0 +1,2113 @@
+Item #16
+URL: https://database.turtle-wow.org/?item=16
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Harness of the High Thane
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Requires Wildhammer Clan - Exalted
+Use:
+Teaches you how to craft Harness of the High Thane.
+
+
+Item #69
+URL: https://database.turtle-wow.org/?item=69
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dragonmaw Armor Kit
+Binds when picked up
+Requires Leatherworking (175)
+Use:
+Teaches you how to createan Dragonmaw Armor Kit.
+
+
+Item #74
+URL: https://database.turtle-wow.org/?item=74
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dragonmaw Gloves
+Binds when picked up
+Requires Leatherworking (170)
+Use:
+Teaches you how to craft Dragonmaw Gloves.
+
+
+Item #2407
+URL: https://database.turtle-wow.org/?item=2407
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: White Leather Jerkin
+Requires Leatherworking (60)
+Use:
+Teaches you how to craft a White Leather Jerkin.
+
+
+Item #2408
+URL: https://database.turtle-wow.org/?item=2408
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Fine Leather Gloves
+Requires Leatherworking (75)
+Use:
+Teaches you how to craft Fine Leather Gloves.
+
+
+Item #2406
+URL: https://database.turtle-wow.org/?item=2406
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Fine Leather Boots
+Requires Leatherworking (90)
+Use:
+Teaches you how to craft Fine Leather Boots.
+
+
+Item #2409
+URL: https://database.turtle-wow.org/?item=2409
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dark Leather Tunic
+Requires Leatherworking (100)
+Use:
+Teaches you how to craft a Dark Leather Tunic.
+
+
+Item #4294
+URL: https://database.turtle-wow.org/?item=4294
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Hillman's Belt
+Requires Leatherworking (120)
+Use:
+Teaches you how to craft a Hillman's Belt.
+
+
+Item #4295
+URL: https://database.turtle-wow.org/?item=4295
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Double-stitched Leather Gloves OLD
+Requires Leatherworking (125)
+Use:
+Teaches you how to craft a Guardian Cloak.
+
+
+Item #4300
+URL: https://database.turtle-wow.org/?item=4300
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Guardian Bracers
+Requires Leatherworking (195)
+Use:
+Teaches you how to craft Guardian Leather Bracers.
+
+
+Item #4299
+URL: https://database.turtle-wow.org/?item=4299
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Guardian Armor
+Requires Leatherworking (175)
+Use:
+Teaches you how to craft Guardian Armor.
+
+
+Item #4293
+URL: https://database.turtle-wow.org/?item=4293
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Hillman's Leather Vest
+Requires Leatherworking (100)
+Use:
+Teaches you how to craft a Hillman's Leather Vest.
+
+
+Item #4297
+URL: https://database.turtle-wow.org/?item=4297
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Barbaric Gloves
+Requires Leatherworking (150)
+Use:
+Teaches you how to craft Barbaric Gloves.
+
+
+Item #4298
+URL: https://database.turtle-wow.org/?item=4298
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Guardian Belt
+Requires Leatherworking (170)
+Use:
+Teaches you how to craft a Guardian Belt.
+
+
+Item #4296
+URL: https://database.turtle-wow.org/?item=4296
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dark Leather Shoulders
+Requires Leatherworking (140)
+Use:
+Teaches you how to craft Dark Leather Shoulders.
+
+
+Item #4301
+URL: https://database.turtle-wow.org/?item=4301
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Barbaric Belt
+Requires Leatherworking (200)
+Use:
+Teaches you how to craft a Barbaric Belt.
+
+
+Item #5083
+URL: https://database.turtle-wow.org/?item=5083
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Kodo Hide Bag
+Requires Leatherworking (40)
+Use:
+Teaches you how to craft a Kodo Hide Bag.
+
+
+Item #5786
+URL: https://database.turtle-wow.org/?item=5786
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Murloc Scale Belt
+Requires Leatherworking (90)
+Use:
+Teaches you how to craft a Murloc Scale Belt.
+
+
+Item #5787
+URL: https://database.turtle-wow.org/?item=5787
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Murloc Scale Breastplate
+Requires Leatherworking (95)
+Use:
+Teaches you how to craft a Murloc Scale Breastplate.
+
+
+Item #5788
+URL: https://database.turtle-wow.org/?item=5788
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Thick Murloc Armor
+Requires Leatherworking (170)
+Use:
+Teaches you how to craft Thick Murloc Armor.
+
+
+Item #5789
+URL: https://database.turtle-wow.org/?item=5789
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Murloc Scale Bracers
+Requires Leatherworking (190)
+Use:
+Teaches you how to craft Murloc Scale Bracers.
+
+
+Item #5972
+URL: https://database.turtle-wow.org/?item=5972
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Fine Leather Pants
+Requires Leatherworking (105)
+Use:
+Teaches you how to craft Fine Leather Pants.
+
+
+Item #5974
+URL: https://database.turtle-wow.org/?item=5974
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Guardian Cloak
+Requires Leatherworking (185)
+Use:
+Teaches you how to craft a Guardian Cloak.
+
+
+Item #5973
+URL: https://database.turtle-wow.org/?item=5973
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Barbaric Leggings
+Requires Leatherworking (170)
+Use:
+Teaches you how to craft Barbaric Leggings.
+
+
+Item #6474
+URL: https://database.turtle-wow.org/?item=6474
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Deviate Scale Cloak
+Requires Leatherworking (90)
+Use:
+Teaches you how to craft a Deviate Scale Cloak.
+
+
+Item #6475
+URL: https://database.turtle-wow.org/?item=6475
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Deviate Scale Gloves
+Requires Leatherworking (105)
+Use:
+Teaches you how to craft Deviate Scale Gloves.
+
+
+Item #6476
+URL: https://database.turtle-wow.org/?item=6476
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Deviate Scale Belt
+Requires Leatherworking (115)
+Use:
+Teaches you how to craft a Deviate Scale Belt.
+
+
+Item #6710
+URL: https://database.turtle-wow.org/?item=6710
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Moonglow Vest
+Requires Leatherworking (90)
+Use:
+Teaches you how to craft a Moonglow Vest.
+
+
+Item #7288
+URL: https://database.turtle-wow.org/?item=7288
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Rugged Leather Pants
+Requires Leatherworking (35)
+Use:
+Teaches you how to craft Rugged Leather Pants.
+
+
+Item #7289
+URL: https://database.turtle-wow.org/?item=7289
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Black Whelp Cloak
+Requires Leatherworking (100)
+Use:
+Teaches you how to craft a Black Whelp Cloak.
+
+
+Item #7290
+URL: https://database.turtle-wow.org/?item=7290
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Red Whelp Gloves
+Requires Leatherworking (120)
+Use:
+Teaches you how to craft Red Whelp Gloves.
+
+
+Item #7360
+URL: https://database.turtle-wow.org/?item=7360
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dark Leather Gloves
+Requires Leatherworking (120)
+Use:
+Teaches you how to craft Dark Leather Gloves.
+
+
+Item #7363
+URL: https://database.turtle-wow.org/?item=7363
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Pilferer's Gloves
+Requires Leatherworking (140)
+Use:
+Teaches you how to craft Pilferer's Gloves.
+
+
+Item #7361
+URL: https://database.turtle-wow.org/?item=7361
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Herbalist's Gloves
+Requires Leatherworking (135)
+Use:
+Teaches you how to craft Herbalist's Gloves.
+
+
+Item #7364
+URL: https://database.turtle-wow.org/?item=7364
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Earthen Gloves
+Requires Leatherworking (145)
+Use:
+Teaches you how to craft Heavy Earthen Gloves.
+
+
+Item #7362
+URL: https://database.turtle-wow.org/?item=7362
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Earthen Leather Shoulders
+Requires Leatherworking (135)
+Use:
+Teaches you how to craft Earthen Leather Shoulders.
+
+
+Item #7453
+URL: https://database.turtle-wow.org/?item=7453
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Swift Boots
+Requires Leatherworking (200)
+Use:
+Teaches you how to craft Swift Boots.
+
+
+Item #7449
+URL: https://database.turtle-wow.org/?item=7449
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dusky Leather Leggings
+Requires Leatherworking (165)
+Use:
+Teaches you how to craft Dusky Leather Leggings.
+
+
+Item #7450
+URL: https://database.turtle-wow.org/?item=7450
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Green Whelp Armor
+Requires Leatherworking (175)
+Use:
+Teaches you how to craft Green Whelp Armor.
+
+
+Item #7452
+URL: https://database.turtle-wow.org/?item=7452
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dusky Boots
+Requires Leatherworking (200)
+Use:
+Teaches you how to craft Dusky Boots.
+
+
+Item #7451
+URL: https://database.turtle-wow.org/?item=7451
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Green Whelp Bracers
+Requires Leatherworking (190)
+Use:
+Teaches you how to craft Green Whelp Bracers.
+
+
+Item #7613
+URL: https://database.turtle-wow.org/?item=7613
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Green Leather Armor
+Requires Leatherworking (155)
+Use:
+Teaches you how to craft Green Leather Armor.
+
+
+Item #8384
+URL: https://database.turtle-wow.org/?item=8384
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Comfortable Leather Hat
+Requires Leatherworking (200)
+Use:
+Teaches you how to craft a Comfortable Leather Hat.
+
+
+Item #8390
+URL: https://database.turtle-wow.org/?item=8390
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Big Voodoo Cloak
+Requires Leatherworking (240)
+Use:
+Teaches you how to craft a Big Voodoo Cloak.
+
+
+Item #8385
+URL: https://database.turtle-wow.org/?item=8385
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Turtle Scale Gloves
+Requires Leatherworking (205)
+Use:
+Teaches you how to craft Turtle Scale Gloves.
+
+
+Item #8388
+URL: https://database.turtle-wow.org/?item=8388
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Nightscape Cloak
+Requires Leatherworking (230)
+Use:
+Teaches you how to craft a Nightscape Cloak.
+
+
+Item #8389
+URL: https://database.turtle-wow.org/?item=8389
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Big Voodoo Pants
+Requires Leatherworking (240)
+Use:
+Teaches you how to craft Big Voodoo Pants.
+
+
+Item #8387
+URL: https://database.turtle-wow.org/?item=8387
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Big Voodoo Mask
+Requires Leatherworking (220)
+Use:
+Teaches you how to craft a Big Voodoo Mask.
+
+
+Item #8398
+URL: https://database.turtle-wow.org/?item=8398
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Tough Scorpid Gloves
+Requires Leatherworking (225)
+Use:
+Teaches you how to craft Tough Scorpid Gloves.
+
+
+Item #8395
+URL: https://database.turtle-wow.org/?item=8395
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Tough Scorpid Breastplate
+Requires Leatherworking (220)
+Use:
+Teaches you how to craft a Tough Scorpid Breastplate.
+
+
+Item #8400
+URL: https://database.turtle-wow.org/?item=8400
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Tough Scorpid Shoulders
+Requires Leatherworking (240)
+Use:
+Teaches you how to craft Tough Scorpid Shoulders.
+
+
+Item #8399
+URL: https://database.turtle-wow.org/?item=8399
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Tough Scorpid Boots
+Requires Leatherworking (235)
+Use:
+Teaches you how to craft Tough Scorpid Boots.
+
+
+Item #8403
+URL: https://database.turtle-wow.org/?item=8403
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wild Leather Shoulders
+Binds when picked up
+Requires Leatherworking (220)
+Use:
+Teaches you how to craft Wild Leather Shoulders.
+
+
+Item #8397
+URL: https://database.turtle-wow.org/?item=8397
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Tough Scorpid Bracers
+Requires Leatherworking (220)
+Use:
+Teaches you how to craft a Tough Scorpid Bracers.
+
+
+Item #8404
+URL: https://database.turtle-wow.org/?item=8404
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wild Leather Vest
+Binds when picked up
+Requires Leatherworking (225)
+Use:
+Teaches you how to craft a Wild Leather Vest.
+
+
+Item #8401
+URL: https://database.turtle-wow.org/?item=8401
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Tough Scorpid Leggings
+Requires Leatherworking (245)
+Use:
+Teaches you how to craft Tough Scorpid Leggings.
+
+
+Item #8402
+URL: https://database.turtle-wow.org/?item=8402
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Tough Scorpid Helm
+Requires Leatherworking (250)
+Use:
+Teaches you how to craft Tough Scorpid Helm.
+
+
+Item #8409
+URL: https://database.turtle-wow.org/?item=8409
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Nightscape Shoulders
+Requires Leatherworking (210)
+Use:
+Teaches you how to craft Nightscape Shoulders.
+
+
+Item #8405
+URL: https://database.turtle-wow.org/?item=8405
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wild Leather Helmet
+Binds when picked up
+Requires Leatherworking (225)
+Use:
+Teaches you how to craft a Wild Leather Helmet.
+
+
+Item #8406
+URL: https://database.turtle-wow.org/?item=8406
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wild Leather Boots
+Binds when picked up
+Requires Leatherworking (245)
+Use:
+Teaches you how to craft Wild Leather Boots.
+
+
+Item #8407
+URL: https://database.turtle-wow.org/?item=8407
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wild Leather Leggings
+Binds when picked up
+Requires Leatherworking (250)
+Use:
+Teaches you how to craft Wild Leather Leggings.
+
+
+Item #8408
+URL: https://database.turtle-wow.org/?item=8408
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wild Leather Cloak
+Binds when picked up
+Requires Leatherworking (250)
+Use:
+Teaches you how to craft Wild Leather Cloak.
+
+
+Item #13287
+URL: https://database.turtle-wow.org/?item=13287
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Raptor Hide Harness
+Requires Leatherworking (165)
+Use:
+Teaches you how to craft a Raptor Hide Harness.
+
+
+Item #13288
+URL: https://database.turtle-wow.org/?item=13288
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Raptor Hide Belt
+Requires Leatherworking (165)
+Use:
+Teaches you how to craft a Raptor Hide Belt.
+
+
+Item #14635
+URL: https://database.turtle-wow.org/?item=14635
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Gem-studded Leather Belt
+Requires Leatherworking (185)
+Use:
+Teaches you how to craft a Gem-studded Leather Belt.
+
+
+Item #15730
+URL: https://database.turtle-wow.org/?item=15730
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Red Dragonscale Breastplate
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft a Red Dragonscale Breastplate.
+
+
+Item #15726
+URL: https://database.turtle-wow.org/?item=15726
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Green Dragonscale Breastplate
+Requires Leatherworking (260)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft a Green Dragonscale Breastplate.
+
+
+Item #15724
+URL: https://database.turtle-wow.org/?item=15724
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Scorpid Bracers
+Requires Leatherworking (275)
+Use:
+Teaches you how to craft Heavy Scorpid Bracers.
+
+
+Item #15729
+URL: https://database.turtle-wow.org/?item=15729
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Chimeric Gloves
+Requires Leatherworking (265)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Chimeric Gloves.
+
+
+Item #15728
+URL: https://database.turtle-wow.org/?item=15728
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wicked Leather Bracers
+Requires Leatherworking (265)
+Use:
+Teaches you how to craft Wicked Leather Bracers.
+
+
+Item #15725
+URL: https://database.turtle-wow.org/?item=15725
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wicked Leather Gauntlets
+Requires Leatherworking (260)
+Use:
+Teaches you how to craft Wicked Leather Gauntlets.
+
+
+Item #15727
+URL: https://database.turtle-wow.org/?item=15727
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Scorpid Vest
+Requires Leatherworking (290)
+Use:
+Teaches you how to craft a Heavy Scorpid Vest.
+
+
+Item #15733
+URL: https://database.turtle-wow.org/?item=15733
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Green Dragonscale Leggings
+Requires Leatherworking (270)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft Green Dragonscale Leggings.
+
+
+Item #15738
+URL: https://database.turtle-wow.org/?item=15738
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Scorpid Gauntlets
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Heavy Scorpid Gauntlets.
+
+
+Item #15732
+URL: https://database.turtle-wow.org/?item=15732
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Volcanic Leggings
+Requires Leatherworking (270)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Volcanic Leggings.
+
+
+Item #15734
+URL: https://database.turtle-wow.org/?item=15734
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Living Shoulders
+Requires Leatherworking (270)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Living Shoulders.
+
+
+Item #15737
+URL: https://database.turtle-wow.org/?item=15737
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Chimeric Boots
+Requires Leatherworking (275)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Chimeric Boots.
+
+
+Item #15731
+URL: https://database.turtle-wow.org/?item=15731
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Runic Leather Gauntlets
+Requires Leatherworking (270)
+Use:
+Teaches you how to craft Runic Leather Gauntlets.
+
+
+Item #15735
+URL: https://database.turtle-wow.org/?item=15735
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Ironfeather Shoulders
+Requires Leatherworking (270)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Ironfeather Shoulders.
+
+
+Item #15739
+URL: https://database.turtle-wow.org/?item=15739
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Runic Leather Bracers
+Requires Leatherworking (275)
+Use:
+Teaches you how to craft Runic Leather Bracers.
+
+
+Item #15743
+URL: https://database.turtle-wow.org/?item=15743
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Scorpid Belt
+Requires Leatherworking (280)
+Use:
+Teaches you how to craft a Heavy Scorpid Belt.
+
+
+Item #15745
+URL: https://database.turtle-wow.org/?item=15745
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Runic Leather Belt
+Requires Leatherworking (280)
+Use:
+Teaches you how to craft a Runic Leather Belt.
+
+
+Item #15746
+URL: https://database.turtle-wow.org/?item=15746
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Chimeric Leggings
+Requires Leatherworking (280)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Chimeric Leggings.
+
+
+Item #15747
+URL: https://database.turtle-wow.org/?item=15747
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Frostsaber Leggings
+Requires Leatherworking (285)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Frostsaber Leggings.
+
+
+Item #15748
+URL: https://database.turtle-wow.org/?item=15748
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Scorpid Leggings
+Requires Leatherworking (285)
+Use:
+Teaches you how to craft Heavy Scorpid Leggings.
+
+
+Item #15749
+URL: https://database.turtle-wow.org/?item=15749
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Volcanic Breastplate
+Requires Leatherworking (285)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft a Volcanic Breastplate.
+
+
+Item #15744
+URL: https://database.turtle-wow.org/?item=15744
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wicked Leather Headband
+Requires Leatherworking (280)
+Use:
+Teaches you how to craft a Wicked Leather Headband.
+
+
+Item #15741
+URL: https://database.turtle-wow.org/?item=15741
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Stormshroud Pants
+Requires Leatherworking (275)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Stormshroud Pants.
+
+
+Item #15742
+URL: https://database.turtle-wow.org/?item=15742
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Warbear Harness
+Requires Leatherworking (275)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft a Warbear Harness.
+
+
+Item #15757
+URL: https://database.turtle-wow.org/?item=15757
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wicked Leather Pants
+Requires Leatherworking (290)
+Use:
+Teaches you how to craft Wicked Leather Pants.
+
+
+Item #15758
+URL: https://database.turtle-wow.org/?item=15758
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Devilsaur Gauntlets
+Requires Leatherworking (290)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Devilsaur Gauntlets.
+
+
+Item #15754
+URL: https://database.turtle-wow.org/?item=15754
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Warbear Woolies
+Binds when picked up
+Requires Leatherworking (285)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Warbear Woolies.
+
+
+Item #15760
+URL: https://database.turtle-wow.org/?item=15760
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Ironfeather Breastplate
+Requires Leatherworking (290)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft an Ironfeather Breastplate.
+
+
+Item #15755
+URL: https://database.turtle-wow.org/?item=15755
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Chimeric Vest
+Requires Leatherworking (290)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft a Chimeric Vest.
+
+
+Item #15756
+URL: https://database.turtle-wow.org/?item=15756
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Runic Leather Headband
+Requires Leatherworking (290)
+Use:
+Teaches you how to craft a Runic Leather Headband.
+
+
+Item #15751
+URL: https://database.turtle-wow.org/?item=15751
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Blue Dragonscale Breastplate
+Requires Leatherworking (285)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft a Blue Dragonscale Breastplate.
+
+
+Item #15753
+URL: https://database.turtle-wow.org/?item=15753
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Stormshroud Armor
+Requires Leatherworking (285)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Stormshroud Armor.
+
+
+Item #15752
+URL: https://database.turtle-wow.org/?item=15752
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Living Leggings
+Requires Leatherworking (285)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Living Leggings.
+
+
+Item #15759
+URL: https://database.turtle-wow.org/?item=15759
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Black Dragonscale Breastplate
+Requires Leatherworking (290)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft a Black Dragonscale Breastplate.
+
+
+Item #15762
+URL: https://database.turtle-wow.org/?item=15762
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Scorpid Helm
+Requires Leatherworking (295)
+Use:
+Teaches you how to craft a Heavy Scorpid Helm.
+
+
+Item #15761
+URL: https://database.turtle-wow.org/?item=15761
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Frostsaber Gloves
+Requires Leatherworking (295)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Frostsaber Gloves.
+
+
+Item #15765
+URL: https://database.turtle-wow.org/?item=15765
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Runic Leather Pants
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Runic Leather Pants.
+
+
+Item #15768
+URL: https://database.turtle-wow.org/?item=15768
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wicked Leather Belt
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft a Wicked Leather Belt.
+
+
+Item #15769
+URL: https://database.turtle-wow.org/?item=15769
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Onyxia Scale Cloak
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft an Onyxia Scale Cloak.
+
+
+Item #15763
+URL: https://database.turtle-wow.org/?item=15763
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Blue Dragonscale Shoulders
+Requires Leatherworking (295)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft Blue Dragonscale Shoulders.
+
+
+Item #15764
+URL: https://database.turtle-wow.org/?item=15764
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Stormshroud Shoulders
+Requires Leatherworking (295)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Stormshroud Shoulders.
+
+
+Item #15770
+URL: https://database.turtle-wow.org/?item=15770
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Black Dragonscale Shoulders
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft Black Dragonscale Shoulders.
+
+
+Item #15774
+URL: https://database.turtle-wow.org/?item=15774
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Scorpid Shoulders
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Heavy Scorpid Shoulders.
+
+
+Item #15772
+URL: https://database.turtle-wow.org/?item=15772
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Devilsaur Leggings
+Requires Leatherworking (300)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft a Devilsaur Leggings.
+
+
+Item #15776
+URL: https://database.turtle-wow.org/?item=15776
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Runic Leather Armor
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Runic Leather Armor.
+
+
+Item #15780
+URL: https://database.turtle-wow.org/?item=15780
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Onyxia Scale Breastplate
+Binds when picked up
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft an Onyxia Scale Breastplate.
+
+
+Item #15775
+URL: https://database.turtle-wow.org/?item=15775
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Volcanic Shoulders
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Volcanic Shoulders.
+
+
+Item #15773
+URL: https://database.turtle-wow.org/?item=15773
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Wicked Leather Armor
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Wicked Leather Armor.
+
+
+Item #15771
+URL: https://database.turtle-wow.org/?item=15771
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Living Breastplate
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft a Living Breastplate.
+
+
+Item #15777
+URL: https://database.turtle-wow.org/?item=15777
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Runic Leather Shoulders
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Runic Leather Shoulders.
+
+
+Item #15779
+URL: https://database.turtle-wow.org/?item=15779
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Frostsaber Tunic
+Requires Leatherworking (300)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft a Frostsaber Tunic.
+
+
+Item #15781
+URL: https://database.turtle-wow.org/?item=15781
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Black Dragonscale Leggings
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft Black Dragonscale Leggings.
+
+
+Item #17025
+URL: https://database.turtle-wow.org/?item=17025
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Black Dragonscale Boots
+Binds when picked up
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft Black Dragonscale Boots.
+
+
+Item #17022
+URL: https://database.turtle-wow.org/?item=17022
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Corehound Boots
+Binds when picked up
+Requires Leatherworking (300)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Corehound Boots.
+
+
+Item #17023
+URL: https://database.turtle-wow.org/?item=17023
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Molten Helm
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft a Molten Helm.
+
+
+Item #17722
+URL: https://database.turtle-wow.org/?item=17722
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Gloves of the Greatfather
+Requires Leatherworking (190)
+Use:
+Teaches you how to craft Gloves of the Greatfather.
+
+
+Item #18239
+URL: https://database.turtle-wow.org/?item=18239
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Shadowskin Gloves
+Requires Leatherworking (200)
+Use:
+Teaches you how to craft Shadowskin Gloves.
+
+
+Item #18252
+URL: https://database.turtle-wow.org/?item=18252
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Core Armor Kit
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft a Core Armor Kit.
+
+
+Item #18517
+URL: https://database.turtle-wow.org/?item=18517
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Chromatic Cloak
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft a Chromatic Cloak.
+
+
+Item #18519
+URL: https://database.turtle-wow.org/?item=18519
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Shifting Cloak
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft a Shifting Cloak.
+
+
+Item #18518
+URL: https://database.turtle-wow.org/?item=18518
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Hide of the Wild
+Requires Leatherworking (300)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft a Hide of the Wild.
+
+
+Item #18516
+URL: https://database.turtle-wow.org/?item=18516
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Swift Flight Bracers
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Swift Flight Bracers.
+
+
+Item #18515
+URL: https://database.turtle-wow.org/?item=18515
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Mongoose Boots
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Mongoose Boots.
+
+
+Item #18514
+URL: https://database.turtle-wow.org/?item=18514
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Girdle of Insight
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft a Girdle of Insight.
+
+
+Item #18731
+URL: https://database.turtle-wow.org/?item=18731
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Heavy Leather Ball
+Requires Leatherworking (150)
+Use:
+Teaches you how to craft a Heavy Leather Ball.
+
+
+Item #18949
+URL: https://database.turtle-wow.org/?item=18949
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Barbaric Bracers
+Requires Leatherworking (155)
+Use:
+Teaches you how to craft Barbaric Bracers.
+
+
+Item #19330
+URL: https://database.turtle-wow.org/?item=19330
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Lava Belt
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft a Lava Belt.
+
+
+Item #19329
+URL: https://database.turtle-wow.org/?item=19329
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Golden Mantle of the Dawn
+Binds when picked up
+Requires Leatherworking (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to craft a Golden Mantle of the Dawn.
+
+
+Item #19327
+URL: https://database.turtle-wow.org/?item=19327
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Timbermaw Brawlers
+Binds when picked up
+Requires Leatherworking (300)
+Requires Timbermaw Hold - Revered
+Use:
+Teaches you how to craft Timbermaw Brawlers.
+
+
+Item #19326
+URL: https://database.turtle-wow.org/?item=19326
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Might of the Timbermaw
+Binds when picked up
+Requires Leatherworking (290)
+Requires Timbermaw Hold - Honored
+Use:
+Teaches you how to craft the Might of the Timbermaw.
+
+
+Item #19328
+URL: https://database.turtle-wow.org/?item=19328
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dawn Treaders
+Binds when picked up
+Requires Leatherworking (290)
+Requires Argent Dawn - Honored
+Use:
+Teaches you how to craft Dawn Treaders.
+
+
+Item #19332
+URL: https://database.turtle-wow.org/?item=19332
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Corehound Belt
+Binds when picked up
+Requires Leatherworking (300)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft a Corehound Belt.
+
+
+Item #19333
+URL: https://database.turtle-wow.org/?item=19333
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Molten Belt
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft a Molten Belt.
+
+
+Item #19331
+URL: https://database.turtle-wow.org/?item=19331
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Chromatic Gauntlets
+Binds when picked up
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft Chromatic Gauntlets.
+
+
+Item #19769
+URL: https://database.turtle-wow.org/?item=19769
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Primal Batskin Jerkin
+Binds when picked up
+Requires Leatherworking (300)
+Requires Zandalar Tribe - Revered
+Use:
+Teaches you how to craft a Primal Batskin Jerkin.
+
+
+Item #19770
+URL: https://database.turtle-wow.org/?item=19770
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Primal Batskin Gloves
+Binds when picked up
+Requires Leatherworking (300)
+Requires Zandalar Tribe - Honored
+Use:
+Teaches you how to craft Primal Batskin Gloves.
+
+
+Item #19773
+URL: https://database.turtle-wow.org/?item=19773
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Blood Tiger Shoulders
+Binds when picked up
+Requires Leatherworking (300)
+Requires Zandalar Tribe - Honored
+Use:
+Teaches you how to craft a Blood Tiger Shoulders.
+
+
+Item #19771
+URL: https://database.turtle-wow.org/?item=19771
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Primal Batskin Bracers
+Binds when picked up
+Requires Leatherworking (300)
+Requires Zandalar Tribe - Friendly
+Use:
+Teaches you how to craft Primal Batskin Bracers.
+
+
+Item #19772
+URL: https://database.turtle-wow.org/?item=19772
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Blood Tiger Breastplate
+Binds when picked up
+Requires Leatherworking (300)
+Requires Zandalar Tribe - Revered
+Use:
+Teaches you how to craft a Blood Tiger Breastplate.
+
+
+Item #20254
+URL: https://database.turtle-wow.org/?item=20254
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Warbear Woolies
+Binds when picked up
+Requires Leatherworking (285)
+Requires Tribal Leatherworking
+Requires Timbermaw Hold - Friendly
+Use:
+Teaches you how to craft Warbear Woolies.
+
+
+Item #20253
+URL: https://database.turtle-wow.org/?item=20253
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Warbear Harness
+Binds when picked up
+Requires Leatherworking (275)
+Requires Tribal Leatherworking
+Requires Timbermaw Hold - Friendly
+Use:
+Teaches you how to craft a Warbear Harness.
+
+
+Item #20382
+URL: https://database.turtle-wow.org/?item=20382
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dreamscale Breastplate
+Binds when picked up
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Requires Cenarion Circle - Exalted
+Use:
+Teaches you how to craft a Dreamscale Breastplate.
+
+
+Item #20508
+URL: https://database.turtle-wow.org/?item=20508
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Spitfire Breastplate
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Revered
+Use:
+Teaches you how to craft a Spitfire Breastplate.
+
+
+Item #20510
+URL: https://database.turtle-wow.org/?item=20510
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Sandstalker Gauntlets
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Honored
+Use:
+Teaches you how to craft Sandstalker Gauntlets.
+
+
+Item #20506
+URL: https://database.turtle-wow.org/?item=20506
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Spitfire Bracers
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Friendly
+Use:
+Teaches you how to craft Spitfire Bracers.
+
+
+Item #20507
+URL: https://database.turtle-wow.org/?item=20507
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Spitfire Gauntlets
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Honored
+Use:
+Teaches you how to craft Spitfire Gauntlets.
+
+
+Item #20509
+URL: https://database.turtle-wow.org/?item=20509
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Sandstalker Bracers
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Friendly
+Use:
+Teaches you how to craft Sandstalker Bracers.
+
+
+Item #20511
+URL: https://database.turtle-wow.org/?item=20511
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Sandstalker Breastplate
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Revered
+Use:
+Teaches you how to craft Sandstalker Breastplate.
+
+
+Item #20576
+URL: https://database.turtle-wow.org/?item=20576
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Black Whelp Tunic
+Requires Leatherworking (100)
+Use:
+Teaches you how to craft a Black Whelp Tunic.
+
+
+Item #21548
+URL: https://database.turtle-wow.org/?item=21548
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Stormshroud Gloves
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Stormshroud Gloves.
+
+
+Item #22692
+URL: https://database.turtle-wow.org/?item=22692
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Polar Tunic
+Binds when picked up
+Requires Leatherworking (300)
+Requires Argent Dawn - Exalted
+Use:
+Teaches you how to craft a Polar Tunic.
+
+
+Item #22696
+URL: https://database.turtle-wow.org/?item=22696
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Icy Scale Breastplate
+Binds when picked up
+Requires Leatherworking (300)
+Requires Argent Dawn - Exalted
+Use:
+Teaches you how to craft an Icy Scale Breastplate.
+
+
+Item #22770
+URL: https://database.turtle-wow.org/?item=22770
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Bramblewood Boots
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Honored
+Use:
+Teaches you how to craft Bramblewood Boots.
+
+
+Item #22769
+URL: https://database.turtle-wow.org/?item=22769
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Bramblewood Belt
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Friendly
+Use:
+Teaches you how to craft a Bramblewood Belt.
+
+
+Item #22771
+URL: https://database.turtle-wow.org/?item=22771
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Bramblewood Helm
+Binds when picked up
+Requires Leatherworking (300)
+Requires Cenarion Circle - Revered
+Use:
+Teaches you how to craft a Bramblewood Helm.
+
+
+Item #51285
+URL: https://database.turtle-wow.org/?item=51285
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Lynxstep Boots
+Requires Leatherworking (75)
+Use:
+Teaches you how to craft Lynxstep Boots.
+
+
+Item #55042
+URL: https://database.turtle-wow.org/?item=55042
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Harness of the High Thanes
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Requires Wildhammer Clan - Exalted
+
+
+Item #55053
+URL: https://database.turtle-wow.org/?item=55053
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Prismatic Scale Barbute
+Binds when picked up
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Requires Shen'dralar - Revered
+Use:
+Teaches you how to make Prismatic Scale Barbute.
+
+
+Item #55069
+URL: https://database.turtle-wow.org/?item=55069
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Mantle of Falling Knives
+Binds when picked up
+Requires Leatherworking (250)
+Requires Ravenholdt - Revered
+"Needs spell: Teaches you how to craft Mantle of Falling Knives."
+
+
+Item #55539
+URL: https://database.turtle-wow.org/?item=55539
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Ethereal Helmet
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft a Ethereal Helmet.
+
+
+Item #55540
+URL: https://database.turtle-wow.org/?item=55540
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Ethereal Shoulder Pads
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft a Ethereal Shoulder Pads.
+
+
+Item #55541
+URL: https://database.turtle-wow.org/?item=55541
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Ethereal Tunic
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft a Ethereal Tunic.
+
+
+Item #55542
+URL: https://database.turtle-wow.org/?item=55542
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Ethereal Leggings
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft a Ethereal Leggings.
+
+
+Item #60776
+URL: https://database.turtle-wow.org/?item=60776
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Flamewrath Leggings
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Flamewrath Leggings.
+
+
+Item #60780
+URL: https://database.turtle-wow.org/?item=60780
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Breastplate of the Earth
+Requires Leatherworking (265)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Breastplate of the Earth.
+
+
+Item #60777
+URL: https://database.turtle-wow.org/?item=60777
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Earthguard Tunic
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Earthguard Tunic.
+
+
+Item #60778
+URL: https://database.turtle-wow.org/?item=60778
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Windwalker Boots
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Windwalker Boots.
+
+
+Item #60779
+URL: https://database.turtle-wow.org/?item=60779
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Depthstalker Helm
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Depthstalker Helmet.
+
+
+Item #60781
+URL: https://database.turtle-wow.org/?item=60781
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Boots of the Wind
+Requires Leatherworking (255)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Boots of the Wind.
+
+
+Item #61179
+URL: https://database.turtle-wow.org/?item=61179
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Enchanted Armor Kit
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to createan Enchanted Armor Kit.
+
+
+Item #61192
+URL: https://database.turtle-wow.org/?item=61192
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Inscribed Runic Bracers
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Inscribed Runic Bracers.
+
+
+Item #61228
+URL: https://database.turtle-wow.org/?item=61228
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Book: Craft Dreamhide
+Binds when picked up
+Requires Leatherworking (300)
+Use:
+Teaches you how to craft Dreamhide.
+
+
+Item #62000
+URL: https://database.turtle-wow.org/?item=62000
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Blue Dragonscale Boots
+Requires Leatherworking (290)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to craft a Blue Dragonscale Boots.
+
+
+Item #62003
+URL: https://database.turtle-wow.org/?item=62003
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Corehound Gloves
+Binds when picked up
+Requires Leatherworking (300)
+Requires Tribal Leatherworking
+Requires Thorium Brotherhood - Exalted
+Use:
+Teaches you how to craft a Corehound Gloves.
+
+
+Item #62006
+URL: https://database.turtle-wow.org/?item=62006
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Chromatic Leggings
+Binds when picked up
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Requires Thorium Brotherhood - Exalted
+Use:
+Teaches you how to craft a Chromatic Leggings.
+
+
+Item #62007
+URL: https://database.turtle-wow.org/?item=62007
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Molten Leggings
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Requires Thorium Brotherhood - Exalted
+Use:
+Teaches you how to craft a Molten Leggings.
+
+
+Item #83536
+URL: https://database.turtle-wow.org/?item=83536
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Shadowskin Boots
+Requires Leatherworking (205)
+Use:
+Teaches you how to make Shadowskin Boots.
+
+
+Item #83535
+URL: https://database.turtle-wow.org/?item=83535
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Plans: Bloodletter Razor
+Requires Blacksmithing (250)
+Requires Weaponsmith
+Use:
+Teaches you how to make a Bloodletter Razor.
+
+
+Item #83534
+URL: https://database.turtle-wow.org/?item=83534
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Dragonscale Leggings
+Requires Leatherworking (245)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to make Dragonscale Leggings.
+
+
+Item #83533
+URL: https://database.turtle-wow.org/?item=83533
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Red Dragonscale Boots
+Requires Leatherworking (295)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to make Red Dragonscale Boots.
+
+
+Item #83538
+URL: https://database.turtle-wow.org/?item=83538
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Red Dragonscale Leggings
+Requires Leatherworking (295)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to make Red Dragonscale Leggings.
+
+
+Item #83537
+URL: https://database.turtle-wow.org/?item=83537
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Red Dragonscale Shoulders
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to make Red Dragonscale Shoulders
+
+
+Item #83544
+URL: https://database.turtle-wow.org/?item=83544
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Stormscale Leggings
+Requires Leatherworking (300)
+Requires Dragonscale Leatherworking
+Use:
+Teaches you how to make Stormscale Leggings.
+
+
+Item #83546
+URL: https://database.turtle-wow.org/?item=83546
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Verdant Dreamer's Breastplate
+Binds when picked up
+Requires Leatherworking (300)
+Requires Tribal Leatherworking
+Requires Cenarion Circle - Exalted
+Use:
+Teaches you how to make Verdant Dreamer's Breastplate.
+
+
+Item #83559
+URL: https://database.turtle-wow.org/?item=83559
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Earthguard Tunic
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Earthguard Tunic.
+
+
+Item #83558
+URL: https://database.turtle-wow.org/?item=83558
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Flamewrath Leggings
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Flamewrath Leggings.
+
+
+Item #83560
+URL: https://database.turtle-wow.org/?item=83560
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Windwalker Boots
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Windwalker Boots.
+
+
+Item #83561
+URL: https://database.turtle-wow.org/?item=83561
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Depthstalker Helm
+Binds when picked up
+Requires Leatherworking (300)
+Requires Elemental Leatherworking
+Use:
+Teaches you how to craft Depthstalker Helmet.
+
+
+Item #8386
+URL: https://database.turtle-wow.org/?item=8386
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Big Voodoo Robe
+Requires Leatherworking (215)
+Use:
+Teaches you how to craft a Big Voodoo Robe.
+
+
+Item #15740
+URL: https://database.turtle-wow.org/?item=15740
+Category: Database/Items/Recipes/Leatherworking
+Item: 
+Pattern: Frostsaber Boots
+Requires Leatherworking (275)
+Requires Tribal Leatherworking
+Use:
+Teaches you how to craft Frostsaber Boots.
+
+

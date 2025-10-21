@@ -1,0 +1,112 @@
+Item #19320
+URL: https://database.turtle-wow.org/?item=19320
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Gnoll Skin Bandolier
+Binds when picked up
+Unique
+16 Slot Bag
+Requires Level 55
+Equip:
+Increases ranged attack speed by 15%.
+
+
+Item #2102
+URL: https://database.turtle-wow.org/?item=2102
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Small Ammo Pouch
+6 Slot Bag
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #3574
+URL: https://database.turtle-wow.org/?item=3574
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Hunting Ammo Sack
+Binds when picked up
+10 Slot Bag
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #2663
+URL: https://database.turtle-wow.org/?item=2663
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Ribbly's Bandolier
+Binds when picked up
+Unique
+16 Slot Bag
+Requires Level 50
+Equip:
+Increases ranged attack speed by 14%.
+
+
+Item #3604
+URL: https://database.turtle-wow.org/?item=3604
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Bandolier of the Night Watch
+Binds when picked up
+Unique
+12 Slot Bag
+Equip:
+Increases ranged attack speed by 11%.
+
+
+Item #5441
+URL: https://database.turtle-wow.org/?item=5441
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Small Shot Pouch
+8 Slot Bag
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #7279
+URL: https://database.turtle-wow.org/?item=7279
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Small Leather Ammo Pouch
+8 Slot Bag
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #7372
+URL: https://database.turtle-wow.org/?item=7372
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Heavy Leather Ammo Pouch
+14 Slot Bag
+Requires Level 30
+Equip:
+Increases ranged attack speed by 12%.
+
+
+Item #11363
+URL: https://database.turtle-wow.org/?item=11363
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Medium Shot Pouch
+10 Slot Bag
+Requires Level 10
+Equip:
+Increases ranged attack speed by 10%.
+
+
+Item #8218
+URL: https://database.turtle-wow.org/?item=8218
+Category: Database/Items/Quivers/Ammo Pouches
+Item: 
+Thick Leather Ammo Pouch
+16 Slot Bag
+Requires Level 40
+Equip:
+Increases ranged attack speed by 13%.
+
+

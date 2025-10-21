@@ -1,0 +1,84 @@
+Item #6454
+URL: https://database.turtle-wow.org/?item=6454
+Category: Database/Items/Recipes/First Aid
+Item: 
+Manual: Strong Anti-Venom
+Requires First Aid (130)
+Use:
+Teaches you how to make Strong Anti-Venom.
+
+
+Item #8547
+URL: https://database.turtle-wow.org/?item=8547
+Category: Database/Items/Recipes/First Aid
+Item: 
+Formula: Powerful Smelling Salts
+Binds when picked up
+Requires First Aid (250)
+Use:
+Teaches you how to make Powerful Smelling Salts.
+
+
+Item #16085
+URL: https://database.turtle-wow.org/?item=16085
+Category: Database/Items/Recipes/First Aid
+Item: 
+Artisan First Aid - Heal Thyself
+Requires First Aid (200)
+Use:
+Teaches you advanced first aid, allowing a maximum of 300 first aid skill.
+
+
+Item #16084
+URL: https://database.turtle-wow.org/?item=16084
+Category: Database/Items/Recipes/First Aid
+Item: 
+Expert First Aid - Under Wraps
+Requires First Aid (125)
+Use:
+Teaches you how to be an expert in first aid, allowing a maximum of 225 first aid skill.
+
+
+Item #16112
+URL: https://database.turtle-wow.org/?item=16112
+Category: Database/Items/Recipes/First Aid
+Item: 
+Manual: Heavy Silk Bandage
+Requires First Aid (180)
+Use:
+Teaches you how to make a Heavy Silk Bandage.
+
+
+Item #16113
+URL: https://database.turtle-wow.org/?item=16113
+Category: Database/Items/Recipes/First Aid
+Item: 
+Manual: Mageweave Bandage
+Requires First Aid (210)
+Use:
+Teaches you how to make a Mageweave Bandage.
+
+
+Item #19442
+URL: https://database.turtle-wow.org/?item=19442
+Category: Database/Items/Recipes/First Aid
+Item: 
+Formula: Powerful Anti-Venom
+Binds when picked up
+Requires First Aid (300)
+Requires Argent Dawn - Honored
+Use:
+Teaches you how to make Powerful Anti-Venom.
+
+
+Item #23689
+URL: https://database.turtle-wow.org/?item=23689
+Category: Database/Items/Recipes/First Aid
+Item: 
+Manual: Crystal Infused Bandage
+Binds when picked up
+Requires First Aid (300)
+Use:
+Teaches you how to make a Crystal Infused Bandage.
+
+

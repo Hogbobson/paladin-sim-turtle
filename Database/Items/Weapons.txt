@@ -1,0 +1,28 @@
+Item #12986
+URL: https://database.turtle-wow.org/?item=12986
+Category: Database/Items/Weapons
+Item: 
+Monster - Spear, Broad Notched
+Two-hand
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #51812
+URL: https://database.turtle-wow.org/?item=51812
+Category: Database/Items/Weapons
+Item: 
+Ashwood Spear
+Binds when equipped
+Two-hand
+23 - 34  Damage
+Speed 2.50
+(11.4 damage per second)
++4 Agility
++1 Stamina
+Durability 55 / 55
+Requires Level 11
+
+

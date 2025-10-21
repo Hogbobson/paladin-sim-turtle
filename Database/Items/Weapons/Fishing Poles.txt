@@ -1,0 +1,150 @@
+Item #6256
+URL: https://database.turtle-wow.org/?item=6256
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Fishing Pole
+Two-hand
+Fishing Pole
+2 - 4  Damage
+Speed 3.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #6366
+URL: https://database.turtle-wow.org/?item=6366
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Darkwood Fishing Pole
+Two-hand
+Fishing Pole
+28 - 43  Damage
+Speed 3.00
+(11.8 damage per second)
+Durability 40 / 40
+Requires Level 15
+Requires Fishing (50)
+Equip:
+Increased Fishing +15.
+
+
+Item #6365
+URL: https://database.turtle-wow.org/?item=6365
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Strong Fishing Pole
+Two-hand
+Fishing Pole
+13 - 21  Damage
+Speed 3.00
+(5.7 damage per second)
+Durability 25 / 25
+Requires Level 5
+Requires Fishing (10)
+Equip:
+Increased Fishing +5.
+
+
+Item #6367
+URL: https://database.turtle-wow.org/?item=6367
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Big Iron Fishing Pole
+Two-hand
+Fishing Pole
+45 - 69  Damage
+Speed 3.00
+(19.0 damage per second)
+Durability 55 / 55
+Requires Level 25
+Requires Fishing (100)
+Equip:
+Increased Fishing +20.
+
+
+Item #7010
+URL: https://database.turtle-wow.org/?item=7010
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Driftwood Fishing Pole
+Two-hand
+Fishing Pole
+2 - 4  Damage
+Speed 3.00
+(1.0 damage per second)
+Durability 16 / 16
+"Holds fish and hopes equally well."
+
+
+Item #12225
+URL: https://database.turtle-wow.org/?item=12225
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Blump Family Fishing Pole
+Binds when picked up
+Two-hand
+Fishing Pole
+13 - 21  Damage
+Speed 3.00
+(5.7 damage per second)
+Durability 25 / 25
+Requires Fishing (1)
+Equip:
+Increased Fishing +3.
+
+
+Item #19022
+URL: https://database.turtle-wow.org/?item=19022
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Nat Pagle's Extreme Angler FC-5000
+Binds when picked up
+Unique
+Two-hand
+Fishing Pole
+93 - 140  Damage
+Speed 3.00
+(38.8 damage per second)
+Durability 55 / 55
+Requires Fishing (100)
+Equip:
+Increased Fishing +25.
+"Limited Edition"
+
+
+Item #19970
+URL: https://database.turtle-wow.org/?item=19970
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Arcanite Fishing Pole
+Binds when picked up
+Unique
+Two-hand
+Fishing Pole
+42 - 63  Damage
+Speed 3.00
+(17.5 damage per second)
+Durability 45 / 45
+Requires Fishing (300)
+Equip:
+Increased Fishing +35.
+"It looks like Nat Pagle himself used this."
+
+
+Item #84507
+URL: https://database.turtle-wow.org/?item=84507
+Category: Database/Items/Weapons/Fishing Poles
+Item: 
+Barkskin Fisher
+Binds when picked up
+Two-hand
+Fishing Pole
+91 - 138  Damage
+Speed 2.50
+(45.8 damage per second)
+Durability 55 / 55
+Requires Level 55
+Equip:
+Increased Fishing +30.
+
+

@@ -1,0 +1,2534 @@
+Item #4547
+URL: https://database.turtle-wow.org/?item=4547
+Category: Database/Items/Weapons/Wands
+Item: 
+Gnomish Zapper
+Binds when picked up
+Ranged
+Wand
+29 - 56 Arcane Damage
+Speed 1.30
+(32.7 damage per second)
+Durability 55 / 55
+
+
+Item #5069
+URL: https://database.turtle-wow.org/?item=5069
+Category: Database/Items/Weapons/Wands
+Item: 
+Fire Wand
+Binds when equipped
+Ranged
+Wand
+9 - 17 Fire Damage
+Speed 1.50
+(8.7 damage per second)
+Durability 30 / 30
+Requires Level 7
+
+
+Item #5071
+URL: https://database.turtle-wow.org/?item=5071
+Category: Database/Items/Weapons/Wands
+Item: 
+Shadow Wand
+Binds when equipped
+Ranged
+Wand
+10 - 19 Shadow Damage
+Speed 1.40
+(10.4 damage per second)
+Durability 35 / 35
+Requires Level 9
+
+
+Item #5092
+URL: https://database.turtle-wow.org/?item=5092
+Category: Database/Items/Weapons/Wands
+Item: 
+Charred Razormane Wand
+Binds when picked up
+Ranged
+Wand
+16 - 31 Fire Damage
+Speed 1.50
+(15.7 damage per second)
+Durability 45 / 45
+Requires Level 18
+
+
+Item #5198
+URL: https://database.turtle-wow.org/?item=5198
+Category: Database/Items/Weapons/Wands
+Item: 
+Cookie's Stirring Rod
+Binds when picked up
+Ranged
+Wand
+20 - 38 Arcane Damage
+Speed 1.30
+(22.3 damage per second)
+Durability 50 / 50
+Requires Level 17
+
+
+Item #5209
+URL: https://database.turtle-wow.org/?item=5209
+Category: Database/Items/Weapons/Wands
+Item: 
+Gloom Wand
+Ranged
+Wand
+18 - 34 Shadow Damage
+Speed 1.80
+(14.4 damage per second)
+Durability 40 / 40
+Requires Level 16
+
+
+Item #5210
+URL: https://database.turtle-wow.org/?item=5210
+Category: Database/Items/Weapons/Wands
+Item: 
+Burning Wand
+Ranged
+Wand
+17 - 32 Fire Damage
+Speed 1.40
+(17.5 damage per second)
+Durability 45 / 45
+Requires Level 20
+
+
+Item #5207
+URL: https://database.turtle-wow.org/?item=5207
+Category: Database/Items/Weapons/Wands
+Item: 
+Opaque Wand
+Binds when equipped
+Ranged
+Wand
+14 - 28 Shadow Damage
+Speed 1.40
+(15.0 damage per second)
+Durability 40 / 40
+Requires Level 15
+
+
+Item #5212
+URL: https://database.turtle-wow.org/?item=5212
+Category: Database/Items/Weapons/Wands
+Item: 
+Blazing Wand
+Binds when equipped
+Ranged
+Wand
+13 - 25 Fire Damage
+Speed 1.50
+(12.7 damage per second)
+Durability 35 / 35
+Requires Level 12
+
+
+Item #5211
+URL: https://database.turtle-wow.org/?item=5211
+Category: Database/Items/Weapons/Wands
+Item: 
+Dusk Wand
+Ranged
+Wand
+21 - 39 Shadow Damage
+Speed 1.70
+(17.6 damage per second)
+Durability 45 / 45
+Requires Level 20
+
+
+Item #5208
+URL: https://database.turtle-wow.org/?item=5208
+Category: Database/Items/Weapons/Wands
+Item: 
+Smoldering Wand
+Ranged
+Wand
+15 - 28 Fire Damage
+Speed 1.60
+(13.4 damage per second)
+Durability 40 / 40
+Requires Level 15
+
+
+Item #5216
+URL: https://database.turtle-wow.org/?item=5216
+Category: Database/Items/Weapons/Wands
+Item: 
+Umbral Wand
+Binds when equipped
+Ranged
+Wand
+37 - 70 Shadow Damage
+Speed 1.50
+(35.7 damage per second)
+Durability 55 / 55
+Requires Level 40
+Random Bonuses
+
+
+Item #5213
+URL: https://database.turtle-wow.org/?item=5213
+Category: Database/Items/Weapons/Wands
+Item: 
+Scorching Wand
+Binds when equipped
+Ranged
+Wand
+26 - 49 Fire Damage
+Speed 1.30
+(28.8 damage per second)
+Durability 55 / 55
+Requires Level 30
+
+
+Item #5214
+URL: https://database.turtle-wow.org/?item=5214
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Eventide
+Binds when equipped
+Ranged
+Wand
+23 - 44 Arcane Damage
+Speed 1.30
+(25.8 damage per second)
+Durability 55 / 55
+Requires Level 27
+
+
+Item #5215
+URL: https://database.turtle-wow.org/?item=5215
+Category: Database/Items/Weapons/Wands
+Item: 
+Ember Wand
+Binds when equipped
+Ranged
+Wand
+35 - 66 Fire Damage
+Speed 1.50
+(33.7 damage per second)
+Durability 55 / 55
+Requires Level 36
+Random Bonuses
+
+
+Item #5235
+URL: https://database.turtle-wow.org/?item=5235
+Category: Database/Items/Weapons/Wands
+Item: 
+Cultist's Firestick
+Binds when picked up
+Ranged
+Wand
+5 - 11 Fire Damage
+Speed 1.80
+(4.4 damage per second)
+Durability 25 / 25
+"A crude wand once wielded by a member of the Burning Blade."
+
+
+Item #5236
+URL: https://database.turtle-wow.org/?item=5236
+Category: Database/Items/Weapons/Wands
+Item: 
+Combustible Wand
+Ranged
+Wand
+29 - 54 Fire Damage
+Speed 1.60
+(25.9 damage per second)
+Durability 55 / 55
+Requires Level 29
+
+
+Item #5239
+URL: https://database.turtle-wow.org/?item=5239
+Category: Database/Items/Weapons/Wands
+Item: 
+Blackbone Wand
+Ranged
+Wand
+39 - 74 Shadow Damage
+Speed 1.60
+(35.3 damage per second)
+Durability 55 / 55
+Requires Level 41
+
+
+Item #5238
+URL: https://database.turtle-wow.org/?item=5238
+Category: Database/Items/Weapons/Wands
+Item: 
+Pitchwood Wand
+Ranged
+Wand
+41 - 77 Fire Damage
+Speed 1.70
+(34.7 damage per second)
+Durability 55 / 55
+Requires Level 40
+
+
+Item #5243
+URL: https://database.turtle-wow.org/?item=5243
+Category: Database/Items/Weapons/Wands
+Item: 
+Firebelcher
+Binds when picked up
+Ranged
+Wand
+24 - 45 Fire Damage
+Speed 1.70
+(20.3 damage per second)
+Durability 45 / 45
+Requires Level 15
+
+
+Item #5244
+URL: https://database.turtle-wow.org/?item=5244
+Category: Database/Items/Weapons/Wands
+Item: 
+Consecrated Wand
+Binds when picked up
+Ranged
+Wand
+20 - 38 Nature Damage
+Speed 1.20
+(24.2 damage per second)
+Durability 55 / 55
+
+
+Item #5246
+URL: https://database.turtle-wow.org/?item=5246
+Category: Database/Items/Weapons/Wands
+Item: 
+Excavation Rod
+Binds when picked up
+Ranged
+Wand
+32 - 60 Fire Damage
+Speed 1.90
+(24.2 damage per second)
+Durability 55 / 55
+
+
+Item #5245
+URL: https://database.turtle-wow.org/?item=5245
+Category: Database/Items/Weapons/Wands
+Item: 
+Summoner's Wand
+Binds when equipped
+Ranged
+Wand
+35 - 66 Arcane Damage
+Speed 1.80
+(28.1 damage per second)
+Durability 55 / 55
+Requires Level 29
+
+
+Item #5241
+URL: https://database.turtle-wow.org/?item=5241
+Category: Database/Items/Weapons/Wands
+Item: 
+Dwarven Flamestick
+Binds when picked up
+Ranged
+Wand
+17 - 32 Fire Damage
+Speed 1.80
+(13.6 damage per second)
+Durability 40 / 40
+
+
+Item #5248
+URL: https://database.turtle-wow.org/?item=5248
+Category: Database/Items/Weapons/Wands
+Item: 
+Flash Wand
+Binds when picked up
+Ranged
+Wand
+27 - 52 Nature Damage
+Speed 1.30
+(30.4 damage per second)
+Durability 55 / 55
+
+
+Item #5240
+URL: https://database.turtle-wow.org/?item=5240
+Category: Database/Items/Weapons/Wands
+Item: 
+Torchlight Wand
+Binds when picked up
+Ranged
+Wand
+14 - 27 Fire Damage
+Speed 1.30
+(15.8 damage per second)
+Durability 40 / 40
+
+
+Item #5247
+URL: https://database.turtle-wow.org/?item=5247
+Category: Database/Items/Weapons/Wands
+Item: 
+Rod of Sorrow
+Binds when picked up
+Ranged
+Wand
+42 - 79 Shadow Damage
+Speed 1.90
+(31.8 damage per second)
+Durability 55 / 55
+
+
+Item #5242
+URL: https://database.turtle-wow.org/?item=5242
+Category: Database/Items/Weapons/Wands
+Item: 
+Cinder Wand
+Binds when picked up
+Ranged
+Wand
+11 - 22 Fire Damage
+Speed 1.40
+(11.8 damage per second)
+Durability 35 / 35
+
+
+Item #5250
+URL: https://database.turtle-wow.org/?item=5250
+Category: Database/Items/Weapons/Wands
+Item: 
+Charred Wand
+Binds when picked up
+Ranged
+Wand
+28 - 52 Fire Damage
+Speed 1.80
+(22.2 damage per second)
+Durability 50 / 50
+
+
+Item #5253
+URL: https://database.turtle-wow.org/?item=5253
+Category: Database/Items/Weapons/Wands
+Item: 
+Goblin Igniter
+Binds when picked up
+Ranged
+Wand
+46 - 85 Fire Damage
+Speed 2.00
+(32.8 damage per second)
+Durability 55 / 55
+
+
+Item #5249
+URL: https://database.turtle-wow.org/?item=5249
+Category: Database/Items/Weapons/Wands
+Item: 
+Burning Sliver
+Binds when picked up
+Ranged
+Wand
+29 - 56 Fire Damage
+Speed 1.30
+(32.7 damage per second)
+Durability 55 / 55
+
+
+Item #5252
+URL: https://database.turtle-wow.org/?item=5252
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Decay
+Binds when picked up
+Ranged
+Wand
+16 - 31 Shadow Damage
+Speed 1.50
+(15.7 damage per second)
+Durability 40 / 40
+
+
+Item #5326
+URL: https://database.turtle-wow.org/?item=5326
+Category: Database/Items/Weapons/Wands
+Item: 
+Flaring Baton
+Binds when picked up
+Ranged
+Wand
+18 - 34 Fire Damage
+Speed 1.90
+(13.7 damage per second)
+Durability 40 / 40
+
+
+Item #5356
+URL: https://database.turtle-wow.org/?item=5356
+Category: Database/Items/Weapons/Wands
+Item: 
+Branding Rod
+Binds when picked up
+Ranged
+Wand
+24 - 45 Fire Damage
+Speed 1.60
+(21.6 damage per second)
+Durability 50 / 50
+
+
+Item #5347
+URL: https://database.turtle-wow.org/?item=5347
+Category: Database/Items/Weapons/Wands
+Item: 
+Pestilent Wand
+Ranged
+Wand
+28 - 53 Nature Damage
+Speed 1.50
+(27.0 damage per second)
+Durability 55 / 55
+Requires Level 30
+
+
+Item #5604
+URL: https://database.turtle-wow.org/?item=5604
+Category: Database/Items/Weapons/Wands
+Item: 
+Elven Wand
+Binds when picked up
+Ranged
+Wand
+10 - 20 Arcane Damage
+Speed 1.60
+(9.4 damage per second)
+Durability 30 / 30
+
+
+Item #5818
+URL: https://database.turtle-wow.org/?item=5818
+Category: Database/Items/Weapons/Wands
+Item: 
+Moonbeam Wand
+Binds when picked up
+Ranged
+Wand
+30 - 57 Nature Damage
+Speed 1.80
+(24.2 damage per second)
+Durability 55 / 55
+
+
+Item #6231
+URL: https://database.turtle-wow.org/?item=6231
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Jeweled - Green
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #6230
+URL: https://database.turtle-wow.org/?item=6230
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Basic
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #6677
+URL: https://database.turtle-wow.org/?item=6677
+Category: Database/Items/Weapons/Wands
+Item: 
+Spellcrafter Wand
+Binds when picked up
+Ranged
+Wand
+24 - 45 Arcane Damage
+Speed 1.70
+(20.3 damage per second)
+Durability 50 / 50
+
+
+Item #6729
+URL: https://database.turtle-wow.org/?item=6729
+Category: Database/Items/Weapons/Wands
+Item: 
+Fizzle's Zippy Lighter
+Binds when picked up
+Ranged
+Wand
+32 - 61 Fire Damage
+Speed 1.50
+(31.0 damage per second)
+Durability 55 / 55
+
+
+Item #6806
+URL: https://database.turtle-wow.org/?item=6806
+Category: Database/Items/Weapons/Wands
+Item: 
+Dancing Flame
+Binds when picked up
+Ranged
+Wand
+36 - 68 Fire Damage
+Speed 1.40
+(37.1 damage per second)
+Durability 90 / 90
+
+
+Item #6797
+URL: https://database.turtle-wow.org/?item=6797
+Category: Database/Items/Weapons/Wands
+Item: 
+Eyepoker
+Binds when picked up
+Ranged
+Wand
+36 - 68 Arcane Damage
+Speed 1.70
+(30.6 damage per second)
+Durability 55 / 55
+
+
+Item #7001
+URL: https://database.turtle-wow.org/?item=7001
+Category: Database/Items/Weapons/Wands
+Item: 
+Gravestone Scepter
+Binds when picked up
+Ranged
+Wand
+30 - 57 Shadow Damage
+Speed 1.50
+(29.0 damage per second)
++1 Spirit
++5 Shadow Resistance
+Durability 65 / 65
+
+
+Item #7513
+URL: https://database.turtle-wow.org/?item=7513
+Category: Database/Items/Weapons/Wands
+Item: 
+Ragefire Wand
+Binds when picked up
+Ranged
+Wand
+36 - 68 Fire Damage
+Speed 1.40
+(37.1 damage per second)
++3 Intellect
+Durability 65 / 65
+Classes: Mage
+Equip:
+Increases damage done by Fire spells and effects by up to 9.
+
+
+Item #7514
+URL: https://database.turtle-wow.org/?item=7514
+Category: Database/Items/Weapons/Wands
+Item: 
+Icefury Wand
+Binds when picked up
+Ranged
+Wand
+41 - 78 Frost Damage
+Speed 1.60
+(37.2 damage per second)
++3 Intellect
+Durability 65 / 65
+Classes: Mage
+Equip:
+Increases damage done by Frost spells and effects by up to 9.
+
+
+Item #7607
+URL: https://database.turtle-wow.org/?item=7607
+Category: Database/Items/Weapons/Wands
+Item: 
+Sable Wand
+Binds when picked up
+Ranged
+Wand
+21 - 40 Shadow Damage
+Speed 1.80
+(16.9 damage per second)
+Durability 45 / 45
+
+
+Item #7708
+URL: https://database.turtle-wow.org/?item=7708
+Category: Database/Items/Weapons/Wands
+Item: 
+Necrotic Wand
+Binds when picked up
+Ranged
+Wand
+32 - 61 Shadow Damage
+Speed 1.40
+(33.2 damage per second)
+Durability 65 / 65
+Requires Level 30
+
+
+Item #8071
+URL: https://database.turtle-wow.org/?item=8071
+Category: Database/Items/Weapons/Wands
+Item: 
+Sizzle Stick
+Binds when picked up
+Ranged
+Wand
+21 - 39 Fire Damage
+Speed 1.70
+(17.6 damage per second)
+Durability 45 / 45
+
+
+Item #8184
+URL: https://database.turtle-wow.org/?item=8184
+Category: Database/Items/Weapons/Wands
+Item: 
+Firestarter
+Binds when equipped
+Ranged
+Wand
+24 - 46 Fire Damage
+Speed 1.50
+(23.3 damage per second)
+Durability 55 / 55
+Requires Level 24
+
+
+Item #8186
+URL: https://database.turtle-wow.org/?item=8186
+Category: Database/Items/Weapons/Wands
+Item: 
+Dire Wand
+Binds when equipped
+Ranged
+Wand
+24 - 45 Shadow Damage
+Speed 1.70
+(20.3 damage per second)
+Durability 50 / 50
+Requires Level 21
+
+
+Item #9381
+URL: https://database.turtle-wow.org/?item=9381
+Category: Database/Items/Weapons/Wands
+Item: 
+Earthen Rod
+Binds when equipped
+Ranged
+Wand
+42 - 79 Nature Damage
+Speed 1.70
+(35.6 damage per second)
+Durability 65 / 65
+Requires Level 33
+
+
+Item #9483
+URL: https://database.turtle-wow.org/?item=9483
+Category: Database/Items/Weapons/Wands
+Item: 
+Flaming Incinerator
+Binds when equipped
+Ranged
+Wand
+59 - 111 Fire Damage
+Speed 1.80
+(47.2 damage per second)
++8 Fire Resistance
+Durability 65 / 65
+Requires Level 44
+
+
+Item #9489
+URL: https://database.turtle-wow.org/?item=9489
+Category: Database/Items/Weapons/Wands
+Item: 
+Gyromatic Icemaker
+Binds when picked up
+Ranged
+Wand
+24 - 46 Frost Damage
+Speed 1.40
+(25.0 damage per second)
++5 Frost Resistance
+Durability 55 / 55
+Requires Level 26
+
+
+Item #9654
+URL: https://database.turtle-wow.org/?item=9654
+Category: Database/Items/Weapons/Wands
+Item: 
+Cairnstone Sliver
+Binds when picked up
+Ranged
+Wand
+52 - 97 Arcane Damage
+Speed 1.80
+(41.4 damage per second)
+Durability 55 / 55
+
+
+Item #10572
+URL: https://database.turtle-wow.org/?item=10572
+Category: Database/Items/Weapons/Wands
+Item: 
+Freezing Shard
+Binds when equipped
+Ranged
+Wand
+32 - 61 Frost Damage
+Speed 1.30
+(35.8 damage per second)
+Durability 65 / 65
+Classes: Mage
+Requires Level 34
+Equip:
+Increases damage done by Frost spells and effects by up to 10.
+
+
+Item #9654
+URL: https://database.turtle-wow.org/?item=9654
+Category: Database/Items/Weapons/Wands
+Item: 
+Cairnstone Sliver
+Binds when picked up
+Ranged
+Wand
+52 - 97 Arcane Damage
+Speed 1.80
+(41.4 damage per second)
+Durability 55 / 55
+
+
+Item #10572
+URL: https://database.turtle-wow.org/?item=10572
+Category: Database/Items/Weapons/Wands
+Item: 
+Freezing Shard
+Binds when equipped
+Ranged
+Wand
+32 - 61 Frost Damage
+Speed 1.30
+(35.8 damage per second)
+Durability 65 / 65
+Classes: Mage
+Requires Level 34
+Equip:
+Increases damage done by Frost spells and effects by up to 10.
+
+
+Item #10704
+URL: https://database.turtle-wow.org/?item=10704
+Category: Database/Items/Weapons/Wands
+Item: 
+Chillnail Splinter
+Binds when picked up
+Ranged
+Wand
+36 - 68 Frost Damage
+Speed 1.40
+(37.1 damage per second)
+Durability 55 / 55
+
+
+Item #10766
+URL: https://database.turtle-wow.org/?item=10766
+Category: Database/Items/Weapons/Wands
+Item: 
+Plaguerot Sprig
+Binds when picked up
+Ranged
+Wand
+41 - 78 Nature Damage
+Speed 1.60
+(37.2 damage per second)
+Durability 65 / 65
+Requires Level 35
+Equip:
+Increases damage and healing done by magical spells and effects by up to 8.
+
+
+Item #10836
+URL: https://database.turtle-wow.org/?item=10836
+Category: Database/Items/Weapons/Wands
+Item: 
+Rod of Corrosion
+Binds when picked up
+Ranged
+Wand
+50 - 93 Nature Damage
+Speed 1.30
+(55.0 damage per second)
++10 Nature Resistance
+Durability 65 / 65
+Requires Level 51
+
+
+Item #11263
+URL: https://database.turtle-wow.org/?item=11263
+Category: Database/Items/Weapons/Wands
+Item: 
+Nether Force Wand
+Binds when picked up
+Ranged
+Wand
+39 - 73 Arcane Damage
+Speed 1.50
+(37.3 damage per second)
++3 Intellect
+Durability 65 / 65
+Classes: Mage
+Equip:
+Increases damage done by Arcane spells and effects by up to 9.
+
+
+Item #11288
+URL: https://database.turtle-wow.org/?item=11288
+Category: Database/Items/Weapons/Wands
+Item: 
+Greater Magic Wand
+Binds when equipped
+Ranged
+Wand
+22 - 41 Arcane Damage
+Speed 1.80
+(17.5 damage per second)
+Durability 45 / 45
+Requires Level 13
+
+
+Item #11290
+URL: https://database.turtle-wow.org/?item=11290
+Category: Database/Items/Weapons/Wands
+Item: 
+Greater Mystic Wand
+Binds when equipped
+Ranged
+Wand
+40 - 76 Arcane Damage
+Speed 2.00
+(29.0 damage per second)
+Durability 55 / 55
+Requires Level 30
+
+
+Item #11289
+URL: https://database.turtle-wow.org/?item=11289
+Category: Database/Items/Weapons/Wands
+Item: 
+Lesser Mystic Wand
+Binds when equipped
+Ranged
+Wand
+23 - 43 Arcane Damage
+Speed 1.30
+(25.4 damage per second)
+Durability 55 / 55
+Requires Level 26
+
+
+Item #11287
+URL: https://database.turtle-wow.org/?item=11287
+Category: Database/Items/Weapons/Wands
+Item: 
+Lesser Magic Wand
+Binds when equipped
+Ranged
+Wand
+12 - 22 Arcane Damage
+Speed 1.50
+(11.3 damage per second)
+Durability 35 / 35
+Requires Level 5
+
+
+Item #11748
+URL: https://database.turtle-wow.org/?item=11748
+Category: Database/Items/Weapons/Wands
+Item: 
+Pyric Caduceus
+Binds when picked up
+Ranged
+Wand
+66 - 123 Fire Damage
+Speed 1.80
+(52.5 damage per second)
+Durability 65 / 65
+Requires Level 48
+Equip:
+Increases damage done by Fire spells and effects by up to 13.
+
+
+Item #11860
+URL: https://database.turtle-wow.org/?item=11860
+Category: Database/Items/Weapons/Wands
+Item: 
+Charged Lightning Rod
+Binds when picked up
+Ranged
+Wand
+39 - 73 Nature Damage
+Speed 1.50
+(37.3 damage per second)
+Durability 55 / 55
+
+
+Item #12296
+URL: https://database.turtle-wow.org/?item=12296
+Category: Database/Items/Weapons/Wands
+Item: 
+Spark of the People's Militia
+Binds when picked up
+Ranged
+Wand
+16 - 30 Arcane Damage
+Speed 1.80
+(12.8 damage per second)
+Durability 35 / 35
+
+
+Item #12468
+URL: https://database.turtle-wow.org/?item=12468
+Category: Database/Items/Weapons/Wands
+Item: 
+Chilton Wand
+Ranged
+Wand
+39 - 73 Fire Damage
+Speed 1.50
+(37.3 damage per second)
+Durability 55 / 55
+Requires Level 48
+
+
+Item #12605
+URL: https://database.turtle-wow.org/?item=12605
+Category: Database/Items/Weapons/Wands
+Item: 
+Serpentine Skuller
+Binds when picked up
+Ranged
+Wand
+53 - 100 Shadow Damage
+Speed 1.40
+(54.6 damage per second)
++10 Shadow Resistance
+Durability 65 / 65
+Requires Level 51
+
+
+Item #12941
+URL: https://database.turtle-wow.org/?item=12941
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Jeweled - B02 Red
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #12984
+URL: https://database.turtle-wow.org/?item=12984
+Category: Database/Items/Weapons/Wands
+Item: 
+Skycaller
+Binds when equipped
+Ranged
+Wand
+24 - 45 Arcane Damage
+Speed 1.60
+(21.6 damage per second)
+Durability 45 / 45
+Requires Level 16
+
+
+Item #13004
+URL: https://database.turtle-wow.org/?item=13004
+Category: Database/Items/Weapons/Wands
+Item: 
+Torch of Austen
+Binds when equipped
+Ranged
+Wand
+55 - 104 Fire Damage
+Speed 1.40
+(56.8 damage per second)
++10 Fire Resistance
+Durability 65 / 65
+Requires Level 53
+
+
+Item #13062
+URL: https://database.turtle-wow.org/?item=13062
+Category: Database/Items/Weapons/Wands
+Item: 
+Thunderwood
+Binds when equipped
+Ranged
+Wand
+36 - 67 Nature Damage
+Speed 1.90
+(27.1 damage per second)
+Durability 60 / 60
+Requires Level 22
+
+
+Item #13065
+URL: https://database.turtle-wow.org/?item=13065
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Allistarj
+Binds when equipped
+Ranged
+Wand
+64 - 120 Arcane Damage
+Speed 1.90
+(48.4 damage per second)
++9 Arcane Resistance
+Durability 65 / 65
+Requires Level 45
+
+
+Item #13063
+URL: https://database.turtle-wow.org/?item=13063
+Category: Database/Items/Weapons/Wands
+Item: 
+Starfaller
+Binds when equipped
+Ranged
+Wand
+32 - 60 Arcane Damage
+Speed 1.40
+(32.9 damage per second)
+Durability 65 / 65
+Requires Level 29
+
+
+Item #13064
+URL: https://database.turtle-wow.org/?item=13064
+Category: Database/Items/Weapons/Wands
+Item: 
+Jaina's Firestarter
+Binds when equipped
+Ranged
+Wand
+44 - 82 Fire Damage
+Speed 1.60
+(39.4 damage per second)
++6 Intellect
++3 Spirit
+Durability 65 / 65
+Requires Level 37
+
+
+Item #13290
+URL: https://database.turtle-wow.org/?item=13290
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Horde Purple Orb
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #13291
+URL: https://database.turtle-wow.org/?item=13291
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Horde Red Feathered
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #13292
+URL: https://database.turtle-wow.org/?item=13292
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Horde Demon Skull
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #13293
+URL: https://database.turtle-wow.org/?item=13293
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Horde Dark Skull
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #13396
+URL: https://database.turtle-wow.org/?item=13396
+Category: Database/Items/Weapons/Wands
+Item: 
+Skul's Ghastly Touch
+Binds when picked up
+Ranged
+Wand
+70 - 131 Shadow Damage
+Speed 1.80
+(55.8 damage per second)
+Durability 65 / 65
+Requires Level 52
+Equip:
+Increases damage done by Shadow spells and effects by up to 14.
+
+
+Item #13534
+URL: https://database.turtle-wow.org/?item=13534
+Category: Database/Items/Weapons/Wands
+Item: 
+Banshee Finger
+Binds when picked up
+Ranged
+Wand
+79 - 148 Frost Damage
+Speed 1.90
+(59.7 damage per second)
++10 Frost Resistance
+Durability 65 / 65
+Requires Level 55
+
+
+Item #13938
+URL: https://database.turtle-wow.org/?item=13938
+Category: Database/Items/Weapons/Wands
+Item: 
+Bonecreeper Stylus
+Binds when picked up
+Ranged
+Wand
+83 - 155 Arcane Damage
+Speed 1.90
+(62.6 damage per second)
++4 Intellect
+Durability 65 / 65
+Requires Level 57
+Equip:
+Increases damage and healing done by magical spells and effects by up to 11.
+
+
+Item #15204
+URL: https://database.turtle-wow.org/?item=15204
+Category: Database/Items/Weapons/Wands
+Item: 
+Moonstone Wand
+Binds when picked up
+Ranged
+Wand
+17 - 32 Arcane Damage
+Speed 1.80
+(13.6 damage per second)
+Durability 40 / 40
+
+
+Item #15279
+URL: https://database.turtle-wow.org/?item=15279
+Category: Database/Items/Weapons/Wands
+Item: 
+Ivory Wand
+Binds when equipped
+Ranged
+Wand
+41 - 77 Arcane Damage
+Speed 1.40
+(42.1 damage per second)
+Durability 55 / 55
+Requires Level 46
+Random Bonuses
+
+
+Item #15280
+URL: https://database.turtle-wow.org/?item=15280
+Category: Database/Items/Weapons/Wands
+Item: 
+Wizard's Hand
+Binds when equipped
+Ranged
+Wand
+56 - 104 Arcane Damage
+Speed 1.80
+(44.4 damage per second)
+Durability 55 / 55
+Requires Level 48
+Random Bonuses
+
+
+Item #15281
+URL: https://database.turtle-wow.org/?item=15281
+Category: Database/Items/Weapons/Wands
+Item: 
+Glowstar Rod
+Binds when equipped
+Ranged
+Wand
+52 - 98 Arcane Damage
+Speed 1.50
+(50.0 damage per second)
+Durability 55 / 55
+Requires Level 52
+Random Bonuses
+
+
+Item #15283
+URL: https://database.turtle-wow.org/?item=15283
+Category: Database/Items/Weapons/Wands
+Item: 
+Lunar Wand
+Binds when equipped
+Ranged
+Wand
+67 - 126 Arcane Damage
+Speed 1.70
+(56.8 damage per second)
+Durability 55 / 55
+Requires Level 59
+Random Bonuses
+
+
+Item #15282
+URL: https://database.turtle-wow.org/?item=15282
+Category: Database/Items/Weapons/Wands
+Item: 
+Dragon Finger
+Binds when equipped
+Ranged
+Wand
+52 - 97 Fire Damage
+Speed 1.40
+(53.2 damage per second)
+Durability 55 / 55
+Requires Level 55
+Random Bonuses
+
+
+Item #15465
+URL: https://database.turtle-wow.org/?item=15465
+Category: Database/Items/Weapons/Wands
+Item: 
+Stingshot Wand
+Binds when picked up
+Ranged
+Wand
+28 - 52 Nature Damage
+Speed 1.80
+(22.2 damage per second)
+Durability 50 / 50
+
+
+Item #15692
+URL: https://database.turtle-wow.org/?item=15692
+Category: Database/Items/Weapons/Wands
+Item: 
+Kodo Brander
+Binds when picked up
+Ranged
+Wand
+41 - 77 Arcane Damage
+Speed 1.90
+(31.1 damage per second)
+Durability 55 / 55
+
+
+Item #16582
+URL: https://database.turtle-wow.org/?item=16582
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Horde Green Feathered
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #16789
+URL: https://database.turtle-wow.org/?item=16789
+Category: Database/Items/Weapons/Wands
+Item: 
+Captain Rackmore's Tiller
+Binds when picked up
+Ranged
+Wand
+31 - 58 Frost Damage
+Speed 1.50
+(29.7 damage per second)
+Durability 55 / 55
+
+
+Item #16993
+URL: https://database.turtle-wow.org/?item=16993
+Category: Database/Items/Weapons/Wands
+Item: 
+Smokey's Fireshooter
+Binds when picked up
+Ranged
+Wand
+70 - 132 Fire Damage
+Speed 1.90
+(53.2 damage per second)
+Durability 55 / 55
+
+
+Item #16997
+URL: https://database.turtle-wow.org/?item=16997
+Category: Database/Items/Weapons/Wands
+Item: 
+Stormrager
+Binds when picked up
+Ranged
+Wand
+57 - 106 Nature Damage
+Speed 1.30
+(62.7 damage per second)
++8 Stamina
++5 Intellect
+Durability 65 / 65
+
+
+Item #17077
+URL: https://database.turtle-wow.org/?item=17077
+Category: Database/Items/Weapons/Wands
+Item: 
+Crimson Shocker
+Binds when picked up
+Ranged
+Wand
+111 - 200 Fire Damage
+Speed 2.00
+(77.8 damage per second)
++10 Intellect
++10 Fire Resistance
+Durability 75 / 75
+Requires Level 58
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #17745
+URL: https://database.turtle-wow.org/?item=17745
+Category: Database/Items/Weapons/Wands
+Item: 
+Noxious Shooter
+Binds when picked up
+Ranged
+Wand
+56 - 104 Nature Damage
+Speed 1.60
+(50.0 damage per second)
++7 Stamina
++5 Nature Resistance
+Durability 65 / 65
+Requires Level 46
+
+
+Item #18301
+URL: https://database.turtle-wow.org/?item=18301
+Category: Database/Items/Weapons/Wands
+Item: 
+Lethtendris's Wand
+Binds when picked up
+Ranged
+Wand
+60 - 113 Shadow Damage
+Speed 1.70
+(50.9 damage per second)
+Durability 55 / 55
+Requires Level 53
+Equip:
+Increases damage and healing done by magical spells and effects by up to 9.
+
+
+Item #18338
+URL: https://database.turtle-wow.org/?item=18338
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Arcane Potency
+Binds when equipped
+Ranged
+Wand
+65 - 122 Arcane Damage
+Speed 1.60
+(58.4 damage per second)
+Durability 65 / 65
+Requires Level 54
+Equip:
+Increases damage done by Arcane spells and effects by up to 16.
+
+
+Item #18483
+URL: https://database.turtle-wow.org/?item=18483
+Category: Database/Items/Weapons/Wands
+Item: 
+Mana Channeling Wand
+Binds when picked up
+Ranged
+Wand
+68 - 127 Frost Damage
+Speed 1.60
+(60.9 damage per second)
+Durability 65 / 65
+Requires Level 56
+Equip:
+Restores 4 mana per 5 sec.
+
+
+Item #18761
+URL: https://database.turtle-wow.org/?item=18761
+Category: Database/Items/Weapons/Wands
+Item: 
+Oblivion's Touch
+Binds when picked up
+Ranged
+Wand
+78 - 147 Shadow Damage
+Speed 1.80
+(62.5 damage per second)
++11 Intellect
+Durability 65 / 65
+Requires Level 57
+
+
+Item #19108
+URL: https://database.turtle-wow.org/?item=19108
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Biting Cold
+Binds when picked up
+Ranged
+Wand
+67 - 125 Frost Damage
+Speed 1.50
+(64.0 damage per second)
+Durability 65 / 65
+Equip:
+Increases damage done by Frost spells and effects by up to 16.
+
+
+Item #19118
+URL: https://database.turtle-wow.org/?item=19118
+Category: Database/Items/Weapons/Wands
+Item: 
+Nature's Breath
+Binds when picked up
+Ranged
+Wand
+40 - 75 Nature Damage
+Speed 1.40
+(41.1 damage per second)
++6 Intellect
++3 Stamina
+Durability 55 / 55
+
+
+Item #19130
+URL: https://database.turtle-wow.org/?item=19130
+Category: Database/Items/Weapons/Wands
+Item: 
+Cold Snap
+Binds when picked up
+Ranged
+Wand
+101 - 189 Frost Damage
+Speed 1.70
+(85.3 damage per second)
++7 Intellect
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage done by Frost spells and effects by up to 20.
+
+
+Item #19367
+URL: https://database.turtle-wow.org/?item=19367
+Category: Database/Items/Weapons/Wands
+Item: 
+Dragon's Touch
+Binds when picked up
+Ranged
+Wand
+107 - 199 Fire Damage
+Speed 1.60
+(95.6 damage per second)
++12 Intellect
++7 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 6.
+
+
+Item #19435
+URL: https://database.turtle-wow.org/?item=19435
+Category: Database/Items/Weapons/Wands
+Item: 
+Essence Gatherer
+Binds when picked up
+Ranged
+Wand
+83 - 156 Arcane Damage
+Speed 1.40
+(85.4 damage per second)
++7 Intellect
++5 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Restores 5 mana per 5 sec.
+
+
+Item #19861
+URL: https://database.turtle-wow.org/?item=19861
+Category: Database/Items/Weapons/Wands
+Item: 
+Touch of Chaos
+Binds when picked up
+Ranged
+Wand
+86 - 160 Shadow Damage
+Speed 1.50
+(82.0 damage per second)
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 18.
+
+
+Item #19927
+URL: https://database.turtle-wow.org/?item=19927
+Category: Database/Items/Weapons/Wands
+Item: 
+Mar'li's Touch
+Binds when picked up
+Ranged
+Wand
+91 - 170 Nature Damage
+Speed 1.70
+(76.8 damage per second)
++11 Intellect
++6 Spirit
++5 Stamina
+Durability 75 / 75
+Requires Level 60
+
+
+Item #19967
+URL: https://database.turtle-wow.org/?item=19967
+Category: Database/Items/Weapons/Wands
+Item: 
+Thoughtblighter
+Binds when picked up
+Ranged
+Wand
+90 - 168 Shadow Damage
+Speed 1.80
+(71.7 damage per second)
+Durability 65 / 65
+Requires Level 60
+Equip:
+Restores 5 mana per 5 sec.
+
+
+Item #19983
+URL: https://database.turtle-wow.org/?item=19983
+Category: Database/Items/Weapons/Wands
+Item: 
+Monster - Wand, Horde Demon Skull Red
+Ranged
+Wand
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 16 / 16
+
+
+Item #20082
+URL: https://database.turtle-wow.org/?item=20082
+Category: Database/Items/Weapons/Wands
+Item: 
+Woestave
+Binds when picked up
+Ranged
+Wand
+68 - 127 Shadow Damage
+Speed 1.90
+(51.3 damage per second)
++3 Stamina
+Durability 65 / 65
+Equip:
+Increases damage done by Shadow spells and effects by up to 11.
+"Woe to those who oppose."
+
+
+Item #20350
+URL: https://database.turtle-wow.org/?item=20350
+Category: Database/Items/Weapons/Wands
+Item: 
+90 Green Frost Wand
+Binds when picked up
+Ranged
+Wand
+92 - 173 Nature Damage
+Speed 1.30
+(101.9 damage per second)
++9 Intellect
+Durability 55 / 55
+Requires Level 60
+Equip:
+Increases damage done by Frost spells and effects by up to 11.
+
+
+Item #20363
+URL: https://database.turtle-wow.org/?item=20363
+Category: Database/Items/Weapons/Wands
+Item: 
+63 Green Frost Wand
+Binds when picked up
+Ranged
+Wand
+50 - 95 Nature Damage
+Speed 1.30
+(55.8 damage per second)
++6 Intellect
+Durability 55 / 55
+Requires Level 58
+Equip:
+Increases damage done by Frost spells and effects by up to 9.
+
+
+Item #20672
+URL: https://database.turtle-wow.org/?item=20672
+Category: Database/Items/Weapons/Wands
+Item: 
+Sparkling Crystal Wand
+Binds when picked up
+Ranged
+Wand
+65 - 122 Nature Damage
+Speed 1.50
+(62.3 damage per second)
++9 Intellect
+Durability 65 / 65
+Requires Level 57
+Equip:
+Increases damage and healing done by magical spells and effects by up to 5.
+
+
+Item #21603
+URL: https://database.turtle-wow.org/?item=21603
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Qiraji Nobility
+Binds when picked up
+Ranged
+Wand
+114 - 213 Shadow Damage
+Speed 1.60
+(102.2 damage per second)
++5 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 19.
+
+
+Item #21801
+URL: https://database.turtle-wow.org/?item=21801
+Category: Database/Items/Weapons/Wands
+Item: 
+Antenna of Invigoration
+Binds when equipped
+Ranged
+Wand
+80 - 149 Nature Damage
+Speed 1.60
+(71.6 damage per second)
++4 Intellect
+Durability 65 / 65
+Requires Level 60
+Equip:
+Restores 3 mana per 5 sec.
+Equip:
+Increases healing done by spells and effects by up to 13.
+
+
+Item #22254
+URL: https://database.turtle-wow.org/?item=22254
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Eternal Light
+Binds when picked up
+Ranged
+Wand
+58 - 109 Holy Damage
+Speed 1.50
+(55.7 damage per second)
++6 Intellect
+Durability 65 / 65
+Requires Level 52
+Equip:
+Restores 2 mana per 5 sec.
+Equip:
+Increases healing done by spells and effects by up to 9.
+
+
+Item #22408
+URL: https://database.turtle-wow.org/?item=22408
+Category: Database/Items/Weapons/Wands
+Item: 
+Ritssyn's Wand of Bad Mojo
+Binds when picked up
+Ranged
+Wand
+58 - 108 Shadow Damage
+Speed 1.30
+(63.8 damage per second)
++4 Stamina
+Durability 65 / 65
+Requires Level 58
+Equip:
+Increases damage and healing done by magical spells and effects by up to 11.
+
+
+Item #22820
+URL: https://database.turtle-wow.org/?item=22820
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Fates
+Binds when picked up
+Ranged
+Wand
+119 - 222 Shadow Damage
+Speed 1.50
+(113.7 damage per second)
++7 Intellect
++7 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 12.
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #22821
+URL: https://database.turtle-wow.org/?item=22821
+Category: Database/Items/Weapons/Wands
+Item: 
+Doomfinger
+Binds when picked up
+Ranged
+Wand
+146 - 271 Shadow Damage
+Speed 1.50
+(139.0 damage per second)
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 16.
+
+
+Item #23009
+URL: https://database.turtle-wow.org/?item=23009
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of the Whispering Dead
+Binds when picked up
+Ranged
+Wand
+119 - 222 Shadow Damage
+Speed 1.50
+(113.7 damage per second)
++10 Intellect
++9 Spirit
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 22.
+
+
+Item #23177
+URL: https://database.turtle-wow.org/?item=23177
+Category: Database/Items/Weapons/Wands
+Item: 
+Lady Falther'ess' Finger
+Binds when picked up
+Ranged
+Wand
+34 - 65 Shadow Damage
+Speed 1.30
+(38.1 damage per second)
+Durability 65 / 65
+Requires Level 36
+Equip:
+Increases damage done by Shadow spells and effects by up to 10.
+
+
+Item #41117
+URL: https://database.turtle-wow.org/?item=41117
+Category: Database/Items/Weapons/Wands
+Item: 
+Withered Wand
+Binds when picked up
+Ranged
+Wand
+8 - 16 Shadow Damage
+Speed 1.80
+(6.7 damage per second)
+Durability 25 / 25
+
+
+Item #50529
+URL: https://database.turtle-wow.org/?item=50529
+Category: Database/Items/Weapons/Wands
+Item: 
+Rod of Charring
+Binds when picked up
+Ranged
+Wand
+45 - 74 Fire Damage
+Speed 1.80
+(33.1 damage per second)
+Durability 65 / 65
+Classes: Priest, Mage, Warlock
+Requires Level 30
+Requires Silvermoon Remnant - Honored
+
+
+Item #51735
+URL: https://database.turtle-wow.org/?item=51735
+Category: Database/Items/Weapons/Wands
+Item: 
+Scourgelord's Fang
+Binds when picked up
+Ranged
+Wand
+110 - 197 Shadow Damage
+Speed 1.60
+(95.9 damage per second)
++10 Intellect
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 19.
+
+
+Item #51816
+URL: https://database.turtle-wow.org/?item=51816
+Category: Database/Items/Weapons/Wands
+Item: 
+Webwood Branch
+Binds when picked up
+Ranged
+Wand
+7 - 14 Nature Damage
+Speed 1.60
+(6.6 damage per second)
+Durability 25 / 25
+
+
+Item #51820
+URL: https://database.turtle-wow.org/?item=51820
+Category: Database/Items/Weapons/Wands
+Item: 
+Bhartec's Lost Wand
+Binds when picked up
+Ranged
+Wand
+7 - 15 Shadow Damage
+Speed 1.70
+(6.5 damage per second)
+Durability 25 / 25
+
+
+Item #55134
+URL: https://database.turtle-wow.org/?item=55134
+Category: Database/Items/Weapons/Wands
+Item: 
+Rod of Permafrost
+Binds when picked up
+Unique
+Ranged
+Wand
+119 - 222 Frost Damage
+Speed 1.50
+(113.7 damage per second)
++14 Intellect
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage done by Frost spells and effects by up to 24.
+
+
+Item #55511
+URL: https://database.turtle-wow.org/?item=55511
+Category: Database/Items/Weapons/Wands
+Item: 
+Hellflame
+Binds when picked up
+Unique
+Ranged
+Wand
+159 - 286 Fire Damage
+Speed 1.60
+(139.1 damage per second)
++13 Intellect
++10 Fire Resistance
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 26.
+
+
+Item #58009
+URL: https://database.turtle-wow.org/?item=58009
+Category: Database/Items/Weapons/Wands
+Item: 
+Quistis' Wand
+Binds when equipped
+Ranged
+Wand
+32 - 62 Fire Damage
+Speed 1.50
+(31.3 damage per second)
+Durability 55 / 55
+Requires Level 33
+Equip:
+Increases damage done by Fire spells and effects by up to 4.
+
+
+Item #58026
+URL: https://database.turtle-wow.org/?item=58026
+Category: Database/Items/Weapons/Wands
+Item: 
+Rod of Stromgarde
+Binds when picked up
+Ranged
+Wand
+44 - 69 Arcane Damage
+Speed 2.10
+(26.9 damage per second)
++2 Strength
++4 Intellect
+Durability 55 / 55
+
+
+Item #58047
+URL: https://database.turtle-wow.org/?item=58047
+Category: Database/Items/Weapons/Wands
+Item: 
+Grasp of Ancestors
+Binds when picked up
+Ranged
+Wand
+35 - 64 Nature Damage
+Speed 1.50
+(33.0 damage per second)
++3 Intellect
+Durability 65 / 65
+Requires Level 28
+Equip:
+Increases damage and healing done by magical spells and effects by up to 5.
+
+
+Item #58089
+URL: https://database.turtle-wow.org/?item=58089
+Category: Database/Items/Weapons/Wands
+Item: 
+Thornlash Branch
+Binds when picked up
+Ranged
+Wand
+35 - 64 Nature Damage
+Speed 1.50
+(33.0 damage per second)
++6 Stamina
+Durability 65 / 65
+Requires Level 29
+"A gnarled, living branch that crackles with energy."
+
+
+Item #58137
+URL: https://database.turtle-wow.org/?item=58137
+Category: Database/Items/Weapons/Wands
+Item: 
+Netherbranch
+Binds when picked up
+Ranged
+Wand
+35 - 67 Shadow Damage
+Speed 1.50
+(34.0 damage per second)
++6 Stamina
+Durability 65 / 65
+Requires Level 31
+
+
+Item #58205
+URL: https://database.turtle-wow.org/?item=58205
+Category: Database/Items/Weapons/Wands
+Item: 
+Primal Flameslinger
+Binds when picked up
+Unique
+Ranged
+Wand
+77 - 156 Fire Damage
+Speed 1.50
+(77.7 damage per second)
++6 Intellect
+Durability 85 / 85
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 15.
+
+
+Item #58253
+URL: https://database.turtle-wow.org/?item=58253
+Category: Database/Items/Weapons/Wands
+Item: 
+Lector's Baton
+Binds when picked up
+Ranged
+Wand
+68 - 127 Arcane Damage
+Speed 1.60
+(60.9 damage per second)
+Durability 65 / 65
+Requires Level 56
+Requires Shen'dralar - Honored
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #58277
+URL: https://database.turtle-wow.org/?item=58277
+Category: Database/Items/Weapons/Wands
+Item: 
+Lady Winter's Touch
+Binds when picked up
+Ranged
+Wand
+33 - 64 Frost Damage
+Speed 1.50
+(32.3 damage per second)
++4 Intellect
++3 Spirit
+Durability 55 / 55
+
+
+Item #60427
+URL: https://database.turtle-wow.org/?item=60427
+Category: Database/Items/Weapons/Wands
+Item: 
+Skullrattler
+Binds when picked up
+Ranged
+Wand
+98 - 169 Shadow Damage
+Speed 2.10
+(63.6 damage per second)
++5 Stamina
+Durability 65 / 65
+Requires Level 60
+Equip:
+Increases damage done by Shadow spells and effects by up to 13.
+
+
+Item #60805
+URL: https://database.turtle-wow.org/?item=60805
+Category: Database/Items/Weapons/Wands
+Item: 
+Clutch of the Damned
+Binds when equipped
+Ranged
+Wand
+70 - 130 Frost Damage
+Speed 1.50
+(66.7 damage per second)
++4 Intellect
++10 Frost Resistance
+Durability 65 / 65
+Requires Level 58
+
+
+Item #61020
+URL: https://database.turtle-wow.org/?item=61020
+Category: Database/Items/Weapons/Wands
+Item: 
+Lodestone
+Binds when picked up
+Ranged
+Wand
+77 - 156 Shadow Damage
+Speed 1.50
+(77.7 damage per second)
++7 Stamina
+Durability 85 / 85
+Requires Level 60
+Equip:
+Increases damage done by Shadow spells and effects by up to 14.
+Equip:
+Chance to strike your ranged target with a Shadowbolt for 13 to 20 Shadow damage.
+
+
+Item #61019
+URL: https://database.turtle-wow.org/?item=61019
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of the Eclipse
+Binds when picked up
+Ranged
+Wand
+79 - 144 Arcane Damage
+Speed 1.70
+(65.6 damage per second)
++5 Intellect
+Durability 65 / 65
+Requires Level 60
+Equip:
+Increases damage done by Arcane spells and effects by up to 14.
+
+
+Item #61286
+URL: https://database.turtle-wow.org/?item=61286
+Category: Database/Items/Weapons/Wands
+Item: 
+Bloodfang Effigy
+Binds when picked up
+Ranged
+Wand
+90 - 168 Fire Damage
+Speed 1.80
+(71.7 damage per second)
+Durability 65 / 65
+Requires Level 60
+Equip:
+1% of damage dealt is returned as healing.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 11.
+
+
+Item #61374
+URL: https://database.turtle-wow.org/?item=61374
+Category: Database/Items/Weapons/Wands
+Item: 
+Grungy Firestick
+Binds when picked up
+One-hand
+Wand
+9 - 19 Fire Damage
+Speed 1.80
+(7.8 damage per second)
+Durability 35 / 35
+Requires Level 5
+
+
+Item #61615
+URL: https://database.turtle-wow.org/?item=61615
+Category: Database/Items/Weapons/Wands
+Item: 
+Burning Torch
+Binds when equipped
+Ranged
+Wand
+57 - 105 Fire Damage
+Speed 1.60
+(50.6 damage per second)
+Durability 55 / 55
+Requires Level 53
+Equip:
+Increases damage done by Fire spells and effects by up to 11.
+"It's hot!"
+
+
+Item #80544
+URL: https://database.turtle-wow.org/?item=80544
+Category: Database/Items/Weapons/Wands
+Item: 
+Quel'dorei Magister's Spellflinger
+Binds when picked up
+Ranged
+Wand
+62 - 110 Arcane Damage
+Speed 1.30
+(66.2 damage per second)
++4 Intellect
++4 Stamina
+Durability 65 / 65
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Increases damage and healing done by magical spells and effects by up to 11.
+
+
+Item #80545
+URL: https://database.turtle-wow.org/?item=80545
+Category: Database/Items/Weapons/Wands
+Item: 
+Quel'dorei Cleric's Wand
+Binds when picked up
+Ranged
+Wand
+62 - 110 Arcane Damage
+Speed 1.30
+(66.2 damage per second)
+Durability 65 / 65
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Increases healing done by spells and effects by up to 11.
+Equip:
+Restores 2 mana per 5 sec.
+
+
+Item #80644
+URL: https://database.turtle-wow.org/?item=80644
+Category: Database/Items/Weapons/Wands
+Item: 
+Revantusk Mystic's Mojobender
+Binds when picked up
+Ranged
+Wand
+62 - 110 Shadow Damage
+Speed 1.30
+(66.2 damage per second)
++4 Intellect
++4 Stamina
+Durability 65 / 65
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Increases damage and healing done by magical spells and effects by up to 11.
+
+
+Item #80645
+URL: https://database.turtle-wow.org/?item=80645
+Category: Database/Items/Weapons/Wands
+Item: 
+Revantusk Mender's Wand
+Binds when picked up
+Ranged
+Wand
+62 - 110 Arcane Damage
+Speed 1.30
+(66.2 damage per second)
+Durability 65 / 65
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Increases healing done by spells and effects by up to 11.
+Equip:
+Restores 2 mana per 5 sec.
+
+
+Item #80748
+URL: https://database.turtle-wow.org/?item=80748
+Category: Database/Items/Weapons/Wands
+Item: 
+Corrupter's Focus
+Binds when equipped
+Ranged
+Wand
+84 - 132 Shadow Damage
+Speed 2.10
+(51.4 damage per second)
++2 Intellect
+Durability 65 / 65
+Requires Level 47
+Equip:
+Increases damage done by Shadow spells and effects by up to 11.
+
+
+Item #80772
+URL: https://database.turtle-wow.org/?item=80772
+Category: Database/Items/Weapons/Wands
+Item: 
+Twisted Draenei Rib
+Binds when picked up
+Ranged
+Wand
+97 - 169 Shadow Damage
+Speed 2.10
+(63.3 damage per second)
++5 Stamina
+Durability 65 / 65
+Requires Level 58
+Equip:
+Increases damage done by Shadow spells and effects by up to 13.
+"A souveneir from a far away land."
+
+
+Item #80799
+URL: https://database.turtle-wow.org/?item=80799
+Category: Database/Items/Weapons/Wands
+Item: 
+Wand of Divine Justice
+Binds when equipped
+Ranged
+Wand
+55 - 86 Holy Damage
+Speed 1.90
+(37.1 damage per second)
+Durability 65 / 65
+Requires Level 36
+Equip:
+Increases damage done by Holy spells and effects by up to 11.
+
+
+Item #80829
+URL: https://database.turtle-wow.org/?item=80829
+Category: Database/Items/Weapons/Wands
+Item: 
+Moonbeam
+Binds when equipped
+Ranged
+Wand
+30 - 55 Arcane Damage
+Speed 1.30
+(32.7 damage per second)
+Durability 65 / 65
+Requires Level 27
+Equip:
+Increases damage done by Arcane spells and effects by up to 4.
+
+
+Item #81290
+URL: https://database.turtle-wow.org/?item=81290
+Category: Database/Items/Weapons/Wands
+Item: 
+Diathorus' Claw
+Binds when picked up
+Ranged
+Wand
+43 - 81 Shadow Damage
+Speed 1.90
+(32.6 damage per second)
+Durability 65 / 65
+
+
+Item #81320
+URL: https://database.turtle-wow.org/?item=81320
+Category: Database/Items/Weapons/Wands
+Item: 
+Crackling Zapper
+Binds when picked up
+Ranged
+Wand
+42 - 74 Nature Damage
+Speed 1.70
+(34.1 damage per second)
+Durability 65 / 65
+"For really big bugs."
+
+
+Item #83215
+URL: https://database.turtle-wow.org/?item=83215
+Category: Database/Items/Weapons/Wands
+Item: 
+Blackflame Wand
+Binds when picked up
+Ranged
+Wand
+16 - 30 Shadow Damage
+Speed 1.30
++16 - 30 Fire Damage
+(35.4 damage per second)
+Durability 65 / 65
+Requires Level 34
+Equip:
+Increases damage done by Shadow spells and effects by up to 6.
+Equip:
+Increases damage done by Fire spells and effects by up to 6.
+
+
+Item #83467
+URL: https://database.turtle-wow.org/?item=83467
+Category: Database/Items/Weapons/Wands
+Item: 
+Cryptwatcher's Call
+Binds when picked up
+Ranged
+Wand
+62 - 121 Shadow Damage
+Speed 1.40
+(65.4 damage per second)
++10 Intellect
++4 Spirit
+Durability 65 / 65
+Requires Level 60
+
+
+Item #84602
+URL: https://database.turtle-wow.org/?item=84602
+Category: Database/Items/Weapons/Wands
+Item: 
+Consecrated Caduceus
+Binds when picked up
+Ranged
+Wand
+80 - 149 Holy Damage
+Speed 1.60
+(71.6 damage per second)
+Durability 65 / 65
+Requires Level 60
+Requires  - Revered
+Equip:
+Restores 4 mana per 5 sec.
+Equip:
+Increases healing done by spells and effects by up to 13.
+
+

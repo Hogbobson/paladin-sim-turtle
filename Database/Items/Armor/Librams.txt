@@ -1,0 +1,222 @@
+Item #22400
+URL: https://database.turtle-wow.org/?item=22400
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Truth
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 52
+Equip:
+Your Devotion Aura reduces physical damage taken by 2%.
+
+
+Item #22401
+URL: https://database.turtle-wow.org/?item=22401
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Hope
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 57
+Equip:
+Reduces the mana cost of your Seal spells by 20.
+
+
+Item #22402
+URL: https://database.turtle-wow.org/?item=22402
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Grace
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 60
+Equip:
+Reduces the mana cost of your Cleanse spell by 25.
+
+
+Item #23006
+URL: https://database.turtle-wow.org/?item=23006
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Light
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 60
+Equip:
+Increases healing done by Flash of Light by 41.
+
+
+Item #23201
+URL: https://database.turtle-wow.org/?item=23201
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Divinity
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 60
+Equip:
+Increases healing done by Flash of Light by 28.
+
+
+Item #23203
+URL: https://database.turtle-wow.org/?item=23203
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Fervor
+Binds when equipped
+Unique
+Relic
+Libram
+Requires Level 60
+Equip:
+Increases the melee attack power bonus of your Seal of the Crusader by 48 and the Holy damage increase of your Judgement of the Crusader by 33.
+
+
+Item #51799
+URL: https://database.turtle-wow.org/?item=51799
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Veracity
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 60
+Equip:
+Reduces the casting cost of all your Blessings by 15.
+
+
+Item #51804
+URL: https://database.turtle-wow.org/?item=51804
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of the Resolute
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 39
+Equip:
+Increases the duration of your Hand of Freedom by 1000 sec.
+
+
+Item #55110
+URL: https://database.turtle-wow.org/?item=55110
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of the Eternal Tower
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 60
+Equip:
+Reduces the cooldown of your Holy Strike and Crusader Strike by 0.5 sec.
+
+
+Item #55470
+URL: https://database.turtle-wow.org/?item=55470
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Radiance
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 34
+Equip:
+Increases your chance to critically strike with Holy Light and Holy Strike by 1%.
+
+
+Item #58093
+URL: https://database.turtle-wow.org/?item=58093
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of the Farraki Zealot
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 43
+Equip:
+Your Consecration heals party members for 120 over 8 sec. and grants them 5 Strength while inside it.
+
+
+Item #58139
+URL: https://database.turtle-wow.org/?item=58139
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Virtue
+Binds when picked up
+Relic
+Libram
+Requires Level 32
+Equip:
+Your Holy Light causes your next Holy Strike to smite the target for 40 to 51 Holy damage.
+
+
+Item #58240
+URL: https://database.turtle-wow.org/?item=58240
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of Final Judgement
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 60
+Equip:
+Your Judgements deal an additional 200 to 221 Holy damage to enemies below 35% health.
+
+
+Item #61203
+URL: https://database.turtle-wow.org/?item=61203
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of the Dreamguard
+Binds when picked up
+Unique
+Relic
+Libram
+Requires Level 60
+Equip:
+Increases the number of charges of your Holy Shield by 1.
+
+
+Item #61337
+URL: https://database.turtle-wow.org/?item=61337
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of the Justicar
+Binds when equipped
+Unique
+Relic
+Libram
+Requires Level 42
+Equip:
+Decreases the cooldown of your Hammer of Justice spell by 5000 sec.
+
+
+Item #61443
+URL: https://database.turtle-wow.org/?item=61443
+Category: Database/Items/Armor/Librams
+Item: 
+Libram of the Faithful
+Binds when picked up
+Relic
+Libram
+Requires Level 60
+Equip:
+Your Consecration reduces damage taken by 2% for party members that are inside it.
+
+

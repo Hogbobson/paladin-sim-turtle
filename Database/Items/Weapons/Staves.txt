@@ -1,0 +1,6087 @@
+Item #10
+URL: https://database.turtle-wow.org/?item=10
+Category: Database/Items/Weapons/Staves
+Item: 
+Gamemaster's Broom of Doom
+Two-hand
+Staff
+590 - 1944  Damage
+Speed 3.50
+(362.0 damage per second)
+Durability 35 / 35
+Requires Level 3
+"Some may question your right to destroy ten billion people. Those who understand realise that you have no right to let them live."
+
+
+Item #26
+URL: https://database.turtle-wow.org/?item=26
+Category: Database/Items/Weapons/Staves
+Item: 
+Thalassian Staff
+Two-hand
+Staff
+3 - 5  Damage
+Speed 2.90
+(1.4 damage per second)
+Durability 25 / 25
+
+
+Item #35
+URL: https://database.turtle-wow.org/?item=35
+Category: Database/Items/Weapons/Staves
+Item: 
+Bent Staff
+Two-hand
+Staff
+3 - 5  Damage
+Speed 2.90
+(1.4 damage per second)
+Durability 25 / 25
+
+
+Item #767
+URL: https://database.turtle-wow.org/?item=767
+Category: Database/Items/Weapons/Staves
+Item: 
+Long Bo Staff
+Two-hand
+Staff
+8 - 13  Damage
+Speed 2.50
+(4.2 damage per second)
+Durability 40 / 40
+Requires Level 3
+
+
+Item #791
+URL: https://database.turtle-wow.org/?item=791
+Category: Database/Items/Weapons/Staves
+Item: 
+Gnarled Ash Staff
+Binds when equipped
+Two-hand
+Staff
+65 - 99  Damage
+Speed 3.20
+(25.6 damage per second)
++15 Spirit
++6 Stamina
+Durability 100 / 100
+Requires Level 26
+
+
+Item #812
+URL: https://database.turtle-wow.org/?item=812
+Category: Database/Items/Weapons/Staves
+Item: 
+Glowing Brightwood Staff
+Binds when equipped
+Two-hand
+Staff
+127 - 191  Damage
+Speed 3.10
+(51.3 damage per second)
++29 Intellect
++15 Stamina
++9 Spirit
++15 Nature Resistance
+Durability 120 / 120
+Requires Level 49
+
+
+Item #854
+URL: https://database.turtle-wow.org/?item=854
+Category: Database/Items/Weapons/Staves
+Item: 
+Quarter Staff
+Two-hand
+Staff
+20 - 31  Damage
+Speed 2.70
+(9.4 damage per second)
+Durability 55 / 55
+Requires Level 11
+
+
+Item #866
+URL: https://database.turtle-wow.org/?item=866
+Category: Database/Items/Weapons/Staves
+Item: 
+Monk's Staff
+Binds when equipped
+Two-hand
+Staff
+60 - 90  Damage
+Speed 2.40
+(31.3 damage per second)
+Durability 85 / 85
+Requires Level 37
+Random Bonuses
+
+
+Item #873
+URL: https://database.turtle-wow.org/?item=873
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Jordan
+Binds when equipped
+Two-hand
+Staff
+119 - 180  Damage
+Speed 3.70
+(40.4 damage per second)
++11 Intellect
++11 Spirit
+Durability 120 / 120
+Requires Level 35
+Equip:
+Increases damage and healing done by magical spells and effects by up to 26.
+
+
+Item #880
+URL: https://database.turtle-wow.org/?item=880
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Horrors
+Binds when equipped
+Two-hand
+Staff
+41 - 62  Damage
+Speed 3.40
+(15.1 damage per second)
+Durability 70 / 70
+Requires Level 18
+Chance on hit:
+Damage caused by the target is reduced by 5 for 120 sec.
+
+
+Item #890
+URL: https://database.turtle-wow.org/?item=890
+Category: Database/Items/Weapons/Staves
+Item: 
+Twisted Chanter's Staff
+Binds when equipped
+Two-hand
+Staff
+55 - 84  Damage
+Speed 3.40
+(20.4 damage per second)
++10 Intellect
++6 Stamina
+Durability 90 / 90
+Requires Level 19
+
+
+Item #928
+URL: https://database.turtle-wow.org/?item=928
+Category: Database/Items/Weapons/Staves
+Item: 
+Long Staff
+Two-hand
+Staff
+36 - 55  Damage
+Speed 3.00
+(15.2 damage per second)
+Durability 75 / 75
+Requires Level 20
+
+
+Item #937
+URL: https://database.turtle-wow.org/?item=937
+Category: Database/Items/Weapons/Staves
+Item: 
+Black Duskwood Staff
+Binds when equipped
+Two-hand
+Staff
+75 - 113  Damage
+Speed 2.80
+(33.6 damage per second)
+Durability 100 / 100
+Requires Level 33
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 110 to 141 Shadow damage.
+
+
+Item #943
+URL: https://database.turtle-wow.org/?item=943
+Category: Database/Items/Weapons/Staves
+Item: 
+Warden Staff
+Binds when equipped
+Two-hand
+Staff
+89 - 134  Damage
+Speed 2.40
+(46.5 damage per second)
+260 Armor
++11 Stamina
+Durability 120 / 120
+Requires Level 43
+Equip:
+Increased Defense +10.
+
+
+Item #944
+URL: https://database.turtle-wow.org/?item=944
+Category: Database/Items/Weapons/Staves
+Item: 
+Elemental Mage Staff
+Binds when equipped
+Two-hand
+Staff
+147 - 221  Damage
+Speed 3.20
+(57.5 damage per second)
++20 Fire Resistance
++20 Frost Resistance
+Durability 120 / 120
+Requires Level 56
+Equip:
+Increases damage done by Fire spells and effects by up to 36.
+Equip:
+Increases damage done by Frost spells and effects by up to 36.
+
+
+Item #1010
+URL: https://database.turtle-wow.org/?item=1010
+Category: Database/Items/Weapons/Staves
+Item: 
+Gnarled Short Staff
+Binds when picked up
+Two-hand
+Staff
+9 - 15  Damage
+Speed 2.80
+(4.3 damage per second)
+Durability 40 / 40
+
+
+Item #1155
+URL: https://database.turtle-wow.org/?item=1155
+Category: Database/Items/Weapons/Staves
+Item: 
+Rod of the Sleepwalker
+Binds when picked up
+Two-hand
+Staff
+53 - 80  Damage
+Speed 2.80
+(23.8 damage per second)
++11 Intellect
++10 Spirit
+Durability 100 / 100
+Requires Level 24
+
+
+Item #1159
+URL: https://database.turtle-wow.org/?item=1159
+Category: Database/Items/Weapons/Staves
+Item: 
+Militia Quarterstaff
+Binds when picked up
+Two-hand
+Staff
+6 - 9  Damage
+Speed 2.80
+(2.7 damage per second)
+Durability 35 / 35
+
+
+Item #1300
+URL: https://database.turtle-wow.org/?item=1300
+Category: Database/Items/Weapons/Staves
+Item: 
+Lesser Staff of the Spire
+Binds when equipped
+Two-hand
+Staff
+35 - 54  Damage
+Speed 3.40
+(13.1 damage per second)
++6 Intellect
+Durability 65 / 65
+Requires Level 15
+
+
+Item #1317
+URL: https://database.turtle-wow.org/?item=1317
+Category: Database/Items/Weapons/Staves
+Item: 
+Hardened Root Staff
+Binds when picked up
+Two-hand
+Staff
+44 - 67  Damage
+Speed 3.30
+(16.8 damage per second)
++1 Strength
++8 Spirit
+Durability 75 / 75
+
+
+Item #1391
+URL: https://database.turtle-wow.org/?item=1391
+Category: Database/Items/Weapons/Staves
+Item: 
+Riverpaw Mystic Staff
+Binds when equipped
+Two-hand
+Staff
+28 - 43  Damage
+Speed 3.00
+(11.8 damage per second)
++2 Intellect
++4 Spirit
+Durability 60 / 60
+Requires Level 13
+
+
+Item #1388
+URL: https://database.turtle-wow.org/?item=1388
+Category: Database/Items/Weapons/Staves
+Item: 
+Crooked Staff
+Two-hand
+Staff
+4 - 7  Damage
+Speed 3.30
+(1.7 damage per second)
+Durability 25 / 25
+
+
+Item #1405
+URL: https://database.turtle-wow.org/?item=1405
+Category: Database/Items/Weapons/Staves
+Item: 
+Foamspittle Staff
+Binds when equipped
+Two-hand
+Staff
+29 - 44  Damage
+Speed 3.20
+(11.4 damage per second)
++5 Spirit
+Durability 60 / 60
+Requires Level 12
+
+
+Item #1411
+URL: https://database.turtle-wow.org/?item=1411
+Category: Database/Items/Weapons/Staves
+Item: 
+Withered Staff
+Two-hand
+Staff
+8 - 12  Damage
+Speed 3.00
+(3.3 damage per second)
+Durability 40 / 40
+Requires Level 3
+
+
+Item #1473
+URL: https://database.turtle-wow.org/?item=1473
+Category: Database/Items/Weapons/Staves
+Item: 
+Riverside Staff
+Binds when equipped
+Two-hand
+Staff
+31 - 47  Damage
+Speed 3.10
+(12.6 damage per second)
++6 Spirit
+Durability 65 / 65
+Requires Level 14
+
+
+Item #1484
+URL: https://database.turtle-wow.org/?item=1484
+Category: Database/Items/Weapons/Staves
+Item: 
+Witching Stave
+Binds when equipped
+Two-hand
+Staff
+55 - 83  Damage
+Speed 3.60
+(19.2 damage per second)
++8 Intellect
+Durability 80 / 80
+Requires Level 17
+Equip:
+Increases damage done by Shadow spells and effects by up to 11.
+
+
+Item #1515
+URL: https://database.turtle-wow.org/?item=1515
+Category: Database/Items/Weapons/Staves
+Item: 
+Rough Wooden Staff
+Two-hand
+Staff
+13 - 20  Damage
+Speed 3.30
+(5.0 damage per second)
+Durability 50 / 50
+Requires Level 7
+
+
+Item #1539
+URL: https://database.turtle-wow.org/?item=1539
+Category: Database/Items/Weapons/Staves
+Item: 
+Gnarled Hermit's Staff
+Binds when equipped
+Two-hand
+Staff
+28 - 42  Damage
+Speed 2.80
+(12.5 damage per second)
++6 Spirit
+Durability 65 / 65
+Requires Level 14
+
+
+Item #1607
+URL: https://database.turtle-wow.org/?item=1607
+Category: Database/Items/Weapons/Staves
+Item: 
+Soulkeeper
+Binds when equipped
+Two-hand
+Staff
+141 - 213  Damage
+Speed 3.80
+(46.6 damage per second)
++26 Spirit
++11 Intellect
+Durability 100 / 100
+Requires Level 49
+
+
+Item #1613
+URL: https://database.turtle-wow.org/?item=1613
+Category: Database/Items/Weapons/Staves
+Item: 
+Spiritchaser Staff
+Binds when equipped
+Two-hand
+Staff
+75 - 113  Damage
+Speed 2.80
+(33.6 damage per second)
+Durability 85 / 85
+Requires Level 39
+Random Bonuses
+
+
+Item #1664
+URL: https://database.turtle-wow.org/?item=1664
+Category: Database/Items/Weapons/Staves
+Item: 
+Spellforce Rod
+Binds when equipped
+Two-hand
+Staff
+77 - 116  Damage
+Speed 3.20
+(30.2 damage per second)
+Durability 85 / 85
+Requires Level 36
+Equip:
+Increases damage and healing done by magical spells and effects by up to 20.
+
+
+Item #1720
+URL: https://database.turtle-wow.org/?item=1720
+Category: Database/Items/Weapons/Staves
+Item: 
+Tanglewood Staff
+Binds when equipped
+Two-hand
+Staff
+109 - 165  Damage
+Speed 3.40
+(40.3 damage per second)
++18 Spirit
++9 Strength
+Durability 100 / 100
+Requires Level 41
+Equip:
+Increases damage done by Nature spells and effects by up to 14.
+
+
+Item #1813
+URL: https://database.turtle-wow.org/?item=1813
+Category: Database/Items/Weapons/Staves
+Item: 
+Chipped Quarterstaff
+Two-hand
+Staff
+17 - 27  Damage
+Speed 3.10
+(7.1 damage per second)
+Durability 60 / 60
+Requires Level 13
+
+
+Item #1822
+URL: https://database.turtle-wow.org/?item=1822
+Category: Database/Items/Weapons/Staves
+Item: 
+Cedar Walking Stick
+Two-hand
+Staff
+20 - 31  Damage
+Speed 2.80
+(9.1 damage per second)
+Durability 70 / 70
+Requires Level 18
+
+
+Item #1831
+URL: https://database.turtle-wow.org/?item=1831
+Category: Database/Items/Weapons/Staves
+Item: 
+Oaken War Staff
+Two-hand
+Staff
+33 - 51  Damage
+Speed 3.70
+(11.4 damage per second)
+Durability 80 / 80
+Requires Level 23
+
+
+Item #1908
+URL: https://database.turtle-wow.org/?item=1908
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Crooked
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1907
+URL: https://database.turtle-wow.org/?item=1907
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Basic
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1928
+URL: https://database.turtle-wow.org/?item=1928
+Category: Database/Items/Weapons/Staves
+Item: 
+Defias Mage Staff
+Binds when equipped
+Two-hand
+Staff
+24 - 36  Damage
+Speed 2.80
+(10.7 damage per second)
++4 Intellect
+Durability 55 / 55
+Requires Level 11
+
+
+Item #1933
+URL: https://database.turtle-wow.org/?item=1933
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Conjuring
+Binds when equipped
+Two-hand
+Staff
+24 - 37  Damage
+Speed 3.00
+(10.2 damage per second)
+Durability 55 / 55
+Requires Level 10
+Use:
+Conjures food to eat.
+
+
+Item #1998
+URL: https://database.turtle-wow.org/?item=1998
+Category: Database/Items/Weapons/Staves
+Item: 
+Bloodscalp Channeling Staff
+Binds when equipped
+Two-hand
+Staff
+50 - 75  Damage
+Speed 2.80
+(22.3 damage per second)
+Durability 85 / 85
+Requires Level 28
+Equip:
+Increases damage done by Nature spells and effects by up to 19.
+
+
+Item #2013
+URL: https://database.turtle-wow.org/?item=2013
+Category: Database/Items/Weapons/Staves
+Item: 
+Cryptbone Staff
+Binds when equipped
+Two-hand
+Staff
+40 - 61  Damage
+Speed 2.90
+(17.4 damage per second)
++4 Strength
++6 Intellect
++4 Spirit
+Durability 80 / 80
+Requires Level 21
+
+
+Item #2030
+URL: https://database.turtle-wow.org/?item=2030
+Category: Database/Items/Weapons/Staves
+Item: 
+Gnarled Staff
+Two-hand
+Staff
+27 - 42  Damage
+Speed 2.90
+(11.9 damage per second)
+Durability 65 / 65
+Requires Level 15
+
+
+Item #2042
+URL: https://database.turtle-wow.org/?item=2042
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Westfall
+Binds when picked up
+Two-hand
+Staff
+49 - 74  Damage
+Speed 3.00
+(20.5 damage per second)
++11 Spirit
++5 Intellect
+Durability 90 / 90
+
+
+Item #2067
+URL: https://database.turtle-wow.org/?item=2067
+Category: Database/Items/Weapons/Staves
+Item: 
+Frostbit Staff
+Two-hand
+Staff
+12 - 19  Damage
+Speed 2.70
+(5.7 damage per second)
+Durability 45 / 45
+Requires Level 5
+
+
+Item #2072
+URL: https://database.turtle-wow.org/?item=2072
+Category: Database/Items/Weapons/Staves
+Item: 
+Dwarven Magestaff
+Binds when equipped
+Two-hand
+Staff
+41 - 62  Damage
+Speed 2.80
+(18.4 damage per second)
+Durability 80 / 80
+Requires Level 22
+Random Bonuses
+
+
+Item #2077
+URL: https://database.turtle-wow.org/?item=2077
+Category: Database/Items/Weapons/Staves
+Item: 
+Magician Staff
+Binds when equipped
+Two-hand
+Staff
+47 - 71  Damage
+Speed 3.00
+(19.7 damage per second)
+Durability 85 / 85
+Requires Level 24
+Random Bonuses
+
+
+Item #2132
+URL: https://database.turtle-wow.org/?item=2132
+Category: Database/Items/Weapons/Staves
+Item: 
+Short Staff
+Two-hand
+Staff
+5 - 8  Damage
+Speed 3.20
+(2.0 damage per second)
+Durability 30 / 30
+
+
+Item #2176
+URL: https://database.turtle-wow.org/?item=2176
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Priest Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2177
+URL: https://database.turtle-wow.org/?item=2177
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Mage Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2226
+URL: https://database.turtle-wow.org/?item=2226
+Category: Database/Items/Weapons/Staves
+Item: 
+Ogremage Staff
+Binds when equipped
+Two-hand
+Staff
+49 - 75  Damage
+Speed 3.40
+(18.2 damage per second)
++-5 Intellect
++11 Strength
+Durability 80 / 80
+Requires Level 22
+
+
+Item #2257
+URL: https://database.turtle-wow.org/?item=2257
+Category: Database/Items/Weapons/Staves
+Item: 
+Frostmane Staff
+Two-hand
+Staff
+14 - 21  Damage
+Speed 3.10
+(5.6 damage per second)
+Durability 45 / 45
+Requires Level 5
+
+
+Item #2271
+URL: https://database.turtle-wow.org/?item=2271
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Blessed Seer
+Binds when equipped
+Two-hand
+Staff
+47 - 71  Damage
+Speed 3.00
+(19.7 damage per second)
++3 Spirit
++2 Stamina
+Durability 80 / 80
+Requires Level 18
+Equip:
+Increases healing done by spells and effects by up to 24.
+
+
+Item #2280
+URL: https://database.turtle-wow.org/?item=2280
+Category: Database/Items/Weapons/Staves
+Item: 
+Kam's Walking Stick
+Binds when equipped
+Two-hand
+Staff
+41 - 62  Damage
+Speed 2.80
+(18.4 damage per second)
++3 Agility
++8 Intellect
+Durability 80 / 80
+Requires Level 22
+
+
+Item #2487
+URL: https://database.turtle-wow.org/?item=2487
+Category: Database/Items/Weapons/Staves
+Item: 
+Acolyte Staff
+Two-hand
+Staff
+4 - 6  Damage
+Speed 2.40
+(2.1 damage per second)
+Durability 30 / 30
+
+
+Item #2495
+URL: https://database.turtle-wow.org/?item=2495
+Category: Database/Items/Weapons/Staves
+Item: 
+Walking Stick
+Two-hand
+Staff
+8 - 13  Damage
+Speed 2.50
+(4.2 damage per second)
+Durability 40 / 40
+Requires Level 3
+
+
+Item #2503
+URL: https://database.turtle-wow.org/?item=2503
+Category: Database/Items/Weapons/Staves
+Item: 
+Adept Short Staff
+Two-hand
+Staff
+8 - 13  Damage
+Speed 2.40
+(4.4 damage per second)
+Durability 40 / 40
+Requires Level 3
+
+
+Item #2527
+URL: https://database.turtle-wow.org/?item=2527
+Category: Database/Items/Weapons/Staves
+Item: 
+Battle Staff
+Two-hand
+Staff
+62 - 94  Damage
+Speed 3.40
+(22.9 damage per second)
+Durability 85 / 85
+Requires Level 31
+
+
+Item #2535
+URL: https://database.turtle-wow.org/?item=2535
+Category: Database/Items/Weapons/Staves
+Item: 
+War Staff
+Two-hand
+Staff
+85 - 129  Damage
+Speed 3.30
+(32.4 damage per second)
+Durability 85 / 85
+Requires Level 40
+
+
+Item #2559
+URL: https://database.turtle-wow.org/?item=2559
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Warlock Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2549
+URL: https://database.turtle-wow.org/?item=2549
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Shade
+Binds when equipped
+Two-hand
+Staff
+46 - 70  Damage
+Speed 2.60
+(22.3 damage per second)
+Durability 95 / 95
+Requires Level 22
+Equip:
+Increases damage done by Shadow spells and effects by up to 21.
+
+
+Item #2950
+URL: https://database.turtle-wow.org/?item=2950
+Category: Database/Items/Weapons/Staves
+Item: 
+Icicle Rod
+Binds when picked up
+Two-hand
+Staff
+51 - 77  Damage
+Speed 3.80
+(16.8 damage per second)
++4 Intellect
+Durability 75 / 75
+Equip:
+Increases damage done by Frost spells and effects by up to 10.
+
+
+Item #3185
+URL: https://database.turtle-wow.org/?item=3185
+Category: Database/Items/Weapons/Staves
+Item: 
+Acrobatic Staff
+Binds when equipped
+Two-hand
+Staff
+40 - 61  Damage
+Speed 2.20
+(23.0 damage per second)
+Durability 85 / 85
+Requires Level 29
+Random Bonuses
+
+
+Item #3227
+URL: https://database.turtle-wow.org/?item=3227
+Category: Database/Items/Weapons/Staves
+Item: 
+Nightbane Staff
+Binds when equipped
+Two-hand
+Staff
+32 - 49  Damage
+Speed 2.70
+(15.0 damage per second)
++7 Shadow Resistance
+Durability 70 / 70
+Requires Level 18
+
+
+Item #3277
+URL: https://database.turtle-wow.org/?item=3277
+Category: Database/Items/Weapons/Staves
+Item: 
+Executor Staff
+Binds when picked up
+Two-hand
+Staff
+6 - 9  Damage
+Speed 2.90
+(2.6 damage per second)
+Durability 35 / 35
+
+
+Item #3327
+URL: https://database.turtle-wow.org/?item=3327
+Category: Database/Items/Weapons/Staves
+Item: 
+Vile Fin Oracle Staff
+Two-hand
+Staff
+11 - 18  Damage
+Speed 2.90
+(5.0 damage per second)
+Durability 40 / 40
+Requires Level 4
+
+
+Item #3335
+URL: https://database.turtle-wow.org/?item=3335
+Category: Database/Items/Weapons/Staves
+Item: 
+Farmer's Broom
+Two-hand
+Staff
+9 - 14  Damage
+Speed 3.50
+(3.3 damage per second)
+Durability 35 / 35
+Requires Level 3
+
+
+Item #3415
+URL: https://database.turtle-wow.org/?item=3415
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Friar
+Binds when equipped
+Two-hand
+Staff
+42 - 64  Damage
+Speed 2.60
+(20.4 damage per second)
++11 Spirit
++4 Stamina
++3 Intellect
+Durability 90 / 90
+Requires Level 19
+
+
+Item #3446
+URL: https://database.turtle-wow.org/?item=3446
+Category: Database/Items/Weapons/Staves
+Item: 
+Darkwood Staff
+Binds when picked up
+Two-hand
+Staff
+23 - 35  Damage
+Speed 3.20
+(9.1 damage per second)
++3 Stamina
+Durability 50 / 50
+
+
+Item #3661
+URL: https://database.turtle-wow.org/?item=3661
+Category: Database/Items/Weapons/Staves
+Item: 
+Handcrafted Staff
+Two-hand
+Staff
+3 - 5  Damage
+Speed 2.90
+(1.4 damage per second)
+Durability 25 / 25
+
+
+Item #3738
+URL: https://database.turtle-wow.org/?item=3738
+Category: Database/Items/Weapons/Staves
+Item: 
+Brewing Rod
+Binds when picked up
+Two-hand
+Staff
+39 - 59  Damage
+Speed 2.90
+(16.9 damage per second)
++6 Stamina
++5 Spirit
+Durability 75 / 75
+
+
+Item #3784
+URL: https://database.turtle-wow.org/?item=3784
+Category: Database/Items/Weapons/Staves
+Item: 
+Metal Stave
+Two-hand
+Staff
+38 - 57  Damage
+Speed 3.10
+(15.3 damage per second)
+Durability 85 / 85
+Requires Level 32
+
+
+Item #3902
+URL: https://database.turtle-wow.org/?item=3902
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Nobles
+Binds when equipped
+Two-hand
+Staff
+30 - 46  Damage
+Speed 3.20
+(11.9 damage per second)
++2 Stamina
++4 Spirit
+Durability 60 / 60
+Requires Level 13
+
+
+Item #4024
+URL: https://database.turtle-wow.org/?item=4024
+Category: Database/Items/Weapons/Staves
+Item: 
+Heavy War Staff
+Two-hand
+Staff
+59 - 90  Damage
+Speed 3.40
+(21.9 damage per second)
+Durability 85 / 85
+Requires Level 42
+
+
+Item #4134
+URL: https://database.turtle-wow.org/?item=4134
+Category: Database/Items/Weapons/Staves
+Item: 
+Nimboya's Mystical Staff
+Binds when picked up
+Two-hand
+Staff
+74 - 112  Damage
+Speed 2.30
+(40.4 damage per second)
++2 Intellect
++15 Spirit
+Durability 100 / 100
+Equip:
+Increases damage and healing done by magical spells and effects by up to 16.
+
+
+Item #4437
+URL: https://database.turtle-wow.org/?item=4437
+Category: Database/Items/Weapons/Staves
+Item: 
+Channeler's Staff
+Binds when equipped
+Two-hand
+Staff
+35 - 54  Damage
+Speed 3.40
+(13.1 damage per second)
++6 Intellect
+Durability 65 / 65
+Requires Level 15
+
+
+Item #4566
+URL: https://database.turtle-wow.org/?item=4566
+Category: Database/Items/Weapons/Staves
+Item: 
+Sturdy Quarterstaff
+Binds when equipped
+Two-hand
+Staff
+20 - 30  Damage
+Speed 2.80
+(8.9 damage per second)
+Durability 50 / 50
+Requires Level 8
+Random Bonuses
+
+
+Item #4575
+URL: https://database.turtle-wow.org/?item=4575
+Category: Database/Items/Weapons/Staves
+Item: 
+Medicine Staff
+Binds when equipped
+Two-hand
+Staff
+25 - 38  Damage
+Speed 2.50
+(12.6 damage per second)
+Durability 65 / 65
+Requires Level 14
+Random Bonuses
+
+
+Item #4938
+URL: https://database.turtle-wow.org/?item=4938
+Category: Database/Items/Weapons/Staves
+Item: 
+Blemished Wooden Staff
+Binds when picked up
+Two-hand
+Staff
+16 - 25  Damage
+Speed 3.20
+(6.4 damage per second)
+Durability 45 / 45
+
+
+Item #4961
+URL: https://database.turtle-wow.org/?item=4961
+Category: Database/Items/Weapons/Staves
+Item: 
+Dreamwatcher Staff
+Binds when picked up
+Two-hand
+Staff
+14 - 22  Damage
+Speed 3.20
+(5.6 damage per second)
+Durability 45 / 45
+
+
+Item #5201
+URL: https://database.turtle-wow.org/?item=5201
+Category: Database/Items/Weapons/Staves
+Item: 
+Emberstone Staff
+Binds when picked up
+Two-hand
+Staff
+47 - 71  Damage
+Speed 3.00
+(19.7 damage per second)
++5 Spirit
++5 Stamina
++8 Intellect
+Durability 80 / 80
+Requires Level 18
+
+
+Item #5276
+URL: https://database.turtle-wow.org/?item=5276
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, 3 Piece Taped Staff
+Two-hand
+Staff
+2 - 3  Damage
+Speed 2.90
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #5277
+URL: https://database.turtle-wow.org/?item=5277
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Metal /w Spike Crystal
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.00
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #5303
+URL: https://database.turtle-wow.org/?item=5303
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Wooden Handle Rounded Head
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #5304
+URL: https://database.turtle-wow.org/?item=5304
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Large Metal Shaft
+Two-hand
+Staff
+1 - 3  Damage
+Speed 2.40
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5306
+URL: https://database.turtle-wow.org/?item=5306
+Category: Database/Items/Weapons/Staves
+Item: 
+Wind Rider Staff
+Binds when picked up
+Two-hand
+Staff
+29 - 44  Damage
+Speed 2.80
+(13.0 damage per second)
++6 Spirit
+Durability 65 / 65
+
+
+Item #5340
+URL: https://database.turtle-wow.org/?item=5340
+Category: Database/Items/Weapons/Staves
+Item: 
+Cauldron Stirrer
+Binds when picked up
+Two-hand
+Staff
+25 - 38  Damage
+Speed 3.10
+(10.2 damage per second)
++4 Stamina
+Durability 55 / 55
+
+
+Item #5393
+URL: https://database.turtle-wow.org/?item=5393
+Category: Database/Items/Weapons/Staves
+Item: 
+Thistlewood Staff
+Binds when picked up
+Two-hand
+Staff
+6 - 10  Damage
+Speed 3.10
+(2.6 damage per second)
+Durability 35 / 35
+
+
+Item #5581
+URL: https://database.turtle-wow.org/?item=5581
+Category: Database/Items/Weapons/Staves
+Item: 
+Smooth Walking Staff
+Binds when picked up
+Two-hand
+Staff
+7 - 11  Damage
+Speed 3.30
+(2.7 damage per second)
+Durability 35 / 35
+
+
+Item #5613
+URL: https://database.turtle-wow.org/?item=5613
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Purifier
+Binds when picked up
+Two-hand
+Staff
+45 - 68  Damage
+Speed 3.70
+(15.3 damage per second)
++8 Spirit
+Durability 70 / 70
+Use:
+Purifies the friendly target, removing 1 disease effect and 1 poison effect.
+3  Charges
+
+
+Item #5776
+URL: https://database.turtle-wow.org/?item=5776
+Category: Database/Items/Weapons/Staves
+Item: 
+Elder's Cane
+Binds when picked up
+Two-hand
+Staff
+7 - 11  Damage
+Speed 3.50
+(2.6 damage per second)
+Durability 35 / 35
+
+
+Item #5778
+URL: https://database.turtle-wow.org/?item=5778
+Category: Database/Items/Weapons/Staves
+Item: 
+Primitive Walking Stick
+Binds when picked up
+Two-hand
+Staff
+6 - 10  Damage
+Speed 3.10
+(2.6 damage per second)
+Durability 35 / 35
+
+
+Item #6215
+URL: https://database.turtle-wow.org/?item=6215
+Category: Database/Items/Weapons/Staves
+Item: 
+Balanced Fighting Stick
+Binds when picked up
+Two-hand
+Staff
+18 - 21  Damage
+Speed 2.20
+(8.9 damage per second)
++2 Agility
++2 Stamina
+Durability 50 / 50
+
+
+Item #6322
+URL: https://database.turtle-wow.org/?item=6322
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Arugal
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #6318
+URL: https://database.turtle-wow.org/?item=6318
+Category: Database/Items/Weapons/Staves
+Item: 
+Odo's Ley Staff
+Binds when picked up
+Two-hand
+Staff
+50 - 76  Damage
+Speed 2.90
+(21.7 damage per second)
++12 Spirit
++5 Stamina
+Durability 95 / 95
+Requires Level 21
+
+
+Item #6505
+URL: https://database.turtle-wow.org/?item=6505
+Category: Database/Items/Weapons/Staves
+Item: 
+Crescent Staff
+Binds when picked up
+Two-hand
+Staff
+47 - 71  Damage
+Speed 2.90
+(20.3 damage per second)
++7 Intellect
++7 Spirit
++7 Stamina
+Durability 90 / 90
+
+
+Item #6631
+URL: https://database.turtle-wow.org/?item=6631
+Category: Database/Items/Weapons/Staves
+Item: 
+Living Root
+Binds when picked up
+Two-hand
+Staff
+49 - 74  Damage
+Speed 2.90
+(21.2 damage per second)
++12 Spirit
++2 Stamina
++5 Nature Resistance
+Durability 90 / 90
+Requires Level 20
+
+
+Item #6689
+URL: https://database.turtle-wow.org/?item=6689
+Category: Database/Items/Weapons/Staves
+Item: 
+Wind Spirit Staff
+Binds when picked up
+Two-hand
+Staff
+70 - 106  Damage
+Speed 3.30
+(26.7 damage per second)
++5 Intellect
++15 Spirit
++3 Stamina
+Durability 100 / 100
+Requires Level 27
+
+
+Item #7094
+URL: https://database.turtle-wow.org/?item=7094
+Category: Database/Items/Weapons/Staves
+Item: 
+Driftwood Branch
+Two-hand
+Staff
+15 - 24  Damage
+Speed 3.40
+(5.7 damage per second)
+Durability 45 / 45
+Requires Level 5
+
+
+Item #7713
+URL: https://database.turtle-wow.org/?item=7713
+Category: Database/Items/Weapons/Staves
+Item: 
+Illusionary Rod
+Binds when picked up
+Two-hand
+Staff
+94 - 142  Damage
+Speed 3.40
+(34.7 damage per second)
++15 Intellect
++10 Spirit
++7 Stamina
+Durability 100 / 100
+Requires Level 34
+
+
+Item #7710
+URL: https://database.turtle-wow.org/?item=7710
+Category: Database/Items/Weapons/Staves
+Item: 
+Loksey's Training Stick
+Binds when picked up
+Two-hand
+Staff
+77 - 117  Damage
+Speed 3.10
+(31.3 damage per second)
+Durability 100 / 100
+Requires Level 31
+Equip:
++60 Attack Power when fighting Beasts.
+
+
+Item #7757
+URL: https://database.turtle-wow.org/?item=7757
+Category: Database/Items/Weapons/Staves
+Item: 
+Windweaver Staff
+Binds when equipped
+Two-hand
+Staff
+80 - 121  Damage
+Speed 3.10
+(32.4 damage per second)
++15 Intellect
++7 Stamina
+Durability 100 / 100
+Requires Level 32
+Equip:
+Increases damage done by Arcane spells and effects by up to 14.
+
+
+Item #7826
+URL: https://database.turtle-wow.org/?item=7826
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Special NPC (Whitemane)
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #9408
+URL: https://database.turtle-wow.org/?item=9408
+Category: Database/Items/Weapons/Staves
+Item: 
+Ironshod Bludgeon
+Binds when picked up
+Two-hand
+Staff
+74 - 112  Damage
+Speed 2.50
+(37.2 damage per second)
++20 Stamina
++8 Strength
+Durability 100 / 100
+Requires Level 37
+
+
+Item #9452
+URL: https://database.turtle-wow.org/?item=9452
+Category: Database/Items/Weapons/Staves
+Item: 
+Hydrocane
+Binds when picked up
+Two-hand
+Staff
+48 - 73  Damage
+Speed 2.80
+(21.6 damage per second)
++15 Frost Resistance
+Durability 100 / 100
+Requires Level 27
+Equip:
+Allows underwater breathing.
+
+
+Item #9482
+URL: https://database.turtle-wow.org/?item=9482
+Category: Database/Items/Weapons/Staves
+Item: 
+Witch Doctor's Cane
+Binds when equipped
+Two-hand
+Staff
+75 - 114  Damage
+Speed 2.30
+(41.1 damage per second)
++9 Spirit
+Durability 100 / 100
+Requires Level 42
+Equip:
+Increases damage done by Nature spells and effects by up to 33.
+
+
+Item #9477
+URL: https://database.turtle-wow.org/?item=9477
+Category: Database/Items/Weapons/Staves
+Item: 
+The Chief's Enforcer
+Binds when picked up
+Two-hand
+Staff
+118 - 178  Damage
+Speed 3.40
+(43.5 damage per second)
+Durability 100 / 100
+Requires Level 45
+Chance on hit:
+Stuns target for 3 sec.
+
+
+Item #9514
+URL: https://database.turtle-wow.org/?item=9514
+Category: Database/Items/Weapons/Staves
+Item: 
+Arcane Staff
+Binds when picked up
+Two-hand
+Staff
+16 - 25  Damage
+Speed 2.90
+(7.1 damage per second)
++1 Spirit
++1 Intellect
+Durability 45 / 45
+Classes: Mage
+
+
+Item #9513
+URL: https://database.turtle-wow.org/?item=9513
+Category: Database/Items/Weapons/Staves
+Item: 
+Ley Staff
+Binds when picked up
+Two-hand
+Staff
+16 - 25  Damage
+Speed 2.90
+(7.1 damage per second)
++1 Spirit
++1 Intellect
+Durability 45 / 45
+Classes: Mage
+
+
+Item #9517
+URL: https://database.turtle-wow.org/?item=9517
+Category: Database/Items/Weapons/Staves
+Item: 
+Celestial Stave
+Binds when picked up
+Two-hand
+Staff
+85 - 129  Damage
+Speed 3.00
+(35.7 damage per second)
++8 Intellect
+Durability 100 / 100
+Classes: Mage
+Equip:
+Increases damage and healing done by magical spells and effects by up to 22.
+
+
+Item #9527
+URL: https://database.turtle-wow.org/?item=9527
+Category: Database/Items/Weapons/Staves
+Item: 
+Spellshifter Rod
+Binds when picked up
+Two-hand
+Staff
+77 - 116  Damage
+Speed 2.70
+(35.7 damage per second)
++6 Stamina
++16 Intellect
+Durability 85 / 85
+
+
+Item #9603
+URL: https://database.turtle-wow.org/?item=9603
+Category: Database/Items/Weapons/Staves
+Item: 
+Gritroot Staff
+Binds when picked up
+Two-hand
+Staff
+14 - 22  Damage
+Speed 2.60
+(6.9 damage per second)
++1 Stamina
+Durability 45 / 45
+
+
+Item #9683
+URL: https://database.turtle-wow.org/?item=9683
+Category: Database/Items/Weapons/Staves
+Item: 
+Strength of the Treant
+Binds when picked up
+Two-hand
+Staff
+131 - 197  Damage
+Speed 3.70
+(44.3 damage per second)
++12 Stamina
++24 Intellect
+Durability 100 / 100
+
+
+Item #9514
+URL: https://database.turtle-wow.org/?item=9514
+Category: Database/Items/Weapons/Staves
+Item: 
+Arcane Staff
+Binds when picked up
+Two-hand
+Staff
+16 - 25  Damage
+Speed 2.90
+(7.1 damage per second)
++1 Spirit
++1 Intellect
+Durability 45 / 45
+Classes: Mage
+
+
+Item #9513
+URL: https://database.turtle-wow.org/?item=9513
+Category: Database/Items/Weapons/Staves
+Item: 
+Ley Staff
+Binds when picked up
+Two-hand
+Staff
+16 - 25  Damage
+Speed 2.90
+(7.1 damage per second)
++1 Spirit
++1 Intellect
+Durability 45 / 45
+Classes: Mage
+
+
+Item #9517
+URL: https://database.turtle-wow.org/?item=9517
+Category: Database/Items/Weapons/Staves
+Item: 
+Celestial Stave
+Binds when picked up
+Two-hand
+Staff
+85 - 129  Damage
+Speed 3.00
+(35.7 damage per second)
++8 Intellect
+Durability 100 / 100
+Classes: Mage
+Equip:
+Increases damage and healing done by magical spells and effects by up to 22.
+
+
+Item #9527
+URL: https://database.turtle-wow.org/?item=9527
+Category: Database/Items/Weapons/Staves
+Item: 
+Spellshifter Rod
+Binds when picked up
+Two-hand
+Staff
+77 - 116  Damage
+Speed 2.70
+(35.7 damage per second)
++6 Stamina
++16 Intellect
+Durability 85 / 85
+
+
+Item #9603
+URL: https://database.turtle-wow.org/?item=9603
+Category: Database/Items/Weapons/Staves
+Item: 
+Gritroot Staff
+Binds when picked up
+Two-hand
+Staff
+14 - 22  Damage
+Speed 2.60
+(6.9 damage per second)
++1 Stamina
+Durability 45 / 45
+
+
+Item #9683
+URL: https://database.turtle-wow.org/?item=9683
+Category: Database/Items/Weapons/Staves
+Item: 
+Strength of the Treant
+Binds when picked up
+Two-hand
+Staff
+131 - 197  Damage
+Speed 3.70
+(44.3 damage per second)
++12 Stamina
++24 Intellect
+Durability 100 / 100
+
+
+Item #10627
+URL: https://database.turtle-wow.org/?item=10627
+Category: Database/Items/Weapons/Staves
+Item: 
+Bludgeon of the Grinning Dog
+Binds when equipped
+Two-hand
+Staff
+112 - 168  Damage
+Speed 3.40
+(41.2 damage per second)
+Durability 100 / 100
+Requires Level 42
+Chance on hit:
+Stuns target for 3 sec.
+
+
+Item #10698
+URL: https://database.turtle-wow.org/?item=10698
+Category: Database/Items/Weapons/Staves
+Item: 
+Enchanted Azsharite Felbane Staff
+Binds when picked up
+Two-hand
+Staff
+104 - 157  Damage
+Speed 2.80
+(46.6 damage per second)
+Durability 85 / 85
+Equip:
++78 Attack Power when fighting Demons.
+Use:
+Weakens the servants of Razelikh the Defiler. Must be within close proximity of the target to activate.
+"Carved into the shaft: Rakh'likh"
+
+
+Item #10826
+URL: https://database.turtle-wow.org/?item=10826
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Lore
+Binds when picked up
+Two-hand
+Staff
+92 - 139  Damage
+Speed 3.10
+(37.3 damage per second)
++5 Intellect
++18 Spirit
+Durability 85 / 85
+
+
+Item #10844
+URL: https://database.turtle-wow.org/?item=10844
+Category: Database/Items/Weapons/Staves
+Item: 
+Spire of Hakkar
+Binds when picked up
+Two-hand
+Staff
+126 - 190  Damage
+Speed 3.40
+(46.5 damage per second)
++16 Spirit
++16 Stamina
+Durability 100 / 100
+Requires Level 49
+Equip:
+Increases damage and healing done by magical spells and effects by up to 18.
+
+
+Item #11343
+URL: https://database.turtle-wow.org/?item=11343
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Jeweled Red Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11365
+URL: https://database.turtle-wow.org/?item=11365
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Badass Red Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11424
+URL: https://database.turtle-wow.org/?item=11424
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Wooden Handle Spiral Head
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #11542
+URL: https://database.turtle-wow.org/?item=11542
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Red Feathered
+Binds when picked up
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #11588
+URL: https://database.turtle-wow.org/?item=11588
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Jeweled D01 Green
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11750
+URL: https://database.turtle-wow.org/?item=11750
+Category: Database/Items/Weapons/Staves
+Item: 
+Kindling Stave
+Binds when picked up
+Two-hand
+Staff
+106 - 160  Damage
+Speed 2.90
+(45.9 damage per second)
++13 Spirit
++10 Stamina
++12 Intellect
++10 Fire Resistance
+Durability 100 / 100
+Requires Level 48
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #11857
+URL: https://database.turtle-wow.org/?item=11857
+Category: Database/Items/Weapons/Staves
+Item: 
+Sanctimonial Rod
+Binds when picked up
+Two-hand
+Staff
+88 - 133  Damage
+Speed 3.10
+(35.6 damage per second)
++4 Stamina
++17 Spirit
+Durability 85 / 85
+
+
+Item #11932
+URL: https://database.turtle-wow.org/?item=11932
+Category: Database/Items/Weapons/Staves
+Item: 
+Guiding Stave of Wisdom
+Binds when picked up
+Two-hand
+Staff
+133 - 200  Damage
+Speed 3.30
+(50.5 damage per second)
++10 Spirit
++11 Stamina
++10 Frost Resistance
+Durability 100 / 100
+Requires Level 54
+Equip:
+Increases healing done by spells and effects by up to 53.
+
+
+Item #12182
+URL: https://database.turtle-wow.org/?item=12182
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff of Jordan
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12252
+URL: https://database.turtle-wow.org/?item=12252
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Protection
+Binds when equipped
+Two-hand
+Staff
+66 - 100  Damage
+Speed 3.00
+(27.7 damage per second)
+100 Armor
++6 Fire Resistance
++6 Nature Resistance
++6 Frost Resistance
++6 Shadow Resistance
++6 Arcane Resistance
+Durability 85 / 85
+Requires Level 34
+
+
+Item #12251
+URL: https://database.turtle-wow.org/?item=12251
+Category: Database/Items/Weapons/Staves
+Item: 
+Big Stick
+Binds when equipped
+Two-hand
+Staff
+61 - 93  Damage
+Speed 3.00
+(25.7 damage per second)
++15 Strength
+Durability 85 / 85
+Requires Level 32
+
+
+Item #12329
+URL: https://database.turtle-wow.org/?item=12329
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Crooked Green
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12322
+URL: https://database.turtle-wow.org/?item=12322
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Green Feathered
+Binds when picked up
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12328
+URL: https://database.turtle-wow.org/?item=12328
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, 3 Piece Taped Staff Green
+Two-hand
+Staff
+2 - 3  Damage
+Speed 2.90
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12421
+URL: https://database.turtle-wow.org/?item=12421
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, White Jeweled
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12532
+URL: https://database.turtle-wow.org/?item=12532
+Category: Database/Items/Weapons/Staves
+Item: 
+Spire of the Stoneshaper
+Binds when equipped
+Two-hand
+Staff
+131 - 197  Damage
+Speed 3.40
+(48.2 damage per second)
++20 Stamina
++17 Intellect
+Durability 100 / 100
+Requires Level 51
+Use:
+Increases armor by 1000 for 10 sec but cannot cast spells or attack for the duration of the spell.
+
+
+Item #12591
+URL: https://database.turtle-wow.org/?item=12591
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Holy Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12937
+URL: https://database.turtle-wow.org/?item=12937
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Basic Red
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12943
+URL: https://database.turtle-wow.org/?item=12943
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, 3 Piece Taped Staff Red
+Two-hand
+Staff
+2 - 3  Damage
+Speed 2.90
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12959
+URL: https://database.turtle-wow.org/?item=12959
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Demon Skull Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13000
+URL: https://database.turtle-wow.org/?item=13000
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Hale Magefire
+Binds when equipped
+Two-hand
+Staff
+140 - 210  Damage
+Speed 3.30
+(53.0 damage per second)
++22 Spirit
++25 Intellect
+Durability 100 / 100
+Requires Level 57
+
+
+Item #13050
+URL: https://database.turtle-wow.org/?item=13050
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Jeweled Staff - Red
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13069
+URL: https://database.turtle-wow.org/?item=13069
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, D01 Flaming Red
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13061
+URL: https://database.turtle-wow.org/?item=13061
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Green Crystal Sphere
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13078
+URL: https://database.turtle-wow.org/?item=13078
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Pointed Red Crystal
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13161
+URL: https://database.turtle-wow.org/?item=13161
+Category: Database/Items/Weapons/Staves
+Item: 
+Trindlehaven Staff
+Binds when picked up
+Two-hand
+Staff
+87 - 132  Damage
+Speed 2.10
+(52.1 damage per second)
++25 Intellect
++12 Stamina
+Durability 100 / 100
+Requires Level 56
+Equip:
+Increases damage and healing done by magical spells and effects by up to 14.
+
+
+Item #13249
+URL: https://database.turtle-wow.org/?item=13249
+Category: Database/Items/Weapons/Staves
+Item: 
+Argent Crusader
+Binds when picked up
+Two-hand
+Staff
+127 - 191  Damage
+Speed 3.00
+(53.0 damage per second)
++30 Intellect
++6 Stamina
++10 Spirit
+Durability 100 / 100
+
+
+Item #13339
+URL: https://database.turtle-wow.org/?item=13339
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Feathered Silver
+Binds when picked up
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #13336
+URL: https://database.turtle-wow.org/?item=13336
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Feathered Black
+Binds when picked up
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #13337
+URL: https://database.turtle-wow.org/?item=13337
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Feathered Gold
+Binds when picked up
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #13338
+URL: https://database.turtle-wow.org/?item=13338
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Feathered Invert
+Binds when picked up
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #13372
+URL: https://database.turtle-wow.org/?item=13372
+Category: Database/Items/Weapons/Staves
+Item: 
+Slavedriver's Cane
+Binds when picked up
+Two-hand
+Staff
+160 - 241  Damage
+Speed 3.90
+(51.4 damage per second)
++29 Strength
++12 Stamina
+Durability 100 / 100
+Requires Level 55
+
+
+Item #13622
+URL: https://database.turtle-wow.org/?item=13622
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, D01 Circling Black Skull
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13698
+URL: https://database.turtle-wow.org/?item=13698
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Warlock Staff Black Glow Low
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13709
+URL: https://database.turtle-wow.org/?item=13709
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff Green Sphere Glowing
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13705
+URL: https://database.turtle-wow.org/?item=13705
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Yellow Jeweled with Low Purple Glow
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13720
+URL: https://database.turtle-wow.org/?item=13720
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Feathered Invert - Glow Black High
+Binds when picked up
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #13723
+URL: https://database.turtle-wow.org/?item=13723
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Wood w/ Spiral Head White Low Purple Glow
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #13722
+URL: https://database.turtle-wow.org/?item=13722
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Demon Skull Staff Low Purple Flame
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13721
+URL: https://database.turtle-wow.org/?item=13721
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Wooden Handle Spiral Head White
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #13750
+URL: https://database.turtle-wow.org/?item=13750
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Jeweled Blue Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13753
+URL: https://database.turtle-wow.org/?item=13753
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Jeweled Green Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13751
+URL: https://database.turtle-wow.org/?item=13751
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Jeweled Yellow Staff
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13823
+URL: https://database.turtle-wow.org/?item=13823
+Category: Database/Items/Weapons/Staves
+Item: 
+Stout War Staff
+Two-hand
+Staff
+59 - 89  Damage
+Speed 3.10
+(23.9 damage per second)
+Durability 85 / 85
+Requires Level 46
+
+
+Item #13937
+URL: https://database.turtle-wow.org/?item=13937
+Category: Database/Items/Weapons/Staves
+Item: 
+Headmaster's Charge
+Binds when picked up
+Two-hand
+Staff
+135 - 204  Damage
+Speed 2.90
+(58.4 damage per second)
++30 Stamina
++20 Spirit
+Durability 120 / 120
+Requires Level 57
+Use:
+Gives 20 additional intellect to party members within 30 yards.
+
+
+Item #14083
+URL: https://database.turtle-wow.org/?item=14083
+Category: Database/Items/Weapons/Staves
+Item: 
+Tyrande's Staff
+Two-hand
+Staff
+4 - 6  Damage
+Speed 2.40
+(2.1 damage per second)
+Durability 30 / 30
+
+
+Item #14092
+URL: https://database.turtle-wow.org/?item=14092
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Holy Staff Archbishop Benedictus
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14392
+URL: https://database.turtle-wow.org/?item=14392
+Category: Database/Items/Weapons/Staves
+Item: 
+Durability Staff
+Two-hand
+Staff
+2 - 3  Damage
+Speed 2.80
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #14618
+URL: https://database.turtle-wow.org/?item=14618
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Jeweled Red Staff Low Red Flame
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14707
+URL: https://database.turtle-wow.org/?item=14707
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, 3 Piece Taped Staff Blue
+Two-hand
+Staff
+2 - 3  Damage
+Speed 2.90
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #14706
+URL: https://database.turtle-wow.org/?item=14706
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, 3 Piece Taped Staff Purple
+Two-hand
+Staff
+2 - 3  Damage
+Speed 2.90
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #14836
+URL: https://database.turtle-wow.org/?item=14836
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Jeweled Staff - Purple
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14837
+URL: https://database.turtle-wow.org/?item=14837
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Jeweled Staff - Purple Low Purple Glow
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14845
+URL: https://database.turtle-wow.org/?item=14845
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Wooden Handle Rounded Head Low Yellow Glow
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #14873
+URL: https://database.turtle-wow.org/?item=14873
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Jeweled Staff - Blue
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #15106
+URL: https://database.turtle-wow.org/?item=15106
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Dar'Orahil
+Binds when picked up
+Two-hand
+Staff
+62 - 94  Damage
+Speed 2.70
+(28.9 damage per second)
++6 Intellect
++3 Stamina
+Durability 85 / 85
+Classes: Warlock
+Equip:
+Increases damage done by Shadow spells and effects by up to 19.
+
+
+Item #15105
+URL: https://database.turtle-wow.org/?item=15105
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Noh'Orahil
+Binds when picked up
+Two-hand
+Staff
+62 - 94  Damage
+Speed 2.70
+(28.9 damage per second)
++6 Intellect
++3 Stamina
+Durability 85 / 85
+Classes: Warlock
+Equip:
+Increases damage done by Fire spells and effects by up to 19.
+
+
+Item #15109
+URL: https://database.turtle-wow.org/?item=15109
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Soran'ruk
+Binds when picked up
+Two-hand
+Staff
+39 - 59  Damage
+Speed 2.90
+(16.9 damage per second)
+Durability 75 / 75
+Classes: Warlock
+Equip:
+Increases damage done by Shadow spells and effects by up to 9.
+Equip:
+Increases damage done by Fire spells and effects by up to 9.
+
+
+Item #15278
+URL: https://database.turtle-wow.org/?item=15278
+Category: Database/Items/Weapons/Staves
+Item: 
+Solstice Staff
+Binds when equipped
+Two-hand
+Staff
+97 - 146  Damage
+Speed 2.60
+(46.7 damage per second)
+Durability 85 / 85
+Requires Level 55
+Random Bonuses
+
+
+Item #15275
+URL: https://database.turtle-wow.org/?item=15275
+Category: Database/Items/Weapons/Staves
+Item: 
+Thaumaturgist Staff
+Binds when equipped
+Two-hand
+Staff
+120 - 181  Damage
+Speed 3.60
+(41.8 damage per second)
+Durability 85 / 85
+Requires Level 49
+Random Bonuses
+
+
+Item #15276
+URL: https://database.turtle-wow.org/?item=15276
+Category: Database/Items/Weapons/Staves
+Item: 
+Magus Long Staff
+Binds when equipped
+Two-hand
+Staff
+122 - 184  Damage
+Speed 3.40
+(45.0 damage per second)
+Durability 85 / 85
+Requires Level 53
+Random Bonuses
+
+
+Item #15274
+URL: https://database.turtle-wow.org/?item=15274
+Category: Database/Items/Weapons/Staves
+Item: 
+Diviner Long Staff
+Binds when equipped
+Two-hand
+Staff
+84 - 126  Damage
+Speed 2.60
+(40.4 damage per second)
+Durability 85 / 85
+Requires Level 47
+Random Bonuses
+
+
+Item #15397
+URL: https://database.turtle-wow.org/?item=15397
+Category: Database/Items/Weapons/Staves
+Item: 
+Oakthrush Staff
+Binds when picked up
+Two-hand
+Staff
+21 - 32  Damage
+Speed 2.80
+(9.5 damage per second)
++2 Stamina
++2 Intellect
+Durability 50 / 50
+
+
+Item #15444
+URL: https://database.turtle-wow.org/?item=15444
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Orgrimmar
+Binds when picked up
+Two-hand
+Staff
+31 - 47  Damage
+Speed 3.30
+(11.8 damage per second)
++2 Spirit
++4 Intellect
+Durability 60 / 60
+
+
+Item #15854
+URL: https://database.turtle-wow.org/?item=15854
+Category: Database/Items/Weapons/Staves
+Item: 
+Dancing Sliver
+Binds when picked up
+Two-hand
+Staff
+98 - 148  Damage
+Speed 2.40
+(51.3 damage per second)
++29 Spirit
++12 Intellect
+Durability 100 / 100
+
+
+Item #16889
+URL: https://database.turtle-wow.org/?item=16889
+Category: Database/Items/Weapons/Staves
+Item: 
+Polished Walking Staff
+Binds when picked up
+Two-hand
+Staff
+33 - 50  Damage
+Speed 2.60
+(16.0 damage per second)
++7 Intellect
++3 Stamina
+Durability 75 / 75
+
+
+Item #16894
+URL: https://database.turtle-wow.org/?item=16894
+Category: Database/Items/Weapons/Staves
+Item: 
+Clear Crystal Rod
+Binds when picked up
+Two-hand
+Staff
+34 - 51  Damage
+Speed 3.10
+(13.7 damage per second)
++5 Intellect
++4 Stamina
+Durability 65 / 65
+
+
+Item #17004
+URL: https://database.turtle-wow.org/?item=17004
+Category: Database/Items/Weapons/Staves
+Item: 
+Sarah's Guide
+Binds when picked up
+Two-hand
+Staff
+94 - 142  Damage
+Speed 2.50
+(47.2 damage per second)
++20 Stamina
++15 Intellect
+Durability 85 / 85
+
+
+Item #17113
+URL: https://database.turtle-wow.org/?item=17113
+Category: Database/Items/Weapons/Staves
+Item: 
+Amberseal Keeper
+Binds when picked up
+Two-hand
+Staff
+144.9 - 228.9  Damage
+Speed 3.30
+(56.6 damage per second)
++20 Intellect
++5 Fire Resistance
++5 Nature Resistance
++5 Frost Resistance
++5 Shadow Resistance
++5 Arcane Resistance
+Durability 120 / 120
+Requires Level 60
+Equip:
+Restores 12 mana per 5 sec.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 44.
+
+
+Item #17743
+URL: https://database.turtle-wow.org/?item=17743
+Category: Database/Items/Weapons/Staves
+Item: 
+Resurgence Rod
+Binds when picked up
+Two-hand
+Staff
+139 - 209  Damage
+Speed 3.80
+(45.8 damage per second)
+Durability 100 / 100
+Equip:
+Restores 8 mana per 5 sec.
+Equip:
+Restores 5 health every 5 sec.
+
+
+Item #18082
+URL: https://database.turtle-wow.org/?item=18082
+Category: Database/Items/Weapons/Staves
+Item: 
+Zum'rah's Vexing Cane
+Binds when picked up
+Unique
+Two-hand
+Staff
+88 - 133  Damage
+Speed 2.70
+(40.9 damage per second)
++10 Intellect
++10 Stamina
+Durability 100 / 100
+Requires Level 42
+Equip:
+Increases damage and healing done by magical spells and effects by up to 21.
+
+
+Item #18123
+URL: https://database.turtle-wow.org/?item=18123
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Feathered Silver Glow
+Binds when picked up
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #18122
+URL: https://database.turtle-wow.org/?item=18122
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #18311
+URL: https://database.turtle-wow.org/?item=18311
+Category: Database/Items/Weapons/Staves
+Item: 
+Quel'dorei Channeling Rod
+Binds when picked up
+Two-hand
+Staff
+111 - 167  Damage
+Speed 2.80
+(49.6 damage per second)
++18 Intellect
++8 Stamina
++8 Spirit
+Durability 100 / 100
+Requires Level 53
+Equip:
+Restores 8 mana per 5 sec.
+
+
+Item #18353
+URL: https://database.turtle-wow.org/?item=18353
+Category: Database/Items/Weapons/Staves
+Item: 
+Stoneflower Staff
+Binds when picked up
+Two-hand
+Staff
+113 - 171  Damage
+Speed 3.00
+(47.3 damage per second)
++24 Intellect
+Durability 85 / 85
+Requires Level 56
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #18534
+URL: https://database.turtle-wow.org/?item=18534
+Category: Database/Items/Weapons/Staves
+Item: 
+Rod of the Ogre Magi
+Binds when picked up
+Two-hand
+Staff
+116 - 175  Damage
+Speed 2.70
+(53.9 damage per second)
++14 Intellect
++11 Stamina
++7 Spirit
+Durability 100 / 100
+Requires Level 58
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 23.
+
+
+Item #18608
+URL: https://database.turtle-wow.org/?item=18608
+Category: Database/Items/Weapons/Staves
+Item: 
+Benediction
+Binds when picked up
+Unique
+Two-hand
+Staff
+134 - 222  Damage
+Speed 3.00
+(59.3 damage per second)
++31 Intellect
++10 Stamina
++12 Spirit
++20 Shadow Resistance
+Durability 120 / 120
+Classes: Priest
+Requires Level 60
+Use:
+Calls forth Anathema.
+Equip:
+Increases the critical effect chance of your Holy spells by 2%.
+Equip:
+Increases healing done by spells and effects by up to 106.
+Equip:
+Increases damage done by Holy spells and effects by up to 69.
+
+
+Item #18609
+URL: https://database.turtle-wow.org/?item=18609
+Category: Database/Items/Weapons/Staves
+Item: 
+Anathema
+Binds when picked up
+Unique
+Two-hand
+Staff
+134 - 222  Damage
+Speed 3.00
+(59.3 damage per second)
++31 Intellect
++22 Stamina
++20 Shadow Resistance
+Durability 120 / 120
+Classes: Priest
+Requires Level 60
+Use:
+Calls forth Benediction.
+Equip:
+Restores 7 mana per 5 sec.
+Equip:
+Increases damage done by Shadow spells and effects by up to 69.
+
+
+Item #18644
+URL: https://database.turtle-wow.org/?item=18644
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ornate Jeweled Staff - Red Low Red Flame
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #18715
+URL: https://database.turtle-wow.org/?item=18715
+Category: Database/Items/Weapons/Staves
+Item: 
+Lok'delar, Stave of the Ancient Keepers
+Binds when picked up
+Unique
+Two-hand
+Staff
+187 - 282  Damage
+Speed 3.20
+(73.3 damage per second)
++26 Stamina
++15 Intellect
++10 Nature Resistance
+Durability 120 / 120
+Classes: Hunter
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 2%.
+Equip:
++45 Attack Power when fighting Demons.
+
+
+Item #18842
+URL: https://database.turtle-wow.org/?item=18842
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Dominance
+Binds when picked up
+Two-hand
+Staff
+126 - 205  Damage
+Speed 2.90
+(57.1 damage per second)
++34 Intellect
++16 Stamina
++14 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 53.
+
+
+Item #18874
+URL: https://database.turtle-wow.org/?item=18874
+Category: Database/Items/Weapons/Staves
+Item: 
+High Warlord's War Staff
+Binds when picked up
+Two-hand
+Staff
+138 - 231  Damage
+Speed 3.00
+(61.5 damage per second)
++43 Stamina
++25 Intellect
++19 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 95.
+
+
+Item #18873
+URL: https://database.turtle-wow.org/?item=18873
+Category: Database/Items/Weapons/Staves
+Item: 
+Grand Marshal's Stave
+Binds when picked up
+Two-hand
+Staff
+138 - 231  Damage
+Speed 3.00
+(61.5 damage per second)
++43 Stamina
++25 Intellect
++19 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 95.
+
+
+Item #19101
+URL: https://database.turtle-wow.org/?item=19101
+Category: Database/Items/Weapons/Staves
+Item: 
+Whiteout Staff
+Binds when picked up
+Unique
+Two-hand
+Staff
+138 - 207  Damage
+Speed 3.10
+(55.6 damage per second)
++16 Intellect
++25 Stamina
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 15.
+
+
+Item #19102
+URL: https://database.turtle-wow.org/?item=19102
+Category: Database/Items/Weapons/Staves
+Item: 
+Crackling Staff
+Binds when picked up
+Unique
+Two-hand
+Staff
+138 - 207  Damage
+Speed 3.10
+(55.6 damage per second)
++16 Intellect
++25 Stamina
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 15.
+
+
+Item #19214
+URL: https://database.turtle-wow.org/?item=19214
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Wooden Handle Spiral Head Dark
+Two-hand
+Staff
+2 - 4  Damage
+Speed 3.40
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #19356
+URL: https://database.turtle-wow.org/?item=19356
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Shadow Flame
+Binds when picked up
+Two-hand
+Staff
+141.8 - 247.8  Damage
+Speed 3.20
+(60.9 damage per second)
++29 Intellect
++24 Stamina
++18 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 2%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 84.
+
+
+Item #19355
+URL: https://database.turtle-wow.org/?item=19355
+Category: Database/Items/Weapons/Staves
+Item: 
+Shadow Wing Focus Staff
+Binds when picked up
+Two-hand
+Staff
+142.2 - 237.2  Damage
+Speed 3.20
+(59.3 damage per second)
++32 Intellect
++22 Stamina
++17 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 72.
+
+
+Item #19568
+URL: https://database.turtle-wow.org/?item=19568
+Category: Database/Items/Weapons/Staves
+Item: 
+Advisor's Gnarled Staff
+Binds when picked up
+Two-hand
+Staff
+88 - 133  Damage
+Speed 2.90
+(38.1 damage per second)
++14 Stamina
++9 Intellect
+Durability 100 / 100
+Requires Level 38
+Equip:
+Restores 6 mana per 5 sec.
+
+
+Item #19567
+URL: https://database.turtle-wow.org/?item=19567
+Category: Database/Items/Weapons/Staves
+Item: 
+Advisor's Gnarled Staff
+Binds when picked up
+Two-hand
+Staff
+106 - 160  Damage
+Speed 2.90
+(45.9 damage per second)
++18 Stamina
++11 Intellect
+Durability 100 / 100
+Requires Level 48
+Equip:
+Restores 7 mana per 5 sec.
+
+
+Item #19570
+URL: https://database.turtle-wow.org/?item=19570
+Category: Database/Items/Weapons/Staves
+Item: 
+Lorekeeper's Staff
+Binds when picked up
+Two-hand
+Staff
+125 - 188  Damage
+Speed 2.90
+(54.0 damage per second)
++21 Stamina
++10 Intellect
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 32.
+
+
+Item #19569
+URL: https://database.turtle-wow.org/?item=19569
+Category: Database/Items/Weapons/Staves
+Item: 
+Advisor's Gnarled Staff
+Binds when picked up
+Two-hand
+Staff
+64 - 97  Damage
+Speed 2.90
+(27.8 damage per second)
++11 Stamina
++7 Intellect
+Durability 100 / 100
+Requires Level 28
+Equip:
+Restores 4 mana per 5 sec.
+
+
+Item #19566
+URL: https://database.turtle-wow.org/?item=19566
+Category: Database/Items/Weapons/Staves
+Item: 
+Advisor's Gnarled Staff
+Binds when picked up
+Two-hand
+Staff
+125 - 188  Damage
+Speed 2.90
+(54.0 damage per second)
++21 Stamina
++10 Intellect
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 32.
+
+
+Item #19573
+URL: https://database.turtle-wow.org/?item=19573
+Category: Database/Items/Weapons/Staves
+Item: 
+Lorekeeper's Staff
+Binds when picked up
+Two-hand
+Staff
+64 - 97  Damage
+Speed 2.90
+(27.8 damage per second)
++11 Stamina
++7 Intellect
+Durability 100 / 100
+Requires Level 28
+Equip:
+Restores 4 mana per 5 sec.
+
+
+Item #19571
+URL: https://database.turtle-wow.org/?item=19571
+Category: Database/Items/Weapons/Staves
+Item: 
+Lorekeeper's Staff
+Binds when picked up
+Two-hand
+Staff
+106 - 160  Damage
+Speed 2.90
+(45.9 damage per second)
++18 Stamina
++11 Intellect
+Durability 100 / 100
+Requires Level 48
+Equip:
+Restores 7 mana per 5 sec.
+
+
+Item #19572
+URL: https://database.turtle-wow.org/?item=19572
+Category: Database/Items/Weapons/Staves
+Item: 
+Lorekeeper's Staff
+Binds when picked up
+Two-hand
+Staff
+88 - 133  Damage
+Speed 2.90
+(38.1 damage per second)
++14 Stamina
++9 Intellect
+Durability 100 / 100
+Requires Level 38
+Equip:
+Restores 6 mana per 5 sec.
+
+
+Item #19884
+URL: https://database.turtle-wow.org/?item=19884
+Category: Database/Items/Weapons/Staves
+Item: 
+Jin'do's Judgement
+Binds when picked up
+Two-hand
+Staff
+143.55 - 226.55  Damage
+Speed 3.30
+(56.1 damage per second)
++10 Intellect
++10 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to hit with spells by 2%.
+Equip:
+Restores 14 mana per 5 sec.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 27.
+
+
+Item #19909
+URL: https://database.turtle-wow.org/?item=19909
+Category: Database/Items/Weapons/Staves
+Item: 
+Will of Arlokk
+Binds when picked up
+Unique
+Two-hand
+Staff
+129 - 204  Damage
+Speed 3.00
+(55.5 damage per second)
++35 Spirit
++19 Intellect
++15 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 46.
+
+
+Item #19944
+URL: https://database.turtle-wow.org/?item=19944
+Category: Database/Items/Weapons/Staves
+Item: 
+Nat Pagle's Fish Terminator
+Binds when picked up
+Unique
+Two-hand
+Staff
+172 - 258  Damage
+Speed 3.50
+(61.4 damage per second)
++41 Strength
++19 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++70 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+"The inscription reads: Fishin's fer sissies -Nat Pagle"
+
+
+Item #20069
+URL: https://database.turtle-wow.org/?item=20069
+Category: Database/Items/Weapons/Staves
+Item: 
+Ironbark Staff
+Binds when picked up
+Two-hand
+Staff
+136.62 - 242.62  Damage
+Speed 3.40
+(55.8 damage per second)
+200 Armor
++10 Intellect
++28 Stamina
+Durability 120 / 120
+Requires Level 60
+Requires The League of Arathor - Exalted
+Equip:
+Improves your chance to get a critical strike with spells by 2%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 53.
+
+
+Item #20220
+URL: https://database.turtle-wow.org/?item=20220
+Category: Database/Items/Weapons/Staves
+Item: 
+Ironbark Staff
+Binds when picked up
+Two-hand
+Staff
+136.62 - 242.62  Damage
+Speed 3.40
+(55.8 damage per second)
+200 Armor
++10 Intellect
++28 Stamina
+Durability 120 / 120
+Requires Level 60
+Requires The Defilers - Exalted
+Equip:
+Improves your chance to get a critical strike with spells by 2%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 53.
+
+
+Item #20258
+URL: https://database.turtle-wow.org/?item=20258
+Category: Database/Items/Weapons/Staves
+Item: 
+Zulian Ceremonial Staff
+Binds when equipped
+Unique
+Two-hand
+Staff
+112.4 - 171.4  Damage
+Speed 2.60
+(54.6 damage per second)
++16 Intellect
++13 Stamina
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 32.
+
+
+Item #20349
+URL: https://database.turtle-wow.org/?item=20349
+Category: Database/Items/Weapons/Staves
+Item: 
+90 Green Frost Staff
+Binds when picked up
+Two-hand
+Staff
+167 - 251  Damage
+Speed 2.70
+(77.4 damage per second)
++28 Intellect
++27 Stamina
+Durability 85 / 85
+Requires Level 60
+Equip:
+Increases damage done by Frost spells and effects by up to 72.
+
+
+Item #20362
+URL: https://database.turtle-wow.org/?item=20362
+Category: Database/Items/Weapons/Staves
+Item: 
+63 Green Frost Staff
+Binds when picked up
+Two-hand
+Staff
+105 - 159  Damage
+Speed 2.70
+(48.9 damage per second)
++19 Intellect
+Durability 85 / 85
+Requires Level 58
+Equip:
+Increases damage done by Frost spells and effects by up to 26.
+
+
+Item #20425
+URL: https://database.turtle-wow.org/?item=20425
+Category: Database/Items/Weapons/Staves
+Item: 
+Advisor's Gnarled Staff
+Binds when picked up
+Two-hand
+Staff
+45 - 69  Damage
+Speed 2.90
+(19.7 damage per second)
++8 Stamina
++4 Intellect
+Durability 80 / 80
+Requires Level 18
+Equip:
+Restores 3 mana per 5 sec.
+
+
+Item #20434
+URL: https://database.turtle-wow.org/?item=20434
+Category: Database/Items/Weapons/Staves
+Item: 
+Lorekeeper's Staff
+Binds when picked up
+Two-hand
+Staff
+45 - 69  Damage
+Speed 2.90
+(19.7 damage per second)
++8 Stamina
++4 Intellect
+Durability 80 / 80
+Requires Level 18
+Equip:
+Restores 3 mana per 5 sec.
+
+
+Item #20487
+URL: https://database.turtle-wow.org/?item=20487
+Category: Database/Items/Weapons/Staves
+Item: 
+Lok'delar, Stave of the Ancient Keepers DEP
+Binds when picked up
+Unique
+Two-hand
+Staff
+187 - 282  Damage
+Speed 3.20
+(73.3 damage per second)
++26 Stamina
++15 Intellect
++10 Nature Resistance
+Durability 120 / 120
+Classes: Hunter
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 2%.
+Equip:
++45 Attack Power when fighting Demons.
+
+
+Item #20522
+URL: https://database.turtle-wow.org/?item=20522
+Category: Database/Items/Weapons/Staves
+Item: 
+Feral Staff
+Binds when picked up
+Unique
+Two-hand
+Staff
+108 - 162  Damage
+Speed 3.00
+(45.0 damage per second)
+110 Armor
++17 Strength
++16 Agility
+Durability 100 / 100
+
+
+Item #20536
+URL: https://database.turtle-wow.org/?item=20536
+Category: Database/Items/Weapons/Staves
+Item: 
+Soul Harvester
+Binds when picked up
+Two-hand
+Staff
+118 - 178  Damage
+Speed 3.30
+(44.8 damage per second)
++16 Stamina
+Durability 100 / 100
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Increases damage done by Shadow spells and effects by up to 24.
+
+
+Item #20556
+URL: https://database.turtle-wow.org/?item=20556
+Category: Database/Items/Weapons/Staves
+Item: 
+Wildstaff
+Binds when picked up
+Two-hand
+Staff
+90 - 135  Damage
+Speed 2.50
+(45.0 damage per second)
++10 Strength
++9 Intellect
++10 Stamina
+Durability 100 / 100
+Equip:
+Improves your chance to hit by 1%.
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #20581
+URL: https://database.turtle-wow.org/?item=20581
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Rampant Growth
+Binds when picked up
+Unique
+Two-hand
+Staff
+113.4 - 184.4  Damage
+Speed 2.60
+(57.3 damage per second)
++16 Intellect
++12 Stamina
++20 Nature Resistance
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 90.
+Equip:
+Restores 12 mana per 5 sec.
+
+
+Item #20654
+URL: https://database.turtle-wow.org/?item=20654
+Category: Database/Items/Weapons/Staves
+Item: 
+Amethyst War Staff
+Binds when picked up
+Two-hand
+Staff
+119 - 179  Damage
+Speed 2.90
+(51.4 damage per second)
++9 Intellect
++6 Stamina
+Durability 100 / 100
+Requires Level 55
+Equip:
+Increases damage and healing done by magical spells and effects by up to 34.
+
+
+Item #20718
+URL: https://database.turtle-wow.org/?item=20718
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Jeweled Yellow Staff w/Low Purple Glow
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #20719
+URL: https://database.turtle-wow.org/?item=20719
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Jeweled D01/B02 Yellow w/Low Red Flame
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #20724
+URL: https://database.turtle-wow.org/?item=20724
+Category: Database/Items/Weapons/Staves
+Item: 
+Corrupted Blackwood Staff
+Binds when picked up
+Unique
+Two-hand
+Staff
+131 - 197  Damage
+Speed 3.40
+(48.2 damage per second)
++11 Stamina
+Durability 85 / 85
+Equip:
+Increases damage and healing done by magical spells and effects by up to 26.
+
+
+Item #21128
+URL: https://database.turtle-wow.org/?item=21128
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Qiraji Prophets
+Binds when picked up
+Two-hand
+Staff
+129.4 - 214.4  Damage
+Speed 2.90
+(59.3 damage per second)
++22 Intellect
++21 Stamina
++8 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 72.
+Equip:
+Gives a chance when your harmful spells land to increase your spell hit chance by 3% for 8 sec.
+Equip:
++10 All Resistances.
+
+
+Item #21273
+URL: https://database.turtle-wow.org/?item=21273
+Category: Database/Items/Weapons/Staves
+Item: 
+Blessed Qiraji Acolyte Staff
+Binds when picked up
+Unique
+Two-hand
+Staff
+132 - 227  Damage
+Speed 3.00
+(59.8 damage per second)
++33 Intellect
++32 Stamina
+Durability 120 / 120
+Equip:
+Increases damage and healing done by magical spells and effects by up to 76.
+Equip:
+Improves your chance to hit with spells by 2%.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+"The weapon is infused and reinforced with Elementium."
+
+
+Item #21275
+URL: https://database.turtle-wow.org/?item=21275
+Category: Database/Items/Weapons/Staves
+Item: 
+Blessed Qiraji Augur Staff
+Binds when picked up
+Unique
+Two-hand
+Staff
+132 - 227  Damage
+Speed 3.00
+(59.8 damage per second)
++24 Intellect
++23 Stamina
+Durability 120 / 120
+Equip:
+Increases healing done by spells and effects by up to 143.
+Equip:
+Restores 15 mana per 5 sec.
+"The weapon is infused and reinforced with Elementium."
+
+
+Item #21452
+URL: https://database.turtle-wow.org/?item=21452
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Ruins
+Binds when picked up
+Two-hand
+Staff
+151.6 - 246.6  Damage
+Speed 3.40
+(58.6 damage per second)
++23 Intellect
++24 Stamina
++14 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 60.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #21795
+URL: https://database.turtle-wow.org/?item=21795
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Ahn'Qiraj
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #22335
+URL: https://database.turtle-wow.org/?item=22335
+Category: Database/Items/Weapons/Staves
+Item: 
+Lord Valthalak's Staff of Command
+Binds when picked up
+Two-hand
+Staff
+90 - 136  Damage
+Speed 2.10
+(53.8 damage per second)
++11 Stamina
++10 Intellect
+Durability 100 / 100
+Requires Level 58
+Equip:
+Increases damage and healing done by magical spells and effects by up to 30.
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #22394
+URL: https://database.turtle-wow.org/?item=22394
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Metanoia
+Binds when picked up
+Two-hand
+Staff
+89 - 134  Damage
+Speed 2.10
+(53.1 damage per second)
++15 Intellect
++15 Stamina
++13 Spirit
+Durability 100 / 100
+Requires Level 57
+Equip:
+Increases healing done by spells and effects by up to 35.
+
+
+Item #22391
+URL: https://database.turtle-wow.org/?item=22391
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff, Lord Valthalak
+Binds when picked up
+Two-hand
+Staff
+90 - 136  Damage
+Speed 2.10
+(53.8 damage per second)
+Durability 100 / 100
+Requires Level 58
+Equip:
+Increases damage and healing done by magical spells and effects by up to 35.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #22406
+URL: https://database.turtle-wow.org/?item=22406
+Category: Database/Items/Weapons/Staves
+Item: 
+Redemption
+Binds when picked up
+Two-hand
+Staff
+87 - 132  Damage
+Speed 2.10
+(52.1 damage per second)
++12 Spirit
+Durability 100 / 100
+Requires Level 56
+Equip:
+Increases healing done by spells and effects by up to 66.
+
+
+Item #22458
+URL: https://database.turtle-wow.org/?item=22458
+Category: Database/Items/Weapons/Staves
+Item: 
+Moonshadow Stave
+Binds when picked up
+Two-hand
+Staff
+133 - 200  Damage
+Speed 3.70
+(45.0 damage per second)
+Durability 100 / 100
+Equip:
+Increases damage and healing done by magical spells and effects by up to 18.
+Equip:
+Restores 7 mana per 5 sec.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #22589
+URL: https://database.turtle-wow.org/?item=22589
+Category: Database/Items/Weapons/Staves
+Item: 
+Atiesh, Greatstaff of the Guardian
+Binds when picked up
+Two-hand
+Staff
+130 - 243  Damage
+Speed 2.90
+(64.3 damage per second)
++31 Stamina
++32 Intellect
++24 Spirit
+Durability 145 / 145
+Equip:
+Improves your chance to hit with spells by 2%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 150.
+Equip:
+Increases the spell critical chance of all party members within 30 yards by 2%.
+Use:
+Creates a portal, teleporting group members that use it to Karazhan.
+
+
+Item #22630
+URL: https://database.turtle-wow.org/?item=22630
+Category: Database/Items/Weapons/Staves
+Item: 
+Atiesh, Greatstaff of the Guardian
+Binds when picked up
+Two-hand
+Staff
+130 - 243  Damage
+Speed 2.90
+(64.3 damage per second)
++30 Stamina
++29 Intellect
+Durability 145 / 145
+Equip:
+Improves your chance to get a critical strike with spells by 2%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 150.
+Equip:
+Increases damage and healing done by magical spells and effects of all party members within 30 yards by up to 33.
+Use:
+Creates a portal, teleporting group members that use it to Karazhan.
+
+
+Item #22632
+URL: https://database.turtle-wow.org/?item=22632
+Category: Database/Items/Weapons/Staves
+Item: 
+Atiesh, Greatstaff of the Guardian
+Binds when picked up
+Two-hand
+Staff
+130 - 243  Damage
+Speed 2.90
+(64.3 damage per second)
++28 Stamina
++28 Intellect
++27 Spirit
+Durability 145 / 145
+Equip:
+Increases the attack and casting speed of all party members within 30 yards by 2%.
+Equip:
+Increases your spell damage by up to 150 and your healing by up to 300.
+Equip:
++600 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+Use:
+Creates a portal, teleporting group members that use it to Karazhan.
+
+
+Item #22631
+URL: https://database.turtle-wow.org/?item=22631
+Category: Database/Items/Weapons/Staves
+Item: 
+Atiesh, Greatstaff of the Guardian
+Binds when picked up
+Two-hand
+Staff
+130 - 243  Damage
+Speed 2.90
+(64.3 damage per second)
++28 Stamina
++28 Intellect
++27 Spirit
+Durability 145 / 145
+Equip:
+Increases healing done by magical spells and effects of all party members within 30 yards by up to 62.
+Equip:
+Increases your spell damage by up to 150 and your healing by up to 300.
+Use:
+Creates a portal, teleporting group members that use it to Karazhan.
+
+
+Item #22799
+URL: https://database.turtle-wow.org/?item=22799
+Category: Database/Items/Weapons/Staves
+Item: 
+Soulseeker
+Binds when picked up
+Two-hand
+Staff
+142 - 265  Damage
+Speed 3.20
+(63.6 damage per second)
++30 Stamina
++31 Intellect
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 126.
+Equip:
+Improves your chance to get a critical strike with spells by 2%.
+Equip:
+Decreases the magical resistances of your spell targets by 25.
+
+
+Item #22800
+URL: https://database.turtle-wow.org/?item=22800
+Category: Database/Items/Weapons/Staves
+Item: 
+Brimstone Staff
+Binds when picked up
+Two-hand
+Staff
+140 - 250  Damage
+Speed 3.20
+(60.9 damage per second)
++31 Stamina
++30 Intellect
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to hit with spells by 2%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 113.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #22801
+URL: https://database.turtle-wow.org/?item=22801
+Category: Database/Items/Weapons/Staves
+Item: 
+Spire of Twilight
+Binds when picked up
+Two-hand
+Staff
+140 - 250  Damage
+Speed 3.20
+(60.9 damage per second)
++24 Stamina
++30 Intellect
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases your attack and casting speed by 2%.
+Equip:
+Restores 8 mana per 5 sec.
+Equip:
+Increases healing done by spells and effects by up to 178.
+
+
+Item #23124
+URL: https://database.turtle-wow.org/?item=23124
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Balzaphon
+Binds when picked up
+Two-hand
+Staff
+160 - 241  Damage
+Speed 3.90
+(51.4 damage per second)
++8 Stamina
++10 Intellect
++7 Spirit
+Durability 100 / 100
+Requires Level 55
+Equip:
+Increases damage and healing done by magical spells and effects by up to 29.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #41029
+URL: https://database.turtle-wow.org/?item=41029
+Category: Database/Items/Weapons/Staves
+Item: 
+Shoreman's Staff
+Binds when picked up
+Two-hand
+Staff
+7 - 11  Damage
+Speed 3.30
+(2.7 damage per second)
+Durability 35 / 35
+
+
+Item #41044
+URL: https://database.turtle-wow.org/?item=41044
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Withering Power
+Binds when equipped
+Two-hand
+Staff
+18 - 27  Damage
+Speed 2.70
+(8.3 damage per second)
++4 Intellect
++-2 Stamina
+Durability 50 / 50
+Requires Level 7
+
+
+Item #41110
+URL: https://database.turtle-wow.org/?item=41110
+Category: Database/Items/Weapons/Staves
+Item: 
+Ley-Technician Staff
+Binds when picked up
+Two-hand
+Staff
+7 - 11  Damage
+Speed 3.50
+(2.6 damage per second)
+Durability 35 / 35
+
+
+Item #41315
+URL: https://database.turtle-wow.org/?item=41315
+Category: Database/Items/Weapons/Staves
+Item: 
+Moonlight Staff
+Binds when equipped
+Two-hand
+Staff
+41 - 63  Damage
+Speed 2.80
+(18.6 damage per second)
++7 Intellect
++7 Nature Resistance
+Durability 80 / 80
+Requires Level 23
+
+
+Item #41345
+URL: https://database.turtle-wow.org/?item=41345
+Category: Database/Items/Weapons/Staves
+Item: 
+Royal Gemstone Staff
+Binds when equipped
+Two-hand
+Staff
+69 - 144  Damage
+Speed 3.00
+(35.5 damage per second)
++14 Intellect
+Durability 85 / 85
+Requires Level 41
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #41558
+URL: https://database.turtle-wow.org/?item=41558
+Category: Database/Items/Weapons/Staves
+Item: 
+The Slagbinder
+Binds when picked up
+Two-hand
+Staff
+31 - 84  Damage
+Speed 2.60
+(22.1 damage per second)
++7 Intellect
++7 Strength
+Durability 85 / 85
+Requires Level 27
+Equip:
+Increases damage done by Nature spells and effects by up to 9.
+
+
+Item #41667
+URL: https://database.turtle-wow.org/?item=41667
+Category: Database/Items/Weapons/Staves
+Item: 
+Winter Veil Tree
+Binds when picked up
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #41668
+URL: https://database.turtle-wow.org/?item=41668
+Category: Database/Items/Weapons/Staves
+Item: 
+Winter Shepherd's Cane
+Binds when picked up
+Two-hand
+Staff
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #41790
+URL: https://database.turtle-wow.org/?item=41790
+Category: Database/Items/Weapons/Staves
+Item: 
+Mirefang Staff
+Binds when picked up
+Two-hand
+Staff
+45 - 83  Damage
+Speed 2.80
+(22.9 damage per second)
++14 Intellect
+Durability 85 / 85
+
+
+Item #50527
+URL: https://database.turtle-wow.org/?item=50527
+Category: Database/Items/Weapons/Staves
+Item: 
+Medic's Cane
+Binds when picked up
+Two-hand
+Staff
+57 - 87  Damage
+Speed 2.40
+(30.0 damage per second)
++4 Intellect
++8 Spirit
+Durability 100 / 100
+Classes: Priest, Druid
+Requires Level 30
+Requires Silvermoon Remnant - Honored
+Use:
+Increases healing done by spells and effects by up to 31.
+
+
+Item #50531
+URL: https://database.turtle-wow.org/?item=50531
+Category: Database/Items/Weapons/Staves
+Item: 
+Glyphed Baton
+Binds when picked up
+Two-hand
+Staff
+68 - 108  Damage
+Speed 2.80
+(31.4 damage per second)
+80 Armor
++5 Agility
++13 Stamina
+Durability 100 / 100
+Classes: Warrior, Hunter, Druid
+Requires Silvermoon Remnant - Honored
+
+
+Item #51764
+URL: https://database.turtle-wow.org/?item=51764
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Spreading Twilight
+Binds when equipped
+Two-hand
+Staff
+106 - 160  Damage
+Speed 2.90
+(45.9 damage per second)
++18 Stamina
+Durability 100 / 100
+Requires Level 48
+Equip:
+Increases damage done by Shadow spells and effects by up to 13.
+Equip:
+Restores 7 mana per 5 sec.
+
+
+Item #51833
+URL: https://database.turtle-wow.org/?item=51833
+Category: Database/Items/Weapons/Staves
+Item: 
+Femur Staff
+Binds when picked up
+Two-hand
+Staff
+71 - 107  Damage
+Speed 3.20
+(27.8 damage per second)
++3 Stamina
++4 Intellect
++10 Spirit
+"LEGendary quality."
+
+
+Item #55037
+URL: https://database.turtle-wow.org/?item=55037
+Category: Database/Items/Weapons/Staves
+Item: 
+Gryphon Tamer Longstaff
+Binds when picked up
+Two-hand
+Staff
+115 - 190  Damage
+Speed 3.00
+(50.8 damage per second)
++17 Agility
++12 Stamina
+Durability 100 / 100
+Requires Level 50
+Requires Wildhammer Clan - Honored
+Equip:
++32 Attack Power.
+
+
+Item #55060
+URL: https://database.turtle-wow.org/?item=55060
+Category: Database/Items/Weapons/Staves
+Item: 
+Grandstaff of the Shen'dralar Elder
+Binds when equipped
+Two-hand
+Staff
+144 - 230  Damage
+Speed 3.30
+(56.7 damage per second)
++21 Stamina
++16 Intellect
++18 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 75.
+Equip:
+Your helpful spells have a chance to impart wisdom on your party members within 50 yards, making the next spell they cast cost 25% less mana.
+"The knowledge of ten thousand years courses through this staff."
+
+
+Item #55064
+URL: https://database.turtle-wow.org/?item=55064
+Category: Database/Items/Weapons/Staves
+Item: 
+Ol' Biggin's Substitute Broom
+Binds when picked up
+Two-hand
+Staff
+96 - 150  Damage
+Speed 3.40
+(36.2 damage per second)
++8 Stamina
++8 Strength
++8 Agility
++8 Intellect
++8 Spirit
+Durability 100 / 100
+Requires Level 35
+Requires Ravenholdt - Honored
+"Truly a jack-of-all-trades."
+
+
+Item #55148
+URL: https://database.turtle-wow.org/?item=55148
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Blossomed Jade
+Binds when equipped
+Two-hand
+Staff
+77 - 117  Damage
+Speed 3.10
+(31.3 damage per second)
++12 Intellect
++7 Stamina
+Durability 85 / 85
+Requires Level 31
+
+
+Item #55165
+URL: https://database.turtle-wow.org/?item=55165
+Category: Database/Items/Weapons/Staves
+Item: 
+Small Pearlstone Staff
+Binds when equipped
+Two-hand
+Staff
+25 - 38  Damage
+Speed 3.10
+(10.2 damage per second)
++4 Intellect
++2 Spirit
+Durability 55 / 55
+Requires Level 10
+
+
+Item #55175
+URL: https://database.turtle-wow.org/?item=55175
+Category: Database/Items/Weapons/Staves
+Item: 
+Encrusted Bronze Staff
+Binds when equipped
+Two-hand
+Staff
+39 - 50  Damage
+Speed 2.90
+(15.3 damage per second)
++4 Intellect
++3 Stamina
++5 Spirit
+Durability 70 / 70
+Requires Level 18
+
+
+Item #55240
+URL: https://database.turtle-wow.org/?item=55240
+Category: Database/Items/Weapons/Staves
+Item: 
+Topaz Tempest Rod
+Binds when equipped
+Two-hand
+Staff
+63 - 117  Damage
+Speed 3.20
+(28.1 damage per second)
++12 Stamina
+Durability 85 / 85
+Requires Level 37
+Equip:
+Increases damage done by Arcane spells and effects by up to 16.
+
+
+Item #55238
+URL: https://database.turtle-wow.org/?item=55238
+Category: Database/Items/Weapons/Staves
+Item: 
+Earthen Advisor Cane
+Binds when equipped
+Two-hand
+Staff
+75 - 113  Damage
+Speed 2.80
+(33.6 damage per second)
++8 Intellect
++7 Spirit
+Durability 85 / 85
+Requires Level 39
+Equip:
+Increases damage and healing done by magical spells and effects by up to 13.
+
+
+Item #55239
+URL: https://database.turtle-wow.org/?item=55239
+Category: Database/Items/Weapons/Staves
+Item: 
+Jeweled Magiwand
+Binds when equipped
+Two-hand
+Staff
+46 - 86  Damage
+Speed 2.80
+(23.6 damage per second)
++8 Intellect
++7 Spirit
+Durability 85 / 85
+Requires Level 30
+Equip:
+Increases healing done by spells and effects by up to 15.
+
+
+Item #55242
+URL: https://database.turtle-wow.org/?item=55242
+Category: Database/Items/Weapons/Staves
+Item: 
+Opaline Illuminator
+Binds when equipped
+Two-hand
+Staff
+102 - 148  Damage
+Speed 3.60
+(34.7 damage per second)
++15 Intellect
+Durability 100 / 100
+Requires Level 40
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 11.
+
+
+Item #55241
+URL: https://database.turtle-wow.org/?item=55241
+Category: Database/Items/Weapons/Staves
+Item: 
+Garnet Guardian Stave
+Binds when equipped
+Two-hand
+Staff
+120 - 180  Damage
+Speed 3.50
+(42.9 damage per second)
++9 Intellect
++9 Stamina
+Durability 85 / 85
+Requires Level 51
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 14.
+
+
+Item #55271
+URL: https://database.turtle-wow.org/?item=55271
+Category: Database/Items/Weapons/Staves
+Item: 
+Spellweaver Rod
+Binds when equipped
+Two-hand
+Staff
+118 - 168  Damage
+Speed 3.20
+(44.7 damage per second)
++11 Agility
++11 Intellect
++9 Stamina
++9 Strength
+Durability 85 / 85
+Requires Level 51
+Spellweaver's Accessories
+(0/2)
+Spellweaver Rod
+Spellweaver Pendant
+(2) Set:
++7 Spirit.
+
+
+Item #55272
+URL: https://database.turtle-wow.org/?item=55272
+Category: Database/Items/Weapons/Staves
+Item: 
+Arcanum Baton
+Binds when equipped
+Two-hand
+Staff
+150 - 202  Damage
+Speed 3.60
+(48.9 damage per second)
++16 Agility
++14 Stamina
+Durability 85 / 85
+Requires Level 58
+Equip:
++18 Attack Power.
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #55326
+URL: https://database.turtle-wow.org/?item=55326
+Category: Database/Items/Weapons/Staves
+Item: 
+Serpent's Coil Staff
+Binds when equipped
+Two-hand
+Staff
+32 - 49  Damage
+Speed 2.70
+(15.0 damage per second)
++5 Stamina
++5 Intellect
++3 Spirit
+Durability 75 / 75
+Requires Level 18
+
+
+Item #55328
+URL: https://database.turtle-wow.org/?item=55328
+Category: Database/Items/Weapons/Staves
+Item: 
+Sphinx's Wisdom Staff
+Binds when equipped
+Two-hand
+Staff
+61 - 93  Damage
+Speed 3.00
+(25.7 damage per second)
++14 Agility
++3 Stamina
+Durability 85 / 85
+Requires Level 32
+
+
+Item #55327
+URL: https://database.turtle-wow.org/?item=55327
+Category: Database/Items/Weapons/Staves
+Item: 
+Farraki Ceremony Totem
+Binds when equipped
+Two-hand
+Staff
+65 - 99  Damage
+Speed 3.20
+(25.6 damage per second)
++10 Intellect
++10 Strength
+Durability 100 / 100
+Requires Level 26
+Equip:
+Allows 10% of your Health regeneration to work while in combat.
+
+
+Item #55348
+URL: https://database.turtle-wow.org/?item=55348
+Category: Database/Items/Weapons/Staves
+Item: 
+Kirel'narak, the Death Sentence
+Binds when picked up
+Unique
+Two-hand
+Staff
+140 - 250  Damage
+Speed 3.20
+(60.9 damage per second)
++34 Intellect
++33 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 180.
+Equip:
+Improves your chance to get a critical strike with spells by 2%.
+Equip:
+Restores 9 mana per 5 sec.
+
+
+Item #55366
+URL: https://database.turtle-wow.org/?item=55366
+Category: Database/Items/Weapons/Staves
+Item: 
+Spire of Channeled Power
+Binds when equipped
+Two-hand
+Staff
+125 - 188  Damage
+Speed 2.90
+(54.0 damage per second)
++16 Intellect
++16 Spirit
+Durability 100 / 100
+Requires Level 58
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases healing done by spells and effects by up to 37.
+
+
+Item #55365
+URL: https://database.turtle-wow.org/?item=55365
+Category: Database/Items/Weapons/Staves
+Item: 
+Rudeus' Focusing Cane
+Binds when equipped
+Two-hand
+Staff
+123 - 237  Damage
+Speed 3.20
+(56.3 damage per second)
++15 Stamina
++24 Intellect
++13 Spirit
+Durability 120 / 120
+Requires Level 58
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 33.
+
+
+Item #56052
+URL: https://database.turtle-wow.org/?item=56052
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Gallitrea
+Binds when equipped
+Two-hand
+Staff
+83 - 125  Damage
+Speed 3.20
+(32.5 damage per second)
++6 Stamina
++6 Spirit
+Durability 85 / 85
+Requires Level 38
+Equip:
+Increases damage and healing done by magical spells and effects by up to 16.
+
+
+Item #56071
+URL: https://database.turtle-wow.org/?item=56071
+Category: Database/Items/Weapons/Staves
+Item: 
+Regal Twilight Staff
+Binds when equipped
+Two-hand
+Staff
+91 - 157  Damage
+Speed 2.80
+(44.3 damage per second)
++12 Intellect
++13 Stamina
+Durability 100 / 100
+Requires Level 46
+Equip:
+Increases damage done by Shadow spells and effects by up to 26.
+
+
+Item #58014
+URL: https://database.turtle-wow.org/?item=58014
+Category: Database/Items/Weapons/Staves
+Item: 
+Scolding Rod
+Binds when picked up
+Two-hand
+Staff
+61 - 93  Damage
+Speed 3.00
+(25.7 damage per second)
++10 Strength
++7 Spirit
+Durability 85 / 85
+Chance on hit:
+Inflicts normal damage plus 1 to an enemy, stunning it for 2 sec.
+
+
+Item #58044
+URL: https://database.turtle-wow.org/?item=58044
+Category: Database/Items/Weapons/Staves
+Item: 
+Ceremonial Dwarven Staff
+Binds when picked up
+Two-hand
+Staff
+75 - 108  Damage
+Speed 3.30
+(27.7 damage per second)
++14 Agility
++5 Spirit
+Durability 100 / 100
+Requires Level 28
+Equip:
++15 Attack Power.
+
+
+Item #58054
+URL: https://database.turtle-wow.org/?item=58054
+Category: Database/Items/Weapons/Staves
+Item: 
+Scepter of Nazjatar
+Binds when equipped
+Two-hand
+Staff
+66 - 100  Damage
+Speed 3.00
+(27.7 damage per second)
++6 Stamina
+Durability 85 / 85
+Requires Level 34
+Chance on hit:
+Launches a bolt of frost at the enemy causing 20 to 31 Frost damage and slowing movement speed by 50% for 5 sec.
+
+
+Item #58085
+URL: https://database.turtle-wow.org/?item=58085
+Category: Database/Items/Weapons/Staves
+Item: 
+Mudpaw Cane
+Binds when picked up
+Two-hand
+Staff
+8 - 13  Damage
+Speed 2.40
+(4.4 damage per second)
+Durability 40 / 40
+
+
+Item #58117
+URL: https://database.turtle-wow.org/?item=58117
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Bloodbound
+Binds when picked up
+Two-hand
+Staff
+90 - 136  Damage
+Speed 2.70
+(41.9 damage per second)
++10 Intellect
+Durability 100 / 100
+Requires Level 43
+Equip:
+Restores 4 health per 5 sec.
+Equip:
+Restores 4 mana per 5 sec.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 19.
+
+
+Item #58126
+URL: https://database.turtle-wow.org/?item=58126
+Category: Database/Items/Weapons/Staves
+Item: 
+Snow Wanderer's Staff
+Binds when picked up
+Two-hand
+Staff
+22 - 31  Damage
+Speed 2.80
+(9.5 damage per second)
++4 Intellect
++2 Spirit
+Durability 50 / 50
+
+
+Item #58183
+URL: https://database.turtle-wow.org/?item=58183
+Category: Database/Items/Weapons/Staves
+Item: 
+Rod of Subjugation
+Binds when picked up
+Two-hand
+Staff
+94 - 142  Damage
+Speed 3.40
+(34.7 damage per second)
++8 Strength
++8 Intellect
+Durability 100 / 100
+Requires Level 34
+Equip:
+Increases damage and healing done by magical spells and effects by up to 13.
+Equip:
++26 Attack Power.
+
+
+Item #58199
+URL: https://database.turtle-wow.org/?item=58199
+Category: Database/Items/Weapons/Staves
+Item: 
+Spine of Dentarg
+Binds when picked up
+Two-hand
+Staff
+93 - 141  Damage
+Speed 2.80
+(41.8 damage per second)
++11 Stamina
++9 Intellect
+Durability 120 / 120
+Requires Level 37
+Equip:
+Increases damage and healing done by magical spells and effects by up to 18.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Your harmful spells have a 5% chance to carve an ancient rune into your target, dealing 300 Shadow damage over 10 sec. Afterwards, the rune bursts, cursing enemies within 10 yards of the target, reducing their attack, casting, and movement speed by 20% for 6 sec.
+
+
+Item #60112
+URL: https://database.turtle-wow.org/?item=60112
+Category: Database/Items/Weapons/Staves
+Item: 
+Evermoon Staff
+Binds when picked up
+Two-hand
+Staff
+25 - 41  Damage
+Speed 2.30
+(14.3 damage per second)
++4 Intellect
++4 Strength
+Durability 70 / 70
+Equip:
+Increases damage done by Nature spells and effects by up to 7.
+
+
+Item #60198
+URL: https://database.turtle-wow.org/?item=60198
+Category: Database/Items/Weapons/Staves
+Item: 
+Acolyte's Staff
+Binds when picked up
+Two-hand
+Staff
+44 - 67  Damage
+Speed 3.30
+(16.8 damage per second)
++6 Intellect
++5 Spirit
+Durability 75 / 75
+
+
+Item #60333
+URL: https://database.turtle-wow.org/?item=60333
+Category: Database/Items/Weapons/Staves
+Item: 
+Azshara Keeper's Staff
+Binds when picked up
+Two-hand
+Staff
+87 - 144  Damage
+Speed 2.20
+(52.5 damage per second)
++20 Intellect
++20 Arcane Resistance
+Durability 100 / 100
+Equip:
+Increases damage done by Arcane spells and effects by up to 20.
+
+
+Item #60347
+URL: https://database.turtle-wow.org/?item=60347
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Ogre Seer
+Binds when picked up
+Two-hand
+Staff
+130 - 168  Damage
+Speed 3.00
+(49.7 damage per second)
++17 Intellect
++17 Spirit
+Durability 100 / 100
+Equip:
+Increases your attack and casting speed by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 11.
+
+
+Item #60383
+URL: https://database.turtle-wow.org/?item=60383
+Category: Database/Items/Weapons/Staves
+Item: 
+Fleetmaster's Cane
+Binds when picked up
+Two-hand
+Staff
+131 - 182  Damage
+Speed 2.80
+(55.9 damage per second)
++27 Intellect
++21 Spirit
++9 Agility
++7 Stamina
+Durability 100 / 100
+Requires Level 60
+
+
+Item #60418
+URL: https://database.turtle-wow.org/?item=60418
+Category: Database/Items/Weapons/Staves
+Item: 
+Sealbreaker Staff
+Binds when picked up
+Two-hand
+Staff
+116 - 175  Damage
+Speed 2.70
+(53.9 damage per second)
++14 Intellect
++8 Spirit
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 24.
+Equip:
+Decreases the magical resistances of your spell targets by 20.
+
+
+Item #60495
+URL: https://database.turtle-wow.org/?item=60495
+Category: Database/Items/Weapons/Staves
+Item: 
+Powered Iron Staff
+Binds when picked up
+Two-hand
+Staff
+16 - 25  Damage
+Speed 2.90
+(7.1 damage per second)
++2 Intellect
+Durability 45 / 45
+Classes: Mage
+
+
+Item #60522
+URL: https://database.turtle-wow.org/?item=60522
+Category: Database/Items/Weapons/Staves
+Item: 
+Hexxer Staff
+Binds when picked up
+Two-hand
+Staff
+23 - 35  Damage
+Speed 3.20
+(9.1 damage per second)
++2 Intellect
++2 Stamina
+Durability 50 / 50
+
+
+Item #60546
+URL: https://database.turtle-wow.org/?item=60546
+Category: Database/Items/Weapons/Staves
+Item: 
+Doomcaller Staff
+Binds when picked up
+Two-hand
+Staff
+117 - 171  Damage
+Speed 2.90
+(49.7 damage per second)
++31 Spirit
++11 Intellect
+Durability 100 / 100
+Requires Level 54
+
+
+Item #60905
+URL: https://database.turtle-wow.org/?item=60905
+Category: Database/Items/Weapons/Staves
+Item: 
+Batu'kar of the Second Khan
+Binds when picked up
+Two-hand
+Staff
+121 - 209  Damage
+Speed 3.20
+(51.6 damage per second)
++25 Nature Resistance
+Durability 120 / 120
+Requires Level 48
+Requires Gelkis Clan Centaur - Exalted
+Equip:
+Increases damage and healing done by magical spells and effects by up to 24.
+Equip:
+Restores 8 mana per 5 sec.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases your attack and casting speed by 1%.
+"The staff of earth, once wielded during the time of the second khan."
+
+
+Item #61030
+URL: https://database.turtle-wow.org/?item=61030
+Category: Database/Items/Weapons/Staves
+Item: 
+The Murkfisher
+Binds when picked up
+Two-hand
+Staff
+139 - 209  Damage
+Speed 3.10
+(56.1 damage per second)
++10 Strength
++10 Agility
++15 Stamina
++10 Nature Resistance
++10 Frost Resistance
+Durability 100 / 100
+Requires Level 60
+Requires Fishing (150)
+Chance on hit:
+Disarm target's weapon for 5 sec.
+"Catches fish and foe alike."
+
+
+Item #61031
+URL: https://database.turtle-wow.org/?item=61031
+Category: Database/Items/Weapons/Staves
+Item: 
+Riftweaver
+Binds when picked up
+Two-hand
+Staff
+138 - 243  Damage
+Speed 3.40
+(56.0 damage per second)
++12 Intellect
++10 Stamina
++8 Spirit
+Durability 100 / 100
+Requires Level 60
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 29.
+
+
+Item #61091
+URL: https://database.turtle-wow.org/?item=61091
+Category: Database/Items/Weapons/Staves
+Item: 
+Telraz's Jeweled Staff
+Binds when picked up
+Two-hand
+Staff
+100 - 155  Damage
+Speed 2.70
+(47.2 damage per second)
++5 Intellect
++10 Fire Resistance
+Durability 85 / 85
+Equip:
+Increases damage done by Fire spells and effects by up to 33.
+
+
+Item #61164
+URL: https://database.turtle-wow.org/?item=61164
+Category: Database/Items/Weapons/Staves
+Item: 
+Priestess of Elune's Staff
+Binds when picked up
+Two-hand
+Staff
+46 - 86  Damage
+Speed 2.80
+(23.6 damage per second)
++5 Intellect
+Durability 85 / 85
+Equip:
+Increases damage and healing done by magical spells and effects by up to 15.
+
+
+Item #61208
+URL: https://database.turtle-wow.org/?item=61208
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Dreamer
+Binds when picked up
+Two-hand
+Staff
+128 - 218  Damage
+Speed 3.00
+(57.7 damage per second)
++25 Intellect
++32 Spirit
++15 Nature Resistance
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 134.
+Equip:
+Increases your attack and casting speed by 1%.
+Equip:
+Allows 5% of your Mana regeneration to continue while casting.
+Equip:
+Restores 5 mana per 5 sec.
+
+
+Item #61264
+URL: https://database.turtle-wow.org/?item=61264
+Category: Database/Items/Weapons/Staves
+Item: 
+Ansirem's Runeweaver
+Binds when picked up
+Two-hand
+Staff
+147 - 230  Damage
+Speed 3.30
+(57.1 damage per second)
+275 Armor
++16 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 30.
+Use:
+A protective ward surrounds the caster absorbing 800 magical damage. While the shield holds, gain 600 armor. Lasts 120 sec.
+
+
+Item #61338
+URL: https://database.turtle-wow.org/?item=61338
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Ushered Ruination
+Binds when equipped
+Two-hand
+Staff
+62 - 113  Damage
+Speed 2.20
+(39.8 damage per second)
++4 Spirit
++5 Fire Resistance
+Durability 100 / 100
+Requires Level 42
+Equip:
+Increases damage done by Fire spells and effects by up to 33.
+
+
+Item #61411
+URL: https://database.turtle-wow.org/?item=61411
+Category: Database/Items/Weapons/Staves
+Item: 
+Moonseeker Staff
+Binds when picked up
+Two-hand
+Staff
+81 - 151  Damage
+Speed 2.30
+(50.4 damage per second)
++16 Intellect
++9 Spirit
+Durability 85 / 85
+Equip:
+Increases your attack and casting speed by 2%.
+
+
+Item #61447
+URL: https://database.turtle-wow.org/?item=61447
+Category: Database/Items/Weapons/Staves
+Item: 
+Mossgrove Family Broom
+Binds when picked up
+Two-hand
+Staff
+87 - 140  Damage
+Speed 3.50
+(32.4 damage per second)
++6 Intellect
++5 Spirit
++4 Stamina
+Durability 85 / 85
+Equip:
+Increases damage and healing done by magical spells and effects by up to 9.
+"Has had ten new handles and sixteen new heads."
+
+
+Item #61454
+URL: https://database.turtle-wow.org/?item=61454
+Category: Database/Items/Weapons/Staves
+Item: 
+Rod of Resuscitation
+Binds when picked up
+Two-hand
+Staff
+151 - 246  Damage
+Speed 3.40
+(58.4 damage per second)
++23 Intellect
++24 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 77.
+Equip:
+Restores 10 mana per 5 sec.
+Equip:
+If your target is below 50% health, your direct healing spells heal them for an additional 80 to 100 health.
+
+
+Item #61500
+URL: https://database.turtle-wow.org/?item=61500
+Category: Database/Items/Weapons/Staves
+Item: 
+Shadestaff
+Binds when picked up
+Two-hand
+Staff
+31 - 47  Damage
+Speed 3.10
+(12.6 damage per second)
++8 Intellect
++-4 Spirit
+Durability 65 / 65
+Requires Level 14
+
+
+Item #61502
+URL: https://database.turtle-wow.org/?item=61502
+Category: Database/Items/Weapons/Staves
+Item: 
+Earthcaller Staff
+Binds when equipped
+Two-hand
+Staff
+28 - 42  Damage
+Speed 2.80
+(12.5 damage per second)
+Durability 65 / 65
+Requires Level 14
+Equip:
+Increases damage done by Nature spells and effects by up to 9.
+
+
+Item #61551
+URL: https://database.turtle-wow.org/?item=61551
+Category: Database/Items/Weapons/Staves
+Item: 
+Mathrengyl's Lost Staff
+Binds when equipped
+Two-hand
+Staff
+122 - 196  Damage
+Speed 3.30
+(48.2 damage per second)
++10 Nature Resistance
+Durability 85 / 85
+Requires Level 57
+Equip:
+Increases damage done by Nature spells and effects by up to 33.
+
+
+Item #61567
+URL: https://database.turtle-wow.org/?item=61567
+Category: Database/Items/Weapons/Staves
+Item: 
+Timewarper's Staff
+Binds when equipped
+Two-hand
+Staff
+126 - 188  Damage
+Speed 2.90
+(54.1 damage per second)
++15 Intellect
++11 Spirit
+Durability 100 / 100
+Requires Level 59
+Equip:
+Increases healing done by spells and effects by up to 59.
+
+
+Item #61661
+URL: https://database.turtle-wow.org/?item=61661
+Category: Database/Items/Weapons/Staves
+Item: 
+Varimathras' Cunning
+Binds when picked up
+Two-hand
+Staff
+102 - 148  Damage
+Speed 3.60
+(34.7 damage per second)
++18 Intellect
++8 Spirit
+Durability 100 / 100
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #61667
+URL: https://database.turtle-wow.org/?item=61667
+Category: Database/Items/Weapons/Staves
+Item: 
+Branch of the Great Tree
+Binds when equipped
+Two-hand
+Staff
+112 - 169  Damage
+Speed 3.70
+(38.0 damage per second)
++19 Intellect
+Durability 85 / 85
+Requires Level 45
+
+
+Item #61690
+URL: https://database.turtle-wow.org/?item=61690
+Category: Database/Items/Weapons/Staves
+Item: 
+Cleric's Bent Staff
+Two-hand
+Staff
+51 - 83  Damage
+Speed 2.90
+(23.1 damage per second)
+Durability 85 / 85
+Requires Level 44
+"The Light serves any cause you believe is right, no matter how vile."
+
+
+Item #61729
+URL: https://database.turtle-wow.org/?item=61729
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Shackled Lightning
+Binds when picked up
+Two-hand
+Staff
+66 - 115  Damage
+Speed 2.70
+(33.5 damage per second)
++17 Intellect
++7 Strength
++3 Nature Resistance
+Durability 85 / 85
+
+
+Item #61735
+URL: https://database.turtle-wow.org/?item=61735
+Category: Database/Items/Weapons/Staves
+Item: 
+Stablehand Broom
+Binds when picked up
+Two-hand
+Staff
+78 - 188  Damage
+Speed 3.50
+(38.0 damage per second)
++18 Strength
++4 Stamina
+Durability 85 / 85
+Requires Level 44
+
+
+Item #70010
+URL: https://database.turtle-wow.org/?item=70010
+Category: Database/Items/Weapons/Staves
+Item: 
+Infused Briarwood Staff
+Binds when picked up
+Two-hand
+Staff
+42 - 64  Damage
+Speed 2.60
+(20.4 damage per second)
++5 Intellect
++5 Stamina
+Durability 85 / 85
+Equip:
+Increases damage done to Demons by magical spells and effects by up to 14.
+
+
+Item #80107
+URL: https://database.turtle-wow.org/?item=80107
+Category: Database/Items/Weapons/Staves
+Item: 
+Smooth Wooden Staff
+Binds when picked up
+Two-hand
+Staff
+8 - 12  Damage
+Speed 3.20
+(3.1 damage per second)
+Durability 35 / 35
+
+
+Item #80128
+URL: https://database.turtle-wow.org/?item=80128
+Category: Database/Items/Weapons/Staves
+Item: 
+Pearltip Staff
+Binds when picked up
+Two-hand
+Staff
+15 - 22  Damage
+Speed 2.50
+(7.4 damage per second)
++1 Intellect
+Durability 45 / 45
+
+
+Item #80208
+URL: https://database.turtle-wow.org/?item=80208
+Category: Database/Items/Weapons/Staves
+Item: 
+Crooked Tree Branch
+Binds when picked up
+Two-hand
+Staff
+8 - 12  Damage
+Speed 3.20
+(3.1 damage per second)
+Durability 35 / 35
+
+
+Item #80504
+URL: https://database.turtle-wow.org/?item=80504
+Category: Database/Items/Weapons/Staves
+Item: 
+Hardened Root Staff
+Binds when picked up
+Two-hand
+Staff
+24 - 36  Damage
+Speed 2.80
+(10.7 damage per second)
++5 Stamina
+Durability 55 / 55
+Classes: Warrior, Hunter, Druid
+Requires Level 10
+Requires Silvermoon Remnant - Friendly
+
+
+Item #80502
+URL: https://database.turtle-wow.org/?item=80502
+Category: Database/Items/Weapons/Staves
+Item: 
+Curved Ceremonial Staff
+Binds when picked up
+Two-hand
+Staff
+21 - 33  Damage
+Speed 2.50
+(10.8 damage per second)
++5 Intellect
+Durability 55 / 55
+Classes: Priest, Mage, Warlock, Druid
+Requires Level 10
+Requires Silvermoon Remnant - Friendly
+
+
+Item #80541
+URL: https://database.turtle-wow.org/?item=80541
+Category: Database/Items/Weapons/Staves
+Item: 
+Quel'dorei Magister's Staff
+Binds when picked up
+Two-hand
+Staff
+138 - 207  Damage
+Speed 3.10
+(55.6 damage per second)
++11 Intellect
+Durability 100 / 100
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Increases damage and healing done by magical spells and effects by up to 25.
+Equip:
+Restores 6 mana per 5 sec.
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #80542
+URL: https://database.turtle-wow.org/?item=80542
+Category: Database/Items/Weapons/Staves
+Item: 
+Quel'dorei Cleric's Staff
+Binds when picked up
+Two-hand
+Staff
+138 - 207  Damage
+Speed 3.10
+(55.6 damage per second)
++12 Intellect
++15 Stamina
++13 Spirit
+Durability 100 / 100
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Increases healing done by spells and effects by up to 44.
+
+
+Item #80602
+URL: https://database.turtle-wow.org/?item=80602
+Category: Database/Items/Weapons/Staves
+Item: 
+Crude Channeling Staff
+Binds when picked up
+Two-hand
+Staff
+21 - 33  Damage
+Speed 2.50
+(10.8 damage per second)
++5 Intellect
+Durability 55 / 55
+Classes: Priest, Shaman, Mage, Warlock, Druid
+Requires Level 10
+Requires Revantusk Trolls - Friendly
+
+
+Item #80604
+URL: https://database.turtle-wow.org/?item=80604
+Category: Database/Items/Weapons/Staves
+Item: 
+Withered Root Staff
+Binds when picked up
+Two-hand
+Staff
+24 - 36  Damage
+Speed 2.80
+(10.7 damage per second)
++5 Stamina
+Durability 55 / 55
+Classes: Warrior, Hunter, Shaman, Druid
+Requires Level 10
+Requires Revantusk Trolls - Friendly
+
+
+Item #80642
+URL: https://database.turtle-wow.org/?item=80642
+Category: Database/Items/Weapons/Staves
+Item: 
+Revantusk Mender's Cane
+Binds when picked up
+Two-hand
+Staff
+138 - 207  Damage
+Speed 3.10
+(55.6 damage per second)
++12 Intellect
++15 Stamina
++13 Spirit
+Durability 100 / 100
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Increases healing done by spells and effects by up to 44.
+
+
+Item #80641
+URL: https://database.turtle-wow.org/?item=80641
+Category: Database/Items/Weapons/Staves
+Item: 
+Revantusk Mystic's Staff
+Binds when picked up
+Two-hand
+Staff
+138 - 207  Damage
+Speed 3.10
+(55.6 damage per second)
++11 Intellect
+Durability 100 / 100
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Increases damage and healing done by magical spells and effects by up to 25.
+Equip:
+Restores 6 mana per 5 sec.
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #80709
+URL: https://database.turtle-wow.org/?item=80709
+Category: Database/Items/Weapons/Staves
+Item: 
+Guardian Staff
+Binds when picked up
+Two-hand
+Staff
+37 - 54  Damage
+Speed 2.50
+(18.2 damage per second)
+60 Armor
++4 Strength
++7 Stamina
+Durability 65 / 65
+Requires Level 16
+
+
+Item #80744
+URL: https://database.turtle-wow.org/?item=80744
+Category: Database/Items/Weapons/Staves
+Item: 
+Plaguemaw's Staff of Rotting
+Binds when picked up
+Two-hand
+Staff
+75 - 113  Damage
+Speed 2.70
+(34.8 damage per second)
++6 Intellect
++4 Stamina
+Durability 100 / 100
+Requires Level 35
+Equip:
+Increases damage done by Shadow spells and effects by up to 17.
+Equip:
+Increases damage done by Nature spells and effects by up to 17.
+
+
+Item #80836
+URL: https://database.turtle-wow.org/?item=80836
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Zephyr
+Binds when equipped
+Two-hand
+Staff
+52 - 82  Damage
+Speed 2.80
+(23.9 damage per second)
++9 Intellect
+Durability 85 / 85
+Requires Level 30
+Equip:
+Increases damage done by Nature spells and effects by up to 14.
+
+
+Item #80860
+URL: https://database.turtle-wow.org/?item=80860
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Arcane Path
+Binds when picked up
+Two-hand
+Staff
+53 - 82  Damage
+Speed 3.30
+(20.5 damage per second)
++10 Intellect
+Durability 90 / 90
+Equip:
+Increases damage and healing done by magical spells and effects by up to 8.
+
+
+Item #81092
+URL: https://database.turtle-wow.org/?item=81092
+Category: Database/Items/Weapons/Staves
+Item: 
+Copper Staff
+Two-hand
+Staff
+14 - 25  Damage
+Speed 3.30
+(5.9 damage per second)
+Durability 45 / 45
+Requires Level 6
+
+
+Item #81363
+URL: https://database.turtle-wow.org/?item=81363
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Azure Domination
+Binds when picked up
+Two-hand
+Staff
+121 - 178  Damage
+Speed 2.60
+(57.5 damage per second)
++18 Intellect
++17 Spirit
+Durability 120 / 120
+Requires Level 56
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 29.
+Equip:
++5 All Resistances.
+"The staff of the Dragonflight holds dominion over magic"
+
+
+Item #81375
+URL: https://database.turtle-wow.org/?item=81375
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of the Lost Druid
+Binds when picked up
+Two-hand
+Staff
+124 - 156  Damage
+Speed 2.60
+(53.8 damage per second)
++16 Intellect
++14 Stamina
++10 Frost Resistance
+Durability 100 / 100
+Requires Level 58
+Equip:
+Increases damage done by Arcane spells and effects by up to 34.
+Equip:
+Increases damage done by Nature spells and effects by up to 34.
+
+
+Item #83093
+URL: https://database.turtle-wow.org/?item=83093
+Category: Database/Items/Weapons/Staves
+Item: 
+Monster - Staff2H, Outerend
+Binds when picked up
+Two-hand
+Staff
+90 - 136  Damage
+Speed 2.10
+(53.8 damage per second)
+Durability 100 / 100
+Requires Level 58
+Equip:
+Increases damage and healing done by magical spells and effects by up to 35.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #83200
+URL: https://database.turtle-wow.org/?item=83200
+Category: Database/Items/Weapons/Staves
+Item: 
+Verdant Cane
+Binds when equipped
+Two-hand
+Staff
+72 - 107  Damage
+Speed 2.90
+(30.9 damage per second)
++8 Stamina
++10 Spirit
+Durability 100 / 100
+Requires Level 31
+Equip:
+Increases healing done by spells and effects by up to 26.
+
+
+Item #83231
+URL: https://database.turtle-wow.org/?item=83231
+Category: Database/Items/Weapons/Staves
+Item: 
+Crescent Grove Staff
+Binds when picked up
+Two-hand
+Staff
+61 - 90  Damage
+Speed 2.60
+(29.0 damage per second)
++18 Intellect
++4 Spirit
+Durability 90 / 90
+Requires Level 35
+Equip:
+Increases damage done by Nature spells and effects by up to 6.
+
+
+Item #83471
+URL: https://database.turtle-wow.org/?item=83471
+Category: Database/Items/Weapons/Staves
+Item: 
+Staff of Alarus
+Binds when picked up
+Two-hand
+Staff
+119 - 188  Damage
+Speed 2.80
+(54.8 damage per second)
++25 Spirit
++18 Intellect
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 26.
+
+
+Item #83513
+URL: https://database.turtle-wow.org/?item=83513
+Category: Database/Items/Weapons/Staves
+Item: 
+Insomnius' Wrath
+Binds when picked up
+Two-hand
+Staff
+131 - 198  Damage
+Speed 3.20
+(51.4 damage per second)
++16 Intellect
++10 Nature Resistance
+Durability 100 / 100
+Equip:
+Improves your chance to get a critical strike with spells by 2%.
+Equip:
+Increases damage done by Nature spells and effects by up to 6.
+
+
+Item #84503
+URL: https://database.turtle-wow.org/?item=84503
+Category: Database/Items/Weapons/Staves
+Item: 
+Nature's Gift
+Binds when picked up
+Unique
+Two-hand
+Staff
+160 - 299  Damage
+Speed 3.30
+(69.5 damage per second)
++28 Strength
++22 Agility
++25 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++168 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+Equip:
+Increases your chance to dodge an attack by 1%.
+
+
+Item #84603
+URL: https://database.turtle-wow.org/?item=84603
+Category: Database/Items/Weapons/Staves
+Item: 
+Rod of the Churning Hourglass
+Binds when picked up
+Two-hand
+Staff
+138 - 207  Damage
+Speed 3.10
+(55.6 damage per second)
++15 Agility
++15 Strength
++16 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires  - Revered
+Equip:
+Increases your attack and casting speed by 3%.
+Equip:
++112 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+"The past, the future and the grains of time lost in between."
+
+
+Item #3452
+URL: https://database.turtle-wow.org/?item=3452
+Category: Database/Items/Weapons/Staves
+Item: 
+Ceranium Rod
+Binds when picked up
+Two-hand
+Staff
+31 - 47  Damage
+Speed 2.70
+(14.4 damage per second)
++7 Stamina
+Durability 70 / 70
+
+

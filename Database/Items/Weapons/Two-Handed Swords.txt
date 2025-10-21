@@ -1,0 +1,3223 @@
+Item #647
+URL: https://database.turtle-wow.org/?item=647
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Destiny
+Binds when equipped
+Two-hand
+Sword
+112 - 168  Damage
+Speed 2.60
+(53.8 damage per second)
+Durability 120 / 120
+Requires Level 52
+Chance on hit:
+Increases Strength by 200 for 10 sec.
+
+
+Item #913
+URL: https://database.turtle-wow.org/?item=913
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Huge Ogre Sword
+Binds when equipped
+Two-hand
+Sword
+60 - 90  Damage
+Speed 3.80
+(19.7 damage per second)
++11 Strength
+Durability 85 / 85
+Requires Level 24
+
+
+Item #922
+URL: https://database.turtle-wow.org/?item=922
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Dacian Falx
+Two-hand
+Sword
+39 - 60  Damage
+Speed 3.10
+(16.0 damage per second)
+Durability 80 / 80
+Requires Level 21
+
+
+Item #1198
+URL: https://database.turtle-wow.org/?item=1198
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Claymore
+Two-hand
+Sword
+23 - 35  Damage
+Speed 3.20
+(9.1 damage per second)
+Durability 55 / 55
+Requires Level 10
+
+
+Item #1194
+URL: https://database.turtle-wow.org/?item=1194
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Bastard Sword
+Two-hand
+Sword
+5 - 8  Damage
+Speed 3.00
+(2.2 damage per second)
+Durability 30 / 30
+
+
+Item #1387
+URL: https://database.turtle-wow.org/?item=1387
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Ghoulfang
+Binds when equipped
+Two-hand
+Sword
+36 - 54  Damage
+Speed 3.60
+(12.5 damage per second)
+Durability 65 / 65
+Requires Level 14
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 35 Shadow damage.
+
+
+Item #1412
+URL: https://database.turtle-wow.org/?item=1412
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Crude Bastard Sword
+Two-hand
+Sword
+7 - 12  Damage
+Speed 3.20
+(3.0 damage per second)
+Durability 35 / 35
+Requires Level 2
+
+
+Item #1460
+URL: https://database.turtle-wow.org/?item=1460
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Black Stallion
+Binds when equipped
+Two-hand
+Sword
+30 - 46  Damage
+Speed 2.90
+(13.1 damage per second)
++4 Strength
++4 Stamina
+Durability 65 / 65
+Requires Level 15
+"Rumored to be favored by SI:7 for night missions due to its dark coat."
+
+
+Item #1513
+URL: https://database.turtle-wow.org/?item=1513
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Old Greatsword
+Two-hand
+Sword
+16 - 25  Damage
+Speed 3.60
+(5.7 damage per second)
+Durability 50 / 50
+Requires Level 9
+
+
+Item #1566
+URL: https://database.turtle-wow.org/?item=1566
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Edge of the People's Militia
+Binds when picked up
+Two-hand
+Sword
+26 - 39  Damage
+Speed 2.90
+(11.2 damage per second)
++5 Stamina
+Durability 60 / 60
+
+
+Item #1604
+URL: https://database.turtle-wow.org/?item=1604
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Chromatic Sword
+Binds when equipped
+Two-hand
+Sword
+100 - 150  Damage
+Speed 3.60
+(34.7 damage per second)
++7 Fire Resistance
++7 Nature Resistance
++7 Frost Resistance
++7 Shadow Resistance
++7 Arcane Resistance
+Durability 85 / 85
+Requires Level 40
+
+
+Item #1625
+URL: https://database.turtle-wow.org/?item=1625
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Exquisite Flamberge
+Binds when equipped
+Two-hand
+Sword
+72 - 109  Damage
+Speed 3.00
+(30.2 damage per second)
+Durability 85 / 85
+Requires Level 36
+Random Bonuses
+
+
+Item #1811
+URL: https://database.turtle-wow.org/?item=1811
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Blunt Claymore
+Two-hand
+Sword
+16 - 25  Damage
+Speed 3.10
+(6.6 damage per second)
+Durability 60 / 60
+Requires Level 12
+
+
+Item #1818
+URL: https://database.turtle-wow.org/?item=1818
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Standard Claymore
+Two-hand
+Sword
+23 - 35  Damage
+Speed 3.00
+(9.7 damage per second)
+Durability 75 / 75
+Requires Level 19
+
+
+Item #1830
+URL: https://database.turtle-wow.org/?item=1830
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Long Bastard Sword
+Two-hand
+Sword
+29 - 44  Damage
+Speed 3.20
+(11.4 damage per second)
+Durability 80 / 80
+Requires Level 23
+
+
+Item #1975
+URL: https://database.turtle-wow.org/?item=1975
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Pysan's Old Greatsword
+Binds when equipped
+Two-hand
+Sword
+60 - 91  Damage
+Speed 3.30
+(22.9 damage per second)
++13 Spirit
++5 Strength
+Durability 95 / 95
+Requires Level 23
+
+
+Item #1983
+URL: https://database.turtle-wow.org/?item=1983
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Basic
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1982
+URL: https://database.turtle-wow.org/?item=1982
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Nightblade
+Binds when equipped
+Two-hand
+Sword
+97 - 146  Damage
+Speed 2.80
+(43.4 damage per second)
+Durability 120 / 120
+Requires Level 39
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 125 to 276 Shadow damage.
+
+
+Item #1986
+URL: https://database.turtle-wow.org/?item=1986
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Gutrender
+Binds when equipped
+Two-hand
+Sword
+62 - 94  Damage
+Speed 2.60
+(30.0 damage per second)
+Durability 85 / 85
+Requires Level 36
+Chance on hit:
+Wounds the target for 90 to 115 damage.
+
+
+Item #2000
+URL: https://database.turtle-wow.org/?item=2000
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Archeus
+Binds when picked up
+Two-hand
+Sword
+63 - 95  Damage
+Speed 3.30
+(23.9 damage per second)
+Durability 85 / 85
+Chance on hit:
+Blasts a target for 85 Arcane damage.
+"Morgan Ladimore's sword."
+
+
+Item #2014
+URL: https://database.turtle-wow.org/?item=2014
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Black Metal Greatsword
+Binds when equipped
+Two-hand
+Sword
+52 - 78  Damage
+Speed 3.30
+(19.7 damage per second)
++7 Strength
++7 Stamina
+Durability 85 / 85
+Requires Level 24
+
+
+Item #2024
+URL: https://database.turtle-wow.org/?item=2024
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Espadon
+Two-hand
+Sword
+29 - 44  Damage
+Speed 2.90
+(12.6 damage per second)
+Durability 65 / 65
+Requires Level 16
+
+
+Item #2084
+URL: https://database.turtle-wow.org/?item=2084
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Darksteel Bastard Sword
+Binds when equipped
+Two-hand
+Sword
+52 - 79  Damage
+Speed 3.20
+(20.5 damage per second)
++8 Strength
++7 Spirit
+Durability 85 / 85
+Requires Level 25
+
+
+Item #2128
+URL: https://database.turtle-wow.org/?item=2128
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Scratched Claymore
+Two-hand
+Sword
+4 - 7  Damage
+Speed 2.80
+(2.0 damage per second)
+Durability 30 / 30
+
+
+Item #2181
+URL: https://database.turtle-wow.org/?item=2181
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Baron Rivendare
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2204
+URL: https://database.turtle-wow.org/?item=2204
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Brashclaw's Skewer
+Binds when equipped
+Two-hand
+Sword
+29 - 44  Damage
+Speed 3.20
+(11.4 damage per second)
++5 Stamina
+Durability 60 / 60
+Requires Level 12
+
+
+Item #2205
+URL: https://database.turtle-wow.org/?item=2205
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Duskbringer
+Binds when equipped
+Two-hand
+Sword
+57 - 86  Damage
+Speed 3.40
+(21.0 damage per second)
+Durability 90 / 90
+Requires Level 20
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 60 to 101 Shadow damage.
+
+
+Item #2489
+URL: https://database.turtle-wow.org/?item=2489
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Two-handed Sword
+Two-hand
+Sword
+8 - 13  Damage
+Speed 2.90
+(3.6 damage per second)
+Durability 35 / 35
+Requires Level 2
+
+
+Item #2497
+URL: https://database.turtle-wow.org/?item=2497
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Rusted Claymore
+Two-hand
+Sword
+12 - 19  Damage
+Speed 3.10
+(5.0 damage per second)
+Durability 40 / 40
+Requires Level 4
+
+
+Item #2521
+URL: https://database.turtle-wow.org/?item=2521
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Flamberge
+Two-hand
+Sword
+59 - 89  Damage
+Speed 3.20
+(23.1 damage per second)
+Durability 85 / 85
+Requires Level 31
+
+
+Item #2529
+URL: https://database.turtle-wow.org/?item=2529
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Zweihander
+Two-hand
+Sword
+75 - 113  Damage
+Speed 2.80
+(33.6 damage per second)
+Durability 85 / 85
+Requires Level 41
+
+
+Item #2754
+URL: https://database.turtle-wow.org/?item=2754
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Tarnished Bastard Sword
+Two-hand
+Sword
+4 - 6  Damage
+Speed 3.20
+(1.6 damage per second)
+Durability 25 / 25
+
+
+Item #2801
+URL: https://database.turtle-wow.org/?item=2801
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Blade of Hanna
+Binds when equipped
+Unique
+Two-hand
+Sword
+101 - 152  Damage
+Speed 2.10
+(60.2 damage per second)
++14 Agility
++14 Intellect
++14 Spirit
++14 Stamina
++14 Strength
+Durability 120 / 120
+Requires Level 59
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #2822
+URL: https://database.turtle-wow.org/?item=2822
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Mo'grosh Toothpick
+Binds when equipped
+Two-hand
+Sword
+26 - 40  Damage
+Speed 2.80
+(11.8 damage per second)
++5 Stamina
+Durability 60 / 60
+Requires Level 13
+
+
+Item #2877
+URL: https://database.turtle-wow.org/?item=2877
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Combatant Claymore
+Binds when equipped
+Two-hand
+Sword
+64 - 97  Damage
+Speed 2.90
+(27.8 damage per second)
++15 Spirit
++10 Stamina
+Durability 100 / 100
+Requires Level 28
+
+
+Item #3188
+URL: https://database.turtle-wow.org/?item=3188
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Coral Claymore
+Binds when equipped
+Two-hand
+Sword
+22 - 34  Damage
+Speed 2.80
+(10.0 damage per second)
++4 Stamina
+Durability 55 / 55
+Requires Level 10
+
+
+Item #3196
+URL: https://database.turtle-wow.org/?item=3196
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Edged Bastard Sword
+Binds when equipped
+Two-hand
+Sword
+29 - 44  Damage
+Speed 3.10
+(11.8 damage per second)
+Durability 60 / 60
+Requires Level 13
+Random Bonuses
+
+
+Item #3192
+URL: https://database.turtle-wow.org/?item=3192
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Short Bastard Sword
+Binds when equipped
+Two-hand
+Sword
+20 - 30  Damage
+Speed 3.00
+(8.3 damage per second)
+Durability 50 / 50
+Requires Level 7
+Random Bonuses
+
+
+Item #3206
+URL: https://database.turtle-wow.org/?item=3206
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Cavalier Two-hander
+Binds when equipped
+Two-hand
+Sword
+44 - 66  Damage
+Speed 2.90
+(19.0 damage per second)
+Durability 80 / 80
+Requires Level 23
+Random Bonuses
+
+
+Item #3197
+URL: https://database.turtle-wow.org/?item=3197
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Stonecutter Claymore
+Binds when equipped
+Two-hand
+Sword
+59 - 89  Damage
+Speed 3.10
+(23.9 damage per second)
+Durability 85 / 85
+Requires Level 30
+Random Bonuses
+
+
+Item #3209
+URL: https://database.turtle-wow.org/?item=3209
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Ancient War Sword
+Binds when picked up
+Two-hand
+Sword
+57 - 86  Damage
+Speed 3.30
+(21.7 damage per second)
++9 Strength
++6 Stamina
+Durability 85 / 85
+
+
+Item #3366
+URL: https://database.turtle-wow.org/?item=3366
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Katana
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #3417
+URL: https://database.turtle-wow.org/?item=3417
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Onyx Claymore
+Binds when equipped
+Two-hand
+Sword
+48 - 73  Damage
+Speed 2.80
+(21.6 damage per second)
++6 Spirit
++5 Stamina
++9 Strength
+Durability 95 / 95
+Requires Level 21
+
+
+Item #3487
+URL: https://database.turtle-wow.org/?item=3487
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Heavy Copper Broadsword
+Binds when equipped
+Two-hand
+Sword
+27 - 41  Damage
+Speed 2.70
+(12.6 damage per second)
++6 Stamina
+Durability 65 / 65
+Requires Level 14
+
+
+Item #3781
+URL: https://database.turtle-wow.org/?item=3781
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Broad Claymore
+Two-hand
+Sword
+36 - 55  Damage
+Speed 3.30
+(13.8 damage per second)
+Durability 85 / 85
+Requires Level 29
+
+
+Item #3822
+URL: https://database.turtle-wow.org/?item=3822
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Runic Darkblade
+Binds when picked up
+Two-hand
+Sword
+57 - 86  Damage
+Speed 3.30
+(21.7 damage per second)
+Durability 85 / 85
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 35 Shadow damage.
+
+
+Item #3853
+URL: https://database.turtle-wow.org/?item=3853
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Moonsteel Broadsword
+Binds when equipped
+Two-hand
+Sword
+55 - 83  Damage
+Speed 2.80
+(24.6 damage per second)
++4 Stamina
++12 Spirit
+Durability 85 / 85
+Requires Level 31
+
+
+Item #3854
+URL: https://database.turtle-wow.org/?item=3854
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Frost Tiger Blade
+Binds when equipped
+Two-hand
+Sword
+78 - 118  Damage
+Speed 3.40
+(28.8 damage per second)
+Durability 85 / 85
+Requires Level 35
+Equip:
+Improves your chance to get a critical strike by 1%.
+Chance on hit:
+Launches a bolt of frost at the enemy causing 20 to 31 Frost damage and slowing movement speed by 50% for 5 sec.
+
+
+Item #4018
+URL: https://database.turtle-wow.org/?item=4018
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Whetted Claymore
+Two-hand
+Sword
+46 - 70  Damage
+Speed 3.10
+(18.7 damage per second)
+Durability 85 / 85
+Requires Level 37
+
+
+Item #4567
+URL: https://database.turtle-wow.org/?item=4567
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Merc Sword
+Binds when equipped
+Two-hand
+Sword
+24 - 36  Damage
+Speed 2.80
+(10.7 damage per second)
+Durability 55 / 55
+Requires Level 11
+Random Bonuses
+
+
+Item #4817
+URL: https://database.turtle-wow.org/?item=4817
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Blessed Claymore
+Binds when equipped
+Two-hand
+Sword
+29 - 44  Damage
+Speed 2.50
+(14.6 damage per second)
++7 Stamina
+Durability 70 / 70
+Requires Level 17
+
+
+Item #4818
+URL: https://database.turtle-wow.org/?item=4818
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Executioner's Sword
+Binds when equipped
+Two-hand
+Sword
+43 - 65  Damage
+Speed 3.40
+(15.9 damage per second)
++8 Strength
+Durability 75 / 75
+Requires Level 19
+
+
+Item #4939
+URL: https://database.turtle-wow.org/?item=4939
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Steady Bastard Sword
+Binds when picked up
+Two-hand
+Sword
+16 - 25  Damage
+Speed 2.70
+(7.6 damage per second)
++2 Agility
+Durability 45 / 45
+
+
+Item #4991
+URL: https://database.turtle-wow.org/?item=4991
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Broadsword
+Two-hand
+Sword
+2 - 3  Damage
+Speed 2.60
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #5182
+URL: https://database.turtle-wow.org/?item=5182
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Shiver Blade
+Binds when equipped
+Two-hand
+Sword
+30 - 46  Damage
+Speed 2.90
+(13.1 damage per second)
+Durability 65 / 65
+Requires Level 15
+Chance on hit:
+Blasts a target for 35 Frost damage.
+
+
+Item #5614
+URL: https://database.turtle-wow.org/?item=5614
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Seraph's Strike
+Binds when picked up
+Two-hand
+Sword
+54 - 81  Damage
+Speed 3.20
+(21.1 damage per second)
++11 Strength
++4 Spirit
+Durability 85 / 85
+
+
+Item #5615
+URL: https://database.turtle-wow.org/?item=5615
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Woodsman Sword
+Binds when picked up
+Two-hand
+Sword
+34 - 52  Damage
+Speed 3.30
+(13.0 damage per second)
++5 Stamina
++2 Agility
+Durability 65 / 65
+
+
+Item #5779
+URL: https://database.turtle-wow.org/?item=5779
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Forsaken Bastard Sword
+Binds when picked up
+Two-hand
+Sword
+7 - 11  Damage
+Speed 3.30
+(2.7 damage per second)
+Durability 35 / 35
+
+
+Item #5813
+URL: https://database.turtle-wow.org/?item=5813
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Emil's Brand
+Binds when picked up
+Two-hand
+Sword
+53 - 81  Damage
+Speed 3.10
+(21.6 damage per second)
++11 Strength
++3 Stamina
+Durability 85 / 85
+
+
+Item #6186
+URL: https://database.turtle-wow.org/?item=6186
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Trogg Slicer
+Binds when picked up
+Two-hand
+Sword
+32 - 49  Damage
+Speed 3.40
+(11.9 damage per second)
++5 Spirit
+Durability 60 / 60
+
+
+Item #6224
+URL: https://database.turtle-wow.org/?item=6224
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Black Metal Hilt
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #6641
+URL: https://database.turtle-wow.org/?item=6641
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Haunting Blade
+Binds when picked up
+Two-hand
+Sword
+53 - 80  Damage
+Speed 3.80
+(17.5 damage per second)
++9 Spirit
+Durability 80 / 80
+Requires Level 21
+
+
+Item #6741
+URL: https://database.turtle-wow.org/?item=6741
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Orcish War Sword
+Binds when picked up
+Two-hand
+Sword
+45 - 68  Damage
+Speed 3.10
+(18.2 damage per second)
+Durability 85 / 85
+
+
+Item #6909
+URL: https://database.turtle-wow.org/?item=6909
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Strike of the Hydra
+Binds when picked up
+Two-hand
+Sword
+67 - 102  Damage
+Speed 3.30
+(25.6 damage per second)
+Durability 100 / 100
+Requires Level 26
+Chance on hit:
+Corrosive acid that deals 7 Nature damage every 3 sec and lowers target's armor by 50 for 30 sec.
+
+
+Item #6977
+URL: https://database.turtle-wow.org/?item=6977
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Whirlwind Sword
+Binds when picked up
+Two-hand
+Sword
+82 - 124  Damage
+Speed 2.90
+(35.5 damage per second)
+Durability 100 / 100
+Classes: Warrior
+Chance on hit:
+Increases your attack speed by 10% for 10 sec.
+
+
+Item #7689
+URL: https://database.turtle-wow.org/?item=7689
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Morbid Dawn
+Binds when picked up
+Two-hand
+Sword
+70 - 105  Damage
+Speed 2.90
+(30.2 damage per second)
++15 Stamina
++10 Strength
+Durability 100 / 100
+Requires Level 30
+
+
+Item #7960
+URL: https://database.turtle-wow.org/?item=7960
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Truesilver Champion
+Binds when equipped
+Two-hand
+Sword
+108 - 162  Damage
+Speed 3.00
+(45.0 damage per second)
+Durability 100 / 100
+Requires Level 47
+Chance on hit:
+Protects the caster with a holy shield.
+
+
+Item #7957
+URL: https://database.turtle-wow.org/?item=7957
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Bronze Greatsword
+Two-hand
+Sword
+38 - 58  Damage
+Speed 3.00
+(16.0 damage per second)
+Durability 80 / 80
+Requires Level 21
+
+
+Item #7955
+URL: https://database.turtle-wow.org/?item=7955
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Copper Claymore
+Two-hand
+Sword
+15 - 23  Damage
+Speed 3.00
+(6.3 damage per second)
+Durability 45 / 45
+Requires Level 6
+
+
+Item #8177
+URL: https://database.turtle-wow.org/?item=8177
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Practice Sword
+Two-hand
+Sword
+9 - 15  Damage
+Speed 3.20
+(3.8 damage per second)
+Durability 35 / 35
+Requires Level 2
+
+
+Item #8178
+URL: https://database.turtle-wow.org/?item=8178
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Training Sword
+Binds when equipped
+Two-hand
+Sword
+20 - 30  Damage
+Speed 3.50
+(7.1 damage per second)
+Durability 45 / 45
+Requires Level 5
+Random Bonuses
+
+
+Item #8199
+URL: https://database.turtle-wow.org/?item=8199
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Battlefield Destroyer
+Binds when equipped
+Two-hand
+Sword
+90 - 136  Damage
+Speed 3.10
+(36.5 damage per second)
+Durability 85 / 85
+Requires Level 42
+Random Bonuses
+
+
+Item #9372
+URL: https://database.turtle-wow.org/?item=9372
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Sul'thraze the Lasher
+Binds when picked up
+Unique
+Two-hand
+Sword
+132 - 195  Damage
+Speed 3.20
+(51.1 damage per second)
+Durability 120 / 120
+Requires Level 50
+Chance on hit:
+Strikes an enemy with the rage of Sul'thraze. Lowers target's physical damage by 3% and deals 90 to 211 Shadow damage with an additional 125 damage over 15 sec.
+
+
+Item #9385
+URL: https://database.turtle-wow.org/?item=9385
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Archaic Defender
+Binds when equipped
+Two-hand
+Sword
+77 - 117  Damage
+Speed 3.10
+(31.3 damage per second)
+100 Armor
+Durability 100 / 100
+Requires Level 31
+Equip:
+Increased Defense +10.
+
+
+Item #9418
+URL: https://database.turtle-wow.org/?item=9418
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Stoneslayer
+Binds when picked up
+Two-hand
+Sword
+133 - 200  Damage
+Speed 3.90
+(42.7 damage per second)
+Durability 100 / 100
+Requires Level 44
+Chance on hit:
+Increases damage by 10 for 8 sec.
+
+
+Item #9490
+URL: https://database.turtle-wow.org/?item=9490
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Gizmotron Megachopper
+Binds when equipped
+Two-hand
+Sword
+61 - 92  Damage
+Speed 3.20
+(23.9 damage per second)
++14 Strength
++5 Agility
+Durability 100 / 100
+Requires Level 24
+
+
+Item #9602
+URL: https://database.turtle-wow.org/?item=9602
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Brushwood Blade
+Binds when picked up
+Two-hand
+Sword
+17 - 26  Damage
+Speed 3.00
+(7.2 damage per second)
++1 Stamina
+Durability 45 / 45
+
+
+Item #10573
+URL: https://database.turtle-wow.org/?item=10573
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Boneslasher
+Binds when equipped
+Two-hand
+Sword
+70 - 106  Damage
+Speed 2.70
+(32.6 damage per second)
++7 Stamina
++16 Strength
++5 Agility
+Durability 100 / 100
+Requires Level 32
+
+
+Item #9602
+URL: https://database.turtle-wow.org/?item=9602
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Brushwood Blade
+Binds when picked up
+Two-hand
+Sword
+17 - 26  Damage
+Speed 3.00
+(7.2 damage per second)
++1 Stamina
+Durability 45 / 45
+
+
+Item #10573
+URL: https://database.turtle-wow.org/?item=10573
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Boneslasher
+Binds when equipped
+Two-hand
+Sword
+70 - 106  Damage
+Speed 2.70
+(32.6 damage per second)
++7 Stamina
++16 Strength
++5 Agility
+Durability 100 / 100
+Requires Level 32
+
+
+Item #10628
+URL: https://database.turtle-wow.org/?item=10628
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Deathblow
+Binds when equipped
+Two-hand
+Sword
+94 - 141  Damage
+Speed 2.80
+(42.0 damage per second)
+Durability 100 / 100
+Requires Level 43
+Chance on hit:
+Delivers a fatal wound for 160 damage.
+
+
+Item #10758
+URL: https://database.turtle-wow.org/?item=10758
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+X'caliboar
+Binds when picked up
+Two-hand
+Sword
+98 - 148  Damage
+Speed 3.30
+(37.3 damage per second)
++20 Strength
++8 Stamina
+Durability 100 / 100
+Requires Level 35
+
+
+Item #11087
+URL: https://database.turtle-wow.org/?item=11087
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Ragglesnout X'Caliboar
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11321
+URL: https://database.turtle-wow.org/?item=11321
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde Massive
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11323
+URL: https://database.turtle-wow.org/?item=11323
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde Jagged
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11322
+URL: https://database.turtle-wow.org/?item=11322
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde Broad
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11591
+URL: https://database.turtle-wow.org/?item=11591
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Battlefield Destroyer
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11786
+URL: https://database.turtle-wow.org/?item=11786
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Stone of the Earth
+Binds when picked up
+Two-hand
+Sword
+123 - 185  Damage
+Speed 3.20
+(48.1 damage per second)
+280 Armor
++12 Stamina
+Durability 100 / 100
+Requires Level 51
+
+
+Item #11854
+URL: https://database.turtle-wow.org/?item=11854
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Samophlange Screwdriver
+Binds when picked up
+Two-hand
+Sword
+25 - 38  Damage
+Speed 2.50
+(12.6 damage per second)
++6 Spirit
+Durability 65 / 65
+
+
+Item #12331
+URL: https://database.turtle-wow.org/?item=12331
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde Massive Green
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12469
+URL: https://database.turtle-wow.org/?item=12469
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Mutilator
+Binds when picked up
+Two-hand
+Sword
+82 - 124  Damage
+Speed 2.50
+(41.2 damage per second)
+Durability 100 / 100
+Requires Level 42
+Chance on hit:
+Increases damage done to target by physical attacks by 5 for 60 sec. Stacks up to 5 times.
+
+
+Item #12463
+URL: https://database.turtle-wow.org/?item=12463
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Drakefang Butcher
+Binds when picked up
+Two-hand
+Sword
+99 - 149  Damage
+Speed 2.70
+(45.9 damage per second)
++15 Strength
+Durability 100 / 100
+Requires Level 48
+Chance on hit:
+Wounds the target causing them to bleed for 150 damage over 30 sec.
+
+
+Item #12592
+URL: https://database.turtle-wow.org/?item=12592
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Blackblade of Shahram
+Binds when picked up
+Two-hand
+Sword
+166 - 250  Damage
+Speed 3.50
+(59.4 damage per second)
+Durability 120 / 120
+Requires Level 58
+Chance on hit:
+Summons the infernal spirit of Shahram.
+
+
+Item #12755
+URL: https://database.turtle-wow.org/?item=12755
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Blackblade of Shahram
+Binds when picked up
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12764
+URL: https://database.turtle-wow.org/?item=12764
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Thorium Greatsword
+Binds when equipped
+Two-hand
+Sword
+116 - 175  Damage
+Speed 3.60
+(40.4 damage per second)
++22 Strength
+Durability 85 / 85
+Requires Level 47
+
+
+Item #12782
+URL: https://database.turtle-wow.org/?item=12782
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Corruption
+Binds when equipped
+Two-hand
+Sword
+119 - 179  Damage
+Speed 3.00
+(49.7 damage per second)
++30 Strength
++30 Stamina
++-40 Spirit
+Durability 100 / 100
+Requires Level 53
+Chance on hit:
+Corrupts the target, causing 90 damage over 3 sec.
+
+
+Item #12790
+URL: https://database.turtle-wow.org/?item=12790
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Arcanite Champion
+Binds when equipped
+Two-hand
+Sword
+151 - 227  Damage
+Speed 3.50
+(54.0 damage per second)
+Durability 100 / 100
+Requires Level 58
+Chance on hit:
+Heal self for 270 to 451 and Increases Strength by 120 for 30 sec.
+
+
+Item #12882
+URL: https://database.turtle-wow.org/?item=12882
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde Curved Silver
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12889
+URL: https://database.turtle-wow.org/?item=12889
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde Curved Black
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12902
+URL: https://database.turtle-wow.org/?item=12902
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Luminous Evil Blade
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12949
+URL: https://database.turtle-wow.org/?item=12949
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Red White Broad
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12992
+URL: https://database.turtle-wow.org/?item=12992
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Searing Blade
+Binds when equipped
+Two-hand
+Sword
+39 - 59  Damage
+Speed 2.50
+(19.6 damage per second)
+Durability 80 / 80
+Requires Level 18
+Chance on hit:
+Hurls a fiery ball that causes 70 Fire damage and an additional 9 damage over 6 sec.
+
+
+Item #13044
+URL: https://database.turtle-wow.org/?item=13044
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Demonslayer
+Binds when equipped
+Two-hand
+Sword
+121 - 182  Damage
+Speed 3.10
+(48.9 damage per second)
+Durability 100 / 100
+Requires Level 52
+Equip:
++99 Attack Power when fighting Demons.
+
+
+Item #13042
+URL: https://database.turtle-wow.org/?item=13042
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Sword of the Magistrate
+Binds when equipped
+Two-hand
+Sword
+96 - 145  Damage
+Speed 3.30
+(36.5 damage per second)
++8 Strength
++10 Spirit
++15 Stamina
+Durability 100 / 100
+Requires Level 36
+
+
+Item #13041
+URL: https://database.turtle-wow.org/?item=13041
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Guardian Blade
+Binds when equipped
+Two-hand
+Sword
+50 - 76  Damage
+Speed 2.90
+(21.7 damage per second)
+40 Armor
+Durability 95 / 95
+Requires Level 21
+Equip:
+Increased Defense +9.
+
+
+Item #13043
+URL: https://database.turtle-wow.org/?item=13043
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Blade of the Titans
+Binds when equipped
+Two-hand
+Sword
+112 - 169  Damage
+Speed 3.30
+(42.6 damage per second)
++24 Stamina
++10 Strength
+Durability 100 / 100
+Requires Level 44
+
+
+Item #13049
+URL: https://database.turtle-wow.org/?item=13049
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Deanship Claymore
+Binds when equipped
+Two-hand
+Sword
+53 - 80  Damage
+Speed 2.80
+(23.8 damage per second)
++4 Spirit
+Durability 100 / 100
+Requires Level 26
+Equip:
+Increased Defense +10.
+
+
+Item #13052
+URL: https://database.turtle-wow.org/?item=13052
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Warmonger
+Binds when equipped
+Two-hand
+Sword
+108 - 162  Damage
+Speed 3.00
+(45.0 damage per second)
++3 Strength
+Durability 100 / 100
+Requires Level 47
+Equip:
+Improves your chance to hit by 3%.
+
+
+Item #13051
+URL: https://database.turtle-wow.org/?item=13051
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Witchfury
+Binds when equipped
+Two-hand
+Sword
+87 - 131  Damage
+Speed 2.80
+(38.9 damage per second)
+Durability 100 / 100
+Requires Level 39
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 150 Shadow damage.
+
+
+Item #13053
+URL: https://database.turtle-wow.org/?item=13053
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Doombringer
+Binds when equipped
+Two-hand
+Sword
+115 - 173  Damage
+Speed 2.80
+(51.4 damage per second)
+Durability 100 / 100
+Requires Level 55
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 125 to 276 Shadow damage.
+
+
+Item #13150
+URL: https://database.turtle-wow.org/?item=13150
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Claymore Blue
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13160
+URL: https://database.turtle-wow.org/?item=13160
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Claymore Silver
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13163
+URL: https://database.turtle-wow.org/?item=13163
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Relentless Scythe
+Binds when picked up
+Two-hand
+Sword
+140 - 210  Damage
+Speed 3.30
+(53.0 damage per second)
++12 Agility
++14 Strength
++8 Stamina
+Durability 100 / 100
+Requires Level 57
+Equip:
+Increases your chance to parry an attack by 1%.
+
+
+Item #13262
+URL: https://database.turtle-wow.org/?item=13262
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Ashbringer
+Binds when picked up
+Unique
+Two-hand
+Sword
+201 - 247  Damage
+Speed 3.00
++30 - 50 Holy Damage
+(88.0 damage per second)
+Durability 145 / 145
+Requires Level 60
+Chance on hit:
+Blasts a target for 700 Fire damage.
+"Blade of the Scarlet Highlord"
+
+
+Item #13316
+URL: https://database.turtle-wow.org/?item=13316
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Claymore Silver Yellow Glow
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13348
+URL: https://database.turtle-wow.org/?item=13348
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Demonshear
+Binds when picked up
+Two-hand
+Sword
+163 - 246  Damage
+Speed 3.80
+(53.8 damage per second)
+Durability 100 / 100
+Requires Level 58
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 150 Shadow damage and dealing 40 damage every 2 sec for 6 sec.
+
+
+Item #13505
+URL: https://database.turtle-wow.org/?item=13505
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Runeblade of Baron Rivendare
+Binds when picked up
+Two-hand
+Sword
+171 - 257  Damage
+Speed 3.60
+(59.4 damage per second)
+Durability 120 / 120
+Requires Level 58
+Equip:
+Increases your movement speed by 15% and restores 60 Health per 5 sec. Half of this effect is granted to allies within 30 yards.
+
+
+Item #13623
+URL: https://database.turtle-wow.org/?item=13623
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde Skull Blue Flame
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13708
+URL: https://database.turtle-wow.org/?item=13708
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde Massive Blue
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13817
+URL: https://database.turtle-wow.org/?item=13817
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Tapered Greatsword
+Two-hand
+Sword
+62 - 94  Damage
+Speed 2.90
+(26.9 damage per second)
+Durability 85 / 85
+Requires Level 53
+
+
+Item #13982
+URL: https://database.turtle-wow.org/?item=13982
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Warblade of Caer Darrow
+Binds when picked up
+Two-hand
+Sword
+142 - 214  Damage
+Speed 3.30
++1 - 22 Frost Damage
+(57.4 damage per second)
+Durability 100 / 100
+
+
+Item #14541
+URL: https://database.turtle-wow.org/?item=14541
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Barovian Family Sword
+Binds when picked up
+Two-hand
+Sword
+87 - 132  Damage
+Speed 2.10
+(52.1 damage per second)
+Durability 100 / 100
+Requires Level 56
+Chance on hit:
+Deals 30 Shadow damage every 3 sec for 15 sec. All damage done is then transferred to the caster.
+
+
+Item #14878
+URL: https://database.turtle-wow.org/?item=14878
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Katana B01 Red
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #15250
+URL: https://database.turtle-wow.org/?item=15250
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Glimmering Flamberge
+Binds when equipped
+Two-hand
+Sword
+55 - 84  Damage
+Speed 3.20
+(21.7 damage per second)
+Durability 85 / 85
+Requires Level 27
+Random Bonuses
+
+
+Item #15248
+URL: https://database.turtle-wow.org/?item=15248
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Gleaming Claymore
+Binds when equipped
+Two-hand
+Sword
+30 - 46  Damage
+Speed 2.90
+(13.1 damage per second)
+Durability 65 / 65
+Requires Level 15
+Random Bonuses
+
+
+Item #15249
+URL: https://database.turtle-wow.org/?item=15249
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Polished Zweihander
+Binds when equipped
+Two-hand
+Sword
+50 - 76  Damage
+Speed 3.60
+(17.5 damage per second)
+Durability 80 / 80
+Requires Level 21
+Random Bonuses
+
+
+Item #15252
+URL: https://database.turtle-wow.org/?item=15252
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Tusker Sword
+Binds when equipped
+Two-hand
+Sword
+112 - 169  Damage
+Speed 3.70
+(38.0 damage per second)
+Durability 85 / 85
+Requires Level 44
+Random Bonuses
+
+
+Item #15257
+URL: https://database.turtle-wow.org/?item=15257
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Shin Blade
+Binds when equipped
+Two-hand
+Sword
+84 - 127  Damage
+Speed 2.20
+(48.0 damage per second)
+Durability 85 / 85
+Requires Level 57
+Random Bonuses
+
+
+Item #15254
+URL: https://database.turtle-wow.org/?item=15254
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Dark Espadon
+Binds when equipped
+Two-hand
+Sword
+110 - 166  Damage
+Speed 3.30
+(41.8 damage per second)
+Durability 85 / 85
+Requires Level 49
+Random Bonuses
+
+
+Item #15256
+URL: https://database.turtle-wow.org/?item=15256
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Massacre Sword
+Binds when equipped
+Two-hand
+Sword
+139 - 209  Damage
+Speed 3.80
+(45.8 damage per second)
+Durability 85 / 85
+Requires Level 54
+Random Bonuses
+
+
+Item #15255
+URL: https://database.turtle-wow.org/?item=15255
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Gallant Flamberge
+Binds when equipped
+Two-hand
+Sword
+120 - 181  Damage
+Speed 3.40
+(44.3 damage per second)
+Durability 85 / 85
+Requires Level 52
+Random Bonuses
+
+
+Item #15258
+URL: https://database.turtle-wow.org/?item=15258
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Divine Warblade
+Binds when equipped
+Two-hand
+Sword
+109 - 164  Damage
+Speed 2.70
+(50.6 damage per second)
+Durability 85 / 85
+Requires Level 60
+Random Bonuses
+
+
+Item #15251
+URL: https://database.turtle-wow.org/?item=15251
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Headstriker Sword
+Binds when equipped
+Two-hand
+Sword
+62 - 94  Damage
+Speed 2.40
+(32.5 damage per second)
+Durability 85 / 85
+Requires Level 38
+Random Bonuses
+
+
+Item #15253
+URL: https://database.turtle-wow.org/?item=15253
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Beheading Blade
+Binds when equipped
+Two-hand
+Sword
+113 - 170  Damage
+Speed 3.50
+(40.4 damage per second)
+Durability 85 / 85
+Requires Level 47
+Random Bonuses
+
+
+Item #16039
+URL: https://database.turtle-wow.org/?item=16039
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Ta'Kierthan Songblade
+Binds when equipped
+Two-hand
+Sword
+129 - 194  Damage
+Speed 3.30
++1 - 20 Arcane Damage
+(52.1 damage per second)
+Durability 100 / 100
+Requires Level 52
+
+
+Item #17076
+URL: https://database.turtle-wow.org/?item=17076
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Bonereaver's Edge
+Binds when picked up
+Two-hand
+Sword
+206 - 310  Damage
+Speed 3.40
+(75.9 damage per second)
++16 Stamina
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Your attacks ignore 700 of your enemies' armor for 10 sec. This effect stacks up to 3 times.
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #18410
+URL: https://database.turtle-wow.org/?item=18410
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Sprinter's Sword
+Binds when picked up
+Two-hand
+Sword
+99 - 149  Damage
+Speed 2.80
+(44.3 damage per second)
+Durability 85 / 85
+Chance on hit:
+Increases run speed by 30% for 10 sec.
+
+
+Item #18520
+URL: https://database.turtle-wow.org/?item=18520
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Barbarous Blade
+Binds when picked up
+Two-hand
+Sword
+138 - 207  Damage
+Speed 3.20
+(53.9 damage per second)
+Durability 100 / 100
+Requires Level 58
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++60 Attack Power.
+
+
+Item #18542
+URL: https://database.turtle-wow.org/?item=18542
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Typhoon
+Binds when picked up
+Two-hand
+Sword
+150 - 225  Damage
+Speed 2.90
+(64.7 damage per second)
++16 Strength
++20 Agility
++18 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases your chance to parry an attack by 2%.
+
+
+Item #18822
+URL: https://database.turtle-wow.org/?item=18822
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Obsidian Edged Blade
+Binds when picked up
+Two-hand
+Sword
+176 - 264  Damage
+Speed 3.40
+(64.7 damage per second)
++42 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increased Two-handed Swords +8.
+
+
+Item #18877
+URL: https://database.turtle-wow.org/?item=18877
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+High Warlord's Greatsword
+Binds when picked up
+Two-hand
+Sword
+262 - 380  Damage
+Speed 3.80
+(84.5 damage per second)
++43 Stamina
++28 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #18876
+URL: https://database.turtle-wow.org/?item=18876
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Grand Marshal's Claymore
+Binds when picked up
+Two-hand
+Sword
+262 - 380  Damage
+Speed 3.80
+(84.5 damage per second)
++43 Stamina
++28 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #19334
+URL: https://database.turtle-wow.org/?item=19334
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+The Untamed Blade
+Binds when picked up
+Two-hand
+Sword
+192 - 289  Damage
+Speed 3.40
+(70.7 damage per second)
++22 Agility
++16 Stamina
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Increases Strength by 300 for 8 sec.
+
+
+Item #19364
+URL: https://database.turtle-wow.org/?item=19364
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Ashkandi, Greatsword of the Brotherhood
+Binds when picked up
+Two-hand
+Sword
+229 - 344  Damage
+Speed 3.50
+(81.9 damage per second)
++33 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++86 Attack Power.
+"The initials A.L. are etched on the hilt."
+
+
+Item #19854
+URL: https://database.turtle-wow.org/?item=19854
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Zin'rokh, Destroyer of Worlds
+Binds when picked up
+Unique
+Two-hand
+Sword
+196 - 295  Damage
+Speed 3.80
+(64.6 damage per second)
++28 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++72 Attack Power.
+
+
+Item #19981
+URL: https://database.turtle-wow.org/?item=19981
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Claymore B01/Broadsword A03 Black Sharpened
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #20504
+URL: https://database.turtle-wow.org/?item=20504
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Lightforged Blade
+Binds when picked up
+Two-hand
+Sword
+118 - 178  Damage
+Speed 3.30
+(44.8 damage per second)
++9 Strength
++9 Stamina
++10 Fire Resistance
++10 Frost Resistance
++10 Shadow Resistance
+Durability 100 / 100
+Equip:
+Increases damage done by Holy spells and effects by up to 16.
+
+
+Item #20669
+URL: https://database.turtle-wow.org/?item=20669
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Darkstone Claymore
+Binds when picked up
+Two-hand
+Sword
+152 - 229  Damage
+Speed 3.60
+(52.9 damage per second)
++17 Stamina
+Durability 100 / 100
+Requires Level 57
+Equip:
++54 Attack Power.
+
+
+Item #21492
+URL: https://database.turtle-wow.org/?item=21492
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Manslayer of the Qiraji
+Binds when picked up
+Two-hand
+Sword
+180 - 270  Damage
+Speed 3.60
+(62.5 damage per second)
++35 Strength
++20 Stamina
++15 Agility
+Durability 120 / 120
+Requires Level 60
+
+
+Item #21553
+URL: https://database.turtle-wow.org/?item=21553
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Alliance PvP
+One-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #21679
+URL: https://database.turtle-wow.org/?item=21679
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Kalimdor's Revenge
+Binds when picked up
+Two-hand
+Sword
+209 - 315  Damage
+Speed 3.20
+(81.9 damage per second)
++24 Strength
++18 Stamina
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Instantly lightning shocks the target for 239 to 278 Nature damage.
+
+
+Item #21794
+URL: https://database.turtle-wow.org/?item=21794
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Ahn'Qiraj
+Two-hand
+Sword
+2 - 3  Damage
+Speed 2.60
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #22596
+URL: https://database.turtle-wow.org/?item=22596
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Horde A02
+Two-hand
+Sword
+Durability 20 / 20
+
+
+Item #22691
+URL: https://database.turtle-wow.org/?item=22691
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Corrupted Ashbringer
+Binds when picked up
+Unique
+Two-hand
+Sword
+259 - 389  Damage
+Speed 3.60
+(90.0 damage per second)
++-25 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Inflicts the will of the Ashbringer upon the wielder.
+Equip:
+Improves your chance to get a critical strike by 2%.
+Equip:
+Improves your chance to hit by 1%.
+Chance on hit:
+Steals 185 to 216 life from target enemy.
+"Blade of the Scarlet Highlord"
+
+
+Item #22709
+URL: https://database.turtle-wow.org/?item=22709
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Corrupted Ashbringer
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #22813
+URL: https://database.turtle-wow.org/?item=22813
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Claymore of Unholy Might
+Binds when picked up
+Two-hand
+Sword
+242 - 366  Damage
+Speed 3.60
+(84.4 damage per second)
++20 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++98 Attack Power.
+Equip:
+Increased Two-handed Swords +7.
+
+
+Item #23328
+URL: https://database.turtle-wow.org/?item=23328
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Instructor Razuvious
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #23556
+URL: https://database.turtle-wow.org/?item=23556
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Worn Thalassian Sword
+Two-hand
+Sword
+3 - 5  Damage
+Speed 2.90
+(1.4 damage per second)
+Durability 25 / 25
+
+
+Item #36015
+URL: https://database.turtle-wow.org/?item=36015
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+kazgrim test dk sword
+Two-hand
+Sword
+
+
+Item #41184
+URL: https://database.turtle-wow.org/?item=41184
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Blade of the Warden
+Binds when picked up
+Two-hand
+Sword
+17 - 31  Damage
+Speed 3.00
+(8.0 damage per second)
+Durability 45 / 45
+
+
+Item #41483
+URL: https://database.turtle-wow.org/?item=41483
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H
+Binds when picked up
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #41564
+URL: https://database.turtle-wow.org/?item=41564
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Emberclaw
+Binds when picked up
+Two-hand
+Sword
+67 - 124  Damage
+Speed 3.30
+(28.9 damage per second)
++13 Strength
++8 Agility
++6 Stamina
+Durability 100 / 100
+Requires Level 29
+
+
+Item #50243
+URL: https://database.turtle-wow.org/?item=50243
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Pompa's Scratching Stick
+Binds when picked up
+Two-hand
+Sword
+1 - 1337  Damage
+Speed 1.00
+(669.0 damage per second)
+Use:
+Instantly Kills the target.  I hope you feel good about yourself now.....
+"Only a madman would scratch with this."
+
+
+Item #50256
+URL: https://database.turtle-wow.org/?item=50256
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Fractured Sword
+Binds when picked up
+Two-hand
+Sword
+8 - 13  Damage
+Speed 3.50
+(3.0 damage per second)
+Durability 35 / 35
+"The blade's chipped. So was its owner."
+
+
+Item #51040
+URL: https://database.turtle-wow.org/?item=51040
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Claymore of the Templar
+Binds when picked up
+Two-hand
+Sword
+1 - 2  Damage
+Speed 1.00
+(1.5 damage per second)
+
+
+Item #51752
+URL: https://database.turtle-wow.org/?item=51752
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Crusader's Redemption
+Binds when equipped
+Two-hand
+Sword
+88 - 133  Damage
+Speed 2.90
++5 - 10 Holy Damage
+(40.7 damage per second)
++7 Strength
++5 Stamina
++15 Intellect
++10 Shadow Resistance
+Durability 100 / 100
+Requires Level 39
+Equip:
+Increases your chance to parry an attack by 1%.
+
+
+Item #51766
+URL: https://database.turtle-wow.org/?item=51766
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Greatblade of Quel'Danil
+Binds when picked up
+Two-hand
+Sword
+88 - 147  Damage
+Speed 3.30
+(35.6 damage per second)
++9 Strength
++9 Agility
++7 Stamina
+Durability 85 / 85
+
+
+Item #51849
+URL: https://database.turtle-wow.org/?item=51849
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Thunderhorn
+Binds when picked up
+Two-hand
+Sword
+47 - 71  Damage
+Speed 2.90
+(20.3 damage per second)
+Durability 80 / 80
+Chance on hit:
+Blasts a target for 35 Nature damage.
+"Infused with the power of a Thunder Lizard."
+
+
+Item #55277
+URL: https://database.turtle-wow.org/?item=55277
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+The End of All Ambitions
+Binds when picked up
+Two-hand
+Sword
+207 - 385  Damage
+Speed 3.50
+(84.6 damage per second)
++45 Strength
++24 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #58069
+URL: https://database.turtle-wow.org/?item=58069
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Penny's Crabcracker
+Binds when picked up
+Two-hand
+Sword
+62 - 90  Damage
+Speed 3.00
+(25.3 damage per second)
+Durability 85 / 85
+Equip:
++22 Attack Power.
+Equip:
+Your attacks ignore 20 of the target's armor.
+
+
+Item #58094
+URL: https://database.turtle-wow.org/?item=58094
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Gilded Blade of Razjal
+Binds when picked up
+Two-hand
+Sword
+119 - 167  Damage
+Speed 3.40
+(42.1 damage per second)
++22 Strength
+Durability 100 / 100
+Requires Level 43
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #58188
+URL: https://database.turtle-wow.org/?item=58188
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Jaw of the Ancient
+Binds when picked up
+Two-hand
+Sword
+116 - 180  Damage
+Speed 3.80
+(38.9 damage per second)
++9 Stamina
++9 Strength
++7 Agility
+Durability 100 / 100
+Requires Level 34
+Chance on hit:
+Wounds the target causing them to bleed for 110 damage over 30 sec.
+
+
+Item #58232
+URL: https://database.turtle-wow.org/?item=58232
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Demonbane
+Binds when picked up
+Two-hand
+Sword
+178 - 262  Damage
+Speed 3.70
+(59.5 damage per second)
++21 Strength
+Durability 120 / 120
+Classes: Paladin
+Requires Level 58
+Requires Argent Dawn - Exalted
+Equip:
+Increases damage done by Holy spells and effects by up to 29.
+Equip:
+Improves your chance to get a critical strike by 2%.
+
+
+Item #60293
+URL: https://database.turtle-wow.org/?item=60293
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Untempered Runeblade
+Binds when picked up
+Two-hand
+Sword
+168 - 252  Damage
+Speed 3.70
++5 - 10 Shadow Damage
+(58.8 damage per second)
++10 Strength
++10 Shadow Resistance
+Durability 100 / 100
+Requires Level 58
+Equip:
+Restores 10 health per 5 sec.
+"A dark voiceless power beckons you to pick up this blade."
+
+
+Item #60294
+URL: https://database.turtle-wow.org/?item=60294
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Bloodstone Warblade
+Binds when equipped
+Two-hand
+Sword
+110 - 168  Damage
+Speed 3.60
+(38.6 damage per second)
++8 Stamina
++8 Strength
+Durability 65 / 65
+Requires Level 41
+Equip:
+2% of damage dealt is returned as healing.
+
+
+Item #60392
+URL: https://database.turtle-wow.org/?item=60392
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Sword of Laneron
+Binds when picked up
+Two-hand
+Sword
+40 - 78  Damage
+Speed 2.80
+(21.1 damage per second)
++10 Stamina
+Durability 80 / 80
+Equip:
+1% of damage dealt is returned as healing.
+"Once wielded by a hero of the Second War."
+
+
+Item #60808
+URL: https://database.turtle-wow.org/?item=60808
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Bone Fracture
+Binds when equipped
+Two-hand
+Sword
+103 - 209  Damage
+Speed 2.90
+(53.8 damage per second)
++12 Stamina
+Durability 100 / 100
+Requires Level 58
+Equip:
+Your attacks ignore 50 of the target's armor.
+
+
+Item #60947
+URL: https://database.turtle-wow.org/?item=60947
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Blade of Marauder Kings
+Binds when picked up
+Two-hand
+Sword
+89 - 104  Damage
+Speed 2.90
++10 - 15 Fire Damage
+(37.6 damage per second)
++10 Strength
++10 Fire Resistance
+Durability 85 / 85
+
+
+Item #61016
+URL: https://database.turtle-wow.org/?item=61016
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Time-Lost Claymore
+Binds when picked up
+Unique
+Two-hand
+Sword
+150 - 219  Damage
+Speed 3.30
+(55.9 damage per second)
++12 Stamina
+Durability 100 / 100
+Requires Level 60
+Equip:
++66 Attack Power.
+
+
+Item #61049
+URL: https://database.turtle-wow.org/?item=61049
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Chronobreaker
+Binds when picked up
+Two-hand
+Sword
+142 - 214  Damage
+Speed 2.90
+(61.4 damage per second)
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Grants an extra attack on your next swing.
+
+
+Item #61242
+URL: https://database.turtle-wow.org/?item=61242
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Monster - Sword2H, Blackwald Sword
+Binds when picked up
+Two-hand
+Sword
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #61247
+URL: https://database.turtle-wow.org/?item=61247
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Shadowbringer
+Binds when picked up
+Two-hand
+Sword
+170 - 258  Damage
+Speed 3.30
+(64.8 damage per second)
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Corrupts the target, causing 210 damage over 3 sec.
+Chance on hit:
+Steals 141 to 164 life from target enemy.
+
+
+Item #61328
+URL: https://database.turtle-wow.org/?item=61328
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Wolfblood
+Binds when picked up
+Two-hand
+Sword
+114 - 174  Damage
+Speed 3.30
+(43.6 damage per second)
++18 Strength
+Durability 100 / 100
+Requires Level 46
+Equip:
+2% of damage dealt is returned as healing.
+Equip:
+Increases your attack and casting speed by 1%.
+"Passed down generation to generation within the Greymane family."
+
+
+Item #61346
+URL: https://database.turtle-wow.org/?item=61346
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Katana of the Senshi
+Two-hand
+Sword
+61 - 114  Damage
+Speed 3.10
+(28.2 damage per second)
++3 Agility
+Durability 85 / 85
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #61375
+URL: https://database.turtle-wow.org/?item=61375
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Crossguarded Blade
+Binds when picked up
+Two-hand
+Sword
+12 - 19  Damage
+Speed 2.90
+(5.3 damage per second)
+20 Armor
+Durability 45 / 45
+Requires Level 5
+
+
+Item #61538
+URL: https://database.turtle-wow.org/?item=61538
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Moonsteel Zweihander
+Binds when equipped
+Two-hand
+Sword
+82 - 147  Damage
+Speed 2.80
+(40.9 damage per second)
++13 Agility
++7 Intellect
++10 Stamina
+Durability 85 / 85
+Requires Level 48
+Equip:
++16 Attack Power.
+
+
+Item #61612
+URL: https://database.turtle-wow.org/?item=61612
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Holy Sword
+Binds when equipped
+Two-hand
+Sword
+87 - 133  Damage
+Speed 3.10
+(35.5 damage per second)
+Durability 85 / 85
+Requires Level 41
+Equip:
+Increases healing done by spells and effects by up to 40.
+
+
+Item #61660
+URL: https://database.turtle-wow.org/?item=61660
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Garalon's Might
+Binds when picked up
+Two-hand
+Sword
+87 - 144  Damage
+Speed 3.20
++2 - 6 Shadow Damage
+(37.4 damage per second)
++21 Strength
+Durability 100 / 100
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #80126
+URL: https://database.turtle-wow.org/?item=80126
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Sharpened Bastard Sword
+Binds when picked up
+Two-hand
+Sword
+19 - 27  Damage
+Speed 3.10
+(7.4 damage per second)
++1 Strength
+Durability 45 / 45
+
+
+Item #80206
+URL: https://database.turtle-wow.org/?item=80206
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Rusted Bastard Sword
+Binds when picked up
+Two-hand
+Sword
+8 - 13  Damage
+Speed 3.50
+(3.0 damage per second)
+Durability 35 / 35
+
+
+Item #80222
+URL: https://database.turtle-wow.org/?item=80222
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Farstrider Lodge Protector's Sword
+Binds when equipped
+Two-hand
+Sword
+30 - 46  Damage
+Speed 2.90
+(13.1 damage per second)
++4 Strength
++4 Stamina
+Durability 65 / 65
+Requires Level 15
+
+
+Item #80534
+URL: https://database.turtle-wow.org/?item=80534
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Quel'dorei Guardian's Battle Glaive
+Binds when picked up
+Two-hand
+Sword
+136 - 243  Damage
+Speed 3.40
+(55.7 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++50 Attack Power.
+
+
+Item #80537
+URL: https://database.turtle-wow.org/?item=80537
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Quel'dorei Guardian's Twinblade
+Binds when picked up
+Two-hand
+Sword
+136 - 243  Damage
+Speed 3.40
+(55.7 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++50 Attack Power.
+
+
+Item #80637
+URL: https://database.turtle-wow.org/?item=80637
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Revantusk Watcher's Warblade
+Binds when picked up
+Two-hand
+Sword
+136 - 243  Damage
+Speed 3.40
+(55.7 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++50 Attack Power.
+
+
+Item #80812
+URL: https://database.turtle-wow.org/?item=80812
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Gift of the Spider God
+Binds when equipped
+Two-hand
+Sword
+83 - 130  Damage
+Speed 2.30
++5 - 10 Nature Damage
+(49.6 damage per second)
+Durability 110 / 110
+Requires Level 46
+Chance on hit:
+Gives nearby allies 35% chance to poison an enemy on hit. Lasts 120 sec.
+
+
+Item #80817
+URL: https://database.turtle-wow.org/?item=80817
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Scorched Bastard Sword
+Binds when equipped
+Two-hand
+Sword
+18 - 28  Damage
+Speed 2.80
++2 - 4 Fire Damage
+(9.3 damage per second)
+Durability 50 / 50
+Requires Level 8
+
+
+Item #81060
+URL: https://database.turtle-wow.org/?item=81060
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Tempered Runeblade
+Binds when picked up
+Two-hand
+Sword
+183 - 278  Damage
+Speed 3.70
++7 - 15 Shadow Damage
+(65.3 damage per second)
++20 Strength
++20 Shadow Resistance
+Durability 120 / 120
+Chance on hit:
+Strike the target again for 350 to 426 Shadow damage and 5% of damage dealt is returned as healing for 10 sec. The damage dealt is also done to you.
+Equip:
+Restores 15 health per 5 sec.
+"Deep within, you sense an untameable hunger to inflict destruction."
+
+
+Item #81057
+URL: https://database.turtle-wow.org/?item=81057
+Category: Database/Items/Weapons/Two-Handed Swords
+Item: 
+Dark Reaver
+Binds when picked up
+Two-hand
+Sword
+167 - 251  Damage
+Speed 3.70
+(56.5 damage per second)
+Durability 80 / 80
+Requires Level 57
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 145 to 326 Shadow damage.
+
+

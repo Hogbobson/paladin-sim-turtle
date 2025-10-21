@@ -1,0 +1,1958 @@
+Item #2099
+URL: https://database.turtle-wow.org/?item=2099
+Category: Database/Items/Weapons/Guns
+Item: 
+Dwarven Hand Cannon
+Binds when equipped
+Ranged
+Gun
+66 - 124  Damage
+Speed 2.90
+(32.8 damage per second)
+Durability 90 / 90
+Requires Level 53
+Equip:
+Chance to strike your ranged target with a Flaming Cannonball for 33 to 50 Fire damage.
+
+
+Item #2100
+URL: https://database.turtle-wow.org/?item=2100
+Category: Database/Items/Weapons/Guns
+Item: 
+Precisely Calibrated Boomstick
+Binds when equipped
+Ranged
+Gun
+38 - 45  Damage
+Speed 1.50
+(27.7 damage per second)
++14 Agility
+Durability 90 / 90
+Requires Level 43
+
+
+Item #2098
+URL: https://database.turtle-wow.org/?item=2098
+Category: Database/Items/Weapons/Guns
+Item: 
+Double-barreled Shotgun
+Binds when equipped
+Ranged
+Gun
+21 - 40  Damage
+Speed 2.30
+(13.3 damage per second)
+Durability 70 / 70
+Requires Level 22
+
+
+Item #2509
+URL: https://database.turtle-wow.org/?item=2509
+Category: Database/Items/Weapons/Guns
+Item: 
+Ornate Blunderbuss
+Ranged
+Gun
+4 - 9  Damage
+Speed 2.20
+(3.0 damage per second)
+Durability 30 / 30
+Requires Level 4
+
+
+Item #2511
+URL: https://database.turtle-wow.org/?item=2511
+Category: Database/Items/Weapons/Guns
+Item: 
+Hunter's Boomstick
+Ranged
+Gun
+7 - 14  Damage
+Speed 2.10
+(5.0 damage per second)
+Durability 40 / 40
+Requires Level 9
+
+
+Item #2508
+URL: https://database.turtle-wow.org/?item=2508
+Category: Database/Items/Weapons/Guns
+Item: 
+Old Blunderbuss
+Ranged
+Gun
+2 - 5  Damage
+Speed 2.30
+(1.5 damage per second)
+Durability 20 / 20
+
+
+Item #2510
+URL: https://database.turtle-wow.org/?item=2510
+Category: Database/Items/Weapons/Guns
+Item: 
+Solid Blunderbuss
+Ranged
+Gun
+3 - 6  Damage
+Speed 2.20
+(2.0 damage per second)
+Durability 20 / 20
+
+
+Item #2552
+URL: https://database.turtle-wow.org/?item=2552
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Gun
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #2774
+URL: https://database.turtle-wow.org/?item=2774
+Category: Database/Items/Weapons/Guns
+Item: 
+Rust-covered Blunderbuss
+Ranged
+Gun
+3 - 6  Damage
+Speed 2.40
+(1.9 damage per second)
+Durability 30 / 30
+Requires Level 2
+
+
+Item #2781
+URL: https://database.turtle-wow.org/?item=2781
+Category: Database/Items/Weapons/Guns
+Item: 
+Dirty Blunderbuss
+Ranged
+Gun
+6 - 12  Damage
+Speed 2.20
+(4.1 damage per second)
+Durability 45 / 45
+Requires Level 13
+
+
+Item #2783
+URL: https://database.turtle-wow.org/?item=2783
+Category: Database/Items/Weapons/Guns
+Item: 
+Shoddy Blunderbuss
+Ranged
+Gun
+7 - 14  Damage
+Speed 2.10
+(5.0 damage per second)
+Durability 50 / 50
+Requires Level 17
+
+
+Item #2786
+URL: https://database.turtle-wow.org/?item=2786
+Category: Database/Items/Weapons/Guns
+Item: 
+Oiled Blunderbuss
+Ranged
+Gun
+9 - 19  Damage
+Speed 2.00
+(7.0 damage per second)
+Durability 65 / 65
+Requires Level 24
+
+
+Item #2778
+URL: https://database.turtle-wow.org/?item=2778
+Category: Database/Items/Weapons/Guns
+Item: 
+Cheap Blunderbuss
+Ranged
+Gun
+5 - 9  Damage
+Speed 2.20
+(3.2 damage per second)
+Durability 35 / 35
+Requires Level 8
+
+
+Item #2904
+URL: https://database.turtle-wow.org/?item=2904
+Category: Database/Items/Weapons/Guns
+Item: 
+Daryl's Hunting Rifle
+Binds when picked up
+Ranged
+Gun
+11 - 21  Damage
+Speed 2.50
+(6.4 damage per second)
+Durability 40 / 40
+
+
+Item #3024
+URL: https://database.turtle-wow.org/?item=3024
+Category: Database/Items/Weapons/Guns
+Item: 
+BKP 2700 "Enforcer"
+Ranged
+Gun
+18 - 34  Damage
+Speed 2.70
+(9.6 damage per second)
+Durability 60 / 60
+Requires Level 21
+
+
+Item #3025
+URL: https://database.turtle-wow.org/?item=3025
+Category: Database/Items/Weapons/Guns
+Item: 
+BKP 42 "Ultra"
+Ranged
+Gun
+20 - 38  Damage
+Speed 2.10
+(13.8 damage per second)
+Durability 65 / 65
+Requires Level 31
+
+
+Item #3023
+URL: https://database.turtle-wow.org/?item=3023
+Category: Database/Items/Weapons/Guns
+Item: 
+Large Bore Blunderbuss
+Ranged
+Gun
+13 - 24  Damage
+Speed 2.50
+(7.4 damage per second)
+Durability 50 / 50
+Requires Level 16
+
+
+Item #3040
+URL: https://database.turtle-wow.org/?item=3040
+Category: Database/Items/Weapons/Guns
+Item: 
+Hunter's Muzzle Loader
+Binds when equipped
+Ranged
+Gun
+9 - 18  Damage
+Speed 1.80
+(7.5 damage per second)
+Durability 45 / 45
+Requires Level 14
+
+
+Item #3041
+URL: https://database.turtle-wow.org/?item=3041
+Category: Database/Items/Weapons/Guns
+Item: 
+"Mage-Eye" Blunderbuss
+Binds when equipped
+Ranged
+Gun
+24 - 46  Damage
+Speed 2.80
+(12.5 damage per second)
+Durability 65 / 65
+Requires Level 26
+
+
+Item #3042
+URL: https://database.turtle-wow.org/?item=3042
+Category: Database/Items/Weapons/Guns
+Item: 
+BKP "Sparrow" Smallbore
+Binds when equipped
+Ranged
+Gun
+15 - 30  Damage
+Speed 1.70
+(13.2 damage per second)
+Durability 65 / 65
+Requires Level 28
+
+
+Item #3079
+URL: https://database.turtle-wow.org/?item=3079
+Category: Database/Items/Weapons/Guns
+Item: 
+Skorn's Rifle
+Binds when picked up
+Ranged
+Gun
+6 - 13  Damage
+Speed 1.90
+(5.0 damage per second)
+Durability 35 / 35
+
+
+Item #3430
+URL: https://database.turtle-wow.org/?item=3430
+Category: Database/Items/Weapons/Guns
+Item: 
+Sniper Rifle
+Binds when equipped
+Ranged
+Gun
+56 - 65  Damage
+Speed 3.00
+(20.2 damage per second)
+Durability 65 / 65
+Requires Level 39
+Random Bonuses
+
+
+Item #3567
+URL: https://database.turtle-wow.org/?item=3567
+Category: Database/Items/Weapons/Guns
+Item: 
+Dwarven Fishing Pole
+Binds when picked up
+Ranged
+Gun
+9 - 19  Damage
+Speed 1.90
+(7.4 damage per second)
+Durability 45 / 45
+"Dwarves aren't known for their subtlety."
+
+
+Item #3780
+URL: https://database.turtle-wow.org/?item=3780
+Category: Database/Items/Weapons/Guns
+Item: 
+Long-barreled Musket
+Ranged
+Gun
+14 - 27  Damage
+Speed 2.60
+(7.9 damage per second)
+Durability 65 / 65
+Requires Level 28
+
+
+Item #4026
+URL: https://database.turtle-wow.org/?item=4026
+Category: Database/Items/Weapons/Guns
+Item: 
+Sentinel Musket
+Ranged
+Gun
+22 - 43  Damage
+Speed 2.80
+(11.6 damage per second)
+Durability 65 / 65
+Requires Level 38
+
+
+Item #4086
+URL: https://database.turtle-wow.org/?item=4086
+Category: Database/Items/Weapons/Guns
+Item: 
+Flash Rifle
+Binds when picked up
+Ranged
+Gun
+19 - 36  Damage
+Speed 1.80
+(15.3 damage per second)
+Durability 65 / 65
+
+
+Item #4089
+URL: https://database.turtle-wow.org/?item=4089
+Category: Database/Items/Weapons/Guns
+Item: 
+Ricochet Blunderbuss
+Binds when equipped
+Ranged
+Gun
+36 - 67  Damage
+Speed 2.30
+(22.4 damage per second)
+Durability 65 / 65
+Requires Level 43
+Random Bonuses
+
+
+Item #4111
+URL: https://database.turtle-wow.org/?item=4111
+Category: Database/Items/Weapons/Guns
+Item: 
+Master Hunter's Rifle
+Binds when picked up
+Ranged
+Gun
+37 - 70  Damage
+Speed 2.60
+(20.6 damage per second)
+Durability 65 / 65
+
+
+Item #4127
+URL: https://database.turtle-wow.org/?item=4127
+Category: Database/Items/Weapons/Guns
+Item: 
+Shrapnel Blaster
+Binds when picked up
+Ranged
+Gun
+23 - 43  Damage
+Speed 1.90
+(17.4 damage per second)
+Durability 65 / 65
+
+
+Item #4369
+URL: https://database.turtle-wow.org/?item=4369
+Category: Database/Items/Weapons/Guns
+Item: 
+Deadly Blunderbuss
+Binds when equipped
+Ranged
+Gun
+15 - 28  Damage
+Speed 2.60
+(8.3 damage per second)
+Durability 50 / 50
+Requires Level 16
+
+
+Item #4372
+URL: https://database.turtle-wow.org/?item=4372
+Category: Database/Items/Weapons/Guns
+Item: 
+Lovingly Crafted Boomstick
+Binds when equipped
+Ranged
+Gun
+12 - 23  Damage
+Speed 1.80
+(9.7 damage per second)
+Durability 55 / 55
+Requires Level 19
+
+
+Item #4362
+URL: https://database.turtle-wow.org/?item=4362
+Category: Database/Items/Weapons/Guns
+Item: 
+Rough Boomstick
+Binds when equipped
+Ranged
+Gun
+6 - 13  Damage
+Speed 2.30
+(4.1 damage per second)
+Durability 35 / 35
+Requires Level 5
+
+
+Item #4379
+URL: https://database.turtle-wow.org/?item=4379
+Category: Database/Items/Weapons/Guns
+Item: 
+Silver-plated Shotgun
+Binds when equipped
+Ranged
+Gun
+19 - 37  Damage
+Speed 2.70
+(10.4 damage per second)
+Durability 60 / 60
+Requires Level 21
+
+
+Item #4383
+URL: https://database.turtle-wow.org/?item=4383
+Category: Database/Items/Weapons/Guns
+Item: 
+Moonsight Rifle
+Binds when equipped
+Ranged
+Gun
+14 - 26  Damage
+Speed 1.70
+(11.8 damage per second)
+Durability 65 / 65
+Requires Level 24
+
+
+Item #4577
+URL: https://database.turtle-wow.org/?item=4577
+Category: Database/Items/Weapons/Guns
+Item: 
+Compact Shotgun
+Binds when equipped
+Ranged
+Gun
+7 - 14  Damage
+Speed 2.00
+(5.3 damage per second)
+Durability 35 / 35
+Requires Level 8
+
+
+Item #5309
+URL: https://database.turtle-wow.org/?item=5309
+Category: Database/Items/Weapons/Guns
+Item: 
+Privateer Musket
+Binds when picked up
+Ranged
+Gun
+12 - 24  Damage
+Speed 2.30
+(7.8 damage per second)
+Durability 50 / 50
+
+
+Item #6798
+URL: https://database.turtle-wow.org/?item=6798
+Category: Database/Items/Weapons/Guns
+Item: 
+Blasting Hackbut
+Binds when picked up
+Ranged
+Gun
+30 - 56  Damage
+Speed 2.80
+(15.4 damage per second)
+Durability 65 / 65
+
+
+Item #7729
+URL: https://database.turtle-wow.org/?item=7729
+Category: Database/Items/Weapons/Guns
+Item: 
+Chesterfall Musket
+Binds when equipped
+Ranged
+Gun
+26 - 50  Damage
+Speed 2.30
+(16.5 damage per second)
+Durability 75 / 75
+Requires Level 28
+
+
+Item #8182
+URL: https://database.turtle-wow.org/?item=8182
+Category: Database/Items/Weapons/Guns
+Item: 
+Pellet Rifle
+Ranged
+Gun
+4 - 9  Damage
+Speed 2.60
+(2.5 damage per second)
+Durability 30 / 30
+Requires Level 2
+
+
+Item #8181
+URL: https://database.turtle-wow.org/?item=8181
+Category: Database/Items/Weapons/Guns
+Item: 
+Hunting Rifle
+Ranged
+Gun
+5 - 11  Damage
+Speed 2.70
+(3.0 damage per second)
+Durability 30 / 30
+Requires Level 4
+
+
+Item #8188
+URL: https://database.turtle-wow.org/?item=8188
+Category: Database/Items/Weapons/Guns
+Item: 
+Explosive Shotgun
+Binds when equipped
+Ranged
+Gun
+22 - 42  Damage
+Speed 2.10
+(15.2 damage per second)
+Durability 65 / 65
+Requires Level 32
+
+
+Item #9412
+URL: https://database.turtle-wow.org/?item=9412
+Category: Database/Items/Weapons/Guns
+Item: 
+Galgann's Fireblaster
+Binds when picked up
+Ranged
+Gun
+44 - 84  Damage
+Speed 2.60
+(24.6 damage per second)
+Durability 75 / 75
+Requires Level 42
+Equip:
+Chance to strike your ranged target with a Fire Blast for 12 to 19 Fire damage.
+
+
+Item #9422
+URL: https://database.turtle-wow.org/?item=9422
+Category: Database/Items/Weapons/Guns
+Item: 
+Shadowforge Bushmaster
+Binds when equipped
+Ranged
+Gun
+46 - 86  Damage
+Speed 2.90
+(22.8 damage per second)
++7 Shadow Resistance
+Durability 75 / 75
+Requires Level 38
+
+
+Item #9456
+URL: https://database.turtle-wow.org/?item=9456
+Category: Database/Items/Weapons/Guns
+Item: 
+Glass Shooter
+Binds when picked up
+Ranged
+Gun
+36 - 68  Damage
+Speed 2.90
+(17.9 damage per second)
+Durability 75 / 75
+Requires Level 30
+
+
+Item #9487
+URL: https://database.turtle-wow.org/?item=9487
+Category: Database/Items/Weapons/Guns
+Item: 
+Hi-tech Supergun
+Binds when equipped
+Ranged
+Gun
+23 - 43  Damage
+Speed 2.30
+(14.3 damage per second)
+Durability 75 / 75
+Requires Level 24
+
+
+Item #10508
+URL: https://database.turtle-wow.org/?item=10508
+Category: Database/Items/Weapons/Guns
+Item: 
+Mithril Blunderbuss
+Binds when equipped
+Ranged
+Gun
+36 - 68  Damage
+Speed 2.90
+(17.9 damage per second)
++5 Agility
+Durability 65 / 65
+Requires Level 36
+
+
+Item #10510
+URL: https://database.turtle-wow.org/?item=10510
+Category: Database/Items/Weapons/Guns
+Item: 
+Mithril Heavy-bore Rifle
+Binds when equipped
+Ranged
+Gun
+41 - 76  Damage
+Speed 2.90
+(20.2 damage per second)
+Durability 65 / 65
+Requires Level 39
+Equip:
++14 ranged Attack Power.
+
+
+Item #10508
+URL: https://database.turtle-wow.org/?item=10508
+Category: Database/Items/Weapons/Guns
+Item: 
+Mithril Blunderbuss
+Binds when equipped
+Ranged
+Gun
+36 - 68  Damage
+Speed 2.90
+(17.9 damage per second)
++5 Agility
+Durability 65 / 65
+Requires Level 36
+
+
+Item #10510
+URL: https://database.turtle-wow.org/?item=10510
+Category: Database/Items/Weapons/Guns
+Item: 
+Mithril Heavy-bore Rifle
+Binds when equipped
+Ranged
+Gun
+41 - 76  Damage
+Speed 2.90
+(20.2 damage per second)
+Durability 65 / 65
+Requires Level 39
+Equip:
++14 ranged Attack Power.
+
+
+Item #11021
+URL: https://database.turtle-wow.org/?item=11021
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Big Sniper Gun
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #11629
+URL: https://database.turtle-wow.org/?item=11629
+Category: Database/Items/Weapons/Guns
+Item: 
+Houndmaster's Rifle
+Binds when picked up
+Ranged
+Gun
+44 - 82  Damage
+Speed 2.30
+(27.4 damage per second)
++3 Agility
+Durability 75 / 75
+Requires Level 48
+Equip:
+Attack Power increased by 24 when fighting Beasts.
+
+
+Item #11629
+URL: https://database.turtle-wow.org/?item=11629
+Category: Database/Items/Weapons/Guns
+Item: 
+Houndmaster's Rifle
+Binds when picked up
+Ranged
+Gun
+44 - 82  Damage
+Speed 2.30
+(27.4 damage per second)
++3 Agility
+Durability 75 / 75
+Requires Level 48
+Equip:
+Attack Power increased by 24 when fighting Beasts.
+
+
+Item #12448
+URL: https://database.turtle-wow.org/?item=12448
+Category: Database/Items/Weapons/Guns
+Item: 
+Light Hunting Rifle
+Binds when picked up
+Ranged
+Gun
+2 - 6  Damage
+Speed 1.90
+(2.1 damage per second)
+Durability 25 / 25
+
+
+Item #12446
+URL: https://database.turtle-wow.org/?item=12446
+Category: Database/Items/Weapons/Guns
+Item: 
+Anvilmar Musket
+Binds when picked up
+Ranged
+Gun
+4 - 8  Damage
+Speed 2.70
+(2.2 damage per second)
+Durability 25 / 25
+
+
+Item #12523
+URL: https://database.turtle-wow.org/?item=12523
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Gun, Silver Musket
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #13139
+URL: https://database.turtle-wow.org/?item=13139
+Category: Database/Items/Weapons/Guns
+Item: 
+Guttbuster
+Binds when equipped
+Ranged
+Gun
+49 - 92  Damage
+Speed 2.70
+(26.1 damage per second)
++8 Agility
++3 Strength
+Durability 75 / 75
+Requires Level 45
+
+
+Item #13136
+URL: https://database.turtle-wow.org/?item=13136
+Category: Database/Items/Weapons/Guns
+Item: 
+Lil Timmy's Peashooter
+Binds when equipped
+Ranged
+Gun
+20 - 37  Damage
+Speed 2.60
+(11.0 damage per second)
+Durability 60 / 60
+Requires Level 16
+
+
+Item #13138
+URL: https://database.turtle-wow.org/?item=13138
+Category: Database/Items/Weapons/Guns
+Item: 
+The Silencer
+Binds when equipped
+Ranged
+Gun
+43 - 82  Damage
+Speed 2.80
+(22.3 damage per second)
+Durability 75 / 75
+Requires Level 37
+Equip:
++14 Attack Power.
+
+
+Item #13137
+URL: https://database.turtle-wow.org/?item=13137
+Category: Database/Items/Weapons/Guns
+Item: 
+Ironweaver
+Binds when equipped
+Ranged
+Gun
+31 - 59  Damage
+Speed 2.60
+(17.3 damage per second)
+Durability 75 / 75
+Requires Level 29
+
+
+Item #13146
+URL: https://database.turtle-wow.org/?item=13146
+Category: Database/Items/Weapons/Guns
+Item: 
+Shell Launcher Shotgun
+Binds when equipped
+Ranged
+Gun
+48 - 89  Damage
+Speed 2.30
+(29.8 damage per second)
+Durability 75 / 75
+Requires Level 53
+Equip:
+Chance to strike your ranged target with a Flaming Shell for 18 to 27 Fire damage.
+
+
+Item #13248
+URL: https://database.turtle-wow.org/?item=13248
+Category: Database/Items/Weapons/Guns
+Item: 
+Burstshot Harquebus
+Binds when picked up
+Ranged
+Gun
+52 - 98  Damage
+Speed 2.60
+(28.8 damage per second)
++8 Stamina
+Durability 75 / 75
+Requires Level 51
+Equip:
++10 Attack Power.
+
+
+Item #13380
+URL: https://database.turtle-wow.org/?item=13380
+Category: Database/Items/Weapons/Guns
+Item: 
+Willey's Portable Howitzer
+Binds when picked up
+Ranged
+Gun
+63 - 118  Damage
+Speed 2.90
+(31.2 damage per second)
++9 Stamina
+Durability 75 / 75
+Requires Level 56
+Equip:
++8 Attack Power.
+
+
+Item #13474
+URL: https://database.turtle-wow.org/?item=13474
+Category: Database/Items/Weapons/Guns
+Item: 
+Farmer Dalson's Shotgun
+Binds when picked up
+Ranged
+Gun
+34 - 64  Damage
+Speed 1.90
+(25.8 damage per second)
+Durability 65 / 65
+
+
+Item #13825
+URL: https://database.turtle-wow.org/?item=13825
+Category: Database/Items/Weapons/Guns
+Item: 
+Primed Musket
+Ranged
+Gun
+20 - 37  Damage
+Speed 1.80
+(15.8 damage per second)
+Durability 65 / 65
+Requires Level 52
+
+
+Item #13924
+URL: https://database.turtle-wow.org/?item=13924
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Gun, Tauren Scope Blade Feathered Silver Deluxe
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #13923
+URL: https://database.turtle-wow.org/?item=13923
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Gun, Tauren Blade Silver
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #14642
+URL: https://database.turtle-wow.org/?item=14642
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Gun, Tauren Feathers Silver
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #15205
+URL: https://database.turtle-wow.org/?item=15205
+Category: Database/Items/Weapons/Guns
+Item: 
+Owlsight Rifle
+Binds when picked up
+Ranged
+Gun
+14 - 27  Damage
+Speed 2.60
+(7.9 damage per second)
+Durability 50 / 50
+
+
+Item #15322
+URL: https://database.turtle-wow.org/?item=15322
+Category: Database/Items/Weapons/Guns
+Item: 
+Smoothbore Gun
+Binds when equipped
+Ranged
+Gun
+29 - 54  Damage
+Speed 2.50
+(16.6 damage per second)
+Durability 65 / 65
+Requires Level 34
+
+
+Item #15323
+URL: https://database.turtle-wow.org/?item=15323
+Category: Database/Items/Weapons/Guns
+Item: 
+Percussion Shotgun
+Binds when equipped
+Ranged
+Gun
+37 - 70  Damage
+Speed 2.30
+(23.3 damage per second)
+Durability 65 / 65
+Requires Level 45
+Random Bonuses
+
+
+Item #15325
+URL: https://database.turtle-wow.org/?item=15325
+Category: Database/Items/Weapons/Guns
+Item: 
+Sharpshooter Harquebus
+Binds when equipped
+Ranged
+Gun
+43 - 80  Damage
+Speed 2.20
+(28.0 damage per second)
+Durability 65 / 65
+Requires Level 55
+Random Bonuses
+
+
+Item #15324
+URL: https://database.turtle-wow.org/?item=15324
+Category: Database/Items/Weapons/Guns
+Item: 
+Burnside Rifle
+Binds when equipped
+Ranged
+Gun
+45 - 85  Damage
+Speed 2.50
+(26.0 damage per second)
+Durability 65 / 65
+Requires Level 51
+Random Bonuses
+
+
+Item #15460
+URL: https://database.turtle-wow.org/?item=15460
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Gun, Shotgun
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #15691
+URL: https://database.turtle-wow.org/?item=15691
+Category: Database/Items/Weapons/Guns
+Item: 
+Sidegunner Shottie
+Binds when picked up
+Ranged
+Gun
+32 - 61  Damage
+Speed 2.90
+(16.0 damage per second)
+Durability 65 / 65
+
+
+Item #15995
+URL: https://database.turtle-wow.org/?item=15995
+Category: Database/Items/Weapons/Guns
+Item: 
+Thorium Rifle
+Binds when equipped
+Ranged
+Gun
+42 - 79  Damage
+Speed 2.50
+(24.2 damage per second)
+Durability 65 / 65
+Requires Level 47
+Equip:
++17 ranged Attack Power.
+
+
+Item #16007
+URL: https://database.turtle-wow.org/?item=16007
+Category: Database/Items/Weapons/Guns
+Item: 
+Flawless Arcanite Rifle
+Binds when equipped
+Ranged
+Gun
+68 - 126  Damage
+Speed 3.10
+(31.3 damage per second)
+Durability 75 / 75
+Requires Level 56
+Equip:
+Increased Guns +4.
+Equip:
++10 ranged Attack Power.
+
+
+Item #16004
+URL: https://database.turtle-wow.org/?item=16004
+Category: Database/Items/Weapons/Guns
+Item: 
+Dark Iron Rifle
+Binds when equipped
+Ranged
+Gun
+70 - 106  Damage
+Speed 3.10
+(28.4 damage per second)
+Durability 75 / 75
+Requires Level 50
+Equip:
+Chance to strike your ranged target with Shadow Shot for 18 to 27 Shadow damage.
+
+
+Item #16992
+URL: https://database.turtle-wow.org/?item=16992
+Category: Database/Items/Weapons/Guns
+Item: 
+Smokey's Explosive Launcher
+Binds when picked up
+Ranged
+Gun
+52 - 98  Damage
+Speed 2.70
+(27.8 damage per second)
+Durability 65 / 65
+
+
+Item #17042
+URL: https://database.turtle-wow.org/?item=17042
+Category: Database/Items/Weapons/Guns
+Item: 
+Nail Spitter
+Binds when picked up
+Ranged
+Gun
+19 - 37  Damage
+Speed 1.90
+(14.7 damage per second)
+Durability 65 / 65
+
+
+Item #17072
+URL: https://database.turtle-wow.org/?item=17072
+Category: Database/Items/Weapons/Guns
+Item: 
+Blastershot Launcher
+Binds when picked up
+Ranged
+Gun
+73 - 136  Damage
+Speed 2.60
+(40.2 damage per second)
++6 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #17687
+URL: https://database.turtle-wow.org/?item=17687
+Category: Database/Items/Weapons/Guns
+Item: 
+Master Hunter's Rifle
+Binds when picked up
+Ranged
+Gun
+35 - 66  Damage
+Speed 2.60
+(19.4 damage per second)
+Durability 65 / 65
+
+
+Item #17717
+URL: https://database.turtle-wow.org/?item=17717
+Category: Database/Items/Weapons/Guns
+Item: 
+Megashot Rifle
+Binds when picked up
+Ranged
+Gun
+32 - 61  Damage
+Speed 1.70
+(27.4 damage per second)
++5 Arcane Resistance
+Durability 75 / 75
+Requires Level 48
+Equip:
++19 ranged Attack Power.
+
+
+Item #18282
+URL: https://database.turtle-wow.org/?item=18282
+Category: Database/Items/Weapons/Guns
+Item: 
+Core Marksman Rifle
+Binds when equipped
+Ranged
+Gun
+91 - 149  Damage
+Speed 3.20
+(37.5 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
++24 ranged Attack Power.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #18460
+URL: https://database.turtle-wow.org/?item=18460
+Category: Database/Items/Weapons/Guns
+Item: 
+Unsophisticated Hand Cannon
+Binds when picked up
+Ranged
+Gun
+48 - 91  Damage
+Speed 2.50
+(27.8 damage per second)
++8 Strength
+Durability 65 / 65
+Requires Level 55
+
+
+Item #18755
+URL: https://database.turtle-wow.org/?item=18755
+Category: Database/Items/Weapons/Guns
+Item: 
+Xorothian Firestick
+Binds when picked up
+Ranged
+Gun
+57 - 108  Damage
+Speed 2.60
+(31.7 damage per second)
++6 Stamina
++4 Agility
++6 Shadow Resistance
+Durability 75 / 75
+Requires Level 57
+
+
+Item #18860
+URL: https://database.turtle-wow.org/?item=18860
+Category: Database/Items/Weapons/Guns
+Item: 
+High Warlord's Street Sweeper
+Binds when picked up
+Ranged
+Gun
+120 - 175  Damage
+Speed 2.90
+(50.9 damage per second)
++9 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++41 ranged Attack Power.
+
+
+Item #18855
+URL: https://database.turtle-wow.org/?item=18855
+Category: Database/Items/Weapons/Guns
+Item: 
+Grand Marshal's Hand Cannon
+Binds when picked up
+Ranged
+Gun
+120 - 175  Damage
+Speed 2.90
+(50.9 damage per second)
++9 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++41 ranged Attack Power.
+
+
+Item #19368
+URL: https://database.turtle-wow.org/?item=19368
+Category: Database/Items/Weapons/Guns
+Item: 
+Dragonbreath Hand Cannon
+Binds when picked up
+Ranged
+Gun
+99 - 173  Damage
+Speed 3.10
+(43.9 damage per second)
++14 Agility
++7 Stamina
+Durability 90 / 90
+Requires Level 60
+
+
+Item #19853
+URL: https://database.turtle-wow.org/?item=19853
+Category: Database/Items/Weapons/Guns
+Item: 
+Gurubashi Dwarf Destroyer
+Binds when picked up
+Unique
+Ranged
+Gun
+76 - 142  Damage
+Speed 2.80
+(38.9 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
++30 Attack Power.
+
+
+Item #20245
+URL: https://database.turtle-wow.org/?item=20245
+Category: Database/Items/Weapons/Guns
+Item: 
+90 Green Warrior Gun
+Binds when equipped
+Ranged
+Gun
+81 - 151  Damage
+Speed 2.50
+(46.4 damage per second)
++9 Strength
++8 Stamina
+Durability 65 / 65
+Requires Level 60
+
+
+Item #20285
+URL: https://database.turtle-wow.org/?item=20285
+Category: Database/Items/Weapons/Guns
+Item: 
+63 Green Warrior Gun
+Binds when equipped
+Ranged
+Gun
+51 - 96  Damage
+Speed 2.50
+(29.4 damage per second)
++6 Strength
++6 Stamina
+Durability 65 / 65
+Requires Level 58
+
+
+Item #20722
+URL: https://database.turtle-wow.org/?item=20722
+Category: Database/Items/Weapons/Guns
+Item: 
+Crystal Slugthrower
+Binds when equipped
+Ranged
+Gun
+65 - 122  Damage
+Speed 2.80
+(33.4 damage per second)
++4 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
++20 Attack Power.
+
+
+Item #21272
+URL: https://database.turtle-wow.org/?item=21272
+Category: Database/Items/Weapons/Guns
+Item: 
+Blessed Qiraji Musket
+Binds when picked up
+Unique
+Ranged
+Gun
+109 - 184  Damage
+Speed 3.10
+(47.3 damage per second)
++10 Stamina
+Durability 90 / 90
+Equip:
++31 ranged Attack Power.
+"The weapon is infused and reinforced with Elementium."
+
+
+Item #21554
+URL: https://database.turtle-wow.org/?item=21554
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Gun, PvP Horde
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #21564
+URL: https://database.turtle-wow.org/?item=21564
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Gun, Kaldorei PVP Alliance
+Ranged
+Gun
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #21800
+URL: https://database.turtle-wow.org/?item=21800
+Category: Database/Items/Weapons/Guns
+Item: 
+Silithid Husked Launcher
+Binds when equipped
+Ranged
+Gun
+68 - 128  Damage
+Speed 2.80
+(35.0 damage per second)
++10 Stamina
++4 Agility
+Durability 75 / 75
+Requires Level 60
+
+
+Item #22656
+URL: https://database.turtle-wow.org/?item=22656
+Category: Database/Items/Weapons/Guns
+Item: 
+The Purifier
+Binds when picked up
+Ranged
+Gun
+74 - 138  Damage
+Speed 3.00
+(35.3 damage per second)
+Durability 90 / 90
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #22810
+URL: https://database.turtle-wow.org/?item=22810
+Category: Database/Items/Weapons/Guns
+Item: 
+Toxin Injector
+Binds when picked up
+Ranged
+Gun
+68 - 135  Damage
+Speed 2.00
+(50.8 damage per second)
++10 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++28 Attack Power.
+
+
+Item #23557
+URL: https://database.turtle-wow.org/?item=23557
+Category: Database/Items/Weapons/Guns
+Item: 
+Larvae of the Great Worm
+Binds when picked up
+Ranged
+Gun
+103 - 192  Damage
+Speed 3.00
+(49.2 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++18 Attack Power.
+
+
+Item #41023
+URL: https://database.turtle-wow.org/?item=41023
+Category: Database/Items/Weapons/Guns
+Item: 
+Water-logged Musket
+Binds when picked up
+Ranged
+Gun
+2 - 6  Damage
+Speed 2.20
+(1.8 damage per second)
+Durability 20 / 20
+
+
+Item #51746
+URL: https://database.turtle-wow.org/?item=51746
+Category: Database/Items/Weapons/Guns
+Item: 
+Shadowblaster
+Binds when picked up
+Ranged
+Gun
+126 - 65  Damage
+Speed 3.10
++2 - 5 Shadow Damage
+(31.9 damage per second)
++9 Stamina
+Durability 75 / 75
+Requires Level 57
+Equip:
++14 ranged Attack Power.
+
+
+Item #51759
+URL: https://database.turtle-wow.org/?item=51759
+Category: Database/Items/Weapons/Guns
+Item: 
+Siege Bomber
+Binds when equipped
+Ranged
+Gun
+36 - 68  Damage
+Speed 2.80
+(18.6 damage per second)
+Durability 65 / 65
+Requires Level 37
+Use:
+Inflicts 149 to 202 Fire damage and stuns targets in a 5 yard radius for 3 sec.  Any damage will break the effect.
+"Comes with an underbarrel bomb launcher."
+
+
+Item #51780
+URL: https://database.turtle-wow.org/?item=51780
+Category: Database/Items/Weapons/Guns
+Item: 
+Ghoulslayer Shotgun
+Binds when picked up
+Ranged
+Gun
+81 - 151  Damage
+Speed 3.10
+(37.4 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
++24 Attack Power.
+Equip:
++15 Attack Power when fighting Undead.
+
+
+Item #51794
+URL: https://database.turtle-wow.org/?item=51794
+Category: Database/Items/Weapons/Guns
+Item: 
+Otherworldly Rifle
+Binds when picked up
+Ranged
+Gun
+40 - 76  Damage
+Speed 2.60
++1 - 2 Fire Damage
++1 - 2 Shadow Damage
++1 - 2 Frost Damage
+(24.1 damage per second)
+Durability 65 / 65
+
+
+Item #51828
+URL: https://database.turtle-wow.org/?item=51828
+Category: Database/Items/Weapons/Guns
+Item: 
+Hawkwind Rifle
+Binds when picked up
+Ranged
+Gun
+6 - 12  Damage
+Speed 2.60
+(3.5 damage per second)
+Durability 30 / 30
+
+
+Item #51862
+URL: https://database.turtle-wow.org/?item=51862
+Category: Database/Items/Weapons/Guns
+Item: 
+Brave's Rifle
+Binds when picked up
+Ranged
+Gun
+17 - 30  Damage
+Speed 2.60
+(9.0 damage per second)
+Durability 50 / 50
+"Shu'halo warriors nickname this gun "Greenboy" for the way the sun reflects off it."
+
+
+Item #55068
+URL: https://database.turtle-wow.org/?item=55068
+Category: Database/Items/Weapons/Guns
+Item: 
+Zan's Leperification Blaster
+Binds when picked up
+Ranged
+Gun
+49 - 92  Damage
+Speed 2.70
+(26.1 damage per second)
++4 Agility
++4 Stamina
+Durability 75 / 75
+Requires Level 45
+Requires Ravenholdt - Revered
+"Needs spell: Use: Zap your target with radioactive energy, turning it into a Leper Gnome and reducing its damage dealt by 15 and its movement speed by 20% for 12 seconds. (5 min cd) actual quote :Still very much a prototype. Don't show it to other gnomes"
+
+
+Item #55379
+URL: https://database.turtle-wow.org/?item=55379
+Category: Database/Items/Weapons/Guns
+Item: 
+Slag Slugger
+Binds when picked up
+Ranged
+Gun
+15 - 28  Damage
+Speed 2.30
+(9.3 damage per second)
+Durability 65 / 65
+Requires Level 18
+Equip:
+Chance to strike your ranged target with a Slag Bolt for 13 to 18 Fire damage immediately and 30 Fire damage over 6 sec.
+
+
+Item #58083
+URL: https://database.turtle-wow.org/?item=58083
+Category: Database/Items/Weapons/Guns
+Item: 
+Nippsy's Precision Rifle
+Binds when picked up
+Ranged
+Gun
+51 - 92  Damage
+Speed 2.90
+(24.7 damage per second)
++6 Agility
++5 Intellect
+Durability 75 / 75
+
+
+Item #58086
+URL: https://database.turtle-wow.org/?item=58086
+Category: Database/Items/Weapons/Guns
+Item: 
+Standard Grade Rifle
+Binds when picked up
+Ranged
+Gun
+4 - 9  Damage
+Speed 2.60
+(2.5 damage per second)
+Durability 30 / 30
+
+
+Item #58284
+URL: https://database.turtle-wow.org/?item=58284
+Category: Database/Items/Weapons/Guns
+Item: 
+Waterlogged Blunderbuss
+Binds when picked up
+Ranged
+Gun
+31 - 55  Damage
+Speed 3.00
+(14.3 damage per second)
++3 Stamina
++3 Agility
+Durability 65 / 65
+Requires Level 30
+
+
+Item #60165
+URL: https://database.turtle-wow.org/?item=60165
+Category: Database/Items/Weapons/Guns
+Item: 
+Wobblefree Fizz-rifle
+Binds when picked up
+Ranged
+Gun
+71 - 107  Damage
+Speed 2.60
+(34.2 damage per second)
++5 Intellect
+Durability 65 / 65
+Equip:
++10 Attack Power.
+
+
+Item #60545
+URL: https://database.turtle-wow.org/?item=60545
+Category: Database/Items/Weapons/Guns
+Item: 
+Techrifle X-TREME 5200
+Binds when picked up
+Ranged
+Gun
+47 - 93  Damage
+Speed 2.60
++1 - 5 Fire Damage
+(28.1 damage per second)
++8 Agility
++2 Intellect
+Durability 75 / 75
+Requires Level 51
+
+
+Item #61011
+URL: https://database.turtle-wow.org/?item=61011
+Category: Database/Items/Weapons/Guns
+Item: 
+Flintlocke's Hand Cannon
+Binds when picked up
+Unique
+Ranged
+Gun
+97 - 139  Damage
+Speed 3.20
+(36.9 damage per second)
++5 Stamina
+Durability 90 / 90
+Requires  - Exalted
+Equip:
+Improves your chance to hit by 1%.
+"Also good for shooting woodchucks."
+
+
+Item #61068
+URL: https://database.turtle-wow.org/?item=61068
+Category: Database/Items/Weapons/Guns
+Item: 
+Dark Iron Desecrator
+Binds when picked up
+Ranged
+Gun
+72 - 142  Damage
+Speed 2.90
++5 - 10 Fire Damage
+(39.5 damage per second)
++10 Fire Resistance
++10 Shadow Resistance
+Durability 90 / 90
+Use:
+Blasts a target for 50 to 71 Fire damage.
+Equip:
+Improves your chance to get a critical strike by 1%.
+"The true embodiment of Dark Iron  construction."
+
+
+Item #61248
+URL: https://database.turtle-wow.org/?item=61248
+Category: Database/Items/Weapons/Guns
+Item: 
+Beasthunter's Blunderbuss
+Binds when picked up
+Ranged
+Gun
+72 - 138  Damage
+Speed 2.80
+(37.5 damage per second)
++5 Agility
+Durability 90 / 90
+Requires Level 60
+Equip:
++39 Attack Power when fighting Beasts.
+"The initials G.G. are etched on the stock."
+
+
+Item #61307
+URL: https://database.turtle-wow.org/?item=61307
+Category: Database/Items/Weapons/Guns
+Item: 
+Worgen Hunter Musket
+Binds when picked up
+Ranged
+Gun
+50 - 92  Damage
+Speed 2.90
+(24.5 damage per second)
++4 Stamina
+Durability 75 / 75
+Requires Level 41
+Equip:
++12 Attack Power.
+
+
+Item #61383
+URL: https://database.turtle-wow.org/?item=61383
+Category: Database/Items/Weapons/Guns
+Item: 
+Intricate Gnomish Blunderbuss
+Binds when picked up
+Ranged
+Gun
+30 - 78  Damage
+Speed 3.00
+(18.0 damage per second)
++3 Intellect
+Durability 75 / 75
+
+
+Item #61472
+URL: https://database.turtle-wow.org/?item=61472
+Category: Database/Items/Weapons/Guns
+Item: 
+Brigade Rifle
+Binds when picked up
+Ranged
+Gun
+42 - 76  Damage
+Speed 2.80
+(21.1 damage per second)
++4 Agility
+Durability 65 / 65
+
+
+Item #61629
+URL: https://database.turtle-wow.org/?item=61629
+Category: Database/Items/Weapons/Guns
+Item: 
+Farmer's Musket
+Binds when picked up
+Ranged
+Gun
+38 - 76  Damage
+Speed 2.60
+(21.9 damage per second)
++6 Stamina
++3 Agility
+Durability 65 / 65
+
+
+Item #80106
+URL: https://database.turtle-wow.org/?item=80106
+Category: Database/Items/Weapons/Guns
+Item: 
+Miscalibrated Rifle
+Binds when picked up
+Ranged
+Gun
+5 - 9  Damage
+Speed 2.80
+(2.5 damage per second)
+Durability 25 / 25
+
+
+Item #80127
+URL: https://database.turtle-wow.org/?item=80127
+Category: Database/Items/Weapons/Guns
+Item: 
+Polished Boomstick
+Binds when picked up
+Ranged
+Gun
+8 - 15  Damage
+Speed 2.40
+(4.8 damage per second)
+Durability 35 / 35
+
+
+Item #80795
+URL: https://database.turtle-wow.org/?item=80795
+Category: Database/Items/Weapons/Guns
+Item: 
+Burstshot Harquebus
+Binds when equipped
+Ranged
+Gun
+52 - 98  Damage
+Speed 2.60
+(28.8 damage per second)
++8 Stamina
+Durability 75 / 75
+Requires Level 51
+Equip:
++10 Attack Power.
+
+
+Item #83094
+URL: https://database.turtle-wow.org/?item=83094
+Category: Database/Items/Weapons/Guns
+Item: 
+Monster - Rifle2H, Mechagnome
+Ranged
+Gun
+4 - 9  Damage
+Speed 2.60
+(2.5 damage per second)
+Durability 30 / 30
+Requires Level 2
+
+
+Item #83257
+URL: https://database.turtle-wow.org/?item=83257
+Category: Database/Items/Weapons/Guns
+Item: 
+Caer Darrow Reserve Rifle
+Binds when picked up
+Ranged
+Gun
+76 - 94  Damage
+Speed 2.60
+(32.7 damage per second)
+Durability 75 / 75
+Requires Level 56
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+

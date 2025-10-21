@@ -1,0 +1,2135 @@
+Item #41
+URL: https://database.turtle-wow.org/?item=41
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Forest Wisp
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Wisps are ancient spirits of nature that inhabit the forestlands of Kalimdor. Legends say that Wisps are actually the disembodied spirits of the Night Elves themselves, but these rumors have yet to be proven."
+
+
+Item #161
+URL: https://database.turtle-wow.org/?item=161
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Angered Crustacean
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This feisty anthropod is not letting go of its home invader — which is you."
+
+
+Item #8488
+URL: https://database.turtle-wow.org/?item=8488
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Silver Tabby
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Sleeping is this cat's second favorite activity. The first is yawning."
+
+
+Item #8487
+URL: https://database.turtle-wow.org/?item=8487
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Orange Tabby
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The last person who tried to housebreak this cat quickly learned that a soiled rug is better than a shredded everything-else."
+
+
+Item #8486
+URL: https://database.turtle-wow.org/?item=8486
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Cornish Rex
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Donni Anthania invites these cats to her tea parties. But she doesn't serve their favorite drink: the tears of their enemies."
+
+
+Item #8489
+URL: https://database.turtle-wow.org/?item=8489
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+White Kitten
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The queen had three kittens. The first gave her a juicy rat. The second, a tasty hare. And the white, her favorite, presented the head of her rival."
+
+
+Item #8492
+URL: https://database.turtle-wow.org/?item=8492
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Green Wing Macaw
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Favored pet of the Defias pirates, this colorful bird is handy for remembering passwords, grocery lists, and cracker recipes."
+
+
+Item #8494
+URL: https://database.turtle-wow.org/?item=8494
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Hyacinth Macaw
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The jungle trolls train these birds to mimic calls for help in order to lure unsuspecting travelers into traps."
+
+
+Item #8485
+URL: https://database.turtle-wow.org/?item=8485
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Bombay
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Donni Anthania plans to have a bombay buried with her when she dies. A wise adventurer can put its talents to much better use."
+
+
+Item #8490
+URL: https://database.turtle-wow.org/?item=8490
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Siamese
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Known for its blue eyes. Also considered a delicacy by giant murlocs."
+
+
+Item #8491
+URL: https://database.turtle-wow.org/?item=8491
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Black Tabby
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Old Alterac saying: 'A cat has nine lives, but needs only one.'"
+
+
+Item #8498
+URL: https://database.turtle-wow.org/?item=8498
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Emerald Whelpling
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Once bred and raised by the green dragon Itharius, this unique breed of dragon has settled in the jungles of Feralas."
+
+
+Item #8496
+URL: https://database.turtle-wow.org/?item=8496
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Cockatiel
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Some say this clever bird can be taught to speak--but it's smart enough to keep its beak shut."
+
+
+Item #8495
+URL: https://database.turtle-wow.org/?item=8495
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Senegal
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Favored pet of the goblins of Booty Bay, this colorful bird is renowned for its ability to count coins, tally budgets, and lie about contracts."
+
+
+Item #8500
+URL: https://database.turtle-wow.org/?item=8500
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Great Horned Owl
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Night elf children are given an owl feather on their first birthday as a token of good luck."
+
+
+Item #8499
+URL: https://database.turtle-wow.org/?item=8499
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Crimson Whelpling
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Hailing from the Wetlands, this young dragon is just learning how to hunt, breathe fire, and go on cute destructive rampages."
+
+
+Item #8501
+URL: https://database.turtle-wow.org/?item=8501
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Hawk Owl
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"This dark-feathered bird of prey is often seen as a harbinger of doom amongst the druids of Teldrassil."
+
+
+Item #8497
+URL: https://database.turtle-wow.org/?item=8497
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Snowshoe
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"If you go chasing snowshoe rabbits, you know you're going to fall."
+
+
+Item #10360
+URL: https://database.turtle-wow.org/?item=10360
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Black Kingsnake
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Xan'tish fearlessly tracks, captures, and trains these noble snakes so they will aid their comrades in battle."
+
+
+Item #10361
+URL: https://database.turtle-wow.org/?item=10361
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Brown Snake
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The brown snake is native to Horde-controlled territories. It seems unremarkable until its victims are within range."
+
+
+Item #10394
+URL: https://database.turtle-wow.org/?item=10394
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Prairie Dog Whistle
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"A complex system of burrows protects the prairie dog from its neighbors' massive hooves."
+
+
+Item #10392
+URL: https://database.turtle-wow.org/?item=10392
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Crimson Snake
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The crimson snake is favored among the Darkspear trolls for not only its vicious nature, but also its steadfast loyalty."
+
+
+Item #10393
+URL: https://database.turtle-wow.org/?item=10393
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Undercity Cockroach
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The cockroach is usually an impulse buy. Its owners have a hard time parting with it even after numerous attempts."
+
+
+Item #10398
+URL: https://database.turtle-wow.org/?item=10398
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Mechanical Chicken
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Not to worry; the combat mechanisms and homing logic have been disabled on this unit, I think. (Oglethorpe Obnoticus)"
+
+
+Item #10360
+URL: https://database.turtle-wow.org/?item=10360
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Black Kingsnake
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Xan'tish fearlessly tracks, captures, and trains these noble snakes so they will aid their comrades in battle."
+
+
+Item #10361
+URL: https://database.turtle-wow.org/?item=10361
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Brown Snake
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The brown snake is native to Horde-controlled territories. It seems unremarkable until its victims are within range."
+
+
+Item #10394
+URL: https://database.turtle-wow.org/?item=10394
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Prairie Dog Whistle
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"A complex system of burrows protects the prairie dog from its neighbors' massive hooves."
+
+
+Item #10393
+URL: https://database.turtle-wow.org/?item=10393
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Undercity Cockroach
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The cockroach is usually an impulse buy. Its owners have a hard time parting with it even after numerous attempts."
+
+
+Item #10398
+URL: https://database.turtle-wow.org/?item=10398
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Mechanical Chicken
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Not to worry; the combat mechanisms and homing logic have been disabled on this unit, I think. (Oglethorpe Obnoticus)"
+
+
+Item #10392
+URL: https://database.turtle-wow.org/?item=10392
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Crimson Snake
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"The crimson snake is favored among the Darkspear trolls for not only its vicious nature, but also its steadfast loyalty."
+
+
+Item #10822
+URL: https://database.turtle-wow.org/?item=10822
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Dark Whelpling
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Hopes that someday it can grow up to destroy villages, just like mommy."
+
+
+Item #11027
+URL: https://database.turtle-wow.org/?item=11027
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Wood Frog
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Vendors at the Darkmoon Faire offer strange and exotic wonders. They also sell wood frogs."
+
+
+Item #11023
+URL: https://database.turtle-wow.org/?item=11023
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Ancona Chicken
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"It thinks you taste like chicken too."
+
+
+Item #11026
+URL: https://database.turtle-wow.org/?item=11026
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tree Frog
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Known for their powerful legs and keen eyesight."
+
+
+Item #11110
+URL: https://database.turtle-wow.org/?item=11110
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Westfall Chicken
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Don't call this bird chicken unless you want egg on your face."
+
+
+Item #11474
+URL: https://database.turtle-wow.org/?item=11474
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Sprite Darter Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"These adorable critters love snuggling with their owners after a long day of brutal, bloody battle."
+
+
+Item #11903
+URL: https://database.turtle-wow.org/?item=11903
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Corrupted Kitten
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"This rare deformity is a new phenomenon."
+
+
+Item #12264
+URL: https://database.turtle-wow.org/?item=12264
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Worg Pup
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Worgs are the favored companions of orcs and are fiercely loyal on the battlefield."
+
+
+Item #12529
+URL: https://database.turtle-wow.org/?item=12529
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Smolderweb Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"These spiders are immensily cunning yet loyal to their brood. Handle with care and no pest will ever disturb your sound sleep."
+
+
+Item #13584
+URL: https://database.turtle-wow.org/?item=13584
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Diablo Stone
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"AND THE HEAVENS SHALL TREMBLE, AND MAN SHALL WEEP, AND THE END OF DAYS SHALL--wait, why are you so tall?"
+
+
+Item #13582
+URL: https://database.turtle-wow.org/?item=13582
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Zergling Leash
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A small, fierce member of the Zerg swarm, the zergling is not to be trifled with. Very dangerous in high numbers."
+
+
+Item #13583
+URL: https://database.turtle-wow.org/?item=13583
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Panda Collar
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This pint-sized panda cub is highly sought after by adventurers around Azeroth - despite its narcoleptic nature."
+
+
+Item #18964
+URL: https://database.turtle-wow.org/?item=18964
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Loggerhead Snapjaw
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Turtles are feared by the naga, who consider them bad luck and give them a wide berth on the shores of Azshara."
+
+
+Item #18967
+URL: https://database.turtle-wow.org/?item=18967
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Olive Snapjaw
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Turtles are feared by the naga, who consider them bad luck and give them a wide berth on the shores of Azshara."
+
+
+Item #18965
+URL: https://database.turtle-wow.org/?item=18965
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Hawksbill Snapjaw
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Turtles are feared by the naga, who consider them bad luck and give them a wide berth on the shores of Azshara."
+
+
+Item #18966
+URL: https://database.turtle-wow.org/?item=18966
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Leatherback Snapjaw
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Turtles are feared by the naga, who consider them bad luck and give them a wide berth on the shores of Azshara."
+
+
+Item #19055
+URL: https://database.turtle-wow.org/?item=19055
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tiny Green Dragon
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Legends say that these vibrant emerald beings bring good fortune and safe travels to their owners."
+
+
+Item #19054
+URL: https://database.turtle-wow.org/?item=19054
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Red Dragon Orb
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Said to bring good fortune when spotted in autumn. Known to hide from unfamiliar creatures."
+
+
+Item #19450
+URL: https://database.turtle-wow.org/?item=19450
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+A Jubling's Tiny Home
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"The legendary ale frog was believed to be extinct until the strange brews at the Darkmoon Faire brought them out of hiding."
+
+
+Item #20371
+URL: https://database.turtle-wow.org/?item=20371
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Murky
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Appearances of this beloved and ultra-reclusive murloc are sure to draw a crowd."
+
+
+Item #21168
+URL: https://database.turtle-wow.org/?item=21168
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Baby Shark
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Who would leave such a cute shark behind?"
+
+
+Item #21308
+URL: https://database.turtle-wow.org/?item=21308
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Jingling Bell
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Would rather not spend any more time inside a wrapped holiday gift box."
+
+
+Item #21301
+URL: https://database.turtle-wow.org/?item=21301
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Green Helper Box
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"These off-season allies work tirelessly to prepare for the Feast of Winter Veil, and would appreciate not being disturbed the rest of the year."
+
+
+Item #21305
+URL: https://database.turtle-wow.org/?item=21305
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Red Helper Box
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"During the majestic Winter Veil celebration, these faithful companions spread joy throughout the land. The rest of the year, they are busy."
+
+
+Item #21309
+URL: https://database.turtle-wow.org/?item=21309
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tiny Snowman
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"He loves to dance and wave and play with you! He melts after Winter Veil, but don't worry; he'll be back again someday!"
+
+
+Item #22114
+URL: https://database.turtle-wow.org/?item=22114
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Gurky
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Gurky is a born performer, though she remains elusive, making public appearances only on the rarest of occasions."
+
+
+Item #22235
+URL: https://database.turtle-wow.org/?item=22235
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Peddlefeet
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"The power of love can be a dangerous thing, especially when wielded by an airborne, ill-tempered goblin."
+
+
+Item #22780
+URL: https://database.turtle-wow.org/?item=22780
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Terky
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Terky is as shy as she is adorable, preferring the company of close friends over new ones."
+
+
+Item #22781
+URL: https://database.turtle-wow.org/?item=22781
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Poley
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This cub shares many traits with its relatives, but it's in a league of its own with its singing ability."
+
+
+Item #23007
+URL: https://database.turtle-wow.org/?item=23007
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Piglet's Collar
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Many assume 'Wiggles' refers to the motion of this pig's posterior. They discover the true meaning when they see their own entrails."
+
+
+Item #23002
+URL: https://database.turtle-wow.org/?item=23002
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Speedy
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Slow and steady wins the race."
+
+
+Item #23015
+URL: https://database.turtle-wow.org/?item=23015
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Whiskers the Rat
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"A clever tactician, Whiskers will feign death to fool predators and bill collectors."
+
+
+Item #23713
+URL: https://database.turtle-wow.org/?item=23713
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Hippogryph Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"After a harpy incursion in Feralas, several hippogryph nesting grounds were attacked. Hundreds of hatchlings were orphaned, and they have been entrusted to the care of the druids on Sardor Isle."
+
+
+Item #23712
+URL: https://database.turtle-wow.org/?item=23712
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+White Tiger Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"It is said no one has laid their eyes upon a White Tiger Cub given the sheer rarity of this species."
+
+
+Item #30284
+URL: https://database.turtle-wow.org/?item=30284
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Toy Knight
+Binds when picked up
+Unique
+Use:
+Adds a toy to the player's toy collection.
+"This mechanical toy knight will serve you with loyalty, my liege."
+
+
+Item #31829
+URL: https://database.turtle-wow.org/?item=31829
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Billy
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"The ducks of Northwind are known for their distinctive call, and Billy is no different!"
+
+
+Item #36500
+URL: https://database.turtle-wow.org/?item=36500
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Sunfire Fox
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"The Sunfire Fox glows with golden fur, bringing warmth wherever it wanders."
+
+
+Item #36503
+URL: https://database.turtle-wow.org/?item=36503
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Emerald Wind Serpent
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"The Emerald Wind Serpent, with its radiant green scales, gracefully dances through the sky, embodying the tranquility of nature."
+
+
+Item #36506
+URL: https://database.turtle-wow.org/?item=36506
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Alliance Lion Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A pint-sized embodiment of courage and unity, sporting the iconic golden mane of its proud lion lineage."
+
+
+Item #36504
+URL: https://database.turtle-wow.org/?item=36504
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Azure Wind Serpent
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Adorned with a coat of brilliant blue scales, glides through the air with a serene elegance, leaving a trail of calm in its wake."
+
+
+Item #36505
+URL: https://database.turtle-wow.org/?item=36505
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Crimson Sabercat Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A spirited companion, its fiery fur captures the essence of youthful adventure in the wilds of Azeroth."
+
+
+Item #36509
+URL: https://database.turtle-wow.org/?item=36509
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Black Panther Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A tiny shadow prowler, its velvety fur and curious eyes add an adorable touch to your daring escapades."
+
+
+Item #36510
+URL: https://database.turtle-wow.org/?item=36510
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tawny
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"With its soft, tawny fur and playful antics, this adorable cub is a heartwarming companion for your journey through Azeroth."
+
+
+Item #36508
+URL: https://database.turtle-wow.org/?item=36508
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Twilight Paws
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A tiny bundle of darkness with a coat of deep, enchanting blue fur, this cute companion brings a touch of mystical charm to your adventures."
+
+
+Item #36507
+URL: https://database.turtle-wow.org/?item=36507
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Spot
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A playful feline companion adorned with distinctive spots, bringing a touch of the wild to your adventures."
+
+
+Item #36502
+URL: https://database.turtle-wow.org/?item=36502
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Dark Wind Serpent
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Behold the Dark Wind Serpent that navigates the skies with an elegant yet mysterious presence."
+
+
+Item #36501
+URL: https://database.turtle-wow.org/?item=36501
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tangerine Wind Serpent
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Floats serenely in the sky, capturing the essence of sunlight and breeze..."
+
+
+Item #36513
+URL: https://database.turtle-wow.org/?item=36513
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Stangletorn Tiger Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This lively and affectionate cub boasts unique stripes, a miniature symbol of the wild beauty found in Stangletorn Vale."
+
+
+Item #36511
+URL: https://database.turtle-wow.org/?item=36511
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Nightsaber Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Elune made nightsabers silver and black so they could meld into the shadows on a moonlit night."
+
+
+Item #36516
+URL: https://database.turtle-wow.org/?item=36516
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Chestnut
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"With a bushy tail that rivals the fluffiest of pillows, this squirrel is the epitome of woodland charm, spreading happiness wherever it goes."
+
+
+Item #36514
+URL: https://database.turtle-wow.org/?item=36514
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Frostsaber Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A charming companion with snowy fur adorned by enchanting stripes, bringing the wintry beauty of Azeroth to your side."
+
+
+Item #36512
+URL: https://database.turtle-wow.org/?item=36512
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Snow Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"The thick snow near Dun Morogh acts as camouflage for snow cubs learning to hunt."
+
+
+Item #36515
+URL: https://database.turtle-wow.org/?item=36515
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Cheetah Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"These playful feline cubs practice their hunting skills by stalking each other through the Barrens."
+
+
+Item #37000
+URL: https://database.turtle-wow.org/?item=37000
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Webwood Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A nimble forest crawler, weaving small webs among the leaves to catch morning dew."
+
+
+Item #37008
+URL: https://database.turtle-wow.org/?item=37008
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Night Web Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"The Night Web spiders adapted and learned how to survive in the cursed stretches of the Tirisfal Glades."
+
+
+Item #37004
+URL: https://database.turtle-wow.org/?item=37004
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Timberweb Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This shy recluse spins intricate webs among fallen timber, blending with the forest floor."
+
+
+Item #37006
+URL: https://database.turtle-wow.org/?item=37006
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Skitterweb Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Dormant arcane energies cause the harmless kitchen spiders to grow to monstrous sizes."
+
+
+Item #37002
+URL: https://database.turtle-wow.org/?item=37002
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Lava Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Born of flame and stone, its glowing legs light the darkest caves with a gentle warmth."
+
+
+Item #37010
+URL: https://database.turtle-wow.org/?item=37010
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Razzashi Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Blessed by Shadra herself, this brood is known for their especially potent venom."
+
+
+Item #37007
+URL: https://database.turtle-wow.org/?item=37007
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Black Widow Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"They may not look like much, but their bite leaves a nasty mark. Luckily their poison is still weak."
+
+
+Item #37001
+URL: https://database.turtle-wow.org/?item=37001
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Wildthorn Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Silent and watchful, this spiderling moves carefully through the thorns, ever curious."
+
+
+Item #37005
+URL: https://database.turtle-wow.org/?item=37005
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Mistbark Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This little spiderling wishes to weave its own web across the forests of Balor one day."
+
+
+Item #37003
+URL: https://database.turtle-wow.org/?item=37003
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tarantula Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Bright and quick, it darts through sunlit groves, weaving webs as fine as silk."
+
+
+Item #37009
+URL: https://database.turtle-wow.org/?item=37009
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Cavernweb Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Native to the mines beneath Grim Batol, this hatchling escaped the dark magic of the Dragonmaw sorcerers."
+
+
+Item #37014
+URL: https://database.turtle-wow.org/?item=37014
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Magus Alfred Wartbeard
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"One moment, I was reading this ancient scroll... the next? Flies. So many flies."
+
+
+Item #37013
+URL: https://database.turtle-wow.org/?item=37013
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Darkmist Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"The infamous Darkmist netting is strong enough to web even an ogre. This one, however, can at most catch a rat."
+
+
+Item #37012
+URL: https://database.turtle-wow.org/?item=37012
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Maexxna's Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"One of the few rare hatchlings of Maexxna, this little one feasts on corpses just like its mother."
+
+
+Item #37011
+URL: https://database.turtle-wow.org/?item=37011
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Araxxna's Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Broodmother Araxxna gave birth to many eight-legged horrors - and this eight-legged sweetie."
+
+
+Item #49995
+URL: https://database.turtle-wow.org/?item=49995
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Famous Fashionista Glitterglam
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Glitterglam is your go-to goblin for a style makeover! Always ready to help you look your best before charging into battle."
+
+
+Item #50007
+URL: https://database.turtle-wow.org/?item=50007
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Forworn Mule
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Carries all your worldly possessions, there and back."
+
+
+Item #50005
+URL: https://database.turtle-wow.org/?item=50005
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Field Repair Bot 75B
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Unfolds into a Field Repair Bot that can repair damaged items and purchase unwanted goods"
+
+
+Item #50007
+URL: https://database.turtle-wow.org/?item=50007
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Forworn Mule
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Carries all your worldly possessions, there and back."
+
+
+Item #50009
+URL: https://database.turtle-wow.org/?item=50009
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Mechanical Auctioneer
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Right click to summon C.L.U.C.K."
+
+
+Item #50013
+URL: https://database.turtle-wow.org/?item=50013
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Bone Golem
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Bone golems are deadly undead constructs made entirely of bones and fueled by ichor of Undeath."
+
+
+Item #50014
+URL: https://database.turtle-wow.org/?item=50014
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Blitzen
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Happy Winter Veil!"
+
+
+Item #50019
+URL: https://database.turtle-wow.org/?item=50019
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Moonkin Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Moonkins are blessed by Elune and spread nature's grace wherever they travel. The festive fowls are always in the mood for a dance."
+
+
+Item #50058
+URL: https://database.turtle-wow.org/?item=50058
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Black Piglet
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"An easy-going traveling companion."
+
+
+Item #50067
+URL: https://database.turtle-wow.org/?item=50067
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Albino Snake
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"A rare and coveted snake often associated with the Lunar Festival."
+
+
+Item #50068
+URL: https://database.turtle-wow.org/?item=50068
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Green Water Snake
+Binds when picked up
+Unique
+Requires  - Friendly
+Use:
+Adds a companion to the player's companion collection.
+"Brought to Sparkwater Port aboard merchant ships, these short-lived reptiles are considered pests by the port's residents."
+
+
+Item #50070
+URL: https://database.turtle-wow.org/?item=50070
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Bronze Whelpling
+Binds when picked up
+Unique
+Requires  - Revered
+Use:
+Adds a companion to the player's companion collection.
+"The Bronze Whelpling was lost in time until an unusual event allowed her to escape."
+
+
+Item #50069
+URL: https://database.turtle-wow.org/?item=50069
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Scarlet Snake
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Brave assassins sometimes capture these critters to use their highly toxic venom to poison weapons."
+
+
+Item #50079
+URL: https://database.turtle-wow.org/?item=50079
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Island Frog
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"This little friend snuck into your boot to join you on your travels."
+
+
+Item #50078
+URL: https://database.turtle-wow.org/?item=50078
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Dart Frog
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Toads and frogs are fast friends of trolls, perfect for poisons."
+
+
+Item #50077
+URL: https://database.turtle-wow.org/?item=50077
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Brightwing
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Hello, friend! Brightwing likes it when you visit!"
+
+
+Item #50080
+URL: https://database.turtle-wow.org/?item=50080
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Eagle Owl
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Many owls nest high in the stone structures of Darnassus, hunting any pests that enter the night elves' city."
+
+
+Item #50082
+URL: https://database.turtle-wow.org/?item=50082
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Snowy Owl
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Winterspring's furbolg prize the brilliant white feathers of these majestic creatures for ritual purposes."
+
+
+Item #50083
+URL: https://database.turtle-wow.org/?item=50083
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Azure Whelpling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Like other members of the blue dragonflight, these whimsical little critters display an affinity to arcane magic."
+
+
+Item #50081
+URL: https://database.turtle-wow.org/?item=50081
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Cottontail Rabbit
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Mountain cottontails can leap up a steep incline with speed you would not believe."
+
+
+Item #50084
+URL: https://database.turtle-wow.org/?item=50084
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Kirin Tor Familiar
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Who knew he was so into books?"
+
+
+Item #50085
+URL: https://database.turtle-wow.org/?item=50085
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Frostwolf Ghostpup
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"The little wolf told to stay. Watching, waiting, for vacant prey. Too proud to leave, she slipped away. Unburdened now, forever free to play."
+
+
+Item #50200
+URL: https://database.turtle-wow.org/?item=50200
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Darkmoon Tonk
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A favorite of children across Azeroth, this tough little toy can withstand even the most aggressive imagination."
+
+
+Item #50202
+URL: https://database.turtle-wow.org/?item=50202
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Egg of Turtlhu
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"This poor turtle got a bit corrupted, but his heart is still lovely."
+
+
+Item #50600
+URL: https://database.turtle-wow.org/?item=50600
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Summon: Barber
+Binds when picked up
+Unique
+"Summons your personal barber Sniptip, for when you need a quick style change."
+
+
+Item #50602
+URL: https://database.turtle-wow.org/?item=50602
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Summon: Auctioneer
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Summon your local Goblin entrepreneur. Buy, sell, bid — he's got the best deals anywhere!"
+
+
+Item #50601
+URL: https://database.turtle-wow.org/?item=50601
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Summon: Surgeon
+Binds when picked up
+Unique
+"Summon Dr. Topnose, your own private surgeon. List of services include scar removal, broken nose fix and others."
+
+
+Item #51003
+URL: https://database.turtle-wow.org/?item=51003
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Purple Steam Tonk
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Summon and control your steam tonk."
+
+
+Item #51002
+URL: https://database.turtle-wow.org/?item=51002
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Green Steam Tonk
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A favorite of children across Azeroth, this tough little toy can withstand even the most aggressive imagination."
+
+
+Item #51007
+URL: https://database.turtle-wow.org/?item=51007
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Teldrassil Sproutling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"What a happy little tree!"
+
+
+Item #51220
+URL: https://database.turtle-wow.org/?item=51220
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Lost Farm Sheep
+Binds when picked up
+Use:
+A friendly farm sheep that wandered away from its flock, it now follows you faithfully, providing a comforting presence in the midst of your adventures.
+"A friendly farm sheep that wandered away from its flock, it now follows you faithfully, providing a comforting presence in the midst of your adventures."
+
+
+Item #51221
+URL: https://database.turtle-wow.org/?item=51221
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Lulu
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Adorable little sheep."
+
+
+Item #51251
+URL: https://database.turtle-wow.org/?item=51251
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Hedwig
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Happy Winter Veil!"
+
+
+Item #51260
+URL: https://database.turtle-wow.org/?item=51260
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Prince Herman II
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"In loving memory of our favourite raiding kitty."
+
+
+Item #51259
+URL: https://database.turtle-wow.org/?item=51259
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Little Pony
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Adopted during Valentine's Day."
+
+
+Item #51261
+URL: https://database.turtle-wow.org/?item=51261
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Little Cow
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Adopted during Valentine's Day."
+
+
+Item #51421
+URL: https://database.turtle-wow.org/?item=51421
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Caravan Kodo
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Carries all your worldly possessions, there and back."
+
+
+Item #51433
+URL: https://database.turtle-wow.org/?item=51433
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Little Fawn
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"She likes the company of friends. Seventy-five of them, to be precise."
+
+
+Item #51700
+URL: https://database.turtle-wow.org/?item=51700
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Cracked Raptor Egg
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"It's about to hatch! What could be inside?"
+
+
+Item #51739
+URL: https://database.turtle-wow.org/?item=51739
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Little Ball of Spider Web
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"It's moving!"
+
+
+Item #51858
+URL: https://database.turtle-wow.org/?item=51858
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tirisfal Bat
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This foreboding creature stalks the night skies of the Eastern Plaguelands, feeding on carrion."
+
+
+Item #51891
+URL: https://database.turtle-wow.org/?item=51891
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Mysterious Fortune Teller
+Use:
+Adds a companion to the player's companion collection.
+"Extremely trustworthy individual."
+
+
+Item #51889
+URL: https://database.turtle-wow.org/?item=51889
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Hyjal Bear Cub
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"The squirming cub refused to leave the tree. We had to chuck it from the treetops."
+
+
+Item #51930
+URL: https://database.turtle-wow.org/?item=51930
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Caretaker Brambleclaw
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Summon Caretaker Brambleclaw, the furbolg stable master, to tend to your mounts with his expert care and deep bond with all creatures."
+
+
+Item #51931
+URL: https://database.turtle-wow.org/?item=51931
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Squire Boltfling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Summon Squire Boltfling, the knight's trusty squire, to provide you with top-quality ammunition and keep you armed for any battle."
+
+
+Item #51944
+URL: https://database.turtle-wow.org/?item=51944
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Black Bear Cub
+Use:
+Adds a companion to the player's companion collection.
+"A fluffy ball of chaos and claws, the Black Bear Cub is here to eat your snacks, steal your heart, and maybe, eventually, be useful in battle."
+
+
+Item #54000
+URL: https://database.turtle-wow.org/?item=54000
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Azure Frog
+Binds when equipped
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"A mystical amphibian known for its soothing croaks, said to bring tranquility to those who listen."
+
+
+Item #54002
+URL: https://database.turtle-wow.org/?item=54002
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Bullfrog
+Binds when equipped
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"A robust amphibian with a powerful croak, often found near bodies of water, revered by some as a symbol of strength and resilience."
+
+
+Item #54003
+URL: https://database.turtle-wow.org/?item=54003
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Infinite Frog
+Soulbound
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"A peculiar frog that seems to defy the laws of time and space, hopping effortlessly between dimensions."
+
+
+Item #54001
+URL: https://database.turtle-wow.org/?item=54001
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Dream Frog
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"This ethereal creature is believed to possess the ability to enter the dreams of sleeping adventurers, offering them guidance and wisdom."
+
+
+Item #54004
+URL: https://database.turtle-wow.org/?item=54004
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Poison Frog
+Binds when equipped
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Beware the vibrant hues of this deadly amphibian, as its skin secretes a potent toxin capable of incapacitating even the mightiest of foes."
+
+
+Item #54005
+URL: https://database.turtle-wow.org/?item=54005
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Snow Frog
+Binds when equipped
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Native to the frigid regions of Azeroth, this hardy frog has adapted to survive in icy environments, its azure skin camouflaging it against the snowy landscapes."
+
+
+Item #54007
+URL: https://database.turtle-wow.org/?item=54007
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Golden Frog
+Soulbound
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Legend has it that this shimmering amphibian is a harbinger of wealth and abundance."
+
+
+Item #54008
+URL: https://database.turtle-wow.org/?item=54008
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Pond Frog
+Binds when equipped
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"A common sight in tranquil ponds and marshes, this unassuming frog is a reminder of the simple joys found in nature's embrace."
+
+
+Item #54006
+URL: https://database.turtle-wow.org/?item=54006
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Pink Frog
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Delicate and enchanting, this rare frog species captivates with its vibrant pink hue, believed to bring good fortune and prosperity to its owner."
+
+
+Item #55027
+URL: https://database.turtle-wow.org/?item=55027
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Snowpeak Eagle
+Binds when picked up
+"Poke torta to add pet spell for this."
+
+
+Item #55071
+URL: https://database.turtle-wow.org/?item=55071
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Ravenholdt Raven
+Binds when picked up
+Requires Ravenholdt - Exalted
+"Needs spell: Use: Teaches you how to summon this companion. Actual quote: The agents of Ravenholdt use these ravens for surveillance, communication and conversation in solemn moments."
+
+
+Item #61820
+URL: https://database.turtle-wow.org/?item=61820
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Biscuit
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"With its noble black and white coat, this corgi exudes both grace and bravery, a perfect ally for any adventurer."
+
+
+Item #61819
+URL: https://database.turtle-wow.org/?item=61819
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Pumpkin
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This playful pup with a warm, orange coat is always ready for adventure, bringing a touch of cheer to your journey."
+
+
+Item #67000
+URL: https://database.turtle-wow.org/?item=67000
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Lovely Pink Fox
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A shy creature, the pink fox will only make its presence known to those that have befriended it."
+
+
+Item #69000
+URL: https://database.turtle-wow.org/?item=69000
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Gilnean Raven
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"For generations, the ravens of Gilneas have served as a timeless symbol of regal authority, reminding all of the lasting influence of House Greymane, even in the darkest of nights."
+
+
+Item #69004
+URL: https://database.turtle-wow.org/?item=69004
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Pengu
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"It's appearance evokes a more civilized era, when duelists battled in tuxedos."
+
+
+Item #69002
+URL: https://database.turtle-wow.org/?item=69002
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Scotty
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Unique and intelligent piece of genius engineering!"
+
+
+Item #69003
+URL: https://database.turtle-wow.org/?item=69003
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Flipper
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Notable for its wide eyes and sassy slide."
+
+
+Item #69001
+URL: https://database.turtle-wow.org/?item=69001
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tiny Warp Stalker
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Not only is it quick, it's loud too!"
+
+
+Item #69006
+URL: https://database.turtle-wow.org/?item=69006
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Glitterwing
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"These flying creatures do not leave feathers out in the wild. If a feather happens to ever detach from their body, the feather glows brilliantly for a moment and then vanishes from sight."
+
+
+Item #70016
+URL: https://database.turtle-wow.org/?item=70016
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Infinite Whelpling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"You better believe he knows what time it is."
+
+
+Item #80000
+URL: https://database.turtle-wow.org/?item=80000
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Golden Dragonhawk Hatchling
+Soulbound
+Requires Silvermoon Remnant - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"Once prized by dragonhawk breeders in Silvermoon. Stands out at night to predators, making it necessary to gain awareness at an early age."
+
+
+Item #80003
+URL: https://database.turtle-wow.org/?item=80003
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Black-Footed Fox
+Soulbound
+Requires Silvermoon Remnant - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"During frigid nights, these critters use their fluffy tails as a blanket to stay warm."
+
+
+Item #80001
+URL: https://database.turtle-wow.org/?item=80001
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Thalassian Tender
+Soulbound
+Requires Silvermoon Remnant - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"It always wakes up dancing. What a happy little tree!"
+
+
+Item #80004
+URL: https://database.turtle-wow.org/?item=80004
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Cheeky Monkey
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"With their mischievous nature and cute antics, these baby monkeys are the perfect companions to brighten up your adventures in Azeroth."
+
+
+Item #80007
+URL: https://database.turtle-wow.org/?item=80007
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Enchanted Broom
+Soulbound
+Requires Silvermoon Remnant - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"Created by a high elf apprentice, this broom would be extremely useful if anyone could figure out how to make it stop."
+
+
+Item #80006
+URL: https://database.turtle-wow.org/?item=80006
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Arcane Elemental
+Binds when picked up
+Requires Shen'dralar - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"In case of darkness, this little elemental is an infinite source of a soothing blue glow."
+
+
+Item #80010
+URL: https://database.turtle-wow.org/?item=80010
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Midnight
+Soulbound
+Use:
+Adds a companion to the player's companion collection.
+"Ride with the moon (and this furry, whiskered witch) in the dead of night!"
+
+
+Item #80410
+URL: https://database.turtle-wow.org/?item=80410
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+High Elf Orphan Whistle
+Binds when picked up
+Use:
+Summon and dismiss the orphan you've agreed to look after.
+"Summon and dismiss the orphan you've agreed to look after."
+
+
+Item #80450
+URL: https://database.turtle-wow.org/?item=80450
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Zephyr
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A swift and gentle gazelle, Zephyr dances through the Barrens with the grace of the wind, always by your side on every adventure."
+
+
+Item #80878
+URL: https://database.turtle-wow.org/?item=80878
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Amani Eagle
+Binds when picked up
+Requires Revantusk Trolls - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"These birds often prey on turtles by dropping them from great heights to break open their shell."
+
+
+Item #81150
+URL: https://database.turtle-wow.org/?item=81150
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Phoenix Hatchling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A child of phoenix god Al'ar, the hatchling takes flight immediately after birth."
+
+
+Item #81152
+URL: https://database.turtle-wow.org/?item=81152
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tiny Pterodactyl
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"In older age, these little terrors eat everything they want to and are prey to almost no other species."
+
+
+Item #81151
+URL: https://database.turtle-wow.org/?item=81151
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Spectral Faeling
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"This unique species of faerie dragon is not usually found on Azeroth."
+
+
+Item #81159
+URL: https://database.turtle-wow.org/?item=81159
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Tiny Shore Crab
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"These arthropods line many Azerothian shores and seek to fulfill their one true desire: to pinch."
+
+
+Item #81183
+URL: https://database.turtle-wow.org/?item=81183
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Sunscale Hatchling
+Binds when picked up
+Requires Darkspear Trolls - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"The bright scales of this rare wind serpent soak up the sunlight to keep it warm, even in shade."
+
+
+Item #81207
+URL: https://database.turtle-wow.org/?item=81207
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Dalaran Cloud Familiar
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"A mage from Dalaran always seem so serious, until their messages are delivered by these emotive familiars."
+
+
+Item #81243
+URL: https://database.turtle-wow.org/?item=81243
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Beaky
+Binds when picked up
+Requires Wildhammer Clan - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"A gift from the Wildhammer dwarves to the heroes of the Alliance, these hatchlings are descendants of the same gryphons ridden by Falstad and his entourage into Grim Batol."
+
+
+Item #81248
+URL: https://database.turtle-wow.org/?item=81248
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Finn the Shark
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Big and safe to have at your side if you want to discover the world underneath the sea."
+
+
+Item #81254
+URL: https://database.turtle-wow.org/?item=81254
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Water Waveling
+Binds when picked up
+Requires Hydraxian Waterlords - Exalted
+Use:
+Adds a companion to the player's companion collection.
+"This Elemental has been formed personally by Duke Hydraxis as thanks for your help in fighting the Sulfuran Firelords."
+
+
+Item #81258
+URL: https://database.turtle-wow.org/?item=81258
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Spectral Cub
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Affectionate and curious, these kittens seem to find the most peculiar hiding places."
+
+
+Item #81283
+URL: https://database.turtle-wow.org/?item=81283
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Mr. Bigglesworth
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Upon exiting the freezing necropolis of Naxxramas, Mr. Bigglesworth promptly found a warm spot in the sun to take a long nap in."
+
+
+Item #83300
+URL: https://database.turtle-wow.org/?item=83300
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Lil' K.T.
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"In life, Kel'Thuzad betrayed the Kirin Tor and created the Cult of the Damned. In death, he serves the Scourge as the Archlich Lord of Naxxramas."
+
+
+Item #83302
+URL: https://database.turtle-wow.org/?item=83302
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Lil' Ragnaros
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"It's never too soon to summon this tiny aspect of the dread Firelord."
+
+
+Item #83301
+URL: https://database.turtle-wow.org/?item=83301
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Core Hound Pup
+Binds when picked up
+Use:
+Adds a companion to the player's companion collection.
+"Found in the Firelands and the Molten Core, core hounds can trace their lineage back to the alpha male, Magmadar."
+
+
+Item #84038
+URL: https://database.turtle-wow.org/?item=84038
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Mini Krampus
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Keep him away from presents!"
+
+
+Item #18963
+URL: https://database.turtle-wow.org/?item=18963
+Category: Database/Items/Miscellaneous/Companions
+Item: 
+Albino Snapjaw
+Binds when picked up
+Unique
+Use:
+Adds a companion to the player's companion collection.
+"Turtles are feared by the naga, who consider them bad luck and give them a wide berth on the shores of Azshara."
+
+

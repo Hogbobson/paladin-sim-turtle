@@ -1,0 +1,3425 @@
+Item #20
+URL: https://database.turtle-wow.org/?item=20
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Sun-Lute of the Phoenix King
+Two-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+"Strum it and watch the skies burn!"
+
+
+Item #21
+URL: https://database.turtle-wow.org/?item=21
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Arcanite Ripper
+Two-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+"ROCK ON!"
+
+
+Item #37
+URL: https://database.turtle-wow.org/?item=37
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Worn Axe
+Main Hand
+Axe
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #768
+URL: https://database.turtle-wow.org/?item=768
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Lumberjack Axe
+Main Hand
+Axe
+7 - 13  Damage
+Speed 2.60
+(3.8 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #778
+URL: https://database.turtle-wow.org/?item=778
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Kobold Excavation Pick
+Main Hand
+Axe
+4 - 9  Damage
+Speed 2.40
+(2.7 damage per second)
+Durability 30 / 30
+Requires Level 2
+
+
+Item #790
+URL: https://database.turtle-wow.org/?item=790
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Forester's Axe
+Binds when equipped
+Main Hand
+Axe
+20 - 38  Damage
+Speed 2.50
+(11.6 damage per second)
+Durability 65 / 65
+Requires Level 18
+Random Bonuses
+
+
+Item #811
+URL: https://database.turtle-wow.org/?item=811
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Axe of the Deep Woods
+Binds when equipped
+Main Hand
+Axe
+78 - 146  Damage
+Speed 2.70
+(41.5 damage per second)
+Durability 105 / 105
+Requires Level 52
+Chance on hit:
+Blasts a target for 90 to 127 Nature damage.
+
+
+Item #826
+URL: https://database.turtle-wow.org/?item=826
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Brutish Riverpaw Axe
+Binds when equipped
+Main Hand
+Axe
+15 - 29  Damage
+Speed 2.80
+(7.9 damage per second)
++1 Strength
+Durability 50 / 50
+Requires Level 10
+
+
+Item #853
+URL: https://database.turtle-wow.org/?item=853
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Hatchet
+One-hand
+Axe
+12 - 24  Damage
+Speed 2.50
+(7.2 damage per second)
+Durability 50 / 50
+Requires Level 11
+
+
+Item #863
+URL: https://database.turtle-wow.org/?item=863
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Gloom Reaper
+Binds when equipped
+One-hand
+Axe
+37 - 69  Damage
+Speed 2.70
+(19.6 damage per second)
+Durability 75 / 75
+Requires Level 32
+Random Bonuses
+
+
+Item #871
+URL: https://database.turtle-wow.org/?item=871
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Flurry Axe
+Binds when equipped
+One-hand
+Axe
+37 - 69  Damage
+Speed 1.50
+(35.3 damage per second)
+Durability 105 / 105
+Requires Level 42
+Chance on hit:
+Grants 1 extra attack on your next swing.
+
+
+Item #885
+URL: https://database.turtle-wow.org/?item=885
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Black Metal Axe
+Binds when equipped
+Main Hand
+Axe
+18 - 34  Damage
+Speed 2.10
+(12.4 damage per second)
++2 Stamina
++2 Strength
+Durability 65 / 65
+Requires Level 19
+
+
+Item #927
+URL: https://database.turtle-wow.org/?item=927
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Double Axe
+One-hand
+Axe
+19 - 36  Damage
+Speed 2.50
+(11.0 damage per second)
+Durability 65 / 65
+Requires Level 19
+
+
+Item #934
+URL: https://database.turtle-wow.org/?item=934
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Stalvan's Reaper
+Binds when equipped
+One-hand
+Axe
+50 - 94  Damage
+Speed 2.90
+(24.8 damage per second)
+Durability 90 / 90
+Requires Level 32
+Chance on hit:
+Lowers all attributes of target by 2 for 60 sec.
+
+
+Item #1011
+URL: https://database.turtle-wow.org/?item=1011
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Sharp Axe
+Binds when picked up
+Main Hand
+Axe
+6 - 11  Damage
+Speed 2.60
+(3.3 damage per second)
+Durability 35 / 35
+
+
+Item #1292
+URL: https://database.turtle-wow.org/?item=1292
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Butcher's Cleaver
+Binds when picked up
+One-hand
+Axe
+23 - 32  Damage
+Speed 1.70
+(16.2 damage per second)
++5 Strength
++2 Agility
+Durability 75 / 75
+Requires Level 20
+
+
+Item #1383
+URL: https://database.turtle-wow.org/?item=1383
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Stone Tomahawk
+Binds when picked up
+Main Hand
+Axe
+3 - 6  Damage
+Speed 2.10
+(2.1 damage per second)
+Durability 30 / 30
+
+
+Item #1416
+URL: https://database.turtle-wow.org/?item=1416
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Rusty Hatchet
+Main Hand
+Axe
+4 - 8  Damage
+Speed 2.10
+(2.9 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #1454
+URL: https://database.turtle-wow.org/?item=1454
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Axe of the Enforcer
+Binds when equipped
+One-hand
+Axe
+31 - 58  Damage
+Speed 2.60
+(17.1 damage per second)
++4 Strength
++3 Stamina
+Durability 80 / 80
+Requires Level 22
+
+
+Item #1459
+URL: https://database.turtle-wow.org/?item=1459
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Shadowhide Scalper
+Binds when equipped
+Main Hand
+Axe
+25 - 47  Damage
+Speed 2.90
+(12.4 damage per second)
++3 Strength
+Durability 65 / 65
+Requires Level 19
+
+
+Item #1481
+URL: https://database.turtle-wow.org/?item=1481
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Grimclaw
+Binds when equipped
+One-hand
+Axe
+22 - 42  Damage
+Speed 2.00
+(16.0 damage per second)
+Durability 75 / 75
+Requires Level 20
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 30 Shadow damage.
+
+
+Item #1516
+URL: https://database.turtle-wow.org/?item=1516
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Worn Hatchet
+Main Hand
+Axe
+6 - 12  Damage
+Speed 2.10
+(4.3 damage per second)
+Durability 45 / 45
+Requires Level 9
+
+
+Item #1602
+URL: https://database.turtle-wow.org/?item=1602
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Sickle Axe
+Binds when equipped
+One-hand
+Axe
+48 - 90  Damage
+Speed 2.60
+(26.5 damage per second)
++5 Agility
++6 Strength
++3 Stamina
+Durability 90 / 90
+Requires Level 34
+
+
+Item #1816
+URL: https://database.turtle-wow.org/?item=1816
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Unbalanced Axe
+Main Hand
+Axe
+9 - 18  Damage
+Speed 2.40
+(5.6 damage per second)
+Durability 55 / 55
+Requires Level 14
+
+
+Item #1819
+URL: https://database.turtle-wow.org/?item=1819
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Gouging Pick
+Main Hand
+Axe
+8 - 16  Damage
+Speed 1.80
+(6.7 damage per second)
+Durability 60 / 60
+Requires Level 17
+
+
+Item #1827
+URL: https://database.turtle-wow.org/?item=1827
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Meat Cleaver
+Main Hand
+Axe
+14 - 26  Damage
+Speed 2.40
+(8.3 damage per second)
+Durability 70 / 70
+Requires Level 22
+
+
+Item #1909
+URL: https://database.turtle-wow.org/?item=1909
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Large Basic
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1904
+URL: https://database.turtle-wow.org/?item=1904
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Stone Basic
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1905
+URL: https://database.turtle-wow.org/?item=1905
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Metal Basic
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1927
+URL: https://database.turtle-wow.org/?item=1927
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Deadmines Cleaver
+Binds when equipped
+Main Hand
+Axe
+14 - 27  Damage
+Speed 2.60
+(7.9 damage per second)
++1 Spirit
+Durability 50 / 50
+Requires Level 10
+
+
+Item #1994
+URL: https://database.turtle-wow.org/?item=1994
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ebonclaw Reaver
+Binds when equipped
+One-hand
+Axe
+34 - 64  Damage
+Speed 1.80
+(27.2 damage per second)
+Durability 75 / 75
+Requires Level 41
+Random Bonuses
+
+
+Item #2029
+URL: https://database.turtle-wow.org/?item=2029
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Cleaver
+One-hand
+Axe
+14 - 26  Damage
+Speed 2.20
+(9.1 damage per second)
+Durability 55 / 55
+Requires Level 15
+
+
+Item #2044
+URL: https://database.turtle-wow.org/?item=2044
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Crescent of Forlorn Spirits
+Binds when picked up
+Main Hand
+Axe
+25 - 48  Damage
+Speed 1.60
+(22.8 damage per second)
++2 Spirit
+Durability 90 / 90
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 35 Shadow damage.
+
+
+Item #2054
+URL: https://database.turtle-wow.org/?item=2054
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Trogg Hand Axe
+Main Hand
+Axe
+2 - 4  Damage
+Speed 2.00
+(1.5 damage per second)
+Durability 25 / 25
+
+
+Item #2047
+URL: https://database.turtle-wow.org/?item=2047
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Anvilmar Hand Axe
+Binds when picked up
+Main Hand
+Axe
+2 - 5  Damage
+Speed 2.00
+(1.8 damage per second)
+Durability 30 / 30
+
+
+Item #2066
+URL: https://database.turtle-wow.org/?item=2066
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Skull Hatchet
+Main Hand
+Axe
+4 - 9  Damage
+Speed 2.00
+(3.3 damage per second)
+Durability 35 / 35
+Requires Level 3
+
+
+Item #2080
+URL: https://database.turtle-wow.org/?item=2080
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Hillborne Axe
+Binds when equipped
+One-hand
+Axe
+27 - 51  Damage
+Speed 2.20
+(17.7 damage per second)
+Durability 75 / 75
+Requires Level 29
+Random Bonuses
+
+
+Item #2073
+URL: https://database.turtle-wow.org/?item=2073
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Dwarven Hatchet
+Binds when equipped
+Main Hand
+Axe
+10 - 20  Damage
+Speed 2.00
+(7.5 damage per second)
+Durability 50 / 50
+Requires Level 10
+Random Bonuses
+
+
+Item #2134
+URL: https://database.turtle-wow.org/?item=2134
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Hand Axe
+One-hand
+Axe
+2 - 4  Damage
+Speed 2.00
+(1.5 damage per second)
+Durability 25 / 25
+
+
+Item #2183
+URL: https://database.turtle-wow.org/?item=2183
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Metal Badass
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2260
+URL: https://database.turtle-wow.org/?item=2260
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Frostmane Hand Axe
+Main Hand
+Axe
+5 - 10  Damage
+Speed 2.00
+(3.8 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #2265
+URL: https://database.turtle-wow.org/?item=2265
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Stonesplinter Axe
+Binds when equipped
+Main Hand
+Axe
+10 - 20  Damage
+Speed 2.20
+(6.8 damage per second)
++1 Strength
+Durability 45 / 45
+Requires Level 8
+
+
+Item #2281
+URL: https://database.turtle-wow.org/?item=2281
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Rodentia Flint Axe
+Binds when equipped
+Main Hand
+Axe
+8 - 16  Damage
+Speed 2.00
+(6.0 damage per second)
++1 Spirit
+Durability 40 / 40
+Requires Level 6
+
+
+Item #2482
+URL: https://database.turtle-wow.org/?item=2482
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Inferior Tomahawk
+One-hand
+Axe
+1 - 3  Damage
+Speed 2.10
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #2490
+URL: https://database.turtle-wow.org/?item=2490
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Tomahawk
+One-hand
+Axe
+4 - 9  Damage
+Speed 1.70
+(3.8 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #2498
+URL: https://database.turtle-wow.org/?item=2498
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Small Tomahawk
+One-hand
+Axe
+4 - 8  Damage
+Speed 1.80
+(3.3 damage per second)
+Durability 35 / 35
+Requires Level 3
+
+
+Item #2522
+URL: https://database.turtle-wow.org/?item=2522
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Crescent Axe
+Main Hand
+Axe
+31 - 58  Damage
+Speed 2.60
+(17.1 damage per second)
+Durability 75 / 75
+Requires Level 30
+
+
+Item #2530
+URL: https://database.turtle-wow.org/?item=2530
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Francisca
+Main Hand
+Axe
+41 - 78  Damage
+Speed 2.30
+(25.9 damage per second)
+Durability 75 / 75
+Requires Level 41
+
+
+Item #2807
+URL: https://database.turtle-wow.org/?item=2807
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Guillotine Axe
+Binds when equipped
+Main Hand
+Axe
+28 - 53  Damage
+Speed 2.70
+(15.0 damage per second)
++3 Agility
++3 Strength
+Durability 75 / 75
+Requires Level 18
+
+
+Item #2815
+URL: https://database.turtle-wow.org/?item=2815
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Curve-bladed Ripper
+Binds when equipped
+Main Hand
+Axe
+40 - 75  Damage
+Speed 1.90
+(30.3 damage per second)
++5 Stamina
++8 Strength
+Durability 90 / 90
+Requires Level 40
+
+
+Item #2827
+URL: https://database.turtle-wow.org/?item=2827
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Cleaver
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2845
+URL: https://database.turtle-wow.org/?item=2845
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Copper Axe
+Main Hand
+Axe
+5 - 10  Damage
+Speed 1.90
+(3.9 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #2849
+URL: https://database.turtle-wow.org/?item=2849
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Bronze Axe
+Main Hand
+Axe
+15 - 29  Damage
+Speed 2.10
+(10.5 damage per second)
+Durability 65 / 65
+Requires Level 18
+
+
+Item #2878
+URL: https://database.turtle-wow.org/?item=2878
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Bearded Boneaxe
+Binds when equipped
+Main Hand
+Axe
+25 - 47  Damage
+Speed 1.90
+(18.9 damage per second)
++4 Strength
++4 Agility
+Durability 90 / 90
+Requires Level 25
+
+
+Item #3071
+URL: https://database.turtle-wow.org/?item=3071
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Striking Hatchet
+Binds when picked up
+Main Hand
+Axe
+6 - 12  Damage
+Speed 1.70
+(5.3 damage per second)
+Durability 40 / 40
+
+
+Item #3154
+URL: https://database.turtle-wow.org/?item=3154
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Thelsamar Axe
+Binds when picked up
+Main Hand
+Axe
+13 - 25  Damage
+Speed 2.10
+(9.0 damage per second)
++2 Agility
+Durability 55 / 55
+
+
+Item #3293
+URL: https://database.turtle-wow.org/?item=3293
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Deadman Cleaver
+Main Hand
+Axe
+1 - 4  Damage
+Speed 2.20
+(1.1 damage per second)
+Durability 20 / 20
+
+
+Item #3443
+URL: https://database.turtle-wow.org/?item=3443
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ceremonial Tomahawk
+Binds when picked up
+Main Hand
+Axe
+5 - 10  Damage
+Speed 1.70
+(4.4 damage per second)
+Durability 40 / 40
+
+
+Item #3489
+URL: https://database.turtle-wow.org/?item=3489
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Thick War Axe
+Binds when equipped
+Main Hand
+Axe
+15 - 28  Damage
+Speed 2.50
+(8.6 damage per second)
++1 Stamina
++1 Strength
+Durability 50 / 50
+Requires Level 12
+
+
+Item #3755
+URL: https://database.turtle-wow.org/?item=3755
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Fish Gutter
+Binds when picked up
+Main Hand
+Axe
+24 - 46  Damage
+Speed 2.10
+(16.7 damage per second)
++5 Spirit
+Durability 75 / 75
+
+
+Item #3785
+URL: https://database.turtle-wow.org/?item=3785
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Keen Axe
+Main Hand
+Axe
+19 - 35  Damage
+Speed 2.20
+(12.3 damage per second)
+Durability 75 / 75
+Requires Level 33
+
+
+Item #4019
+URL: https://database.turtle-wow.org/?item=4019
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Heavy Flint Axe
+Main Hand
+Axe
+27 - 52  Damage
+Speed 2.30
+(17.2 damage per second)
+Durability 75 / 75
+Requires Level 43
+
+
+Item #4126
+URL: https://database.turtle-wow.org/?item=4126
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Guerrilla Cleaver
+Binds when picked up
+Main Hand
+Axe
+34 - 65  Damage
+Speed 2.80
+(17.7 damage per second)
++4 Stamina
++3 Agility
+Durability 75 / 75
+
+
+Item #4445
+URL: https://database.turtle-wow.org/?item=4445
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Flesh Carver
+Binds when equipped
+Main Hand
+Axe
+18 - 35  Damage
+Speed 2.30
+(11.5 damage per second)
++2 Agility
++2 Stamina
+Durability 65 / 65
+Requires Level 18
+
+
+Item #4561
+URL: https://database.turtle-wow.org/?item=4561
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Scalping Tomahawk
+Binds when equipped
+Main Hand
+Axe
+7 - 14  Damage
+Speed 1.80
+(5.8 damage per second)
+Durability 40 / 40
+Requires Level 6
+Random Bonuses
+
+
+Item #4568
+URL: https://database.turtle-wow.org/?item=4568
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Grunt Axe
+Binds when equipped
+One-hand
+Axe
+17 - 32  Damage
+Speed 2.30
+(10.7 damage per second)
+Durability 60 / 60
+Requires Level 16
+Random Bonuses
+
+
+Item #4825
+URL: https://database.turtle-wow.org/?item=4825
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Callous Axe
+Binds when equipped
+One-hand
+Axe
+29 - 55  Damage
+Speed 2.80
+(15.0 damage per second)
+Durability 75 / 75
+Requires Level 24
+Equip:
++8 Attack Power.
+
+
+Item #4824
+URL: https://database.turtle-wow.org/?item=4824
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Blurred Axe
+Binds when equipped
+Main Hand
+Axe
+16 - 31  Damage
+Speed 1.70
+(13.8 damage per second)
++4 Agility
+Durability 70 / 70
+Requires Level 22
+
+
+Item #4826
+URL: https://database.turtle-wow.org/?item=4826
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Marauder Axe
+Binds when equipped
+Main Hand
+Axe
+18 - 35  Damage
+Speed 2.00
+(13.3 damage per second)
++4 Stamina
+Durability 70 / 70
+Requires Level 21
+
+
+Item #4923
+URL: https://database.turtle-wow.org/?item=4923
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Primitive Hatchet
+Binds when picked up
+Main Hand
+Axe
+3 - 6  Damage
+Speed 2.20
+(2.0 damage per second)
+Durability 30 / 30
+
+
+Item #4949
+URL: https://database.turtle-wow.org/?item=4949
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Orcish Cleaver
+Binds when equipped
+Main Hand
+Axe
+13 - 25  Damage
+Speed 1.80
+(10.6 damage per second)
++1 Strength
+Durability 60 / 60
+Requires Level 13
+
+
+Item #4950
+URL: https://database.turtle-wow.org/?item=4950
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Dustwrought Cleaver
+Binds when picked up
+Main Hand
+Axe
+16 - 26  Damage
+Speed 2.50
+(8.4 damage per second)
++1 Strength
++1 Spirit
+Durability 50 / 50
+
+
+Item #5196
+URL: https://database.turtle-wow.org/?item=5196
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Smite's Reaver
+Binds when picked up
+One-hand
+Axe
+14 - 28  Damage
+Speed 1.90
+(11.1 damage per second)
++2 Strength
++1 Spirit
++1 Stamina
+Durability 60 / 60
+Requires Level 17
+
+
+Item #5255
+URL: https://database.turtle-wow.org/?item=5255
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Quilboar Tomahawk
+Binds when equipped
+Main Hand
+Axe
+13 - 26  Damage
+Speed 2.50
+(7.8 damage per second)
++1 Agility
+Durability 50 / 50
+Requires Level 10
+
+
+Item #5286
+URL: https://database.turtle-wow.org/?item=5286
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, One-Handed Double Axe
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.10
+(0.7 damage per second)
+Durability 20 / 20
+
+
+Item #5344
+URL: https://database.turtle-wow.org/?item=5344
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Pointed Axe
+Binds when picked up
+Main Hand
+Axe
+9 - 18  Damage
+Speed 1.90
+(7.1 damage per second)
++1 Agility
+Durability 45 / 45
+
+
+Item #5426
+URL: https://database.turtle-wow.org/?item=5426
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Serpent's Kiss
+Binds when equipped
+One-hand
+Axe
+23 - 44  Damage
+Speed 2.50
+(13.4 damage per second)
+Durability 65 / 65
+Requires Level 15
+Chance on hit:
+Poisons target for 7 Nature damage every 3 sec for 15 sec.
+
+
+Item #5459
+URL: https://database.turtle-wow.org/?item=5459
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Defender Axe
+Binds when picked up
+Main Hand
+Axe
+11 - 21  Damage
+Speed 2.30
+(7.0 damage per second)
+10 Armor
+Durability 45 / 45
+
+
+Item #5598
+URL: https://database.turtle-wow.org/?item=5598
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Glaive - 3 Blade
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5599
+URL: https://database.turtle-wow.org/?item=5599
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Glaive - 4 Blade
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #6194
+URL: https://database.turtle-wow.org/?item=6194
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Barreling Reaper
+Binds when picked up
+Main Hand
+Axe
+22 - 41  Damage
+Speed 1.90
+(16.6 damage per second)
++5 Stamina
+Durability 75 / 75
+
+
+Item #6692
+URL: https://database.turtle-wow.org/?item=6692
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Pronged Reaver
+Binds when picked up
+Unique
+One-hand
+Axe
+40 - 75  Damage
+Speed 2.40
+(24.0 damage per second)
++5 Spirit
++6 Strength
+Durability 90 / 90
+Requires Level 31
+
+
+Item #6738
+URL: https://database.turtle-wow.org/?item=6738
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Bleeding Crescent
+Binds when picked up
+Main Hand
+Axe
+30 - 57  Damage
+Speed 2.40
+(18.1 damage per second)
+Durability 75 / 75
+Chance on hit:
+Wounds the target causing them to bleed for 45 damage over 30 sec.
+
+
+Item #6966
+URL: https://database.turtle-wow.org/?item=6966
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Elunite Axe
+Binds when picked up
+Main Hand
+Axe
+14 - 28  Damage
+Speed 2.70
+(7.8 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #6978
+URL: https://database.turtle-wow.org/?item=6978
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Umbral Axe
+Binds when picked up
+Main Hand
+Axe
+14 - 28  Damage
+Speed 2.70
+(7.8 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #6979
+URL: https://database.turtle-wow.org/?item=6979
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Haggard's Axe
+Binds when picked up
+Main Hand
+Axe
+14 - 28  Damage
+Speed 2.70
+(7.8 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7115
+URL: https://database.turtle-wow.org/?item=7115
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Heirloom Axe
+Binds when picked up
+Main Hand
+Axe
+14 - 28  Damage
+Speed 2.70
+(7.8 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7326
+URL: https://database.turtle-wow.org/?item=7326
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Thun'grim's Axe
+Binds when picked up
+Main Hand
+Axe
+14 - 28  Damage
+Speed 2.70
+(7.8 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7761
+URL: https://database.turtle-wow.org/?item=7761
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Steelclaw Reaver
+Binds when equipped
+Main Hand
+Axe
+32 - 61  Damage
+Speed 1.80
+(25.8 damage per second)
++3 Agility
++8 Stamina
+Durability 90 / 90
+Requires Level 33
+
+
+Item #7786
+URL: https://database.turtle-wow.org/?item=7786
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Headsplitter
+Binds when equipped
+One-hand
+Axe
+30 - 57  Damage
+Speed 2.30
+(18.9 damage per second)
++3 Strength
++5 Stamina
+Durability 90 / 90
+Requires Level 25
+
+
+Item #7942
+URL: https://database.turtle-wow.org/?item=7942
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Blue Glittering Axe
+Binds when equipped
+One-hand
+Axe
+32 - 61  Damage
+Speed 1.80
+(25.8 damage per second)
++8 Agility
+Durability 75 / 75
+Requires Level 39
+
+
+Item #7941
+URL: https://database.turtle-wow.org/?item=7941
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Heavy Mithril Axe
+Binds when equipped
+Main Hand
+Axe
+45 - 85  Damage
+Speed 2.70
+(24.1 damage per second)
++7 Stamina
+Durability 75 / 75
+Requires Level 37
+
+
+Item #9378
+URL: https://database.turtle-wow.org/?item=9378
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Shovelphlange's Mining Axe
+Binds when equipped
+Unique
+One-hand
+Axe
+50 - 94  Damage
+Speed 2.80
+(25.7 damage per second)
++6 Strength
+Durability 90 / 90
+Requires Level 33
+Equip:
++10 Attack Power.
+
+
+Item #9465
+URL: https://database.turtle-wow.org/?item=9465
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Digmaster 5000
+Binds when equipped
+Unique
+One-hand
+Axe
+38 - 71  Damage
+Speed 1.80
+(30.3 damage per second)
++4 Agility
+Durability 90 / 90
+Requires Level 40
+Requires Mining (175)
+Chance on hit:
+Punctures target's armor lowering it by 100.
+
+
+Item #9478
+URL: https://database.turtle-wow.org/?item=9478
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ripsaw
+Binds when picked up
+Main Hand
+Axe
+63 - 117  Damage
+Speed 2.70
+(33.3 damage per second)
+Durability 90 / 90
+Requires Level 45
+Chance on hit:
+Wounds the target for 75 damage.
+
+
+Item #9485
+URL: https://database.turtle-wow.org/?item=9485
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Vibroblade
+Binds when equipped
+One-hand
+Axe
+21 - 40  Damage
+Speed 1.60
+(19.1 damage per second)
+Durability 90 / 90
+Requires Level 25
+Chance on hit:
+Punctures target's armor lowering it by 100.
+
+
+Item #9608
+URL: https://database.turtle-wow.org/?item=9608
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Shoni's Disarming Tool
+Binds when picked up
+Off Hand
+Axe
+21 - 40  Damage
+Speed 1.90
+(16.1 damage per second)
+Durability 75 / 75
+Chance on hit:
+Disarm target's weapon for 5 sec.
+
+
+Item #9684
+URL: https://database.turtle-wow.org/?item=9684
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Force of the Hippogryph
+Binds when picked up
+Main Hand
+Axe
+57 - 106  Damage
+Speed 2.40
+(34.0 damage per second)
++9 Agility
+Durability 90 / 90
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #9608
+URL: https://database.turtle-wow.org/?item=9608
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Shoni's Disarming Tool
+Binds when picked up
+Off Hand
+Axe
+21 - 40  Damage
+Speed 1.90
+(16.1 damage per second)
+Durability 75 / 75
+Chance on hit:
+Disarm target's weapon for 5 sec.
+
+
+Item #9684
+URL: https://database.turtle-wow.org/?item=9684
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Force of the Hippogryph
+Binds when picked up
+Main Hand
+Axe
+57 - 106  Damage
+Speed 2.40
+(34.0 damage per second)
++9 Agility
+Durability 90 / 90
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #10611
+URL: https://database.turtle-wow.org/?item=10611
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde Badass 01
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #10612
+URL: https://database.turtle-wow.org/?item=10612
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde Badass 02
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #10623
+URL: https://database.turtle-wow.org/?item=10623
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Winter's Bite
+Binds when equipped
+Main Hand
+Axe
+47 - 88  Damage
+Speed 2.10
+(32.1 damage per second)
+Durability 90 / 90
+Requires Level 43
+Chance on hit:
+Launches a bolt of frost at the enemy causing 20 to 31 Frost damage and slowing movement speed by 50% for 5 sec.
+
+
+Item #10744
+URL: https://database.turtle-wow.org/?item=10744
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Axe of the Ebon Drake
+Binds when picked up
+Main Hand
+Axe
+40 - 75  Damage
+Speed 1.90
+(30.3 damage per second)
++9 Strength
+Durability 75 / 75
+
+
+Item #10772
+URL: https://database.turtle-wow.org/?item=10772
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Glutton's Cleaver
+Binds when picked up
+One-hand
+Axe
+39 - 73  Damage
+Speed 2.00
+(28.0 damage per second)
+Durability 90 / 90
+Requires Level 36
+Chance on hit:
+Wounds the target causing them to bleed for 70 damage over 30 sec.
+
+
+Item #10805
+URL: https://database.turtle-wow.org/?item=10805
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Eater of the Dead
+Binds when picked up
+Main Hand
+Axe
+49 - 92  Damage
+Speed 2.20
+(32.0 damage per second)
+Durability 75 / 75
+Requires Level 49
+Equip:
++30 Attack Power when fighting Undead.
+
+
+Item #10837
+URL: https://database.turtle-wow.org/?item=10837
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Tooth of Eranikus
+Binds when picked up
+Main Hand
+Axe
+62 - 116  Damage
+Speed 2.40
+(37.1 damage per second)
++6 Strength
+Durability 90 / 90
+Requires Level 51
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #11702
+URL: https://database.turtle-wow.org/?item=11702
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Grizzle's Skinner
+Binds when picked up
+Main Hand
+Axe
+61 - 114  Damage
+Speed 2.40
+(36.5 damage per second)
++8 Strength
++5 Stamina
++6 Agility
+Durability 90 / 90
+Requires Level 50
+
+
+Item #11763
+URL: https://database.turtle-wow.org/?item=11763
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Hatchet Red
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11762
+URL: https://database.turtle-wow.org/?item=11762
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Hatchet Gold
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11920
+URL: https://database.turtle-wow.org/?item=11920
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Wraith Scythe
+Binds when picked up
+Main Hand
+Axe
+57 - 106  Damage
+Speed 2.20
+(37.0 damage per second)
+Durability 90 / 90
+Requires Level 51
+Chance on hit:
+Steals 45 life from target enemy.
+
+
+Item #12290
+URL: https://database.turtle-wow.org/?item=12290
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde Badass Copper 01
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12348
+URL: https://database.turtle-wow.org/?item=12348
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde Badass Copper 01 (Special1H)
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12482
+URL: https://database.turtle-wow.org/?item=12482
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Glaive - Demonhunter Black
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12502
+URL: https://database.turtle-wow.org/?item=12502
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Glaive - Demonhunter Black Offhand
+Off Hand
+Axe
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 20 / 20
+
+
+Item #12527
+URL: https://database.turtle-wow.org/?item=12527
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ribsplitter
+Binds when equipped
+Main Hand
+Axe
+66 - 124  Damage
+Speed 2.70
+(35.2 damage per second)
+Durability 90 / 90
+Requires Level 48
+Random Bonuses
+Equip:
++10 Attack Power.
+
+
+Item #12621
+URL: https://database.turtle-wow.org/?item=12621
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Demonfork
+Binds when picked up
+Main Hand
+Axe
+76 - 142  Damage
+Speed 2.80
+(38.9 damage per second)
+Durability 90 / 90
+Requires Level 54
+Chance on hit:
+Transfers 25 health every 2 seconds from the target to the caster for 10 sec.
+
+
+Item #12629
+URL: https://database.turtle-wow.org/?item=12629
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde Hatchet 01
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12773
+URL: https://database.turtle-wow.org/?item=12773
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ornate Thorium Handaxe
+Binds when picked up
+Main Hand
+Axe
+43 - 81  Damage
+Speed 1.90
+(32.6 damage per second)
++10 Strength
+Durability 75 / 75
+Requires Level 50
+
+
+Item #12779
+URL: https://database.turtle-wow.org/?item=12779
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Rune Edge
+Binds when picked up
+Main Hand
+Axe
+54 - 102  Damage
+Speed 2.30
+(33.9 damage per second)
++5 Strength
++5 Stamina
++5 Agility
+Durability 75 / 75
+Requires Level 52
+
+
+Item #12774
+URL: https://database.turtle-wow.org/?item=12774
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Dawn's Edge
+Binds when equipped
+One-hand
+Axe
+53 - 100  Damage
+Speed 2.10
+(36.4 damage per second)
+Durability 90 / 90
+Requires Level 50
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #12798
+URL: https://database.turtle-wow.org/?item=12798
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Annihilator
+Binds when equipped
+One-hand
+Axe
+49 - 92  Damage
+Speed 1.70
+(41.5 damage per second)
+Durability 90 / 90
+Requires Level 58
+Chance on hit:
+Reduces an enemy's armor by 100.  Stacks up to 3 times.
+
+
+Item #12990
+URL: https://database.turtle-wow.org/?item=12990
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Razor's Edge
+Binds when equipped
+One-hand
+Axe
+25 - 48  Damage
+Speed 2.40
+(15.2 damage per second)
++4 Strength
++2 Spirit
+Durability 75 / 75
+Requires Level 18
+
+
+Item #13014
+URL: https://database.turtle-wow.org/?item=13014
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Axe of Rin'ji
+Binds when equipped
+One-hand
+Axe
+46 - 87  Damage
+Speed 1.90
+(35.0 damage per second)
++11 Stamina
++5 Agility
+Durability 90 / 90
+Requires Level 48
+
+
+Item #13015
+URL: https://database.turtle-wow.org/?item=13015
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Serathil
+Binds when equipped
+One-hand
+Axe
+53 - 99  Damage
+Speed 1.90
+(40.0 damage per second)
+100 Armor
++9 Strength
+Durability 90 / 90
+Requires Level 56
+
+
+Item #13104
+URL: https://database.turtle-wow.org/?item=13104
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Hatchet C03 Red
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13286
+URL: https://database.turtle-wow.org/?item=13286
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Rivenspike
+Binds when picked up
+One-hand
+Axe
+77 - 144  Damage
+Speed 2.90
+(38.1 damage per second)
+Durability 90 / 90
+Requires Level 53
+Chance on hit:
+Punctures target's armor lowering it by 200. Can be applied up to 3 times.
+
+
+Item #13408
+URL: https://database.turtle-wow.org/?item=13408
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Soul Breaker
+Binds when picked up
+Main Hand
+Axe
+42 - 78  Damage
+Speed 1.60
+(37.5 damage per second)
+Durability 90 / 90
+Requires Level 52
+Chance on hit:
+Target enemy loses 12 health and mana every 3 sec for 30 sec.
+
+
+Item #13625
+URL: https://database.turtle-wow.org/?item=13625
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde B03 Copper
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13818
+URL: https://database.turtle-wow.org/?item=13818
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Jagged Axe
+Main Hand
+Axe
+26 - 50  Damage
+Speed 1.90
+(20.0 damage per second)
+Durability 75 / 75
+Requires Level 51
+
+
+Item #13952
+URL: https://database.turtle-wow.org/?item=13952
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Iceblade Hacker
+Binds when picked up
+Main Hand
+Axe
+57 - 106  Damage
+Speed 2.00
++1 - 5 Frost Damage
+(42.3 damage per second)
+Durability 90 / 90
+Requires Level 57
+
+
+Item #14534
+URL: https://database.turtle-wow.org/?item=14534
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Metal Blue Badass
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14875
+URL: https://database.turtle-wow.org/?item=14875
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde Double Blade A02
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14874
+URL: https://database.turtle-wow.org/?item=14874
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde C02 Black
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14876
+URL: https://database.turtle-wow.org/?item=14876
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde Crystal Blade A03
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14880
+URL: https://database.turtle-wow.org/?item=14880
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Wide Blade Silver
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14877
+URL: https://database.turtle-wow.org/?item=14877
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde Spiked A04
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14881
+URL: https://database.turtle-wow.org/?item=14881
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Glaive - 3 Blade Black
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14882
+URL: https://database.turtle-wow.org/?item=14882
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Glaive - 2 Blade Silver
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14893
+URL: https://database.turtle-wow.org/?item=14893
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde C01 Gold
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #15230
+URL: https://database.turtle-wow.org/?item=15230
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ridge Cleaver
+Binds when equipped
+Main Hand
+Axe
+19 - 37  Damage
+Speed 2.20
+(12.7 damage per second)
+Durability 65 / 65
+Requires Level 20
+Random Bonuses
+
+
+Item #15240
+URL: https://database.turtle-wow.org/?item=15240
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Demon's Claw
+Binds when equipped
+One-hand
+Axe
+61 - 115  Damage
+Speed 2.30
+(38.3 damage per second)
+Durability 75 / 75
+Requires Level 59
+Random Bonuses
+
+
+Item #15235
+URL: https://database.turtle-wow.org/?item=15235
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Crescent Edge
+Binds when equipped
+One-hand
+Axe
+42 - 78  Damage
+Speed 2.10
+(28.6 damage per second)
+Durability 75 / 75
+Requires Level 43
+Random Bonuses
+
+
+Item #15239
+URL: https://database.turtle-wow.org/?item=15239
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Felstone Reaver
+Binds when equipped
+One-hand
+Axe
+51 - 95  Damage
+Speed 2.00
+(36.5 damage per second)
+Durability 75 / 75
+Requires Level 56
+Random Bonuses
+
+
+Item #15233
+URL: https://database.turtle-wow.org/?item=15233
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Savage Axe
+Binds when equipped
+Main Hand
+Axe
+42 - 78  Damage
+Speed 2.80
+(21.4 damage per second)
+Durability 75 / 75
+Requires Level 34
+Random Bonuses
+
+
+Item #15238
+URL: https://database.turtle-wow.org/?item=15238
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Warlord's Axe
+Binds when equipped
+One-hand
+Axe
+55 - 104  Damage
+Speed 2.30
+(34.6 damage per second)
+Durability 75 / 75
+Requires Level 53
+Random Bonuses
+
+
+Item #15236
+URL: https://database.turtle-wow.org/?item=15236
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Moon Cleaver
+Binds when equipped
+One-hand
+Axe
+47 - 89  Damage
+Speed 2.20
+(30.9 damage per second)
+Durability 75 / 75
+Requires Level 47
+Random Bonuses
+
+
+Item #15234
+URL: https://database.turtle-wow.org/?item=15234
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Greater Scythe
+Binds when equipped
+Main Hand
+Axe
+43 - 81  Damage
+Speed 2.80
+(22.1 damage per second)
+Durability 75 / 75
+Requires Level 35
+Random Bonuses
+
+
+Item #15232
+URL: https://database.turtle-wow.org/?item=15232
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Hacking Cleaver
+Binds when equipped
+One-hand
+Axe
+22 - 43  Damage
+Speed 1.90
+(17.1 damage per second)
+Durability 75 / 75
+Requires Level 28
+Random Bonuses
+
+
+Item #15237
+URL: https://database.turtle-wow.org/?item=15237
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Corpse Harvester
+Binds when equipped
+One-hand
+Axe
+59 - 111  Damage
+Speed 2.60
+(32.7 damage per second)
+Durability 75 / 75
+Requires Level 50
+Random Bonuses
+
+
+Item #15231
+URL: https://database.turtle-wow.org/?item=15231
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Splitting Hatchet
+Binds when equipped
+One-hand
+Axe
+20 - 38  Damage
+Speed 1.80
+(16.1 damage per second)
+Durability 75 / 75
+Requires Level 26
+Random Bonuses
+
+
+Item #15853
+URL: https://database.turtle-wow.org/?item=15853
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Windreaper
+Binds when picked up
+One-hand
+Axe
+63 - 118  Damage
+Speed 2.30
+(39.3 damage per second)
+Durability 90 / 90
+Chance on hit:
+Inflicts Nature damage every 2 sec for 20 sec.
+
+
+Item #15862
+URL: https://database.turtle-wow.org/?item=15862
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Blitzcleaver
+Binds when picked up
+One-hand
+Axe
+49 - 92  Damage
+Speed 2.20
+(32.0 damage per second)
+Durability 75 / 75
+Equip:
++20 Attack Power.
+
+
+Item #17002
+URL: https://database.turtle-wow.org/?item=17002
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ichor Spitter
+Binds when picked up
+One-hand
+Axe
+61 - 114  Damage
+Speed 2.40
+(36.5 damage per second)
+Durability 75 / 75
+Chance on hit:
+Poisons target for 8 Nature damage every 2 sec for 20 sec.
+
+
+Item #17016
+URL: https://database.turtle-wow.org/?item=17016
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Dark Iron Destroyer
+Binds when equipped
+Main Hand
+Axe
+79 - 147  Damage
+Speed 2.40
+(47.1 damage per second)
++12 Strength
++8 Fire Resistance
+Durability 105 / 105
+Requires Level 60
+Equip:
+Your attacks ignore 25 of the target's armor.
+
+
+Item #17046
+URL: https://database.turtle-wow.org/?item=17046
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Gutterblade
+Binds when picked up
+One-hand
+Axe
+25 - 46  Damage
+Speed 2.20
+(16.1 damage per second)
++3 Strength
++3 Stamina
+Durability 75 / 75
+
+
+Item #17068
+URL: https://database.turtle-wow.org/?item=17068
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Deathbringer
+Binds when picked up
+One-hand
+Axe
+114 - 213  Damage
+Speed 2.90
+(56.4 damage per second)
+Durability 105 / 105
+Requires Level 60
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 110 to 141 Shadow damage.
+
+
+Item #17462
+URL: https://database.turtle-wow.org/?item=17462
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde B02 Silver
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #17704
+URL: https://database.turtle-wow.org/?item=17704
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Edge of Winter
+Binds when equipped
+Main Hand
+Axe
+30 - 56  Damage
+Speed 2.10
+(20.5 damage per second)
++3 Stamina
+Durability 75 / 75
+Requires Level 33
+Chance on hit:
+Blasts a target for 30 Frost damage.
+
+
+Item #18293
+URL: https://database.turtle-wow.org/?item=18293
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Glaive - 2 Blade B03 Green
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #18347
+URL: https://database.turtle-wow.org/?item=18347
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Well Balanced Axe
+Binds when picked up
+One-hand
+Axe
+48 - 90  Damage
+Speed 1.90
+(36.3 damage per second)
++11 Agility
+Durability 75 / 75
+Requires Level 56
+
+
+Item #18498
+URL: https://database.turtle-wow.org/?item=18498
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Hedgecutter
+Binds when picked up
+One-hand
+Axe
+60 - 90  Damage
+Speed 1.90
+(39.5 damage per second)
++10 Stamina
++5 Strength
+Durability 90 / 90
+Requires Level 55
+Equip:
+Increased Axes +3.
+
+
+Item #18596
+URL: https://database.turtle-wow.org/?item=18596
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde B01 Green
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #18737
+URL: https://database.turtle-wow.org/?item=18737
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Bone Slicing Hatchet
+Binds when picked up
+One-hand
+Axe
+48 - 90  Damage
+Speed 1.70
+(40.6 damage per second)
++13 Agility
++5 Stamina
+Durability 90 / 90
+Requires Level 57
+
+
+Item #18828
+URL: https://database.turtle-wow.org/?item=18828
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+High Warlord's Cleaver
+Binds when picked up
+One-hand
+Axe
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #18827
+URL: https://database.turtle-wow.org/?item=18827
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Grand Marshal's Handaxe
+Binds when picked up
+One-hand
+Axe
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #19014
+URL: https://database.turtle-wow.org/?item=19014
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Item, 2H Horde Wood Axe
+Two-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #19015
+URL: https://database.turtle-wow.org/?item=19015
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Item, 2H Alliance Wood Axe
+Two-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #19103
+URL: https://database.turtle-wow.org/?item=19103
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Frostbite
+Binds when picked up
+Unique
+One-hand
+Axe
+80 - 150  Damage
+Speed 2.70
+(42.6 damage per second)
++15 Strength
+Durability 90 / 90
+Requires Level 60
+
+
+Item #19362
+URL: https://database.turtle-wow.org/?item=19362
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Doom's Edge
+Binds when picked up
+Unique
+One-hand
+Axe
+83 - 154  Damage
+Speed 2.30
+(51.5 damage per second)
++12 Agility
++9 Strength
++7 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increased Axes +4.
+
+
+Item #19363
+URL: https://database.turtle-wow.org/?item=19363
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Crul'shorukh, Edge of Chaos
+Binds when picked up
+Unique
+One-hand
+Axe
+101 - 188  Damage
+Speed 2.30
+(62.8 damage per second)
++13 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
++36 Attack Power.
+
+
+Item #19762
+URL: https://database.turtle-wow.org/?item=19762
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Horde C04 Purple
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #19852
+URL: https://database.turtle-wow.org/?item=19852
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ancient Hakkari Manslayer
+Binds when picked up
+One-hand
+Axe
+69 - 130  Damage
+Speed 2.00
+(49.8 damage per second)
+Durability 105 / 105
+Requires Level 60
+Chance on hit:
+Steals 48 to 55 life from target enemy.
+
+
+Item #19921
+URL: https://database.turtle-wow.org/?item=19921
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Zulian Hacker
+Binds when equipped
+One-hand
+Axe
+71 - 134  Damage
+Speed 2.40
+(42.7 damage per second)
+Durability 90 / 90
+Requires Level 60
+Random Bonuses
+Equip:
+Increased Axes +2.
+
+
+Item #20417
+URL: https://database.turtle-wow.org/?item=20417
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Glaive - 2 Blade Silver (offhand)
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #20675
+URL: https://database.turtle-wow.org/?item=20675
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Soulrender
+Binds when picked up
+One-hand
+Axe
+71 - 133  Damage
+Speed 2.50
+(40.8 damage per second)
+Durability 90 / 90
+Requires Level 57
+Equip:
++28 Attack Power.
+
+
+Item #20723
+URL: https://database.turtle-wow.org/?item=20723
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Brann's Trusty Pick
+Binds when picked up
+Main Hand
+Axe
+70 - 130  Damage
+Speed 2.70
+(37.0 damage per second)
++11 Strength
+Durability 75 / 75
+
+
+Item #21129
+URL: https://database.turtle-wow.org/?item=21129
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Doctor Weavil
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #21242
+URL: https://database.turtle-wow.org/?item=21242
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Blessed Qiraji War Axe
+Binds when picked up
+One-hand
+Axe
+110 - 205  Damage
+Speed 2.60
+(60.6 damage per second)
++10 Intellect
++9 Stamina
+Durability 105 / 105
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++14 Attack Power.
+"The weapon is infused and reinforced with Elementium."
+
+
+Item #21392
+URL: https://database.turtle-wow.org/?item=21392
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Sickle of Unyielding Strength
+Binds when picked up
+One-hand
+Axe
+81 - 151  Damage
+Speed 2.10
+(55.2 damage per second)
++15 Strength
++6 Agility
++9 Stamina
+Durability 105 / 105
+Classes: Warrior
+Equip:
+Increased Defense +4.
+Battlegear of Unyielding Strength
+(0/3)
+Drape of Unyielding Strength
+Sickle of Unyielding Strength
+Signet of Unyielding Strength
+(2) Set:
+-20 rage cost to Intercept and Intervene.
+(3) Set:
+You gain 50 Rage when your Heroic Strike or Slam is dodged or parried.
+
+
+Item #21401
+URL: https://database.turtle-wow.org/?item=21401
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Scythe of the Unseen Path
+Binds when picked up
+Unique
+One-hand
+Axe
+94 - 174  Damage
+Speed 2.40
+(55.8 damage per second)
++14 Agility
++6 Stamina
+Durability 105 / 105
+Classes: Hunter
+Equip:
+Improves your chance to get a critical strike by 1%.
+Trappings of the Unseen Path
+(0/3)
+Cloak of the Unseen Path
+Scythe of the Unseen Path
+Signet of the Unseen Path
+(2) Set:
+Increases your pet's damage by 3%.
+(3) Set:
+Increases pet Focus regeneration by 2.
+(3) Set:
+Increases the critical strike chance of Steady Shot, Raptor Strike and Mongoose Bite by 2%.
+
+
+Item #21465
+URL: https://database.turtle-wow.org/?item=21465
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Axe, Insano
+One-hand
+Axe
+2 - 4  Damage
+Speed 3.90
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #22816
+URL: https://database.turtle-wow.org/?item=22816
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Hatchet of Sundered Bone
+Binds when picked up
+Unique
+One-hand
+Axe
+119 - 221  Damage
+Speed 2.60
+(65.4 damage per second)
+Durability 105 / 105
+Requires Level 60
+Equip:
++36 Attack Power.
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #23582
+URL: https://database.turtle-wow.org/?item=23582
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Lady Blameux
+One-hand
+Axe
+2 - 4  Damage
+Speed 3.90
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #41559
+URL: https://database.turtle-wow.org/?item=41559
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Rock Carver
+Binds when picked up
+Main Hand
+Axe
+31 - 55  Damage
+Speed 2.60
+(16.5 damage per second)
++4 Nature Resistance
+Durability 75 / 75
+Requires Level 27
+Equip:
+Your attacks ignore 10 of the target's armor.
+
+
+Item #41571
+URL: https://database.turtle-wow.org/?item=41571
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Snickerclaw
+Binds when picked up
+Main Hand
+Axe
+29 - 58  Damage
+Speed 2.30
+(18.9 damage per second)
++5 Fire Resistance
++3 Nature Resistance
+Durability 90 / 90
+Requires Level 25
+Equip:
+Your attacks ignore 10 of the target's armor.
+
+
+Item #51832
+URL: https://database.turtle-wow.org/?item=51832
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Nathrezim Wedge
+Binds when picked up
+Main Hand
+Axe
+48 - 66  Damage
+Speed 2.70
++3 - 6 Shadow Damage
+(22.8 damage per second)
+"Darkness envelops the blade."
+
+
+Item #55080
+URL: https://database.turtle-wow.org/?item=55080
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Bloodmoon, Sickle of the Murderous Flight
+Binds when picked up
+Unique
+One-hand
+Axe
+96 - 162  Damage
+Speed 1.80
+(71.7 damage per second)
++12 Agility
+Durability 105 / 105
+Requires Level 60
+Equip:
++20 Attack Power.
+Equip:
+Improves your chance to hit by 2%.
+Chance on hit:
+5% of damage dealt is returned as healing for 12 sec.
+
+
+Item #58015
+URL: https://database.turtle-wow.org/?item=58015
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Blackrock Cleaver
+Binds when picked up
+One-hand
+Axe
+37 - 70  Damage
+Speed 2.50
+(21.4 damage per second)
++5 Agility
+Durability 75 / 75
+Equip:
++10 Attack Power.
+
+
+Item #58101
+URL: https://database.turtle-wow.org/?item=58101
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Stormfang Cleaver
+Binds when picked up
+One-hand
+Axe
+36 - 69  Damage
+Speed 2.40
+(21.9 damage per second)
++6 Strength
++5 Agility
+Durability 90 / 90
+Requires Level 29
+
+
+Item #58194
+URL: https://database.turtle-wow.org/?item=58194
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Nethershard Sickle
+Binds when picked up
+One-hand
+Axe
+34 - 64  Damage
+Speed 1.80
+(27.2 damage per second)
++6 Agility
++5 Shadow Resistance
+Durability 90 / 90
+Requires Level 35
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 55 to 86 Shadow damage.
+
+
+Item #60124
+URL: https://database.turtle-wow.org/?item=60124
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Axe of the Wildtusk
+Binds when picked up
+Main Hand
+Axe
+34 - 63  Damage
+Speed 2.20
+(22.0 damage per second)
++5 Agility
++4 Strength
+Durability 75 / 75
+
+
+Item #60442
+URL: https://database.turtle-wow.org/?item=60442
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Hak'thalz of Legacy
+Binds when picked up
+Main Hand
+Axe
+92 - 135  Damage
+Speed 3.00
+(37.8 damage per second)
+45 Armor
++10 Agility
++5 Spirit
+Durability 105 / 105
+Requires Level 45
+"Ancestral axe of the Bloodscalp, it is said this weapon slayed the mighty raptor Valgesh."
+
+
+Item #60565
+URL: https://database.turtle-wow.org/?item=60565
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Hateforged Cleaver
+Binds when picked up
+One-hand
+Axe
+62 - 116  Damage
+Speed 2.40
+(37.1 damage per second)
++11 Strength
++5 Stamina
+Durability 90 / 90
+Requires Level 51
+
+
+Item #60657
+URL: https://database.turtle-wow.org/?item=60657
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Troll Hunter's Axe
+Binds when picked up
+One-hand
+Axe
+39 - 68  Damage
+Speed 2.30
+(23.3 damage per second)
++8 Agility
+Durability 75 / 75
+
+
+Item #60719
+URL: https://database.turtle-wow.org/?item=60719
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Axe of Fargosh
+Binds when picked up
+Main Hand
+Axe
+64 - 105  Damage
+Speed 2.40
+(35.2 damage per second)
++8 Strength
++4 Spirit
+Durability 75 / 75
+
+
+Item #60939
+URL: https://database.turtle-wow.org/?item=60939
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Truthforge Handaxe
+Binds when picked up
+Main Hand
+Axe
+23 - 42  Damage
+Speed 2.50
+(13.0 damage per second)
++4 Strength
+Durability 65 / 65
+
+
+Item #61046
+URL: https://database.turtle-wow.org/?item=61046
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Shadowreaper
+Binds when picked up
+One-hand
+Axe
+68 - 131  Damage
+Speed 2.30
+(43.3 damage per second)
++7 Agility
++13 Stamina
+Durability 90 / 90
+
+
+Item #61372
+URL: https://database.turtle-wow.org/?item=61372
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Bloody Pick
+Binds when picked up
+Main Hand
+Axe
+6 - 13  Damage
+Speed 2.20
+(4.3 damage per second)
+Durability 60 / 60
+Requires Level 5
+Chance on hit:
+Wounds the target causing them to bleed for 30 damage over 30 sec.
+
+
+Item #61448
+URL: https://database.turtle-wow.org/?item=61448
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Axe of Dormant Slumber
+Binds when picked up
+Unique
+One-hand
+Axe
+92 - 171  Damage
+Speed 2.20
+(59.8 damage per second)
+100 Armor
++9 Strength
++11 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #61452
+URL: https://database.turtle-wow.org/?item=61452
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Skycleaver
+Binds when picked up
+Unique
+One-hand
+Axe
+71 - 135  Damage
+Speed 2.30
+(44.8 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #61483
+URL: https://database.turtle-wow.org/?item=61483
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Velden's Backup Cleaver
+Binds when picked up
+Main Hand
+Axe
+42 - 93  Damage
+Speed 2.80
+(24.1 damage per second)
++7 Strength
+Durability 75 / 75
+
+
+Item #61601
+URL: https://database.turtle-wow.org/?item=61601
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ebonmere Axe
+Binds when picked up
+One-hand
+Axe
+48 - 83  Damage
+Speed 2.40
+(27.3 damage per second)
++8 Strength
+Durability 75 / 75
+
+
+Item #61619
+URL: https://database.turtle-wow.org/?item=61619
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Worgen Cleaver
+Binds when picked up
+Main Hand
+Axe
+45 - 97  Damage
+Speed 2.40
+(29.6 damage per second)
++7 Strength
++5 Spirit
++2 Agility
+Durability 75 / 75
+
+
+Item #61627
+URL: https://database.turtle-wow.org/?item=61627
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Ebonmere Reaver
+Binds when picked up
+One-hand
+Axe
+45 - 79  Damage
+Speed 2.20
+(28.2 damage per second)
++9 Strength
+Durability 75 / 75
+
+
+Item #61669
+URL: https://database.turtle-wow.org/?item=61669
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Flameforged Handaxe
+Binds when equipped
+Main Hand
+Axe
+44 - 80  Damage
+Speed 2.10
+(29.5 damage per second)
++8 Strength
+Durability 75 / 75
+Requires Level 44
+
+
+Item #80533
+URL: https://database.turtle-wow.org/?item=80533
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Quel'dorei Guardian's Handaxe
+Binds when picked up
+One-hand
+Axe
+71 - 134  Damage
+Speed 2.40
+(42.7 damage per second)
++8 Strength
++8 Agility
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+
+
+Item #80600
+URL: https://database.turtle-wow.org/?item=80600
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Rockslicer
+Binds when picked up
+One-hand
+Axe
+13 - 25  Damage
+Speed 2.30
+(8.3 damage per second)
++2 Stamina
+Durability 50 / 50
+Classes: Warrior, Hunter
+Requires Level 10
+Requires Revantusk Trolls - Friendly
+
+
+Item #80633
+URL: https://database.turtle-wow.org/?item=80633
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Revantusk Watcher's Slicer
+Binds when picked up
+One-hand
+Axe
+71 - 134  Damage
+Speed 2.40
+(42.7 damage per second)
++8 Strength
++8 Agility
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Revantusk Trolls - Revered
+
+
+Item #80635
+URL: https://database.turtle-wow.org/?item=80635
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Revantusk Defender's Deflector
+Binds when picked up
+Main Hand
+Axe
+61 - 110  Damage
+Speed 2.00
+(42.8 damage per second)
+40 Armor
++10 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Increased Defense +4.
+
+
+Item #80739
+URL: https://database.turtle-wow.org/?item=80739
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Rockbiter
+Binds when picked up
+Main Hand
+Axe
+35 - 74  Damage
+Speed 2.50
+(21.8 damage per second)
++5 Strength
++4 Agility
+Durability 80 / 80
+Requires Level 29
+
+
+Item #80819
+URL: https://database.turtle-wow.org/?item=80819
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Serrated Handaxe
+Binds when equipped
+Main Hand
+Axe
+9 - 17  Damage
+Speed 1.90
+(6.8 damage per second)
+Durability 40 / 40
+Requires Level 8
+Chance on hit:
+Wounds the target causing them to bleed for 15 damage over 9 sec.
+
+
+Item #81260
+URL: https://database.turtle-wow.org/?item=81260
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Lavashard Axe
+Binds when picked up
+Unique
+One-hand
+Axe
+79 - 147  Damage
+Speed 2.40
+(47.1 damage per second)
+50 Armor
++6 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #81325
+URL: https://database.turtle-wow.org/?item=81325
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Skystormer Axe
+Binds when picked up
+Main Hand
+Axe
+45 - 70  Damage
+Speed 1.60
+(35.9 damage per second)
++6 Strength
++3 Agility
+Durability 75 / 75
+Equip:
+Increases damage done by Nature spells and effects by up to 7.
+
+
+Item #1910
+URL: https://database.turtle-wow.org/?item=1910
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Monster - Item, Pick
+One-hand
+Axe
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #4965
+URL: https://database.turtle-wow.org/?item=4965
+Category: Database/Items/Weapons/One-Handed Axes
+Item: 
+Bloodhoof Hand Axe
+Binds when picked up
+Main Hand
+Axe
+8 - 16  Damage
+Speed 2.70
+(4.4 damage per second)
+Durability 40 / 40
+
+

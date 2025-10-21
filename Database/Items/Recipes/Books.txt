@@ -1,0 +1,9512 @@
+Item #289
+URL: https://database.turtle-wow.org/?item=289
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of the Wild Path
+Binds when picked up
+Use:
+Teaches Path of the Wild.
+"While mounted, allows a player under a Dryad or Worgen disguise to move at mount speed without leaving that form."
+
+
+Item #974
+URL: https://database.turtle-wow.org/?item=974
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Armor II
+Classes: Mage
+Requires Level 10
+Use:
+Teaches Frost Armor (Rank 2).
+
+
+Item #968
+URL: https://database.turtle-wow.org/?item=968
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Blast
+Classes: Mage
+Requires Level 6
+Use:
+Teaches Fire Blast (Rank 1).
+
+
+Item #975
+URL: https://database.turtle-wow.org/?item=975
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Chains of Ice
+Classes: Mage
+Requires Level 10
+Use:
+Teaches Chains of Ice (Rank 1).
+
+
+Item #976
+URL: https://database.turtle-wow.org/?item=976
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Remove Curse
+Classes: Mage
+Requires Level 18
+Use:
+Teaches Remove Curse.
+
+
+Item #973
+URL: https://database.turtle-wow.org/?item=973
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball II
+Classes: Mage
+Requires Level 12
+Use:
+Teaches Fireball (Rank 2).
+
+
+Item #967
+URL: https://database.turtle-wow.org/?item=967
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Ward
+Classes: Mage
+Requires Level 22
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #966
+URL: https://database.turtle-wow.org/?item=966
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Shield
+Classes: Mage
+Requires Level 8
+Use:
+Teaches Frost Shield (Rank 1).
+
+
+Item #986
+URL: https://database.turtle-wow.org/?item=986
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt II
+Classes: Mage
+Requires Level 8
+Use:
+Teaches Frostbolt (Rank 2).
+
+
+Item #985
+URL: https://database.turtle-wow.org/?item=985
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Khadgar's Unlocking
+Classes: Mage
+Requires Level 18
+Use:
+Teaches Khadgar's Unlocking (Rank 1).
+
+
+Item #980
+URL: https://database.turtle-wow.org/?item=980
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Shield II
+Classes: Mage
+Requires Level 20
+Use:
+Teaches Frost Shield (Rank 2).
+
+
+Item #992
+URL: https://database.turtle-wow.org/?item=992
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball III
+Classes: Mage
+Requires Level 12
+Use:
+Teaches Fireball (Rank 3).
+
+
+Item #989
+URL: https://database.turtle-wow.org/?item=989
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Nova
+Classes: Mage
+Requires Level 10
+Use:
+Teaches Frost Nova (Rank 1).
+
+
+Item #994
+URL: https://database.turtle-wow.org/?item=994
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Ice Armor
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Ice Armor (Rank 1).
+
+
+Item #1002
+URL: https://database.turtle-wow.org/?item=1002
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Lesser Invisibility
+Classes: Mage
+Requires Level 26
+Use:
+Teaches Lesser Invisibility.
+
+
+Item #1004
+URL: https://database.turtle-wow.org/?item=1004
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Chains of Ice II
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Chains of Ice (Rank 2).
+
+
+Item #1033
+URL: https://database.turtle-wow.org/?item=1033
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Nullify Poison
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Cure Poison (Rank 1).
+
+
+Item #1031
+URL: https://database.turtle-wow.org/?item=1031
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Molten Blast
+Classes: Shaman
+Requires Level 6
+Use:
+Teaches Molten Blast (Rank 1).
+
+
+Item #1034
+URL: https://database.turtle-wow.org/?item=1034
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Undying Strength
+Classes: Shaman
+Requires Level 22
+Use:
+Teaches Undying Strength (Rank 1).
+
+
+Item #1035
+URL: https://database.turtle-wow.org/?item=1035
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Call Spirit
+Classes: Shaman
+Requires Level 10
+Use:
+Teaches Call Spirit (Rank 1).
+
+
+Item #1029
+URL: https://database.turtle-wow.org/?item=1029
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Serpent Totem
+Classes: Shaman
+Requires Level 4
+Use:
+Teaches Serpent Totem (Rank 1).
+
+
+Item #1030
+URL: https://database.turtle-wow.org/?item=1030
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Unyielding Will
+Classes: Shaman
+Requires Level 10
+Use:
+Teaches Unyielding Will (Rank 1).
+
+
+Item #1036
+URL: https://database.turtle-wow.org/?item=1036
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Nullify Disease
+Classes: Shaman
+Requires Level 16
+Use:
+Teaches Nullify Disease (Rank 1).
+
+
+Item #1032
+URL: https://database.turtle-wow.org/?item=1032
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Agitating Totem
+Classes: Shaman
+Requires Level 8
+Use:
+Teaches Agitating Totem (Rank 1).
+
+
+Item #1048
+URL: https://database.turtle-wow.org/?item=1048
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shield II
+Classes: Shaman
+Requires Level 16
+Use:
+Teaches Lightning Shield (Rank 2).
+
+
+Item #1038
+URL: https://database.turtle-wow.org/?item=1038
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Restoration II
+Classes: Shaman
+Requires Level 8
+Use:
+Teaches Healing Wave (Rank 2).
+
+
+Item #1037
+URL: https://database.turtle-wow.org/?item=1037
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Bolt II
+Classes: Shaman
+Requires Level 10
+Use:
+Teaches Lightning Bolt (Rank 2).
+
+
+Item #1058
+URL: https://database.turtle-wow.org/?item=1058
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Bolt III
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #1053
+URL: https://database.turtle-wow.org/?item=1053
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Molten Blast II
+Classes: Shaman
+Requires Level 14
+Use:
+Teaches Molten Blast (Rank 2).
+
+
+Item #1049
+URL: https://database.turtle-wow.org/?item=1049
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Purge
+Classes: Shaman
+Requires Level 12
+Use:
+Teaches Purge.
+
+
+Item #1057
+URL: https://database.turtle-wow.org/?item=1057
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Restoration III
+Classes: Shaman
+Requires Level 16
+Use:
+Teaches Healing Wave (Rank 3).
+
+
+Item #1052
+URL: https://database.turtle-wow.org/?item=1052
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Spirit Armor II
+Classes: Shaman
+Requires Level 14
+Use:
+Teaches Spirit Armor (Rank 2).
+
+
+Item #1063
+URL: https://database.turtle-wow.org/?item=1063
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Nullify Disease II
+Classes: Shaman
+Requires Level 26
+Use:
+Teaches Nullify Disease (Rank 2).
+
+
+Item #1061
+URL: https://database.turtle-wow.org/?item=1061
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Nullify Poison II
+Classes: Shaman
+Requires Level 26
+Use:
+Teaches Nullify Poison (Rank 2).
+
+
+Item #1084
+URL: https://database.turtle-wow.org/?item=1084
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew
+Classes: Priest
+Requires Level 8
+Use:
+Teaches Renew (Rank 1).
+
+
+Item #1092
+URL: https://database.turtle-wow.org/?item=1092
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Lesser Heal II
+Classes: Priest
+Requires Level 4
+Use:
+Teaches Lesser Heal (Rank 2).
+
+
+Item #1086
+URL: https://database.turtle-wow.org/?item=1086
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Inner Fire
+Classes: Priest
+Requires Level 12
+Use:
+Teaches Inner Fire (Rank 1).
+
+
+Item #1087
+URL: https://database.turtle-wow.org/?item=1087
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Pain
+Classes: Priest
+Requires Level 4
+Use:
+Teaches Shadow Word: Pain (Rank 1).
+
+
+Item #1095
+URL: https://database.turtle-wow.org/?item=1095
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Dispel Magic
+Classes: Priest
+Requires Level 18
+Use:
+Teaches Dispel Magic (Rank 1).
+
+
+Item #1088
+URL: https://database.turtle-wow.org/?item=1088
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew II
+Classes: Priest
+Requires Level 14
+Use:
+Teaches Renew (Rank 2).
+
+
+Item #1096
+URL: https://database.turtle-wow.org/?item=1096
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Pain II
+Classes: Priest
+Requires Level 10
+Use:
+Teaches Shadow Word: Pain (Rank 2).
+
+
+Item #1093
+URL: https://database.turtle-wow.org/?item=1093
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Remove Curse
+Classes: Priest
+Requires Level 22
+Use:
+Teaches Remove Curse (Rank 1).
+
+
+Item #1091
+URL: https://database.turtle-wow.org/?item=1091
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Smite II
+Classes: Priest
+Requires Level 6
+Use:
+Teaches Holy Smite (Rank 2).
+
+
+Item #1090
+URL: https://database.turtle-wow.org/?item=1090
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Resurrection
+Classes: Priest
+Requires Level 10
+Use:
+Teaches Resurrection (Rank 1).
+
+
+Item #1089
+URL: https://database.turtle-wow.org/?item=1089
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Nullify Disease
+Classes: Priest
+Requires Level 14
+Use:
+Teaches Nullify Disease (Rank 1).
+
+
+Item #1085
+URL: https://database.turtle-wow.org/?item=1085
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Vision
+Classes: Priest
+Requires Level 22
+Use:
+Teaches Mind Vision (Rank 1).
+
+
+Item #1100
+URL: https://database.turtle-wow.org/?item=1100
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Smite III
+Classes: Priest
+Requires Level 14
+Use:
+Teaches Holy Smite (Rank 3).
+
+
+Item #1105
+URL: https://database.turtle-wow.org/?item=1105
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew VI
+Classes: Priest
+Requires Level 38
+Use:
+Teaches Renew (Rank 6).
+
+
+Item #1108
+URL: https://database.turtle-wow.org/?item=1108
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew III
+Classes: Priest
+Requires Level 20
+Use:
+Teaches Renew (Rank 3).
+
+
+Item #1102
+URL: https://database.turtle-wow.org/?item=1102
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Lesser Heal III
+Classes: Priest
+Requires Level 10
+Use:
+Teaches Lesser Heal (Rank 3).
+
+
+Item #1112
+URL: https://database.turtle-wow.org/?item=1112
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Fortitude II
+Classes: Priest
+Requires Level 12
+Use:
+Teaches Holy Word: Fortitude (Rank 2).
+
+
+Item #1111
+URL: https://database.turtle-wow.org/?item=1111
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Sleep
+Classes: Priest
+Requires Level 6
+Use:
+Teaches Sleep (Rank 1).
+
+
+Item #1109
+URL: https://database.turtle-wow.org/?item=1109
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Dominate
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Mind Control.
+
+
+Item #1141
+URL: https://database.turtle-wow.org/?item=1141
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Light II
+Classes: Paladin
+Requires Level 6
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #1136
+URL: https://database.turtle-wow.org/?item=1136
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Divine Favor II
+Classes: Paladin
+Requires Level 18
+Use:
+Teaches Divine Protection (Rank 2).
+
+
+Item #1144
+URL: https://database.turtle-wow.org/?item=1144
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Divine Shield
+Binds when picked up
+Classes: Paladin
+Requires Level 34
+Use:
+Teaches Divine Shield (Rank 1).
+
+
+Item #1138
+URL: https://database.turtle-wow.org/?item=1138
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Divine Favor
+Classes: Paladin
+Requires Level 4
+Use:
+Teaches Divine Protection (Rank 1).
+
+
+Item #1149
+URL: https://database.turtle-wow.org/?item=1149
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Might II
+Classes: Paladin
+Requires Level 20
+Use:
+Teaches Seal of Might (Rank 2).
+
+
+Item #1146
+URL: https://database.turtle-wow.org/?item=1146
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Resurrection
+Binds when picked up
+Classes: Paladin
+Requires Level 12
+Use:
+Teaches Resurrection (Rank 1).
+
+
+Item #1150
+URL: https://database.turtle-wow.org/?item=1150
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Purify
+Classes: Paladin
+Requires Level 6
+Use:
+Teaches Purify.
+
+
+Item #1151
+URL: https://database.turtle-wow.org/?item=1151
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Light III
+Classes: Paladin
+Requires Level 14
+Use:
+Teaches Holy Light (Rank 3).
+
+
+Item #1164
+URL: https://database.turtle-wow.org/?item=1164
+Category: Database/Items/Recipes/Books
+Item: 
+Sam's Tome
+Requires Argent Dawn - Honored
+<Right Click To Read>
+
+
+Item #1228
+URL: https://database.turtle-wow.org/?item=1228
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Blood Boil
+Classes: Warlock
+Requires Level 6
+Use:
+Teaches Blood Boil (Rank 1).
+
+
+Item #1224
+URL: https://database.turtle-wow.org/?item=1224
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Sense Demons
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Sense Demons.
+
+
+Item #1229
+URL: https://database.turtle-wow.org/?item=1229
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Create Soulstone
+Classes: Warlock
+Requires Level 18
+Use:
+Teaches Create Soulstone.
+
+
+Item #1231
+URL: https://database.turtle-wow.org/?item=1231
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Shadow Bolt II
+Classes: Warlock
+Requires Level 6
+Use:
+Teaches Shadow Bolt (Rank 2).
+
+
+Item #1232
+URL: https://database.turtle-wow.org/?item=1232
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Demon Skin II
+Classes: Warlock
+Requires Level 10
+Use:
+Teaches Demon Armor (Rank 2).
+
+
+Item #1238
+URL: https://database.turtle-wow.org/?item=1238
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Fear
+Classes: Warlock
+Requires Level 8
+Use:
+Teaches Fear (Rank 1).
+
+
+Item #1239
+URL: https://database.turtle-wow.org/?item=1239
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Siphon Mana
+Classes: Warlock
+Requires Level 26
+Use:
+Teaches Drain Mana (Rank 1).
+
+
+Item #1245
+URL: https://database.turtle-wow.org/?item=1245
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Immolate II
+Classes: Warlock
+Requires Level 10
+Use:
+Teaches Immolate (Rank 2).
+
+
+Item #1243
+URL: https://database.turtle-wow.org/?item=1243
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Shadow Bolt III
+Classes: Warlock
+Requires Level 12
+Use:
+Teaches Shadow Bolt (Rank 3).
+
+
+Item #1250
+URL: https://database.turtle-wow.org/?item=1250
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Detect Lesser Invisibility
+Classes: Warlock
+Requires Level 26
+Use:
+Teaches Detect Lesser Invisibility.
+
+
+Item #1244
+URL: https://database.turtle-wow.org/?item=1244
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Demon Armor
+Classes: Warlock
+Requires Level 22
+Use:
+Teaches Demon Armor (Rank 3).
+
+
+Item #1246
+URL: https://database.turtle-wow.org/?item=1246
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Demon Breath
+Classes: Warlock
+Requires Level 16
+Use:
+Teaches Demon Breath.
+
+
+Item #1334
+URL: https://database.turtle-wow.org/?item=1334
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation II
+Classes: Druid
+Requires Level 10
+Use:
+Teaches Rejuvenation (Rank 2).
+
+
+Item #1328
+URL: https://database.turtle-wow.org/?item=1328
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Faerie Fire
+Classes: Druid
+Requires Level 18
+Use:
+Teaches Faerie Fire (Rank 1).
+
+
+Item #1332
+URL: https://database.turtle-wow.org/?item=1332
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Cure Poison
+Classes: Druid
+Requires Level 14
+Use:
+Teaches Cure Poison (Rank 1).
+
+
+Item #1339
+URL: https://database.turtle-wow.org/?item=1339
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Entangling Roots
+Classes: Druid
+Requires Level 8
+Use:
+Teaches Entangling Roots (Rank 1).
+
+
+Item #1341
+URL: https://database.turtle-wow.org/?item=1341
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire
+Classes: Druid
+Requires Level 4
+Use:
+Teaches Moonfire (Rank 1).
+
+
+Item #1534
+URL: https://database.turtle-wow.org/?item=1534
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Light IV
+Classes: Paladin
+Requires Level 22
+Use:
+Teaches Holy Light (Rank 4).
+
+
+Item #1536
+URL: https://database.turtle-wow.org/?item=1536
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Wrath
+Classes: Paladin
+Requires Level 30
+Use:
+Teaches Seal of Reckoning (Rank 1).
+
+
+Item #1554
+URL: https://database.turtle-wow.org/?item=1554
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt III
+Classes: Mage
+Requires Level 14
+Use:
+Teaches Frostbolt (Rank 3).
+
+
+Item #1559
+URL: https://database.turtle-wow.org/?item=1559
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Missiles II
+Classes: Mage
+Requires Level 16
+Use:
+Teaches Arcane Missiles (Rank 2).
+
+
+Item #1568
+URL: https://database.turtle-wow.org/?item=1568
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Water Elemental
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Water Elemental (Rank 1).
+
+
+Item #1574
+URL: https://database.turtle-wow.org/?item=1574
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Ward
+Classes: Mage
+Requires Level 20
+Use:
+Teaches Fire Ward.
+
+
+Item #1571
+URL: https://database.turtle-wow.org/?item=1571
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Nova II
+Classes: Mage
+Requires Level 26
+Use:
+Teaches Frost Nova (Rank 2).
+
+
+Item #1567
+URL: https://database.turtle-wow.org/?item=1567
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Khadgar's Unlocking II
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Khadgar's Unlocking (Rank 2).
+
+
+Item #1588
+URL: https://database.turtle-wow.org/?item=1588
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Molten Blast III
+Classes: Shaman
+Requires Level 22
+Use:
+Teaches Molten Blast (Rank 3).
+
+
+Item #1589
+URL: https://database.turtle-wow.org/?item=1589
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Spirit Armor III
+Classes: Shaman
+Requires Level 28
+Use:
+Teaches Spirit Armor (Rank 3).
+
+
+Item #1591
+URL: https://database.turtle-wow.org/?item=1591
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shield III
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Lightning Shield (Rank 3).
+
+
+Item #1597
+URL: https://database.turtle-wow.org/?item=1597
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Storm
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Lightning Storm (Rank 1).
+
+
+Item #1603
+URL: https://database.turtle-wow.org/?item=1603
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Call Spirit II
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Call Spirit (Rank 2).
+
+
+Item #1619
+URL: https://database.turtle-wow.org/?item=1619
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Storm II
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Lightning Storm (Rank 2).
+
+
+Item #1641
+URL: https://database.turtle-wow.org/?item=1641
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Pain III
+Classes: Priest
+Requires Level 18
+Use:
+Teaches Shadow Word: Pain (Rank 3).
+
+
+Item #1648
+URL: https://database.turtle-wow.org/?item=1648
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Heal IV
+Classes: Priest
+Requires Level 34
+Use:
+Teaches Heal (Rank 4).
+
+
+Item #1658
+URL: https://database.turtle-wow.org/?item=1658
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Pain IV
+Classes: Priest
+Requires Level 26
+Use:
+Teaches Shadow Word: Pain (Rank 4).
+
+
+Item #1657
+URL: https://database.turtle-wow.org/?item=1657
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Resurrection II
+Classes: Priest
+Requires Level 26
+Use:
+Teaches Resurrection (Rank 2).
+
+
+Item #1651
+URL: https://database.turtle-wow.org/?item=1651
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield VI
+Classes: Priest
+Requires Level 36
+Use:
+Teaches Holy Word: Shield (Rank 6).
+
+
+Item #1676
+URL: https://database.turtle-wow.org/?item=1676
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Sleep II
+Classes: Priest
+Requires Level 20
+Use:
+Teaches Sleep (Rank 2).
+
+
+Item #1681
+URL: https://database.turtle-wow.org/?item=1681
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Cripple
+Classes: Warlock
+Requires Level 16
+Use:
+Teaches Cripple.
+
+
+Item #1877
+URL: https://database.turtle-wow.org/?item=1877
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation III
+Classes: Druid
+Requires Level 16
+Use:
+Teaches Rejuvenation (Rank 3).
+
+
+Item #1886
+URL: https://database.turtle-wow.org/?item=1886
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire II
+Classes: Druid
+Requires Level 10
+Use:
+Teaches Moonfire (Rank 2).
+
+
+Item #1882
+URL: https://database.turtle-wow.org/?item=1882
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire III
+Classes: Druid
+Requires Level 16
+Use:
+Teaches Moonfire (Rank 3).
+
+
+Item #3088
+URL: https://database.turtle-wow.org/?item=3088
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation IV
+Classes: Druid
+Requires Level 22
+Use:
+Teaches Rejuvenation (Rank 4).
+
+
+Item #3099
+URL: https://database.turtle-wow.org/?item=3099
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Ice Armor II
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Ice Armor (Rank 2).
+
+
+Item #3089
+URL: https://database.turtle-wow.org/?item=3089
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Flamestrike
+Classes: Mage
+Requires Level 16
+Use:
+Teaches Flamestrike (Rank 1).
+
+
+Item #3097
+URL: https://database.turtle-wow.org/?item=3097
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Water II
+Classes: Mage
+Requires Level 10
+Use:
+Teaches Conjure Water (Rank 2).
+
+
+Item #3094
+URL: https://database.turtle-wow.org/?item=3094
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Blast II
+Classes: Mage
+Requires Level 14
+Use:
+Teaches Fire Blast (Rank 2).
+
+
+Item #3091
+URL: https://database.turtle-wow.org/?item=3091
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Intellect II
+Classes: Mage
+Requires Level 14
+Use:
+Teaches Arcane Intellect (Rank 2).
+
+
+Item #3093
+URL: https://database.turtle-wow.org/?item=3093
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Flamestrike II
+Classes: Mage
+Requires Level 24
+Use:
+Teaches Flamestrike (Rank 2).
+
+
+Item #3096
+URL: https://database.turtle-wow.org/?item=3096
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Feather Fall
+Classes: Mage
+Requires Level 12
+Use:
+Teaches Feather Fall.
+
+
+Item #3095
+URL: https://database.turtle-wow.org/?item=3095
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Blast III
+Classes: Mage
+Requires Level 22
+Use:
+Teaches Fire Blast (Rank 3).
+
+
+Item #3100
+URL: https://database.turtle-wow.org/?item=3100
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Blizzard II
+Classes: Mage
+Requires Level 28
+Use:
+Teaches Blizzard (Rank 2).
+
+
+Item #3090
+URL: https://database.turtle-wow.org/?item=3090
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt
+Classes: Mage
+Requires Level 4
+Use:
+Teaches Frostbolt (Rank 1).
+
+
+Item #3098
+URL: https://database.turtle-wow.org/?item=3098
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Slow
+Classes: Mage
+Requires Level 28
+Use:
+Teaches Slow (Rank 1).
+
+
+Item #3092
+URL: https://database.turtle-wow.org/?item=3092
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Flamestrike III
+Classes: Mage
+Requires Level 32
+Use:
+Teaches Slow (Rank 2).
+
+
+Item #3102
+URL: https://database.turtle-wow.org/?item=3102
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Intellect III
+Classes: Mage
+Requires Level 28
+Use:
+Teaches Arcane Intellect (Rank 3).
+
+
+Item #3101
+URL: https://database.turtle-wow.org/?item=3101
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Nova III
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Frost Nova (Rank 3).
+
+
+Item #3119
+URL: https://database.turtle-wow.org/?item=3119
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield V
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Holy Word: Shield (Rank 5).
+
+
+Item #3114
+URL: https://database.turtle-wow.org/?item=3114
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Befuddle
+Classes: Priest
+Requires Level 24
+Use:
+Teaches Shadow Word: Befuddle (Rank 1).
+
+
+Item #3115
+URL: https://database.turtle-wow.org/?item=3115
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew IV
+Classes: Priest
+Requires Level 26
+Use:
+Teaches Renew (Rank 4).
+
+
+Item #3116
+URL: https://database.turtle-wow.org/?item=3116
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield II
+Classes: Priest
+Requires Level 12
+Use:
+Teaches Holy Word: Shield (Rank 2).
+
+
+Item #3121
+URL: https://database.turtle-wow.org/?item=3121
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Levitate
+Classes: Priest
+Requires Level 34
+Use:
+Teaches Levitate.
+
+
+Item #3113
+URL: https://database.turtle-wow.org/?item=3113
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield
+Classes: Priest
+Requires Level 6
+Use:
+Teaches Holy Word: Shield (Rank 1).
+
+
+Item #3122
+URL: https://database.turtle-wow.org/?item=3122
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield III
+Classes: Priest
+Requires Level 18
+Use:
+Teaches Holy Word: Shield (Rank 3).
+
+
+Item #3124
+URL: https://database.turtle-wow.org/?item=3124
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Inner Fire III
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #3123
+URL: https://database.turtle-wow.org/?item=3123
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Fortitude III
+Classes: Priest
+Requires Level 24
+Use:
+Teaches Holy Word: Fortitude (Rank 3).
+
+
+Item #3118
+URL: https://database.turtle-wow.org/?item=3118
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Greater Heal
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Greater Heal.
+
+
+Item #3120
+URL: https://database.turtle-wow.org/?item=3120
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Smite IV
+Classes: Priest
+Requires Level 22
+Use:
+Teaches Holy Smite (Rank 4).
+
+
+Item #3132
+URL: https://database.turtle-wow.org/?item=3132
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Molten Blast IV
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #3130
+URL: https://database.turtle-wow.org/?item=3130
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Restoration IV
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Healing Wave (Rank 4).
+
+
+Item #3129
+URL: https://database.turtle-wow.org/?item=3129
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Bolt IV
+Classes: Shaman
+Requires Level 26
+Use:
+Teaches Lightning Bolt (Rank 4).
+
+
+Item #3127
+URL: https://database.turtle-wow.org/?item=3127
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Shock III
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Shock (Rank 3).
+
+
+Item #3126
+URL: https://database.turtle-wow.org/?item=3126
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Shock II
+Classes: Shaman
+Requires Level 12
+Use:
+Teaches Shock (Rank 2).
+
+
+Item #3134
+URL: https://database.turtle-wow.org/?item=3134
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Mannoroth
+Classes: Warlock
+Requires Level 4
+Use:
+Teaches Curse of Weakness (Rank 1).
+
+
+Item #3133
+URL: https://database.turtle-wow.org/?item=3133
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Mana Totem
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Mana Totem.
+
+
+Item #3125
+URL: https://database.turtle-wow.org/?item=3125
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Serpent Totem II
+Classes: Shaman
+Requires Level 10
+Use:
+Teaches Serpent Totem (Rank 2).
+
+
+Item #3138
+URL: https://database.turtle-wow.org/?item=3138
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Shadow Bolt IV
+Classes: Warlock
+Requires Level 20
+Use:
+Teaches Shadow Bolt (Rank 4).
+
+
+Item #3144
+URL: https://database.turtle-wow.org/?item=3144
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Burning Spirit II
+Classes: Warlock
+Requires Level 16
+Use:
+Teaches Life Tap (Rank 2).
+
+
+Item #3142
+URL: https://database.turtle-wow.org/?item=3142
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Sargeras
+Classes: Warlock
+Requires Level 10
+Use:
+Teaches Curse of Agony (Rank 1).
+
+
+Item #3140
+URL: https://database.turtle-wow.org/?item=3140
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Blood Boil II
+Classes: Warlock
+Requires Level 18
+Use:
+Teaches Blood Boil (Rank 2).
+
+
+Item #3146
+URL: https://database.turtle-wow.org/?item=3146
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Burning Spirit III
+Classes: Warlock
+Requires Level 28
+Use:
+Teaches Life Tap (Rank 3).
+
+
+Item #3141
+URL: https://database.turtle-wow.org/?item=3141
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Life Drain
+Classes: Warlock
+Requires Level 14
+Use:
+Teaches Drain Life (Rank 1).
+
+
+Item #3143
+URL: https://database.turtle-wow.org/?item=3143
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Burning Spirit
+Classes: Warlock
+Requires Level 6
+Use:
+Teaches Life Tap (Rank 1).
+
+
+Item #3139
+URL: https://database.turtle-wow.org/?item=3139
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Demon Armor II
+Classes: Warlock
+Requires Level 34
+Use:
+Teaches Demon Armor (Rank 4).
+
+
+Item #4143
+URL: https://database.turtle-wow.org/?item=4143
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Food II
++74 - 112  Damage
+Durability 100 / 100
+Classes: Mage
+Requires Level 12
+Equip:
+Increases damage and healing done by magical spells and effects by up to 16.
+
+
+Item #4141
+URL: https://database.turtle-wow.org/?item=4141
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Food
+Classes: Mage
+Requires Level 6
+Use:
+Teaches Conjure Food (Rank 1).
+
+
+Item #4150
+URL: https://database.turtle-wow.org/?item=4150
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Water IV
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Conjure Water (Rank 4).
+
+
+Item #4147
+URL: https://database.turtle-wow.org/?item=4147
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Food III
+Classes: Mage
+Requires Level 22
+Use:
+Teaches Conjure Food (Rank 3).
+
+
+Item #4149
+URL: https://database.turtle-wow.org/?item=4149
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Shield III
+Classes: Mage
+Requires Level 34
+Use:
+Teaches Frost Shield (Rank 3).
+
+
+Item #4155
+URL: https://database.turtle-wow.org/?item=4155
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Water Elemental II
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Water Elemental (Rank 2).
+
+
+Item #4145
+URL: https://database.turtle-wow.org/?item=4145
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Mana Gem
+Classes: Mage
+Requires Level 28
+Use:
+Teaches Conjure Mana Gem.
+
+
+Item #4151
+URL: https://database.turtle-wow.org/?item=4151
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt IV
+Classes: Mage
+Requires Level 20
+Use:
+Teaches Frostbolt (Rank 4).
+
+
+Item #4152
+URL: https://database.turtle-wow.org/?item=4152
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Food IV
+Classes: Mage
+Requires Level 32
+Use:
+Teaches Conjure Food (Rank 4).
+
+
+Item #4153
+URL: https://database.turtle-wow.org/?item=4153
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Missiles III
+Classes: Mage
+Requires Level 24
+Use:
+Teaches Arcane Missiles (Rank 3).
+
+
+Item #4146
+URL: https://database.turtle-wow.org/?item=4146
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Polymorph: Sheep
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Polymorph: Sheep.
+
+
+Item #4148
+URL: https://database.turtle-wow.org/?item=4148
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Counterspell
+Classes: Mage
+Requires Level 24
+Use:
+Teaches Counterspell.
+
+
+Item #4154
+URL: https://database.turtle-wow.org/?item=4154
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Slow II
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Slow (Rank 2).
+
+
+Item #4157
+URL: https://database.turtle-wow.org/?item=4157
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Dampen Magic
+Classes: Mage
+Requires Level 12
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #4168
+URL: https://database.turtle-wow.org/?item=4168
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Ensnaring Totem
+Classes: Shaman
+Requires Level 16
+Use:
+Teaches Earthbind Totem.
+
+
+Item #4164
+URL: https://database.turtle-wow.org/?item=4164
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Light V
+Classes: Paladin
+Requires Level 30
+Use:
+Teaches Holy Light (Rank 5).
+
+
+Item #4162
+URL: https://database.turtle-wow.org/?item=4162
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Blink II
+Classes: Mage
+Requires Level 38
+Use:
+Teaches Blink (Rank 2).
+
+
+Item #4160
+URL: https://database.turtle-wow.org/?item=4160
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Invisibility
+Classes: Mage
+Requires Level 38
+Use:
+Teaches Invisibility.
+
+
+Item #4167
+URL: https://database.turtle-wow.org/?item=4167
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Judgement
+Classes: Paladin
+Requires Level 40
+Use:
+Teaches Judgement.
+
+
+Item #4159
+URL: https://database.turtle-wow.org/?item=4159
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Missiles
+Classes: Mage
+Requires Level 8
+Use:
+Teaches Arcane Missiles (Rank 1).
+
+
+Item #4165
+URL: https://database.turtle-wow.org/?item=4165
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Light VI
+Classes: Paladin
+Requires Level 38
+Use:
+Teaches Holy Light (Rank 6).
+
+
+Item #4161
+URL: https://database.turtle-wow.org/?item=4161
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball IV
+Classes: Mage
+Requires Level 18
+Use:
+Teaches Fireball (Rank 4).
+
+
+Item #4166
+URL: https://database.turtle-wow.org/?item=4166
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Protection
+Classes: Paladin
+Requires Level 8
+Use:
+Teaches Seal of Protection (Rank 1).
+
+
+Item #4173
+URL: https://database.turtle-wow.org/?item=4173
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Shock IV
+Classes: Shaman
+Requires Level 28
+Use:
+Teaches Shock (Rank 4).
+
+
+Item #4177
+URL: https://database.turtle-wow.org/?item=4177
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Nature Resistance
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Nature Resistance.
+
+
+Item #4180
+URL: https://database.turtle-wow.org/?item=4180
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Ethereal Form II
+Classes: Shaman
+Requires Level 34
+Use:
+Teaches Ethereal Form (Rank 2).
+
+
+Item #4174
+URL: https://database.turtle-wow.org/?item=4174
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Shock V
+Classes: Shaman
+Requires Level 36
+Use:
+Teaches Shock (Rank 5).
+
+
+Item #4172
+URL: https://database.turtle-wow.org/?item=4172
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Thunderclap II
+Classes: Shaman
+Requires Level 36
+Use:
+Teaches Thunderclap (Rank 2).
+
+
+Item #4171
+URL: https://database.turtle-wow.org/?item=4171
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Agitating Totem III
+Classes: Shaman
+Requires Level 28
+Use:
+Teaches Agitating Totem (Rank 3).
+
+
+Item #4179
+URL: https://database.turtle-wow.org/?item=4179
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Restoration V
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Greater Healing Wave (Rank 1).
+
+
+Item #4170
+URL: https://database.turtle-wow.org/?item=4170
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Astral Recall
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Astral Recall.
+
+
+Item #4169
+URL: https://database.turtle-wow.org/?item=4169
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Unyielding Will II
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Unyielding Will (Rank 2).
+
+
+Item #4175
+URL: https://database.turtle-wow.org/?item=4175
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shield IV
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #4178
+URL: https://database.turtle-wow.org/?item=4178
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Bolt V
+Classes: Shaman
+Requires Level 34
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #4182
+URL: https://database.turtle-wow.org/?item=4182
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Unyielding Will III
+Classes: Shaman
+Requires Level 38
+Use:
+Teaches Unyielding Will (Rank 3).
+
+
+Item #4189
+URL: https://database.turtle-wow.org/?item=4189
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Chain Lightning
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Chain Lightning (Rank 1).
+
+
+Item #4181
+URL: https://database.turtle-wow.org/?item=4181
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Agitating Totem IV
+Classes: Shaman
+Requires Level 38
+Use:
+Teaches Agitating Totem (Rank 4).
+
+
+Item #4183
+URL: https://database.turtle-wow.org/?item=4183
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Totem V
+Classes: Shaman
+Requires Level 36
+Use:
+Teaches Healing Totem (Rank 5).
+
+
+Item #4186
+URL: https://database.turtle-wow.org/?item=4186
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Resistance
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Fire Resistance.
+
+
+Item #4185
+URL: https://database.turtle-wow.org/?item=4185
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Group Astral Recall
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Group Astral Recall.
+
+
+Item #4187
+URL: https://database.turtle-wow.org/?item=4187
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Serpent Totem V
+Classes: Shaman
+Requires Level 40
+
+
+Item #4188
+URL: https://database.turtle-wow.org/?item=4188
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Invisibility Totem
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Invisibility Totem.
+
+
+Item #4184
+URL: https://database.turtle-wow.org/?item=4184
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Molten Blast V
+Classes: Shaman
+Requires Level 38
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #4202
+URL: https://database.turtle-wow.org/?item=4202
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Fear II
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Fear (Rank 2).
+
+
+Item #4199
+URL: https://database.turtle-wow.org/?item=4199
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Soul Funnel II
+Classes: Warlock
+Requires Level 20
+Use:
+Teaches Health Funnel (Rank 2).
+
+
+Item #4198
+URL: https://database.turtle-wow.org/?item=4198
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Soul Funnel
+Classes: Warlock
+Requires Level 12
+Use:
+Teaches Health Funnel (Rank 1).
+
+
+Item #4204
+URL: https://database.turtle-wow.org/?item=4204
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Soul Funnel III
+Classes: Warlock
+Requires Level 28
+Use:
+Teaches Health Funnel (Rank 3).
+
+
+Item #4200
+URL: https://database.turtle-wow.org/?item=4200
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Immolate III
+Classes: Warlock
+Requires Level 22
+Use:
+Teaches Immolate (Rank 3).
+
+
+Item #4203
+URL: https://database.turtle-wow.org/?item=4203
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Pestilence II
+Classes: Warlock
+Requires Level 26
+Use:
+Teaches Corruption (Rank 2).
+
+
+Item #4201
+URL: https://database.turtle-wow.org/?item=4201
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Eye of Kilrogg
+Classes: Warlock
+Requires Level 28
+Use:
+Teaches Eye of Kilrogg.
+
+
+Item #4215
+URL: https://database.turtle-wow.org/?item=4215
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Rain of Fire
+Classes: Warlock
+Requires Level 20
+Use:
+Teaches Rain of Fire (Rank 1).
+
+
+Item #4212
+URL: https://database.turtle-wow.org/?item=4212
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Mannoroth III
+Classes: Warlock
+Requires Level 32
+Use:
+Teaches Curse of Weakness (Rank 3).
+
+
+Item #4216
+URL: https://database.turtle-wow.org/?item=4216
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Holy Ward
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Holy Ward.
+
+
+Item #4208
+URL: https://database.turtle-wow.org/?item=4208
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Mind Bomb
+Classes: Warlock
+Requires Level 32
+Use:
+Teaches Mind Bomb.
+
+
+Item #4211
+URL: https://database.turtle-wow.org/?item=4211
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Pestilence
+Classes: Warlock
+Requires Level 14
+Use:
+Teaches Corruption (Rank 1).
+
+
+Item #4209
+URL: https://database.turtle-wow.org/?item=4209
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Shadow Ward
+Classes: Warlock
+Requires Level 30
+Use:
+Teaches Shadow Ward.
+
+
+Item #4205
+URL: https://database.turtle-wow.org/?item=4205
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Immolate IV
+Classes: Warlock
+Requires Level 34
+Use:
+Teaches Immolate (Rank 4).
+
+
+Item #4206
+URL: https://database.turtle-wow.org/?item=4206
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Sargeras II
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Curse of Agony (Rank 2).
+
+
+Item #4214
+URL: https://database.turtle-wow.org/?item=4214
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Life Drain III
+Classes: Warlock
+Requires Level 30
+Use:
+Teaches Drain Life (Rank 3).
+
+
+Item #4213
+URL: https://database.turtle-wow.org/?item=4213
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Doom
+Binds when picked up
+Classes: Warlock
+Requires Level 60
+Use:
+Teaches Ritual of Doom.
+
+
+Item #4207
+URL: https://database.turtle-wow.org/?item=4207
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Archimonde
+Classes: Warlock
+Requires Level 30
+Use:
+Teaches Curse of Archimonde.
+
+
+Item #4210
+URL: https://database.turtle-wow.org/?item=4210
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Create Lesser Bloodstone
+Classes: Warlock
+Requires Level 14
+Use:
+Teaches Create Lesser Healthstone.
+
+
+Item #4228
+URL: https://database.turtle-wow.org/?item=4228
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire IV
+Classes: Druid
+Requires Level 22
+Use:
+Teaches Moonfire (Rank 4).
+
+
+Item #4220
+URL: https://database.turtle-wow.org/?item=4220
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Blood Boil III
+Classes: Warlock
+Requires Level 30
+Use:
+Teaches Blood Boil (Rank 3).
+
+
+Item #4219
+URL: https://database.turtle-wow.org/?item=4219
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Burning Spirit IV
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Burning Spirit (Rank 4).
+
+
+Item #4226
+URL: https://database.turtle-wow.org/?item=4226
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath VI
+Classes: Druid
+Requires Level 38
+Use:
+Teaches Wrath (Rank 6).
+
+
+Item #4221
+URL: https://database.turtle-wow.org/?item=4221
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Detect Invisibility
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Detect Invisibility.
+
+
+Item #4217
+URL: https://database.turtle-wow.org/?item=4217
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Soul Funnel IV
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Health Funnel (Rank 4).
+
+
+Item #4218
+URL: https://database.turtle-wow.org/?item=4218
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Create Bloodstone
+Classes: Warlock
+Requires Level 26
+Use:
+Teaches Create Healthstone.
+
+
+Item #4223
+URL: https://database.turtle-wow.org/?item=4223
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Abolish Magic
+Classes: Druid
+Requires Level 36
+Use:
+Teaches Abolish Magic (Rank 1).
+
+
+Item #4230
+URL: https://database.turtle-wow.org/?item=4230
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch VI
+Classes: Druid
+Requires Level 32
+Use:
+Teaches Healing Touch (Rank 6).
+
+
+Item #4270
+URL: https://database.turtle-wow.org/?item=4270
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Heal III
+Classes: Priest
+Requires Level 28
+Use:
+Teaches Heal (Rank 3).
+
+
+Item #4269
+URL: https://database.turtle-wow.org/?item=4269
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Prayer of Healing
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Prayer of Healing (Rank 1).
+
+
+Item #4272
+URL: https://database.turtle-wow.org/?item=4272
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Protection
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Holy Protection.
+
+
+Item #4275
+URL: https://database.turtle-wow.org/?item=4275
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Rot
+Classes: Priest
+Requires Level 38
+Use:
+Teaches Mind Rot.
+
+
+Item #4276
+URL: https://database.turtle-wow.org/?item=4276
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Fumble II
+Classes: Priest
+Requires Level 32
+Use:
+Teaches Shadow Word: Fumble (Rank 2).
+
+
+Item #4268
+URL: https://database.turtle-wow.org/?item=4268
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Heal II
+Classes: Priest
+Requires Level 22
+Use:
+Teaches Heal (Rank 2).
+
+
+Item #4271
+URL: https://database.turtle-wow.org/?item=4271
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Smite V
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Holy Smite (Rank 5).
+
+
+Item #4267
+URL: https://database.turtle-wow.org/?item=4267
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Fumble
+Classes: Priest
+Requires Level 20
+Use:
+Teaches Shadow Word: Fumble (Rank 1).
+
+
+Item #4266
+URL: https://database.turtle-wow.org/?item=4266
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Inner Fire II
+Classes: Priest
+Requires Level 20
+Use:
+Teaches Inner Fire (Rank 2).
+
+
+Item #4273
+URL: https://database.turtle-wow.org/?item=4273
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Heal
+Classes: Priest
+Requires Level 16
+Use:
+Teaches Heal (Rank 1).
+
+
+Item #4274
+URL: https://database.turtle-wow.org/?item=4274
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Divine Escape
+Classes: Priest
+Requires Level 36
+Use:
+Teaches Divine Escape (Rank 1).
+
+
+Item #4281
+URL: https://database.turtle-wow.org/?item=4281
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Protection
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Shadow Protection.
+
+
+Item #4279
+URL: https://database.turtle-wow.org/?item=4279
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Pain V
+Classes: Priest
+Requires Level 34
+Use:
+Teaches Shadow Word: Pain (Rank 5).
+
+
+Item #4288
+URL: https://database.turtle-wow.org/?item=4288
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Remove Curse II
+Classes: Priest
+Requires Level 38
+Use:
+Teaches Remove Curse (Rank 2).
+
+
+Item #4283
+URL: https://database.turtle-wow.org/?item=4283
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Sleep III
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Sleep (Rank 3).
+
+
+Item #4282
+URL: https://database.turtle-wow.org/?item=4282
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Dispel Magic II
+Classes: Priest
+Requires Level 36
+Use:
+Teaches Dispel Magic (Rank 2).
+
+
+Item #4287
+URL: https://database.turtle-wow.org/?item=4287
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Nullify Disease II
+Classes: Priest
+Requires Level 32
+Use:
+Teaches Nullify Disease (Rank 2).
+
+
+Item #4285
+URL: https://database.turtle-wow.org/?item=4285
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Fortitude IV
+Classes: Priest
+Requires Level 36
+Use:
+Teaches Holy Word: Fortitude (Rank 4).
+
+
+Item #4286
+URL: https://database.turtle-wow.org/?item=4286
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Prayer of Healing II
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #4280
+URL: https://database.turtle-wow.org/?item=4280
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield IV
+Classes: Priest
+Requires Level 24
+Use:
+Teaches Holy Word: Shield (Rank 4).
+
+
+Item #4284
+URL: https://database.turtle-wow.org/?item=4284
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Smite VI
+Classes: Priest
+Requires Level 38
+Use:
+Teaches Holy Smite (Rank 6).
+
+
+Item #4277
+URL: https://database.turtle-wow.org/?item=4277
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Befuddle II
+Classes: Priest
+Requires Level 36
+Use:
+Teaches Shadow Word: Befuddle (Rank 2).
+
+
+Item #5126
+URL: https://database.turtle-wow.org/?item=5126
+Category: Database/Items/Recipes/Books
+Item: 
+Knowledge: Defias Disguise
+Classes: Rogue
+Requires Level 13
+Requires Disguise
+Use:
+Learn how to disguise yourself as a Defias Footpad.
+
+
+Item #5130
+URL: https://database.turtle-wow.org/?item=5130
+Category: Database/Items/Recipes/Books
+Item: 
+Knowledge: Dalaran Wizard Disguise
+Classes: Rogue
+Requires Level 13
+Requires Disguise
+Use:
+Learn how to disguise yourself as a Dalaran Wizard.
+
+
+Item #5131
+URL: https://database.turtle-wow.org/?item=5131
+Category: Database/Items/Recipes/Books
+Item: 
+Knowledge: Stonesplinter Disguise
+Classes: Rogue
+Requires Level 13
+Requires Disguise
+Use:
+Learn how to disguise yourself as a Stonesplinter Trogg.
+
+
+Item #5139
+URL: https://database.turtle-wow.org/?item=5139
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Thorns
+Classes: Druid
+Requires Level 6
+Use:
+Teaches Thorns (Rank 1).
+
+
+Item #5129
+URL: https://database.turtle-wow.org/?item=5129
+Category: Database/Items/Recipes/Books
+Item: 
+Knowledge: Dark Iron Dwarf Disguise
+Classes: Rogue
+Requires Level 22
+Requires Disguise
+Use:
+Learn how to disguise yourself as a Dark Iron Dwarf.
+
+
+Item #5132
+URL: https://database.turtle-wow.org/?item=5132
+Category: Database/Items/Recipes/Books
+Item: 
+Knowledge: Syndicate Disguise
+Classes: Rogue
+Requires Level 22
+Requires Disguise
+Use:
+Learn how to disguise yourself as a Syndicate Highwayman.
+
+
+Item #5149
+URL: https://database.turtle-wow.org/?item=5149
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath III
+Classes: Druid
+Requires Level 14
+Use:
+Teaches Wrath (Rank 3).
+
+
+Item #5148
+URL: https://database.turtle-wow.org/?item=5148
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Thorns II
+Classes: Druid
+Requires Level 14
+Use:
+Teaches Thorns (Rank 2).
+
+
+Item #5141
+URL: https://database.turtle-wow.org/?item=5141
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth
+Classes: Druid
+Requires Level 12
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #5147
+URL: https://database.turtle-wow.org/?item=5147
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Entangling Roots II
+Classes: Druid
+Requires Level 18
+Use:
+Teaches Entangling Roots (Rank 2).
+
+
+Item #5151
+URL: https://database.turtle-wow.org/?item=5151
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath IV
+Classes: Druid
+Requires Level 22
+Use:
+Teaches Wrath (Rank 4).
+
+
+Item #5150
+URL: https://database.turtle-wow.org/?item=5150
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch III
+Classes: Druid
+Requires Level 14
+Use:
+Teaches Healing Touch (Rank 3).
+
+
+Item #5152
+URL: https://database.turtle-wow.org/?item=5152
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch IV
+Classes: Druid
+Requires Level 20
+Use:
+Teaches Healing Touch (Rank 4).
+
+
+Item #5142
+URL: https://database.turtle-wow.org/?item=5142
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath II
+Classes: Druid
+Requires Level 6
+Use:
+Teaches Wrath (Rank 2).
+
+
+Item #5145
+URL: https://database.turtle-wow.org/?item=5145
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch II
+Classes: Druid
+Requires Level 8
+Use:
+Teaches Healing Touch (Rank 2).
+
+
+Item #5156
+URL: https://database.turtle-wow.org/?item=5156
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath V
+Classes: Druid
+Requires Level 30
+Use:
+Teaches Wrath (Rank 5).
+
+
+Item #5158
+URL: https://database.turtle-wow.org/?item=5158
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Tranquility
+Classes: Druid
+Requires Level 30
+Use:
+Teaches Tranquility (Rank 1).
+
+
+Item #5163
+URL: https://database.turtle-wow.org/?item=5163
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Mark of the Wild III
+Classes: Druid
+Requires Level 20
+Use:
+Teaches Mark of the Wild (Rank 3).
+
+
+Item #5153
+URL: https://database.turtle-wow.org/?item=5153
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Mark of the Wild IV
+Classes: Druid
+Requires Level 30
+Use:
+Teaches Mark of the Wild (Rank 4).
+
+
+Item #5160
+URL: https://database.turtle-wow.org/?item=5160
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch V
+Classes: Druid
+Requires Level 26
+Use:
+Teaches Healing Touch (Rank 5).
+
+
+Item #5155
+URL: https://database.turtle-wow.org/?item=5155
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Mark of the Wild II
+Classes: Druid
+Requires Level 10
+Use:
+Teaches Mark of the Wild (Rank 2).
+
+
+Item #5154
+URL: https://database.turtle-wow.org/?item=5154
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Thorns III
+Classes: Druid
+Requires Level 24
+Use:
+Teaches Thorns (Rank 3).
+
+
+Item #5644
+URL: https://database.turtle-wow.org/?item=5644
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Water
+Classes: Mage
+Requires Level 4
+Use:
+Teaches Conjure Water (Rank 1).
+
+
+Item #5647
+URL: https://database.turtle-wow.org/?item=5647
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Blink
+Classes: Mage
+Requires Level 22
+Use:
+Teaches Blink (Rank 1).
+
+
+Item #5649
+URL: https://database.turtle-wow.org/?item=5649
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Blizzard
+Classes: Mage
+Requires Level 20
+Use:
+Teaches Blizzard (Rank 1).
+
+
+Item #5648
+URL: https://database.turtle-wow.org/?item=5648
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Armor III
+Classes: Mage
+Requires Level 20
+Use:
+Teaches Frost Armor (Rank 3).
+
+
+Item #5650
+URL: https://database.turtle-wow.org/?item=5650
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Water III
+Classes: Mage
+Requires Level 20
+Use:
+Teaches Conjure Water (Rank 3).
+
+
+Item #5658
+URL: https://database.turtle-wow.org/?item=5658
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Might
+Classes: Paladin
+Requires Level 8
+Use:
+Teaches Seal of Might (Rank 1).
+
+
+Item #5666
+URL: https://database.turtle-wow.org/?item=5666
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Wrath II
+Classes: Paladin
+Requires Level 40
+Use:
+Teaches Seal of Reckoning (Rank 2).
+
+
+Item #5661
+URL: https://database.turtle-wow.org/?item=5661
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Righteousness II
+Classes: Paladin
+Requires Level 26
+Use:
+Teaches Seal of Righteousness (Rank 2).
+
+
+Item #5657
+URL: https://database.turtle-wow.org/?item=5657
+Category: Database/Items/Recipes/Books
+Item: 
+Recipe: Instant Toxin
+Requires Poisons (120)
+Use:
+Teaches you how to make an Instant Toxin.
+
+
+Item #5662
+URL: https://database.turtle-wow.org/?item=5662
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Righteousness III
+Classes: Paladin
+Requires Level 36
+Use:
+Teaches Seal of Righteousness (Rank 3).
+
+
+Item #5660
+URL: https://database.turtle-wow.org/?item=5660
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Righteousness
+Classes: Paladin
+Requires Level 16
+Use:
+Teaches Seal of Righteousness (Rank 1).
+
+
+Item #5667
+URL: https://database.turtle-wow.org/?item=5667
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Wisdom II
+Classes: Paladin
+Requires Level 24
+Use:
+Teaches Seal of Wisdom (Rank 2).
+
+
+Item #5671
+URL: https://database.turtle-wow.org/?item=5671
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Might III
+Classes: Paladin
+Requires Level 32
+Use:
+Teaches Seal of Might (Rank 3).
+
+
+Item #5679
+URL: https://database.turtle-wow.org/?item=5679
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Wisdom III
+Classes: Paladin
+Requires Level 36
+Use:
+Teaches Seal of Wisdom (Rank 3).
+
+
+Item #5670
+URL: https://database.turtle-wow.org/?item=5670
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Wrath IV
+Classes: Paladin
+Requires Level 60
+Use:
+Teaches Seal of Might (Rank 3).
+
+
+Item #5676
+URL: https://database.turtle-wow.org/?item=5676
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Sense Undead
+Classes: Paladin
+Requires Level 20
+Use:
+Teaches Sense Undead.
+
+
+Item #5674
+URL: https://database.turtle-wow.org/?item=5674
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Exorcism III
+Classes: Paladin
+Requires Level 36
+Use:
+Teaches Exorcism (Rank 3).
+
+
+Item #5672
+URL: https://database.turtle-wow.org/?item=5672
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Exorcism
+Classes: Paladin
+Requires Level 20
+Use:
+Teaches Exorcism (Rank 1).
+
+
+Item #5677
+URL: https://database.turtle-wow.org/?item=5677
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Turn Undead
+Classes: Paladin
+Requires Level 24
+Use:
+Teaches Turn Undead (Rank 1).
+
+
+Item #5673
+URL: https://database.turtle-wow.org/?item=5673
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Exorcism II
+Classes: Paladin
+Requires Level 28
+Use:
+Teaches Exorcism (Rank 2).
+
+
+Item #5678
+URL: https://database.turtle-wow.org/?item=5678
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Sacrifice
+Classes: Paladin
+Requires Level 36
+Use:
+Teaches Seal of Sacrifice (Rank 1).
+
+
+Item #5680
+URL: https://database.turtle-wow.org/?item=5680
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Protection II
+Classes: Paladin
+Requires Level 20
+Use:
+Teaches Seal of Protection (Rank 2).
+
+
+Item #5685
+URL: https://database.turtle-wow.org/?item=5685
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Redemption
+Classes: Paladin
+Requires Level 40
+Use:
+Teaches Redemption.
+
+
+Item #5684
+URL: https://database.turtle-wow.org/?item=5684
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Salvation
+Classes: Paladin
+Requires Level 22
+Use:
+Teaches Seal of Salvation (Rank 1).
+
+
+Item #5682
+URL: https://database.turtle-wow.org/?item=5682
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Turn Undead II
+Classes: Paladin
+Requires Level 38
+Use:
+Teaches Turn Undead (Rank 2).
+
+
+Item #5683
+URL: https://database.turtle-wow.org/?item=5683
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Divine Shield II
+Classes: Paladin
+Requires Level 50
+Use:
+Teaches Divine Shield (Rank 2).
+
+
+Item #5700
+URL: https://database.turtle-wow.org/?item=5700
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Totem II
+Classes: Shaman
+Requires Level 12
+Use:
+Teaches Healing Totem (Rank 2).
+
+
+Item #5701
+URL: https://database.turtle-wow.org/?item=5701
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Sentry Totem
+Classes: Shaman
+Requires Level 14
+Use:
+Teaches Sentry Totem.
+
+
+Item #5699
+URL: https://database.turtle-wow.org/?item=5699
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Ghost Wolf
+Classes: Shaman
+Requires Level 12
+Use:
+Teaches Ghost Wolf (Rank 1).
+
+
+Item #5696
+URL: https://database.turtle-wow.org/?item=5696
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Shock
+Classes: Shaman
+Requires Level 4
+Use:
+Teaches Shock (Rank 1).
+
+
+Item #5698
+URL: https://database.turtle-wow.org/?item=5698
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shield
+Classes: Shaman
+Requires Level 8
+Use:
+Teaches Lightning Shield (Rank 1).
+
+
+Item #5703
+URL: https://database.turtle-wow.org/?item=5703
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Thunderclap
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Thunder Clap (Rank 1).
+
+
+Item #5702
+URL: https://database.turtle-wow.org/?item=5702
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Agitating Totem II
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Agitating Totem (Rank 2).
+
+
+Item #5697
+URL: https://database.turtle-wow.org/?item=5697
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Totem
+Classes: Shaman
+Requires Level 6
+Use:
+Teaches Healing Totem (Rank 1).
+
+
+Item #5711
+URL: https://database.turtle-wow.org/?item=5711
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Ghost Wolf II
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Ghost Wolf (Rank 2).
+
+
+Item #5715
+URL: https://database.turtle-wow.org/?item=5715
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Storm III
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Lightning Storm (Rank 3).
+
+
+Item #5712
+URL: https://database.turtle-wow.org/?item=5712
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Serpent Totem IV
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Serpent Totem (Rank 4).
+
+
+Item #5707
+URL: https://database.turtle-wow.org/?item=5707
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Far Sight
+Classes: Shaman
+Requires Level 26
+Use:
+Teaches Far Sight.
+
+
+Item #5709
+URL: https://database.turtle-wow.org/?item=5709
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Water Walking
+Classes: Shaman
+Requires Level 28
+Use:
+Teaches Water Walking.
+
+
+Item #5713
+URL: https://database.turtle-wow.org/?item=5713
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Thunderbolt
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Thunderbolt.
+
+
+Item #5710
+URL: https://database.turtle-wow.org/?item=5710
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Totem IV
+Classes: Shaman
+Requires Level 28
+Use:
+Teaches Healing Totem (Rank 4).
+
+
+Item #5705
+URL: https://database.turtle-wow.org/?item=5705
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Totem III
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Healing Totem (Rank 3).
+
+
+Item #5716
+URL: https://database.turtle-wow.org/?item=5716
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Restoration VI
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Greater Healing Wave (Rank 2).
+
+
+Item #5714
+URL: https://database.turtle-wow.org/?item=5714
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Ensnaring Totem II
+Classes: Shaman
+Requires Level 34
+
+
+Item #5706
+URL: https://database.turtle-wow.org/?item=5706
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Serpent Totem III
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Serpent Totem (Rank 3).
+
+
+Item #5708
+URL: https://database.turtle-wow.org/?item=5708
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Ethereal Form
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Ethereal Form (Rank 1).
+
+
+Item #5720
+URL: https://database.turtle-wow.org/?item=5720
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Mannoroth II
+Classes: Warlock
+Requires Level 20
+Use:
+Teaches Curse of Weakness (Rank 2).
+
+
+Item #5721
+URL: https://database.turtle-wow.org/?item=5721
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Create Spellstone
+Classes: Warlock
+Requires Level 34
+Use:
+Teaches Create Spellstone.
+
+
+Item #5723
+URL: https://database.turtle-wow.org/?item=5723
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Sargeras III
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Curse of Agony (Rank 3).
+
+
+Item #5726
+URL: https://database.turtle-wow.org/?item=5726
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Create Greater Bloodstone
+Classes: Warlock
+Requires Level 38
+Use:
+Teaches Create Greater Healthstone.
+
+
+Item #5725
+URL: https://database.turtle-wow.org/?item=5725
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Pestilence III
+Classes: Warlock
+Requires Level 38
+Use:
+Teaches Corruption (Rank 3).
+
+
+Item #5727
+URL: https://database.turtle-wow.org/?item=5727
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Mana Funnel
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Mana Funnel.
+
+
+Item #5724
+URL: https://database.turtle-wow.org/?item=5724
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Tongues
+Classes: Warlock
+Requires Level 22
+Use:
+Teaches Curse of Tongues (Rank 1).
+
+
+Item #5719
+URL: https://database.turtle-wow.org/?item=5719
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Life Drain II
+Classes: Warlock
+Requires Level 22
+Use:
+Teaches Drain Life (Rank 2).
+
+
+
+Item #5728
+URL: https://database.turtle-wow.org/?item=5728
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Rain of Fire II
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Rain of Fire (Rank 2).
+
+
+Item #5730
+URL: https://database.turtle-wow.org/?item=5730
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation
+Classes: Druid
+Requires Level 4
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #5729
+URL: https://database.turtle-wow.org/?item=5729
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Fear III
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Fear (Rank 3).
+
+
+Item #6133
+URL: https://database.turtle-wow.org/?item=6133
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Fury
+Classes: Paladin
+Requires Level 14
+Use:
+Teaches Seal of Fury (Rank 1).
+
+
+Item #6132
+URL: https://database.turtle-wow.org/?item=6132
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Wisdom
+Classes: Paladin
+Requires Level 12
+Use:
+Teaches Seal of Wisdom (Rank 1).
+
+
+Item #6621
+URL: https://database.turtle-wow.org/?item=6621
+Category: Database/Items/Recipes/Books
+Item: 
+Manual of Taunt
+Binds when picked up
+Classes: Warrior
+Requires Level 10
+Use:
+Teaches Taunt (Rank 1).
+
+
+Item #6619
+URL: https://database.turtle-wow.org/?item=6619
+Category: Database/Items/Recipes/Books
+Item: 
+Manual: The Path of Defense
+Binds when picked up
+Classes: Warrior
+Requires Level 10
+Use:
+Teaches Defensive Stance, Sunder Armor (Rank 1), and Taunt (Rank 1).
+
+
+Item #6897
+URL: https://database.turtle-wow.org/?item=6897
+Category: Database/Items/Recipes/Books
+Item: 
+Manual: Path of the Berserker
+Binds when picked up
+Classes: Warrior
+Requires Level 30
+Use:
+Teaches Berserker Stance (Rank 1).  Teaches Intercept (Rank 1).
+
+
+Item #8046
+URL: https://database.turtle-wow.org/?item=8046
+Category: Database/Items/Recipes/Books
+Item: 
+Kearnen's Journal
+Binds when picked up
+Unique
+<Right Click To Read>
+
+
+Item #8743
+URL: https://database.turtle-wow.org/?item=8743
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Mark of the Wild
+Classes: Druid
+Use:
+Teaches Mark of the Wild (Rank 1).
+
+
+Item #8744
+URL: https://database.turtle-wow.org/?item=8744
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath
+Classes: Druid
+Requires Level 6
+Use:
+Teaches Wrath (Rank 2).
+
+
+Item #8745
+URL: https://database.turtle-wow.org/?item=8745
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch
+Classes: Druid
+Requires Level 8
+Use:
+Teaches Healing Touch (Rank 2).
+
+
+Item #8758
+URL: https://database.turtle-wow.org/?item=8758
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Remove Curse
+Classes: Druid
+Requires Level 22
+
+
+Item #8759
+URL: https://database.turtle-wow.org/?item=8759
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth III
+Classes: Druid
+Requires Level 24
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #8757
+URL: https://database.turtle-wow.org/?item=8757
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Starfire
+Classes: Druid
+Requires Level 20
+Use:
+Teaches Moonfire (Rank 1).
+
+
+Item #8762
+URL: https://database.turtle-wow.org/?item=8762
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation V
+Classes: Druid
+Requires Level 28
+Use:
+Teaches Rejuvenation (Rank 4).
+
+
+Item #8761
+URL: https://database.turtle-wow.org/?item=8761
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Starfire II
+Classes: Druid
+Requires Level 26
+Use:
+Teaches Moonfire (Rank 1).
+
+
+Item #8764
+URL: https://database.turtle-wow.org/?item=8764
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Faerie Fire II
+Classes: Druid
+Requires Level 30
+Use:
+Teaches Faerie Fire (Rank 2).
+
+
+Item #8760
+URL: https://database.turtle-wow.org/?item=8760
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Abolish Poison
+Classes: Druid
+Requires Level 26
+
+
+Item #8756
+URL: https://database.turtle-wow.org/?item=8756
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth II
+Classes: Druid
+Requires Level 18
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #8763
+URL: https://database.turtle-wow.org/?item=8763
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire V
+Classes: Druid
+Requires Level 28
+Use:
+Teaches Moonfire (Rank 4).
+
+
+Item #8765
+URL: https://database.turtle-wow.org/?item=8765
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth IV
+Classes: Druid
+Requires Level 30
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #8769
+URL: https://database.turtle-wow.org/?item=8769
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Thorns IV
+Classes: Druid
+Requires Level 34
+Use:
+Teaches Thorns (Rank 3).
+
+
+Item #8774
+URL: https://database.turtle-wow.org/?item=8774
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch VII
+Classes: Druid
+Requires Level 38
+Use:
+Teaches Healing Touch (Rank 6).
+
+
+Item #8771
+URL: https://database.turtle-wow.org/?item=8771
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation VI
+Classes: Druid
+Requires Level 34
+Use:
+Teaches Rejuvenation (Rank 4).
+
+
+Item #8772
+URL: https://database.turtle-wow.org/?item=8772
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth V
+Classes: Druid
+Requires Level 36
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #8773
+URL: https://database.turtle-wow.org/?item=8773
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Entangling Roots V
+Classes: Druid
+Requires Level 48
+
+
+Item #8768
+URL: https://database.turtle-wow.org/?item=8768
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Starfire III
+Classes: Druid
+Requires Level 34
+Use:
+Teaches Moonfire (Rank 1).
+
+
+Item #8770
+URL: https://database.turtle-wow.org/?item=8770
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire VI
+Classes: Druid
+Requires Level 34
+Use:
+Teaches Moonfire (Rank 4).
+
+
+Item #8776
+URL: https://database.turtle-wow.org/?item=8776
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Mark of the Wild VI
+Classes: Druid
+Requires Level 50
+Use:
+Teaches Mark of the Wild (Rank 4).
+
+
+Item #8784
+URL: https://database.turtle-wow.org/?item=8784
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath VII
+Classes: Druid
+Requires Level 46
+Use:
+Teaches Wrath (Rank 6).
+
+
+Item #8778
+URL: https://database.turtle-wow.org/?item=8778
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation VII
+Classes: Druid
+Requires Level 40
+Use:
+Teaches Rejuvenation (Rank 4).
+
+
+Item #8775
+URL: https://database.turtle-wow.org/?item=8775
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Tranquility II
+Classes: Druid
+Requires Level 40
+Use:
+Teaches Tranquility (Rank 1).
+
+
+Item #8783
+URL: https://database.turtle-wow.org/?item=8783
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch IX
+Classes: Druid
+Requires Level 50
+Use:
+Teaches Healing Touch (Rank 6).
+
+
+Item #8781
+URL: https://database.turtle-wow.org/?item=8781
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth VII
+Classes: Druid
+Requires Level 48
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #8777
+URL: https://database.turtle-wow.org/?item=8777
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire IX
+Classes: Druid
+Requires Level 52
+Use:
+Teaches Moonfire (Rank 4).
+
+
+Item #8779
+URL: https://database.turtle-wow.org/?item=8779
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Faerie Fire III
+Classes: Druid
+Requires Level 42
+Use:
+Teaches Faerie Fire (Rank 3).
+
+
+Item #8780
+URL: https://database.turtle-wow.org/?item=8780
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Starfire V
+Classes: Druid
+Requires Level 50
+Use:
+Teaches Moonfire (Rank 1).
+
+
+Item #8782
+URL: https://database.turtle-wow.org/?item=8782
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Thorns V
+Classes: Druid
+Requires Level 44
+Use:
+Teaches Thorns (Rank 3).
+
+
+Item #8785
+URL: https://database.turtle-wow.org/?item=8785
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation IX
+Classes: Druid
+Requires Level 52
+Use:
+Teaches Rejuvenation (Rank 4).
+
+
+Item #8786
+URL: https://database.turtle-wow.org/?item=8786
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Tranquility III
+Classes: Druid
+Requires Level 50
+Use:
+Teaches Tranquility (Rank 1).
+
+
+Item #8790
+URL: https://database.turtle-wow.org/?item=8790
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Faerie Fire IV
+Classes: Druid
+Requires Level 54
+Use:
+Teaches Faerie Fire (Rank 1).
+
+
+Item #8787
+URL: https://database.turtle-wow.org/?item=8787
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Soothe Animal
+Classes: Druid
+Requires Level 22
+Use:
+Teaches Wrath (Rank 4).
+
+
+Item #8793
+URL: https://database.turtle-wow.org/?item=8793
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath VIII
+Classes: Druid
+Requires Level 54
+Use:
+Teaches Wrath (Rank 6).
+
+
+Item #8789
+URL: https://database.turtle-wow.org/?item=8789
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Soothe Animal III
+Classes: Druid
+Requires Level 54
+Use:
+Teaches Wrath (Rank 4).
+
+
+Item #8791
+URL: https://database.turtle-wow.org/?item=8791
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth VIII
+Classes: Druid
+Requires Level 54
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #8794
+URL: https://database.turtle-wow.org/?item=8794
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch X
+Classes: Druid
+Requires Level 56
+Use:
+Teaches Healing Touch (Rank 6).
+
+
+Item #8788
+URL: https://database.turtle-wow.org/?item=8788
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Soothe Animal II
+Classes: Druid
+Requires Level 38
+Use:
+Teaches Wrath (Rank 4).
+
+
+Item #8792
+URL: https://database.turtle-wow.org/?item=8792
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Thorns VI
+Classes: Druid
+Requires Level 54
+Use:
+Teaches Thorns (Rank 3).
+
+
+Item #8797
+URL: https://database.turtle-wow.org/?item=8797
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation X
+Classes: Druid
+Requires Level 58
+Use:
+Teaches Rejuvenation (Rank 4).
+
+
+Item #8803
+URL: https://database.turtle-wow.org/?item=8803
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball
+Classes: Mage
+Requires Level 6
+Use:
+Teaches Fireball (Rank 2).
+
+
+Item #8804
+URL: https://database.turtle-wow.org/?item=8804
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Explosion
+Classes: Mage
+Requires Level 14
+Use:
+Teaches Arcane Missiles (Rank 1).
+
+
+Item #8802
+URL: https://database.turtle-wow.org/?item=8802
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Intellect
+Classes: Mage
+Use:
+Teaches Arcane Intellect (Rank 2).
+
+
+Item #8798
+URL: https://database.turtle-wow.org/?item=8798
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Starfire VI
+Classes: Druid
+Requires Level 58
+Use:
+Teaches Moonfire (Rank 1).
+
+
+Item #8796
+URL: https://database.turtle-wow.org/?item=8796
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire X
+Classes: Druid
+Requires Level 58
+Use:
+Teaches Moonfire (Rank 4).
+
+
+Item #8795
+URL: https://database.turtle-wow.org/?item=8795
+Category: Database/Items/Recipes/Books
+Item: 
+Azure Silk Shoulders
+Classes: Druid
+Requires Level 58
+
+
+Item #8800
+URL: https://database.turtle-wow.org/?item=8800
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth IX
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #8801
+URL: https://database.turtle-wow.org/?item=8801
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Tranquility IV
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Tranquility (Rank 1).
+
+
+Item #8806
+URL: https://database.turtle-wow.org/?item=8806
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Remove Lesser Curse
+Classes: Mage
+Requires Level 18
+Use:
+Teaches Remove Curse.
+
+
+Item #8808
+URL: https://database.turtle-wow.org/?item=8808
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Mana Shield
+Classes: Mage
+Requires Level 20
+Use:
+Teaches Blizzard (Rank 1).
+
+
+Item #8811
+URL: https://database.turtle-wow.org/?item=8811
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Scorch
+Classes: Mage
+Requires Level 22
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8805
+URL: https://database.turtle-wow.org/?item=8805
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Detect Magic
+Classes: Mage
+Requires Level 16
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8813
+URL: https://database.turtle-wow.org/?item=8813
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Dampen Magic II
+Classes: Mage
+Requires Level 24
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8814
+URL: https://database.turtle-wow.org/?item=8814
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball V
+Classes: Mage
+Requires Level 24
+Use:
+Teaches Fireball (Rank 4).
+
+
+Item #8812
+URL: https://database.turtle-wow.org/?item=8812
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Explosion II
+Classes: Mage
+Requires Level 22
+Use:
+Teaches Arcane Missiles (Rank 1).
+
+
+Item #8807
+URL: https://database.turtle-wow.org/?item=8807
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Amplify Magic
+Classes: Mage
+Requires Level 18
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8810
+URL: https://database.turtle-wow.org/?item=8810
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Sleep II
+Classes: Mage
+Requires Level 20
+Use:
+Teaches Frostbolt (Rank 2).
+
+
+Item #8809
+URL: https://database.turtle-wow.org/?item=8809
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Sleep
+Classes: Mage
+Requires Level 8
+Use:
+Teaches Sleep (Rank 1).
+
+
+Item #8815
+URL: https://database.turtle-wow.org/?item=8815
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Cone of Cold
+Classes: Mage
+Requires Level 26
+Use:
+Teaches Chains of Ice (Rank 1).
+
+
+Item #8818
+URL: https://database.turtle-wow.org/?item=8818
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Mana Shield II
+Classes: Mage
+Requires Level 28
+Use:
+Teaches Blizzard (Rank 1).
+
+
+Item #8821
+URL: https://database.turtle-wow.org/?item=8821
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Amplify Magic II
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8823
+URL: https://database.turtle-wow.org/?item=8823
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Blast IV
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Fire Blast (Rank 3).
+
+
+Item #8816
+URL: https://database.turtle-wow.org/?item=8816
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt V
+Classes: Mage
+Requires Level 26
+Use:
+Teaches Frostbolt (Rank 4).
+
+
+Item #8820
+URL: https://database.turtle-wow.org/?item=8820
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Ward II
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Fire Ward.
+
+
+Item #8824
+URL: https://database.turtle-wow.org/?item=8824
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball VI
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Fireball (Rank 4).
+
+
+Item #8822
+URL: https://database.turtle-wow.org/?item=8822
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Explosion III
+Classes: Mage
+Requires Level 30
+Use:
+Teaches Arcane Missiles (Rank 1).
+
+
+Item #8819
+URL: https://database.turtle-wow.org/?item=8819
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Scorch II
+Classes: Mage
+Requires Level 28
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8826
+URL: https://database.turtle-wow.org/?item=8826
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Missiles IV
+Classes: Mage
+Requires Level 32
+Use:
+Teaches Arcane Missiles (Rank 3).
+
+
+Item #8829
+URL: https://database.turtle-wow.org/?item=8829
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Cone of Cold II
+Classes: Mage
+Requires Level 34
+Use:
+Teaches Chains of Ice (Rank 1).
+
+
+Item #8832
+URL: https://database.turtle-wow.org/?item=8832
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Blizzard III
+Classes: Mage
+Requires Level 36
+Use:
+Teaches Blizzard (Rank 2).
+
+
+Item #8833
+URL: https://database.turtle-wow.org/?item=8833
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Mana Shield III
+Classes: Mage
+Requires Level 36
+Use:
+Teaches Blizzard (Rank 1).
+
+
+Item #8825
+URL: https://database.turtle-wow.org/?item=8825
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Ward III
+Classes: Mage
+Requires Level 42
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8834
+URL: https://database.turtle-wow.org/?item=8834
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Dampen Magic III
+Classes: Mage
+Requires Level 36
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8828
+URL: https://database.turtle-wow.org/?item=8828
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt VI
+Classes: Mage
+Requires Level 32
+Use:
+Teaches Frostbolt (Rank 4).
+
+
+Item #8830
+URL: https://database.turtle-wow.org/?item=8830
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Scorch III
+Classes: Mage
+Requires Level 34
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8837
+URL: https://database.turtle-wow.org/?item=8837
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Explosion V
+Classes: Mage
+Requires Level 46
+Use:
+Teaches Arcane Missiles (Rank 1).
+
+
+Item #8844
+URL: https://database.turtle-wow.org/?item=8844
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Sleep III
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Frostbolt (Rank 2).
+
+
+Item #8840
+URL: https://database.turtle-wow.org/?item=8840
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Mana Gem II
+Classes: Mage
+Requires Level 38
+Use:
+Teaches Conjure Mana Gem.
+
+
+Item #8843
+URL: https://database.turtle-wow.org/?item=8843
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Ward III
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Fire Ward.
+
+
+Item #8841
+URL: https://database.turtle-wow.org/?item=8841
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Blast V
+Classes: Mage
+Requires Level 38
+Use:
+Teaches Fire Blast (Rank 3).
+
+
+Item #8835
+URL: https://database.turtle-wow.org/?item=8835
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball VII
+Classes: Mage
+Requires Level 36
+Use:
+Teaches Fireball (Rank 4).
+
+
+Item #8842
+URL: https://database.turtle-wow.org/?item=8842
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt VII
+Classes: Mage
+Requires Level 38
+Use:
+Teaches Frostbolt (Rank 4).
+
+
+Item #8848
+URL: https://database.turtle-wow.org/?item=8848
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Flamestrike IV
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Slow (Rank 2).
+
+
+Item #8853
+URL: https://database.turtle-wow.org/?item=8853
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Food V
+Classes: Mage
+Requires Level 42
+Use:
+Teaches Conjure Food (Rank 4).
+
+
+Item #8850
+URL: https://database.turtle-wow.org/?item=8850
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Water V
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Conjure Water (Rank 4).
+
+
+Item #8854
+URL: https://database.turtle-wow.org/?item=8854
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Cone of Cold III
+Classes: Mage
+Requires Level 42
+Use:
+Teaches Chains of Ice (Rank 1).
+
+
+Item #8852
+URL: https://database.turtle-wow.org/?item=8852
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Intellect IV
+Classes: Mage
+Requires Level 42
+Use:
+Teaches Arcane Intellect (Rank 3).
+
+
+Item #8847
+URL: https://database.turtle-wow.org/?item=8847
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Scorch V
+Classes: Mage
+Requires Level 46
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8851
+URL: https://database.turtle-wow.org/?item=8851
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball VIII
+Classes: Mage
+Requires Level 42
+Use:
+Teaches Fireball (Rank 4).
+
+
+Item #8849
+URL: https://database.turtle-wow.org/?item=8849
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Missiles V
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Arcane Missiles (Rank 3).
+
+
+Item #8864
+URL: https://database.turtle-wow.org/?item=8864
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Flamestrike V
+Classes: Mage
+Requires Level 48
+Use:
+Teaches Slow (Rank 2).
+
+
+Item #8856
+URL: https://database.turtle-wow.org/?item=8856
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt VIII
+Classes: Mage
+Requires Level 44
+Use:
+Teaches Frostbolt (Rank 4).
+
+
+Item #8859
+URL: https://database.turtle-wow.org/?item=8859
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Blast VI
+Classes: Mage
+Requires Level 46
+Use:
+Teaches Fire Blast (Rank 3).
+
+
+Item #8855
+URL: https://database.turtle-wow.org/?item=8855
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Amplify Magic III
+Classes: Mage
+Requires Level 42
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8861
+URL: https://database.turtle-wow.org/?item=8861
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Mana Gem III
+Classes: Mage
+Requires Level 48
+Use:
+Teaches Conjure Mana Gem.
+
+
+Item #8862
+URL: https://database.turtle-wow.org/?item=8862
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Missiles VI
+Classes: Mage
+Requires Level 48
+Use:
+Teaches Arcane Missiles (Rank 3).
+
+
+Item #8858
+URL: https://database.turtle-wow.org/?item=8858
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Mana Shield IV
+Classes: Mage
+Requires Level 44
+Use:
+Teaches Blizzard (Rank 1).
+
+
+Item #8863
+URL: https://database.turtle-wow.org/?item=8863
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Dampen Magic IV
+Classes: Mage
+Requires Level 48
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8860
+URL: https://database.turtle-wow.org/?item=8860
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball IX
+Classes: Mage
+Requires Level 48
+Use:
+Teaches Fireball (Rank 4).
+
+
+Item #8857
+URL: https://database.turtle-wow.org/?item=8857
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Blizzard IV
+Classes: Mage
+Requires Level 44
+Use:
+Teaches Blizzard (Rank 2).
+
+
+Item #8867
+URL: https://database.turtle-wow.org/?item=8867
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt IX
+Classes: Mage
+Requires Level 50
+Use:
+Teaches Frostbolt (Rank 4).
+
+
+Item #8865
+URL: https://database.turtle-wow.org/?item=8865
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Ice Armor III
+Classes: Mage
+Requires Level 50
+Use:
+Teaches Ice Armor (Rank 2).
+
+
+Item #8866
+URL: https://database.turtle-wow.org/?item=8866
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Cone of Cold IV
+Classes: Mage
+Requires Level 50
+Use:
+Teaches Chains of Ice (Rank 1).
+
+
+Item #8872
+URL: https://database.turtle-wow.org/?item=8872
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Blizzard V
+Classes: Mage
+Requires Level 52
+Use:
+Teaches Blizzard (Rank 2).
+
+
+Item #8869
+URL: https://database.turtle-wow.org/?item=8869
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Ward IV
+Classes: Mage
+Requires Level 50
+Use:
+Teaches Fire Ward.
+
+
+Item #8868
+URL: https://database.turtle-wow.org/?item=8868
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Water VI
+Classes: Mage
+Requires Level 50
+Use:
+Teaches Conjure Water (Rank 4).
+
+
+Item #8870
+URL: https://database.turtle-wow.org/?item=8870
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Greater Invisibility
+Classes: Mage
+Requires Level 50
+Use:
+Teaches Invisibility.
+
+
+Item #8873
+URL: https://database.turtle-wow.org/?item=8873
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Mana Shield V
+Classes: Mage
+Requires Level 52
+Use:
+Teaches Blizzard (Rank 1).
+
+
+Item #8871
+URL: https://database.turtle-wow.org/?item=8871
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Food VI
+Classes: Mage
+Requires Level 52
+Use:
+Teaches Conjure Food (Rank 4).
+
+
+Item #8874
+URL: https://database.turtle-wow.org/?item=8874
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Scorch VI
+Classes: Mage
+Requires Level 52
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8876
+URL: https://database.turtle-wow.org/?item=8876
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Ward II
+Classes: Mage
+Requires Level 32
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8877
+URL: https://database.turtle-wow.org/?item=8877
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball X
+Classes: Mage
+Requires Level 54
+Use:
+Teaches Fireball (Rank 4).
+
+
+Item #8875
+URL: https://database.turtle-wow.org/?item=8875
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Ward IV
+Classes: Mage
+Requires Level 52
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8879
+URL: https://database.turtle-wow.org/?item=8879
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Nova IV
+Classes: Mage
+Requires Level 54
+Use:
+Teaches Frost Nova (Rank 3).
+
+
+Item #8880
+URL: https://database.turtle-wow.org/?item=8880
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Explosion VI
+Classes: Mage
+Requires Level 54
+Use:
+Teaches Arcane Missiles (Rank 1).
+
+
+Item #8878
+URL: https://database.turtle-wow.org/?item=8878
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Blast VII
+Classes: Mage
+Requires Level 54
+Use:
+Teaches Fire Blast (Rank 3).
+
+
+Item #8883
+URL: https://database.turtle-wow.org/?item=8883
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Intellect V
+Classes: Mage
+Requires Level 56
+Use:
+Teaches Arcane Intellect (Rank 3).
+
+
+Item #8882
+URL: https://database.turtle-wow.org/?item=8882
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Amplify Magic IV
+Classes: Mage
+Requires Level 54
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8884
+URL: https://database.turtle-wow.org/?item=8884
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt X
+Classes: Mage
+Requires Level 56
+Use:
+Teaches Frostbolt (Rank 4).
+
+
+Item #8888
+URL: https://database.turtle-wow.org/?item=8888
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Cone of Cold V
+Classes: Mage
+Requires Level 58
+Use:
+Teaches Chains of Ice (Rank 1).
+
+
+Item #8894
+URL: https://database.turtle-wow.org/?item=8894
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Dampen Magic V
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Dampen Magic (Rank 1).
+
+
+Item #8893
+URL: https://database.turtle-wow.org/?item=8893
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Sleep IV
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Frostbolt (Rank 2).
+
+
+Item #8886
+URL: https://database.turtle-wow.org/?item=8886
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Flamestrike VI
+Classes: Mage
+Requires Level 56
+Use:
+Teaches Slow (Rank 2).
+
+
+Item #8891
+URL: https://database.turtle-wow.org/?item=8891
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Ice Armor IV
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Ice Armor (Rank 2).
+
+
+Item #8885
+URL: https://database.turtle-wow.org/?item=8885
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Missiles VII
+Classes: Mage
+Requires Level 56
+Use:
+Teaches Arcane Missiles (Rank 3).
+
+
+Item #8890
+URL: https://database.turtle-wow.org/?item=8890
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball XI
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Fireball (Rank 4).
+
+
+Item #8887
+URL: https://database.turtle-wow.org/?item=8887
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Scorch VII
+Classes: Mage
+Requires Level 58
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8889
+URL: https://database.turtle-wow.org/?item=8889
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Mana Gem IV
+Classes: Mage
+Requires Level 58
+Use:
+Teaches Conjure Mana Gem.
+
+
+Item #8892
+URL: https://database.turtle-wow.org/?item=8892
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Water VII
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Conjure Water (Rank 4).
+
+
+Item #8901
+URL: https://database.turtle-wow.org/?item=8901
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch VIII
+Classes: Druid
+Requires Level 44
+Use:
+Teaches Healing Touch (Rank 6).
+
+
+Item #8897
+URL: https://database.turtle-wow.org/?item=8897
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fire Ward V
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Fire Ward.
+
+
+Item #8896
+URL: https://database.turtle-wow.org/?item=8896
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Mana Shield VI
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Blizzard (Rank 1).
+
+
+Item #8895
+URL: https://database.turtle-wow.org/?item=8895
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Blizzard VI
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Blizzard (Rank 2).
+
+
+Item #8904
+URL: https://database.turtle-wow.org/?item=8904
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire VIII
+Classes: Druid
+Requires Level 46
+Use:
+Teaches Moonfire (Rank 4).
+
+
+Item #8902
+URL: https://database.turtle-wow.org/?item=8902
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Mark of the Wild V
+Classes: Druid
+Requires Level 40
+Use:
+Teaches Mark of the Wild (Rank 4).
+
+
+Item #8899
+URL: https://database.turtle-wow.org/?item=8899
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Scorch IV
+Classes: Mage
+Requires Level 40
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #8900
+URL: https://database.turtle-wow.org/?item=8900
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Entangling Roots IV
+Classes: Druid
+Requires Level 38
+
+
+Item #8898
+URL: https://database.turtle-wow.org/?item=8898
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Explosion IV
+Classes: Mage
+Requires Level 38
+Use:
+Teaches Arcane Missiles (Rank 1).
+
+
+Item #8903
+URL: https://database.turtle-wow.org/?item=8903
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Moonfire VII
+Classes: Druid
+Requires Level 40
+Use:
+Teaches Moonfire (Rank 4).
+
+
+Item #8913
+URL: https://database.turtle-wow.org/?item=8913
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Strike III
+Classes: Paladin
+Requires Level 16
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8912
+URL: https://database.turtle-wow.org/?item=8912
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Crusader Strike
+Classes: Paladin
+Requires Level 10
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8914
+URL: https://database.turtle-wow.org/?item=8914
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Crusader Strike II
+Classes: Paladin
+Requires Level 22
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8911
+URL: https://database.turtle-wow.org/?item=8911
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Fist of Justice
+Classes: Paladin
+Requires Level 10
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8907
+URL: https://database.turtle-wow.org/?item=8907
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Starfire IV
+Classes: Druid
+Requires Level 42
+Use:
+Teaches Moonfire (Rank 1).
+
+
+Item #8910
+URL: https://database.turtle-wow.org/?item=8910
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Lay on Hands
+Classes: Paladin
+Requires Level 10
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8906
+URL: https://database.turtle-wow.org/?item=8906
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation VIII
+Classes: Druid
+Requires Level 46
+Use:
+Teaches Rejuvenation (Rank 4).
+
+
+Item #8909
+URL: https://database.turtle-wow.org/?item=8909
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Strike II
+Classes: Paladin
+Requires Level 8
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8905
+URL: https://database.turtle-wow.org/?item=8905
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Regrowth VI
+Classes: Druid
+Requires Level 42
+Use:
+Teaches Rejuvenation (Rank 1).
+
+
+Item #8917
+URL: https://database.turtle-wow.org/?item=8917
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Lay on Hands II
+Classes: Paladin
+Requires Level 30
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8919
+URL: https://database.turtle-wow.org/?item=8919
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Strike V
+Classes: Paladin
+Requires Level 32
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8920
+URL: https://database.turtle-wow.org/?item=8920
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Crusader Strike III
+Classes: Paladin
+Requires Level 34
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8915
+URL: https://database.turtle-wow.org/?item=8915
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Strike IV
+Classes: Paladin
+Requires Level 24
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8916
+URL: https://database.turtle-wow.org/?item=8916
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Fist of Justice II
+Classes: Paladin
+Requires Level 26
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8922
+URL: https://database.turtle-wow.org/?item=8922
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Strike VI
+Classes: Paladin
+Requires Level 40
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8921
+URL: https://database.turtle-wow.org/?item=8921
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Fist of Justice III
+Classes: Paladin
+Requires Level 40
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8930
+URL: https://database.turtle-wow.org/?item=8930
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Righteousness IV
+Classes: Paladin
+Requires Level 46
+Use:
+Teaches Seal of Righteousness (Rank 3).
+
+
+Item #8933
+URL: https://database.turtle-wow.org/?item=8933
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Light VII
+Classes: Paladin
+Requires Level 46
+Use:
+Teaches Holy Light (Rank 6).
+
+
+Item #8929
+URL: https://database.turtle-wow.org/?item=8929
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Exorcism IV
+Classes: Paladin
+Requires Level 44
+Use:
+Teaches Exorcism (Rank 3).
+
+
+Item #8931
+URL: https://database.turtle-wow.org/?item=8931
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Crusader Strike IV
+Classes: Paladin
+Requires Level 46
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8934
+URL: https://database.turtle-wow.org/?item=8934
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Strike VII
+Classes: Paladin
+Requires Level 48
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8938
+URL: https://database.turtle-wow.org/?item=8938
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Turn Undead III
+Classes: Paladin
+Requires Level 52
+Use:
+Teaches Turn Undead (Rank 2).
+
+
+Item #8940
+URL: https://database.turtle-wow.org/?item=8940
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Fist of Justice IV
+Classes: Paladin
+Requires Level 54
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8939
+URL: https://database.turtle-wow.org/?item=8939
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Exorcism V
+Classes: Paladin
+Requires Level 52
+Use:
+Teaches Exorcism (Rank 3).
+
+
+Item #8942
+URL: https://database.turtle-wow.org/?item=8942
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Righteousness V
+Classes: Paladin
+Requires Level 56
+Use:
+Teaches Seal of Righteousness (Rank 3).
+
+
+Item #8935
+URL: https://database.turtle-wow.org/?item=8935
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Judgement II
+Classes: Paladin
+Requires Level 50
+Use:
+Teaches Judgement.
+
+
+Item #8943
+URL: https://database.turtle-wow.org/?item=8943
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Strike VIII
+Classes: Paladin
+Requires Level 56
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8944
+URL: https://database.turtle-wow.org/?item=8944
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Crusader Strike V
+Classes: Paladin
+Requires Level 58
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8941
+URL: https://database.turtle-wow.org/?item=8941
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Light VIII
+Classes: Paladin
+Requires Level 54
+Use:
+Teaches Holy Light (Rank 6).
+
+
+Item #8936
+URL: https://database.turtle-wow.org/?item=8936
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Wrath III
+Classes: Paladin
+Requires Level 50
+Use:
+Teaches Seal of Reckoning (Rank 2).
+
+
+Item #8937
+URL: https://database.turtle-wow.org/?item=8937
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Lay on Hands III
+Classes: Paladin
+Requires Level 50
+Use:
+Teaches Holy Light (Rank 2).
+
+
+Item #8954
+URL: https://database.turtle-wow.org/?item=8954
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Fortitude
+Classes: Priest
+Use:
+Teaches Holy Word: Fortitude (Rank 2).
+
+
+Item #8945
+URL: https://database.turtle-wow.org/?item=8945
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Judgement III
+Classes: Paladin
+Requires Level 60
+Use:
+Teaches Judgement.
+
+
+Item #8961
+URL: https://database.turtle-wow.org/?item=8961
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Psychic Scream
+Classes: Priest
+Requires Level 14
+Use:
+Teaches Renew (Rank 2).
+
+
+Item #8958
+URL: https://database.turtle-wow.org/?item=8958
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast
+Classes: Priest
+Requires Level 10
+Use:
+Teaches Mind Rot.
+
+
+Item #8964
+URL: https://database.turtle-wow.org/?item=8964
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Flash Heal
+Classes: Priest
+Requires Level 20
+Use:
+Teaches Inner Fire (Rank 2).
+
+
+Item #8955
+URL: https://database.turtle-wow.org/?item=8955
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Fade
+Classes: Priest
+Requires Level 8
+Use:
+Teaches Renew (Rank 1).
+
+
+Item #8963
+URL: https://database.turtle-wow.org/?item=8963
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Soothe
+Classes: Priest
+Requires Level 20
+Use:
+Teaches Inner Fire (Rank 2).
+
+
+Item #8960
+URL: https://database.turtle-wow.org/?item=8960
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Cure Disease
+Classes: Priest
+Requires Level 14
+Use:
+Teaches Renew (Rank 2).
+
+
+Item #8962
+URL: https://database.turtle-wow.org/?item=8962
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast II
+Classes: Priest
+Requires Level 16
+Use:
+Teaches Mind Rot.
+
+
+Item #8969
+URL: https://database.turtle-wow.org/?item=8969
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Flash Heal II
+Classes: Priest
+Requires Level 26
+Use:
+Teaches Renew (Rank 4).
+
+
+Item #8972
+URL: https://database.turtle-wow.org/?item=8972
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast IV
+Classes: Priest
+Requires Level 28
+Use:
+Teaches Heal (Rank 3).
+
+
+Item #8965
+URL: https://database.turtle-wow.org/?item=8965
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Fade II
+Classes: Priest
+Requires Level 20
+Use:
+Teaches Inner Fire (Rank 2).
+
+
+Item #8971
+URL: https://database.turtle-wow.org/?item=8971
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Psychic Scream II
+Classes: Priest
+Requires Level 28
+Use:
+Teaches Heal (Rank 3).
+
+
+Item #8967
+URL: https://database.turtle-wow.org/?item=8967
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast III
+Classes: Priest
+Requires Level 22
+Use:
+Teaches Mind Vision (Rank 1).
+
+
+Item #8966
+URL: https://database.turtle-wow.org/?item=8966
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shackle Undead
+Classes: Priest
+Requires Level 20
+Use:
+Teaches Inner Fire (Rank 2).
+
+
+Item #8974
+URL: https://database.turtle-wow.org/?item=8974
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Control
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #8968
+URL: https://database.turtle-wow.org/?item=8968
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mana Burn
+Classes: Priest
+Requires Level 24
+Use:
+Teaches Holy Word: Shield (Rank 4).
+
+
+Item #8980
+URL: https://database.turtle-wow.org/?item=8980
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast V
+Classes: Priest
+Requires Level 34
+Use:
+Teaches Heal (Rank 4).
+
+
+Item #8983
+URL: https://database.turtle-wow.org/?item=8983
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Flash Heal IV
+Classes: Priest
+Requires Level 38
+Use:
+Teaches Holy Smite (Rank 6).
+
+
+Item #8981
+URL: https://database.turtle-wow.org/?item=8981
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Soothe II
+Classes: Priest
+Requires Level 36
+Use:
+Teaches Holy Word: Fortitude (Rank 4).
+
+
+Item #8978
+URL: https://database.turtle-wow.org/?item=8978
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Flash Heal III
+Classes: Priest
+Requires Level 32
+Use:
+Teaches Renew (Rank 5).
+
+
+Item #8976
+URL: https://database.turtle-wow.org/?item=8976
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Abolish Disease
+Classes: Priest
+Requires Level 32
+Use:
+Teaches Renew (Rank 2).
+
+
+Item #8977
+URL: https://database.turtle-wow.org/?item=8977
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mana Burn II
+Classes: Priest
+Requires Level 32
+Use:
+Teaches Renew (Rank 5).
+
+
+Item #8990
+URL: https://database.turtle-wow.org/?item=8990
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast VI
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #8989
+URL: https://database.turtle-wow.org/?item=8989
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Fade IV
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #8994
+URL: https://database.turtle-wow.org/?item=8994
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Pain VI
+Classes: Priest
+Requires Level 42
+Use:
+Teaches Heal (Rank 3).
+
+
+Item #8986
+URL: https://database.turtle-wow.org/?item=8986
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shackle Undead II
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #8991
+URL: https://database.turtle-wow.org/?item=8991
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Inner Fire IV
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #8992
+URL: https://database.turtle-wow.org/?item=8992
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Psychic Scream III
+Classes: Priest
+Requires Level 42
+Use:
+Teaches Heal (Rank 3).
+
+
+Item #8988
+URL: https://database.turtle-wow.org/?item=8988
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mana Burn III
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #8987
+URL: https://database.turtle-wow.org/?item=8987
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Protection II
+Classes: Priest
+Requires Level 40
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #8993
+URL: https://database.turtle-wow.org/?item=8993
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Protection II
+Classes: Priest
+Requires Level 42
+Use:
+Teaches Heal (Rank 3).
+
+
+Item #9000
+URL: https://database.turtle-wow.org/?item=9000
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew VII
+Classes: Priest
+Requires Level 44
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #8999
+URL: https://database.turtle-wow.org/?item=8999
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Flash Heal V
+Classes: Priest
+Requires Level 44
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9003
+URL: https://database.turtle-wow.org/?item=9003
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Smite VII
+Classes: Priest
+Requires Level 46
+Use:
+Teaches Greater Heal.
+
+
+Item #8996
+URL: https://database.turtle-wow.org/?item=8996
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Resurrection III
+Classes: Priest
+Requires Level 42
+Use:
+Teaches Heal (Rank 3).
+
+
+Item #9001
+URL: https://database.turtle-wow.org/?item=9001
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Greater Heal II
+Classes: Priest
+Requires Level 46
+Use:
+Teaches Greater Heal.
+
+
+Item #8998
+URL: https://database.turtle-wow.org/?item=8998
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Vision II
+Classes: Priest
+Requires Level 44
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9004
+URL: https://database.turtle-wow.org/?item=9004
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Fortitude V
+Classes: Priest
+Requires Level 48
+Use:
+Teaches Holy Word: Fortitude (Rank 4).
+
+
+Item #8997
+URL: https://database.turtle-wow.org/?item=8997
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Control II
+Classes: Priest
+Requires Level 44
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9002
+URL: https://database.turtle-wow.org/?item=9002
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast VII
+Classes: Priest
+Requires Level 46
+Use:
+Teaches Greater Heal.
+
+
+Item #8995
+URL: https://database.turtle-wow.org/?item=8995
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield VII
+Classes: Priest
+Requires Level 42
+Use:
+Teaches Heal (Rank 3).
+
+
+Item #9014
+URL: https://database.turtle-wow.org/?item=9014
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Soothe III
+Classes: Priest
+Requires Level 52
+Use:
+Teaches Greater Heal.
+
+
+Item #9008
+URL: https://database.turtle-wow.org/?item=9008
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Prayer of Healing III
+Classes: Priest
+Requires Level 50
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9011
+URL: https://database.turtle-wow.org/?item=9011
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Pain VII
+Classes: Priest
+Requires Level 50
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9013
+URL: https://database.turtle-wow.org/?item=9013
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Greater Heal III
+Classes: Priest
+Requires Level 52
+Use:
+Teaches Greater Heal.
+
+
+Item #9009
+URL: https://database.turtle-wow.org/?item=9009
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Inner Fire V
+Classes: Priest
+Requires Level 50
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9005
+URL: https://database.turtle-wow.org/?item=9005
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mana Burn IV
+Classes: Priest
+Requires Level 48
+Use:
+Teaches Holy Word: Fortitude (Rank 4).
+
+
+Item #9012
+URL: https://database.turtle-wow.org/?item=9012
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew VIII
+Classes: Priest
+Requires Level 50
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9007
+URL: https://database.turtle-wow.org/?item=9007
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Fade V
+Classes: Priest
+Requires Level 50
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9006
+URL: https://database.turtle-wow.org/?item=9006
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield VIII
+Classes: Priest
+Requires Level 48
+Use:
+Teaches Holy Word: Fortitude (Rank 4).
+
+
+Item #9010
+URL: https://database.turtle-wow.org/?item=9010
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Flash Heal VI
+Classes: Priest
+Requires Level 50
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9018
+URL: https://database.turtle-wow.org/?item=9018
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield IX
+Classes: Priest
+Requires Level 54
+Use:
+Teaches Greater Heal.
+
+
+Item #9021
+URL: https://database.turtle-wow.org/?item=9021
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mana Burn V
+Classes: Priest
+Requires Level 56
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9017
+URL: https://database.turtle-wow.org/?item=9017
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Protection III
+Classes: Priest
+Requires Level 54
+Use:
+Teaches Greater Heal.
+
+
+Item #9023
+URL: https://database.turtle-wow.org/?item=9023
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Protection III
+Classes: Priest
+Requires Level 56
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9020
+URL: https://database.turtle-wow.org/?item=9020
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Psychic Scream IV
+Classes: Priest
+Requires Level 56
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9015
+URL: https://database.turtle-wow.org/?item=9015
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast VIII
+Classes: Priest
+Requires Level 52
+Use:
+Teaches Greater Heal.
+
+
+Item #9024
+URL: https://database.turtle-wow.org/?item=9024
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Control III
+Classes: Priest
+Requires Level 58
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9019
+URL: https://database.turtle-wow.org/?item=9019
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew IX
+Classes: Priest
+Requires Level 56
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9022
+URL: https://database.turtle-wow.org/?item=9022
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Flash Heal VII
+Classes: Priest
+Requires Level 56
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9032
+URL: https://database.turtle-wow.org/?item=9032
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Prayer of Healing IV
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9026
+URL: https://database.turtle-wow.org/?item=9026
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Resurrection IV
+Classes: Priest
+Requires Level 58
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9034
+URL: https://database.turtle-wow.org/?item=9034
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Fortitude VI
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9025
+URL: https://database.turtle-wow.org/?item=9025
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Greater Heal IV
+Classes: Priest
+Requires Level 58
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9033
+URL: https://database.turtle-wow.org/?item=9033
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Inner Fire VI
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9029
+URL: https://database.turtle-wow.org/?item=9029
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Fade VI
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9028
+URL: https://database.turtle-wow.org/?item=9028
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shadow Word: Pain VIII
+Classes: Priest
+Requires Level 58
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9031
+URL: https://database.turtle-wow.org/?item=9031
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Shackle Undead III
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9040
+URL: https://database.turtle-wow.org/?item=9040
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave II
+Classes: Shaman
+Requires Level 6
+Use:
+Teaches Molten Blast (Rank 1).
+
+
+Item #9037
+URL: https://database.turtle-wow.org/?item=9037
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Rockbiter Weapon
+Classes: Shaman
+Use:
+Teaches Lightning Bolt (Rank 2).
+
+
+Item #9035
+URL: https://database.turtle-wow.org/?item=9035
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Word: Shield X
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Healing (Rank 2).
+
+
+Item #9044
+URL: https://database.turtle-wow.org/?item=9044
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Earth Shock II
+Classes: Shaman
+Requires Level 8
+Use:
+Teaches Lightning Shield (Rank 1).
+
+
+Item #9041
+URL: https://database.turtle-wow.org/?item=9041
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Earthbind Totem
+Classes: Shaman
+Requires Level 6
+Use:
+Teaches Earthbind Totem.
+
+
+Item #9039
+URL: https://database.turtle-wow.org/?item=9039
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Earth Shock
+Classes: Shaman
+Requires Level 4
+Use:
+Teaches Serpent Totem (Rank 1).
+
+
+Item #9043
+URL: https://database.turtle-wow.org/?item=9043
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneclaw Totem
+Classes: Shaman
+Requires Level 8
+Use:
+Teaches Agitating Totem (Rank 1).
+
+
+Item #9047
+URL: https://database.turtle-wow.org/?item=9047
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flame Shock
+Classes: Shaman
+Requires Level 10
+Use:
+Teaches Serpent Totem (Rank 1).
+
+
+Item #9049
+URL: https://database.turtle-wow.org/?item=9049
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Nova Totem
+Classes: Shaman
+Requires Level 12
+Use:
+Teaches Molten Blast (Rank 2).
+
+
+Item #9050
+URL: https://database.turtle-wow.org/?item=9050
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave III
+Classes: Shaman
+Requires Level 12
+Use:
+Teaches Purge.
+
+
+Item #9046
+URL: https://database.turtle-wow.org/?item=9046
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Strength of Earth Totem
+Classes: Shaman
+Requires Level 10
+Use:
+Teaches Serpent Totem (Rank 1).
+
+
+Item #9051
+URL: https://database.turtle-wow.org/?item=9051
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Earth Shock III
+Classes: Shaman
+Requires Level 14
+Use:
+Teaches Molten Blast (Rank 2).
+
+
+Item #9053
+URL: https://database.turtle-wow.org/?item=9053
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Rockbiter Weapon II
+Classes: Shaman
+Requires Level 16
+Use:
+Teaches Lightning Bolt (Rank 2).
+
+
+Item #9054
+URL: https://database.turtle-wow.org/?item=9054
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flame Shock II
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #9048
+URL: https://database.turtle-wow.org/?item=9048
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Rebirth
+Classes: Shaman
+Requires Level 12
+Use:
+Teaches Purge.
+
+
+Item #9052
+URL: https://database.turtle-wow.org/?item=9052
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneskin Totem II
+Classes: Shaman
+Requires Level 14
+Use:
+Teaches Molten Blast (Rank 2).
+
+
+Item #9063
+URL: https://database.turtle-wow.org/?item=9063
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Poison Cleansing Totem
+Classes: Shaman
+Requires Level 22
+Use:
+Teaches Molten Blast (Rank 3).
+
+
+Item #9057
+URL: https://database.turtle-wow.org/?item=9057
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frostbrand Weapon
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Water Breathing.
+
+
+Item #9058
+URL: https://database.turtle-wow.org/?item=9058
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frost Shock
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Water Breathing.
+
+
+Item #9064
+URL: https://database.turtle-wow.org/?item=9064
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flametongue Weapon II
+Classes: Shaman
+Requires Level 22
+Use:
+Teaches Molten Blast (Rank 3).
+
+
+Item #9059
+URL: https://database.turtle-wow.org/?item=9059
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flametongue Weapon
+Classes: Shaman
+Requires Level 10
+Use:
+Teaches Serpent Totem (Rank 1).
+
+
+Item #9055
+URL: https://database.turtle-wow.org/?item=9055
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneclaw Totem II
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #9056
+URL: https://database.turtle-wow.org/?item=9056
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave IV
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #9062
+URL: https://database.turtle-wow.org/?item=9062
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Cure Disease
+Classes: Shaman
+Requires Level 22
+Use:
+Teaches Molten Blast (Rank 3).
+
+
+Item #9073
+URL: https://database.turtle-wow.org/?item=9073
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Windfury Weapon
+Classes: Shaman
+Requires Level 26
+Use:
+Teaches Lightning Bolt (Rank 4).
+
+
+Item #9071
+URL: https://database.turtle-wow.org/?item=9071
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Mana Font Totem
+Classes: Shaman
+Requires Level 26
+Use:
+Teaches Lightning Bolt (Rank 4).
+
+
+Item #9068
+URL: https://database.turtle-wow.org/?item=9068
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneskin Totem III
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Lightning Shield (Rank 3).
+
+
+Item #9067
+URL: https://database.turtle-wow.org/?item=9067
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Strength of Earth Totem II
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Lightning Shield (Rank 3).
+
+
+Item #9072
+URL: https://database.turtle-wow.org/?item=9072
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flametongue Totem
+Classes: Shaman
+Requires Level 26
+Use:
+Teaches Lightning Bolt (Rank 4).
+
+
+Item #9065
+URL: https://database.turtle-wow.org/?item=9065
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Nova Totem II
+Classes: Shaman
+Requires Level 22
+Use:
+Teaches Molten Blast (Rank 3).
+
+
+Item #9069
+URL: https://database.turtle-wow.org/?item=9069
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Earth Shock IV
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Lightning Shield (Rank 3).
+
+
+Item #9066
+URL: https://database.turtle-wow.org/?item=9066
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frost Resistance Totem
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Lightning Shield (Rank 3).
+
+
+Item #9070
+URL: https://database.turtle-wow.org/?item=9070
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave V
+Classes: Shaman
+Requires Level 24
+Use:
+Teaches Lightning Shield (Rank 3).
+
+
+Item #9077
+URL: https://database.turtle-wow.org/?item=9077
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneclaw Totem III
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #9082
+URL: https://database.turtle-wow.org/?item=9082
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Rockbiter Weapon III
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9081
+URL: https://database.turtle-wow.org/?item=9081
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Stream Totem II
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9083
+URL: https://database.turtle-wow.org/?item=9083
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Searing Totem III
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9078
+URL: https://database.turtle-wow.org/?item=9078
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Grounding Totem
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9075
+URL: https://database.turtle-wow.org/?item=9075
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Resistance Totem
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #9084
+URL: https://database.turtle-wow.org/?item=9084
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Windfury Totem
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Chain Lightning (Rank 1).
+
+
+Item #9076
+URL: https://database.turtle-wow.org/?item=9076
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Magma Totem
+Classes: Shaman
+Requires Level 18
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #9080
+URL: https://database.turtle-wow.org/?item=9080
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Nature Resistance Totem
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9079
+URL: https://database.turtle-wow.org/?item=9079
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shock
+Classes: Shaman
+Requires Level 30
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9093
+URL: https://database.turtle-wow.org/?item=9093
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Mana Font Totem II
+Classes: Shaman
+Requires Level 36
+Use:
+Teaches Lightning Bolt (Rank 4).
+
+
+Item #9087
+URL: https://database.turtle-wow.org/?item=9087
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Purge II
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Chain Lightning (Rank 1).
+
+
+Item #9090
+URL: https://database.turtle-wow.org/?item=9090
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frostbrand Weapon II
+Classes: Shaman
+Requires Level 34
+Use:
+Teaches Water Breathing.
+
+
+Item #9089
+URL: https://database.turtle-wow.org/?item=9089
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frost Shock II
+Classes: Shaman
+Requires Level 34
+Use:
+Teaches Water Breathing.
+
+
+Item #9085
+URL: https://database.turtle-wow.org/?item=9085
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Nova Totem III
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Chain Lightning (Rank 1).
+
+
+Item #9092
+URL: https://database.turtle-wow.org/?item=9092
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Sentry Totem
+Classes: Shaman
+Requires Level 34
+Use:
+Teaches Water Breathing.
+
+
+Item #9094
+URL: https://database.turtle-wow.org/?item=9094
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flametongue Weapon III
+Classes: Shaman
+Requires Level 36
+Use:
+Teaches Lightning Bolt (Rank 4).
+
+
+Item #9086
+URL: https://database.turtle-wow.org/?item=9086
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave VI
+Classes: Shaman
+Requires Level 32
+Use:
+Teaches Chain Lightning (Rank 1).
+
+
+Item #9091
+URL: https://database.turtle-wow.org/?item=9091
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneskin Totem IV
+Classes: Shaman
+Requires Level 34
+Use:
+Teaches Water Breathing.
+
+
+Item #9095
+URL: https://database.turtle-wow.org/?item=9095
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Earth Shock V
+Classes: Shaman
+Requires Level 36
+Use:
+Teaches Lightning Bolt (Rank 4).
+
+
+Item #9104
+URL: https://database.turtle-wow.org/?item=9104
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Searing Totem IV
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9101
+URL: https://database.turtle-wow.org/?item=9101
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Windfury Weapon II
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9102
+URL: https://database.turtle-wow.org/?item=9102
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Chain Lightning II
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9097
+URL: https://database.turtle-wow.org/?item=9097
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Magma Totem II
+Classes: Shaman
+Requires Level 38
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9100
+URL: https://database.turtle-wow.org/?item=9100
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shield V
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9098
+URL: https://database.turtle-wow.org/?item=9098
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Strength of Earth Totem III
+Classes: Shaman
+Requires Level 38
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9096
+URL: https://database.turtle-wow.org/?item=9096
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Disease Cleansing Totem
+Classes: Shaman
+Requires Level 38
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9099
+URL: https://database.turtle-wow.org/?item=9099
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneclaw Totem IV
+Classes: Shaman
+Requires Level 38
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9103
+URL: https://database.turtle-wow.org/?item=9103
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Stream Totem III
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9105
+URL: https://database.turtle-wow.org/?item=9105
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave VII
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9124
+URL: https://database.turtle-wow.org/?item=9124
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shock II
+Classes: Shaman
+Requires Level 42
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9123
+URL: https://database.turtle-wow.org/?item=9123
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Bolt VI
+Classes: Shaman
+Requires Level 42
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9125
+URL: https://database.turtle-wow.org/?item=9125
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Grace of Air Totem
+Classes: Shaman
+Requires Level 42
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9132
+URL: https://database.turtle-wow.org/?item=9132
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Molten Blast VI
+Classes: Shaman
+Requires Level 46
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9131
+URL: https://database.turtle-wow.org/?item=9131
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneskin Totem V
+Classes: Shaman
+Requires Level 44
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9128
+URL: https://database.turtle-wow.org/?item=9128
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Nova Totem IV
+Classes: Shaman
+Requires Level 42
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9134
+URL: https://database.turtle-wow.org/?item=9134
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Windfury Totem II
+Classes: Shaman
+Requires Level 46
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9127
+URL: https://database.turtle-wow.org/?item=9127
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Resistance Totem II
+Classes: Shaman
+Requires Level 42
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9126
+URL: https://database.turtle-wow.org/?item=9126
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flametongue Totem II
+Classes: Shaman
+Requires Level 42
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9130
+URL: https://database.turtle-wow.org/?item=9130
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Nature Resistance Totem II
+Classes: Shaman
+Requires Level 44
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9129
+URL: https://database.turtle-wow.org/?item=9129
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Rockbiter Weapon IV
+Classes: Shaman
+Requires Level 44
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9139
+URL: https://database.turtle-wow.org/?item=9139
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frostbrand Weapon III
+Classes: Shaman
+Requires Level 48
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9143
+URL: https://database.turtle-wow.org/?item=9143
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave VIII
+Classes: Shaman
+Requires Level 48
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9137
+URL: https://database.turtle-wow.org/?item=9137
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shield VI
+Classes: Shaman
+Requires Level 48
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9140
+URL: https://database.turtle-wow.org/?item=9140
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Chain Lightning III
+Classes: Shaman
+Requires Level 48
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9141
+URL: https://database.turtle-wow.org/?item=9141
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneclaw Totem V
+Classes: Shaman
+Requires Level 48
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9138
+URL: https://database.turtle-wow.org/?item=9138
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Magma Totem III
+Classes: Shaman
+Requires Level 48
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9142
+URL: https://database.turtle-wow.org/?item=9142
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Earth Shock VI
+Classes: Shaman
+Requires Level 48
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9136
+URL: https://database.turtle-wow.org/?item=9136
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Mana Font Totem III
+Classes: Shaman
+Requires Level 46
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9135
+URL: https://database.turtle-wow.org/?item=9135
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frost Shock III
+Classes: Shaman
+Requires Level 46
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9150
+URL: https://database.turtle-wow.org/?item=9150
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Strength of Earth Totem IV
+Classes: Shaman
+Requires Level 52
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9148
+URL: https://database.turtle-wow.org/?item=9148
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flametongue Weapon IV
+Classes: Shaman
+Requires Level 50
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9147
+URL: https://database.turtle-wow.org/?item=9147
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Stream Totem IV
+Classes: Shaman
+Requires Level 50
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9145
+URL: https://database.turtle-wow.org/?item=9145
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Bolt VII
+Classes: Shaman
+Requires Level 50
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9146
+URL: https://database.turtle-wow.org/?item=9146
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Searing Totem V
+Classes: Shaman
+Requires Level 50
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9151
+URL: https://database.turtle-wow.org/?item=9151
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flame Shock V
+Classes: Shaman
+Requires Level 52
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9152
+URL: https://database.turtle-wow.org/?item=9152
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Nova Totem V
+Classes: Shaman
+Requires Level 52
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9157
+URL: https://database.turtle-wow.org/?item=9157
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Chain Heal III
+Classes: Shaman
+Requires Level 54
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9161
+URL: https://database.turtle-wow.org/?item=9161
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneskin Totem VI
+Classes: Shaman
+Requires Level 54
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9160
+URL: https://database.turtle-wow.org/?item=9160
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Windfury Weapon III
+Classes: Shaman
+Requires Level 54
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9156
+URL: https://database.turtle-wow.org/?item=9156
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Molten Blast VII
+Classes: Shaman
+Requires Level 54
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9158
+URL: https://database.turtle-wow.org/?item=9158
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frost Resistance Totem III
+Classes: Shaman
+Requires Level 54
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9162
+URL: https://database.turtle-wow.org/?item=9162
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shield VII
+Classes: Shaman
+Requires Level 56
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9159
+URL: https://database.turtle-wow.org/?item=9159
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Shock III
+Classes: Shaman
+Requires Level 54
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9164
+URL: https://database.turtle-wow.org/?item=9164
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Grace of Air Totem II
+Classes: Shaman
+Requires Level 56
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9171
+URL: https://database.turtle-wow.org/?item=9171
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Magma Totem IV
+Classes: Shaman
+Requires Level 58
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9167
+URL: https://database.turtle-wow.org/?item=9167
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Chain Lightning IV
+Classes: Shaman
+Requires Level 56
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9169
+URL: https://database.turtle-wow.org/?item=9169
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Lightning Bolt VIII
+Classes: Shaman
+Requires Level 58
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9170
+URL: https://database.turtle-wow.org/?item=9170
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Fire Resistance Totem III
+Classes: Shaman
+Requires Level 58
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9174
+URL: https://database.turtle-wow.org/?item=9174
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frost Shock IV
+Classes: Shaman
+Requires Level 58
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9168
+URL: https://database.turtle-wow.org/?item=9168
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave IX
+Classes: Shaman
+Requires Level 56
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9165
+URL: https://database.turtle-wow.org/?item=9165
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flametongue Totem III
+Classes: Shaman
+Requires Level 56
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9166
+URL: https://database.turtle-wow.org/?item=9166
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Mana Font Totem IV
+Classes: Shaman
+Requires Level 56
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9182
+URL: https://database.turtle-wow.org/?item=9182
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Searing Totem VI
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9176
+URL: https://database.turtle-wow.org/?item=9176
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Stoneclaw Totem VI
+Classes: Shaman
+Requires Level 58
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9178
+URL: https://database.turtle-wow.org/?item=9178
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Nature Resistance Totem III
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9184
+URL: https://database.turtle-wow.org/?item=9184
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flame Shock IV
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #9181
+URL: https://database.turtle-wow.org/?item=9181
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Stream Totem V
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9177
+URL: https://database.turtle-wow.org/?item=9177
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Earth Shock VII
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9175
+URL: https://database.turtle-wow.org/?item=9175
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Rockbiter Weapon V
+Classes: Shaman
+Requires Level 58
+Use:
+Teaches Lightning Bolt (Rank 5).
+
+
+Item #9183
+URL: https://database.turtle-wow.org/?item=9183
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Chain Heal
+Classes: Shaman
+Requires Level 40
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9180
+URL: https://database.turtle-wow.org/?item=9180
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Windfury Totem III
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Lightning Shield (Rank 4).
+
+
+Item #9192
+URL: https://database.turtle-wow.org/?item=9192
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Corruption
+Classes: Warlock
+Requires Level 4
+Use:
+Teaches Corruption (Rank 1).
+
+
+Item #9188
+URL: https://database.turtle-wow.org/?item=9188
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Searing Totem II
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Molten Blast (Rank 4).
+
+
+Item #9190
+URL: https://database.turtle-wow.org/?item=9190
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Immolate
+Classes: Warlock
+Use:
+Teaches Immolate (Rank 2).
+
+
+Item #9185
+URL: https://database.turtle-wow.org/?item=9185
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Frost Resistance Totem II
+Classes: Shaman
+Requires Level 38
+Use:
+Teaches Lightning Shield (Rank 3).
+
+
+Item #9194
+URL: https://database.turtle-wow.org/?item=9194
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Agony
+Classes: Warlock
+Requires Level 8
+Use:
+Teaches Curse of Agony (Rank 1).
+
+
+Item #9193
+URL: https://database.turtle-wow.org/?item=9193
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Life Tap
+Classes: Warlock
+Requires Level 6
+Use:
+Teaches Shadow Bolt (Rank 2).
+
+
+Item #9191
+URL: https://database.turtle-wow.org/?item=9191
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Weakness
+Classes: Warlock
+Requires Level 4
+Use:
+Teaches Curse of Tongues (Rank 1).
+
+
+Item #9199
+URL: https://database.turtle-wow.org/?item=9199
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Recklessness
+Classes: Warlock
+Requires Level 12
+Use:
+Teaches Health Funnel (Rank 1).
+
+
+Item #9200
+URL: https://database.turtle-wow.org/?item=9200
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Weakness II
+Classes: Warlock
+Requires Level 14
+Use:
+Teaches Drain Life (Rank 1).
+
+
+Item #9204
+URL: https://database.turtle-wow.org/?item=9204
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Health Funnel II
+Classes: Warlock
+Requires Level 20
+Use:
+Teaches Rain of Fire (Rank 1).
+
+
+Item #9201
+URL: https://database.turtle-wow.org/?item=9201
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Corruption II
+Classes: Warlock
+Requires Level 16
+Use:
+Teaches Corruption (Rank 2).
+
+
+Item #9202
+URL: https://database.turtle-wow.org/?item=9202
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Life Tap II
+Classes: Warlock
+Requires Level 18
+Use:
+Teaches Create Soulstone.
+
+
+Item #9203
+URL: https://database.turtle-wow.org/?item=9203
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Ritual of Summoning
+Classes: Warlock
+Requires Level 20
+Use:
+Teaches Rain of Fire (Rank 1).
+
+
+Item #9198
+URL: https://database.turtle-wow.org/?item=9198
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Health Funnel
+Classes: Warlock
+Requires Level 12
+Use:
+Teaches Health Funnel (Rank 1).
+
+
+Item #9195
+URL: https://database.turtle-wow.org/?item=9195
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Drain Soul
+Classes: Warlock
+Requires Level 10
+Use:
+Teaches Fear (Rank 1).
+
+
+Item #9214
+URL: https://database.turtle-wow.org/?item=9214
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Inferno
+Binds when picked up
+Classes: Warlock
+Requires Level 50
+Use:
+Teaches Inferno.
+
+
+Item #9211
+URL: https://database.turtle-wow.org/?item=9211
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Recklessness II
+Classes: Warlock
+Requires Level 26
+Use:
+Teaches Drain Mana (Rank 1).
+
+
+Item #9208
+URL: https://database.turtle-wow.org/?item=9208
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Drain Soul II
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Fear (Rank 2).
+
+
+nk 1).
+
+
+Item #9207
+URL: https://database.turtle-wow.org/?item=9207
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Create Bloodstone II
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Fear (Rank 2).
+
+
+Item #9209
+URL: https://database.turtle-wow.org/?item=9209
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Weakness III
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Fear (Rank 2).
+
+
+Item #9212
+URL: https://database.turtle-wow.org/?item=9212
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Shadow Bolt V
+Classes: Warlock
+Requires Level 28
+Use:
+Teaches Shadow Bolt (Rank 4).
+
+
+Item #9217
+URL: https://database.turtle-wow.org/?item=9217
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Life Tap III
+Classes: Warlock
+Requires Level 30
+Use:
+Teaches Drain Life (Rank 3).
+
+
+Item #9218
+URL: https://database.turtle-wow.org/?item=9218
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Enslave Demon
+Classes: Warlock
+Requires Level 30
+Use:
+Teaches Drain Life (Rank 3).
+
+
+Item #9216
+URL: https://database.turtle-wow.org/?item=9216
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Corruption III
+Classes: Warlock
+Requires Level 28
+Use:
+Teaches Corruption (Rank 3).
+
+
+Item #9215
+URL: https://database.turtle-wow.org/?item=9215
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Health Funnel III
+Classes: Warlock
+Requires Level 28
+Use:
+Teaches Shadow Bolt (Rank 4).
+
+
+Item #9221
+URL: https://database.turtle-wow.org/?item=9221
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Agony III
+Classes: Warlock
+Requires Level 32
+Use:
+Teaches Rain of Fire (Rank 1).
+
+
+Item #9223
+URL: https://database.turtle-wow.org/?item=9223
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Weakness IV
+Classes: Warlock
+Requires Level 34
+Use:
+Teaches Demon Armor (Rank 4).
+
+
+Item #9219
+URL: https://database.turtle-wow.org/?item=9219
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Hellfire
+Classes: Warlock
+Requires Level 30
+Use:
+Teaches Drain Life (Rank 3).
+
+
+Item #9222
+URL: https://database.turtle-wow.org/?item=9222
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of the Elements
+Classes: Warlock
+Requires Level 32
+Use:
+Teaches Rain of Fire (Rank 1).
+
+
+Item #9231
+URL: https://database.turtle-wow.org/?item=9231
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Corruption IV
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Rain of Fire (Rank 2).
+
+
+Item #9227
+URL: https://database.turtle-wow.org/?item=9227
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Drain Soul III
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Drain Mana (Rank 2).
+
+
+Item #9228
+URL: https://database.turtle-wow.org/?item=9228
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Create Bloodstone III
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Drain Mana (Rank 2).
+
+
+Item #9225
+URL: https://database.turtle-wow.org/?item=9225
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Shadow Bolt VI
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Shadow Bolt (Rank 4).
+
+
+Item #9230
+URL: https://database.turtle-wow.org/?item=9230
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Recklessness III
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Detect Invisibility.
+
+
+Item #9226
+URL: https://database.turtle-wow.org/?item=9226
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Health Funnel IV
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Shadow Bolt (Rank 4).
+
+
+Item #9229
+URL: https://database.turtle-wow.org/?item=9229
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Life Drain IV
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Drain Mana (Rank 2).
+
+
+Item #11737
+URL: https://database.turtle-wow.org/?item=11737
+Category: Database/Items/Recipes/Books
+Item: 
+Libram of Voracity
+Requires Level 50
+"Dark runes skitter across the surface."
+<Right Click To Read>
+
+
+Item #11734
+URL: https://database.turtle-wow.org/?item=11734
+Category: Database/Items/Recipes/Books
+Item: 
+Libram of Tenacity
+Requires Level 50
+"Dark runes skitter across the surface."
+<Right Click To Read>
+
+
+Item #11732
+URL: https://database.turtle-wow.org/?item=11732
+Category: Database/Items/Recipes/Books
+Item: 
+Libram of Rumination
+Requires Level 50
+"Dark runes skitter across the surface."
+<Right Click To Read>
+
+
+Item #11736
+URL: https://database.turtle-wow.org/?item=11736
+Category: Database/Items/Recipes/Books
+Item: 
+Libram of Resilience
+Requires Level 50
+"Dark runes skitter across the surface."
+<Right Click To Read>
+
+
+Item #11733
+URL: https://database.turtle-wow.org/?item=11733
+Category: Database/Items/Recipes/Books
+Item: 
+Libram of Constitution
+Requires Level 50
+"Dark runes skitter across the surface."
+<Right Click To Read>
+
+
+Item #16302
+URL: https://database.turtle-wow.org/?item=16302
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Firebolt (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 8
+Use:
+Teaches Imp Firebolt (Rank 2).
+
+
+Item #16317
+URL: https://database.turtle-wow.org/?item=16317
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Firebolt (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 28
+Use:
+Teaches Imp Firebolt (Rank 4).
+
+
+Item #16319
+URL: https://database.turtle-wow.org/?item=16319
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Firebolt (Rank 6)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 48
+Use:
+Teaches Imp Firebolt (Rank 6).
+
+
+Item #16320
+URL: https://database.turtle-wow.org/?item=16320
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Firebolt (Rank 7)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 58
+Use:
+Teaches Imp Firebolt (Rank 7).
+
+
+Item #16316
+URL: https://database.turtle-wow.org/?item=16316
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Firebolt (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 18
+Use:
+Teaches Imp Firebolt (Rank 3).
+
+
+Item #16318
+URL: https://database.turtle-wow.org/?item=16318
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Firebolt (Rank 5)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 38
+Use:
+Teaches Imp Firebolt (Rank 5).
+
+
+Item #16328
+URL: https://database.turtle-wow.org/?item=16328
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Fire Shield (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 34
+Use:
+Teaches Imp Fire Shield (Rank 3).
+
+
+Item #16325
+URL: https://database.turtle-wow.org/?item=16325
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Blood Pact (Rank 5)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 50
+Use:
+Teaches Imp Blood Pact (Rank 5).
+
+
+Item #16322
+URL: https://database.turtle-wow.org/?item=16322
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Blood Pact (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 14
+Use:
+Teaches Imp Blood Pact (Rank 2).
+
+
+Item #16326
+URL: https://database.turtle-wow.org/?item=16326
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Fire Shield (Rank 1)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 14
+Use:
+Teaches Imp Fire Shield (Rank 1).
+
+
+Item #16324
+URL: https://database.turtle-wow.org/?item=16324
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Blood Pact (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 38
+Use:
+Teaches Imp Blood Pact (Rank 4).
+
+
+Item #16323
+URL: https://database.turtle-wow.org/?item=16323
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Blood Pact (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 26
+Use:
+Teaches Imp Blood Pact (Rank 3).
+
+
+Item #16321
+URL: https://database.turtle-wow.org/?item=16321
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Blood Pact (Rank 1)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 4
+Use:
+Teaches Imp Blood Pact (Rank 1).
+
+
+Item #16329
+URL: https://database.turtle-wow.org/?item=16329
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Fire Shield (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 44
+Use:
+Teaches Imp Fire Shield (Rank 4).
+
+
+Item #16330
+URL: https://database.turtle-wow.org/?item=16330
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Fire Shield (Rank 5)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 54
+Use:
+Teaches Imp Fire Shield (Rank 5).
+
+
+Item #16327
+URL: https://database.turtle-wow.org/?item=16327
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Fire Shield (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Imp Fire Shield (Rank 2).
+
+
+Item #16331
+URL: https://database.turtle-wow.org/?item=16331
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Phase Shift
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 12
+Use:
+Teaches Imp Phase Shift.
+
+
+Item #16347
+URL: https://database.turtle-wow.org/?item=16347
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Torment (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 30
+Use:
+Teaches Voidwalker Torment (Rank 3).
+
+
+Item #16348
+URL: https://database.turtle-wow.org/?item=16348
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Torment (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Voidwalker Torment (Rank 4).
+
+
+Item #16349
+URL: https://database.turtle-wow.org/?item=16349
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Torment (Rank 5)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 50
+Use:
+Teaches Voidwalker Torment (Rank 5).
+
+
+Item #16346
+URL: https://database.turtle-wow.org/?item=16346
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Torment (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 20
+Use:
+Teaches Voidwalker Torment (Rank 2).
+
+
+Item #16350
+URL: https://database.turtle-wow.org/?item=16350
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Torment (Rank 6)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 60
+Use:
+Teaches Voidwalker Torment (Rank 6).
+
+
+Item #16352
+URL: https://database.turtle-wow.org/?item=16352
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Sacrifice (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Voidwalker Sacrifice (Rank 2).
+
+
+Item #16356
+URL: https://database.turtle-wow.org/?item=16356
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Sacrifice (Rank 6)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 56
+Use:
+Teaches Voidwalker Sacrifice (Rank 6).
+
+
+Item #16354
+URL: https://database.turtle-wow.org/?item=16354
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Sacrifice (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Voidwalker Sacrifice (Rank 4).
+
+
+Item #16355
+URL: https://database.turtle-wow.org/?item=16355
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Sacrifice (Rank 5)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 48
+Use:
+Teaches Voidwalker Sacrifice (Rank 5).
+
+
+Item #16357
+URL: https://database.turtle-wow.org/?item=16357
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Consume Shadows (Rank 1)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 18
+Use:
+Teaches Voidwalker Consume Shadows (Rank 1).
+
+
+Item #16351
+URL: https://database.turtle-wow.org/?item=16351
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Sacrifice (Rank 1)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 16
+Use:
+Teaches Voidwalker Sacrifice (Rank 1).
+
+
+Item #16353
+URL: https://database.turtle-wow.org/?item=16353
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Sacrifice (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 32
+Use:
+Teaches Voidwalker Sacrifice (Rank 3).
+
+
+Item #16360
+URL: https://database.turtle-wow.org/?item=16360
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Consume Shadows (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 42
+Use:
+Teaches Voidwalker Consume Shadows (Rank 4).
+
+
+Item #16359
+URL: https://database.turtle-wow.org/?item=16359
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Consume Shadows (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 34
+Use:
+Teaches Voidwalker Consume Shadows (Rank 3).
+
+
+Item #16358
+URL: https://database.turtle-wow.org/?item=16358
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Consume Shadows (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 26
+Use:
+Teaches Voidwalker Consume Shadows (Rank 2).
+
+
+Item #16362
+URL: https://database.turtle-wow.org/?item=16362
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Consume Shadows (Rank 6)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 58
+Use:
+Teaches Voidwalker Consume Shadows (Rank 6).
+
+
+Item #16363
+URL: https://database.turtle-wow.org/?item=16363
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Suffering (Rank 1)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 24
+Use:
+Teaches Voidwalker Suffering (Rank 1).
+
+
+Item #16361
+URL: https://database.turtle-wow.org/?item=16361
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Consume Shadows (Rank 5)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 50
+Use:
+Teaches Voidwalker Consume Shadows (Rank 5).
+
+
+Item #16365
+URL: https://database.turtle-wow.org/?item=16365
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Suffering (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 48
+Use:
+Teaches Voidwalker Suffering (Rank 3).
+
+
+Item #16368
+URL: https://database.turtle-wow.org/?item=16368
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Lash of Pain (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 28
+Use:
+Teaches Succubus Lash of Pain (Rank 2).
+
+
+Item #16364
+URL: https://database.turtle-wow.org/?item=16364
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Suffering (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Voidwalker Suffering (Rank 2).
+
+
+Item #16377
+URL: https://database.turtle-wow.org/?item=16377
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Soothing Kiss (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 46
+Use:
+Teaches Succubus Soothing Kiss (Rank 3).
+
+
+Item #16380
+URL: https://database.turtle-wow.org/?item=16380
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Lesser Invisibility
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 32
+Use:
+Teaches Succubus Lesser Invisibility.
+
+
+Item #16372
+URL: https://database.turtle-wow.org/?item=16372
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Lash of Pain (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 44
+Use:
+Teaches Succubus Lash of Pain (Rank 4).
+
+
+Item #16376
+URL: https://database.turtle-wow.org/?item=16376
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Soothing Kiss (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 34
+Use:
+Teaches Succubus Soothing Kiss (Rank 2).
+
+
+Item #16375
+URL: https://database.turtle-wow.org/?item=16375
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Soothing Kiss (Rank 1)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 22
+Use:
+Teaches Succubus Soothing Kiss (Rank 1).
+
+
+Item #16374
+URL: https://database.turtle-wow.org/?item=16374
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Lash of Pain (Rank 6)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 60
+Use:
+Teaches Succubus Lash of Pain (Rank 6).
+
+
+Item #16378
+URL: https://database.turtle-wow.org/?item=16378
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Soothing Kiss (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 58
+Use:
+Teaches Succubus Soothing Kiss (Rank 4).
+
+
+Item #16373
+URL: https://database.turtle-wow.org/?item=16373
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Lash of Pain (Rank 5)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 52
+Use:
+Teaches Succubus Lash of Pain (Rank 5).
+
+
+Item #16371
+URL: https://database.turtle-wow.org/?item=16371
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Lash of Pain (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Succubus Lash of Pain (Rank 3).
+
+
+Item #16379
+URL: https://database.turtle-wow.org/?item=16379
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Seduction
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 26
+Use:
+Teaches Succubus Seduction.
+
+
+Item #16389
+URL: https://database.turtle-wow.org/?item=16389
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Spell Lock (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 52
+Use:
+Teaches Felhunter Spell Lock (Rank 2).
+
+
+Item #16383
+URL: https://database.turtle-wow.org/?item=16383
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Devour Magic (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 54
+Use:
+Teaches Felhunter Devour Magic (Rank 4).
+
+
+Item #16390
+URL: https://database.turtle-wow.org/?item=16390
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Paranoia
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 42
+Use:
+Teaches Felhunter Paranoia.
+
+
+Item #16386
+URL: https://database.turtle-wow.org/?item=16386
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Tainted Blood (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 48
+Use:
+Teaches Felhunter Tainted Blood (Rank 3).
+
+
+Item #16387
+URL: https://database.turtle-wow.org/?item=16387
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Tainted Blood (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 56
+Use:
+Teaches Felhunter Tainted Blood (Rank 4).
+
+
+Item #16385
+URL: https://database.turtle-wow.org/?item=16385
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Tainted Blood (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Felhunter Tainted Blood (Rank 2).
+
+
+Item #16384
+URL: https://database.turtle-wow.org/?item=16384
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Tainted Blood (Rank 1)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 32
+Use:
+Teaches Felhunter Tainted Blood (Rank 1).
+
+
+Item #16388
+URL: https://database.turtle-wow.org/?item=16388
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Spell Lock (Rank 1)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Felhunter Spell Lock (Rank 1).
+
+
+Item #16381
+URL: https://database.turtle-wow.org/?item=16381
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Devour Magic (Rank 2)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 38
+Use:
+Teaches Felhunter Devour Magic (Rank 2).
+
+
+Item #16665
+URL: https://database.turtle-wow.org/?item=16665
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Tranquilizing Shot
+Binds when picked up
+Unique
+Classes: Hunter
+Requires Level 60
+
+
+Item #17413
+URL: https://database.turtle-wow.org/?item=17413
+Category: Database/Items/Recipes/Books
+Item: 
+Codex: Prayer of Fortitude
+Classes: Priest
+Requires Level 48
+Use:
+Teaches Prayer of Fortitude (Rank 1).
+
+
+Item #17414
+URL: https://database.turtle-wow.org/?item=17414
+Category: Database/Items/Recipes/Books
+Item: 
+Codex: Prayer of Fortitude II
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Fortitude (Rank 2).
+
+
+Item #17683
+URL: https://database.turtle-wow.org/?item=17683
+Category: Database/Items/Recipes/Books
+Item: 
+Book: Gift of the Wild II
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Gift of the Wild (Rank 2).
+
+
+Item #17682
+URL: https://database.turtle-wow.org/?item=17682
+Category: Database/Items/Recipes/Books
+Item: 
+Book: Gift of the Wild
+Classes: Druid
+Requires Level 50
+Use:
+Teaches Gift of the Wild (Rank 1).
+
+
+Item #18334
+URL: https://database.turtle-wow.org/?item=18334
+Category: Database/Items/Recipes/Books
+Item: 
+Libram of Protection
+Requires Level 50
+"Dark runes skitter across the surface."
+<Right Click To Read>
+
+
+Item #18333
+URL: https://database.turtle-wow.org/?item=18333
+Category: Database/Items/Recipes/Books
+Item: 
+Libram of Focus
+Requires Level 50
+"Dark runes skitter across the surface."
+<Right Click To Read>
+
+
+Item #18332
+URL: https://database.turtle-wow.org/?item=18332
+Category: Database/Items/Recipes/Books
+Item: 
+Libram of Rapidity
+Requires Level 50
+"Dark runes skitter across the surface."
+<Right Click To Read>
+
+
+Item #18600
+URL: https://database.turtle-wow.org/?item=18600
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Brilliance
+Classes: Mage
+Requires Level 56
+Use:
+Teaches Arcane Brilliance (Rank 1).
+
+
+Item #21214
+URL: https://database.turtle-wow.org/?item=21214
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frostbolt XI
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Frostbolt (Rank 11).
+
+
+Item #21280
+URL: https://database.turtle-wow.org/?item=21280
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Arcane Missiles VIII
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Arcane Missiles (Rank 8).
+
+
+Item #21279
+URL: https://database.turtle-wow.org/?item=21279
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Fireball XII
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Fireball (Rank 12).
+
+
+Item #21287
+URL: https://database.turtle-wow.org/?item=21287
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Prayer of Healing V
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Healing (Rank 5).
+
+
+Item #21283
+URL: https://database.turtle-wow.org/?item=21283
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Corruption VII
+Classes: Warlock
+Requires Level 60
+Use:
+Teaches Corruption (Rank 7).
+
+
+Item #21285
+URL: https://database.turtle-wow.org/?item=21285
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew X
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Renew (Rank 10).
+
+
+Item #21281
+URL: https://database.turtle-wow.org/?item=21281
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Shadow Bolt X
+Classes: Warlock
+Requires Level 60
+Use:
+Teaches Shadow Bolt (Rank 10).
+
+
+Item #21282
+URL: https://database.turtle-wow.org/?item=21282
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Immolate VIII
+Classes: Warlock
+Requires Level 60
+Use:
+Teaches Immolate (Rank 8).
+
+
+Item #21288
+URL: https://database.turtle-wow.org/?item=21288
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Blessing of Wisdom VI
+Classes: Paladin
+Requires Level 60
+Use:
+Teaches Blessing of Wisdom (Rank 6).
+
+
+Item #21284
+URL: https://database.turtle-wow.org/?item=21284
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Greater Heal V
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Greater Heal (Rank 5).
+
+
+Item #21289
+URL: https://database.turtle-wow.org/?item=21289
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Blessing of Might VII
+Classes: Paladin
+Requires Level 60
+Use:
+Teaches Blessing of Might (Rank 7).
+
+
+Item #21290
+URL: https://database.turtle-wow.org/?item=21290
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Holy Light IX
+Classes: Paladin
+Requires Level 60
+Use:
+Teaches Holy Light (Rank 9).
+
+
+Item #21298
+URL: https://database.turtle-wow.org/?item=21298
+Category: Database/Items/Recipes/Books
+Item: 
+Manual of Battle Shout VII
+Classes: Warrior
+Requires Level 60
+Use:
+Teaches Battle Shout (Rank 7).
+
+
+Item #21299
+URL: https://database.turtle-wow.org/?item=21299
+Category: Database/Items/Recipes/Books
+Item: 
+Manual of Revenge VI
+Classes: Warrior
+Requires Level 60
+Use:
+Teaches Revenge (Rank 6).
+
+
+Item #21291
+URL: https://database.turtle-wow.org/?item=21291
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Healing Wave X
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Healing Wave (Rank 10).
+
+
+Item #21293
+URL: https://database.turtle-wow.org/?item=21293
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Grace of Air Totem III
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Grace of Air Totem (Rank 3).
+
+
+Item #21295
+URL: https://database.turtle-wow.org/?item=21295
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Starfire VII
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Starfire (Rank 7).
+
+
+Item #21296
+URL: https://database.turtle-wow.org/?item=21296
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Rejuvenation XI
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Rejuvenation (Rank 11).
+
+
+Item #21300
+URL: https://database.turtle-wow.org/?item=21300
+Category: Database/Items/Recipes/Books
+Item: 
+Handbook of Backstab IX
+Classes: Rogue
+Requires Level 60
+Use:
+Teaches Backstab (Rank 9).
+
+
+Item #21294
+URL: https://database.turtle-wow.org/?item=21294
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Healing Touch XI
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Healing Touch (Rank 11).
+
+
+Item #21297
+URL: https://database.turtle-wow.org/?item=21297
+Category: Database/Items/Recipes/Books
+Item: 
+Manual of Heroic Strike IX
+Classes: Warrior
+Requires Level 60
+Use:
+Teaches Heroic Strike (Rank 9).
+
+
+Item #21292
+URL: https://database.turtle-wow.org/?item=21292
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Strength of Earth Totem V
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Strength of Earth Totem (Rank 5).
+
+
+Item #21306
+URL: https://database.turtle-wow.org/?item=21306
+Category: Database/Items/Recipes/Books
+Item: 
+Guide: Serpent Sting IX
+Classes: Hunter
+Requires Level 60
+Use:
+Teaches Serpent Sting (Rank 9).
+
+
+Item #21303
+URL: https://database.turtle-wow.org/?item=21303
+Category: Database/Items/Recipes/Books
+Item: 
+Handbook of Feint V
+Classes: Rogue
+Requires Level 60
+Use:
+Teaches Feint (Rank 5).
+
+
+Item #21302
+URL: https://database.turtle-wow.org/?item=21302
+Category: Database/Items/Recipes/Books
+Item: 
+Handbook of Lethal Poisons
+Classes: Rogue
+Requires Level 60
+Use:
+Teaches Corrosive Poison (Rank 2) and Deadly Poison (Rank 5).
+"Everything you need to get the job done quietly, efficiently, and without a mess."
+
+
+Item #21304
+URL: https://database.turtle-wow.org/?item=21304
+Category: Database/Items/Recipes/Books
+Item: 
+Guide: Multi-Shot V
+Classes: Hunter
+Requires Level 60
+Use:
+Teaches Multi-Shot (Rank 5).
+
+
+Item #21307
+URL: https://database.turtle-wow.org/?item=21307
+Category: Database/Items/Recipes/Books
+Item: 
+Guide: Aspect of the Hawk VII
+Classes: Hunter
+Requires Level 60
+Use:
+Teaches Aspect of the Hawk (Rank 7).
+
+
+Item #22393
+URL: https://database.turtle-wow.org/?item=22393
+Category: Database/Items/Recipes/Books
+Item: 
+Codex: Prayer of Shadow Protection
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Prayer of Shadow Protection (Rank 1).
+
+
+Item #22739
+URL: https://database.turtle-wow.org/?item=22739
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Polymorph: Turtle
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Polymorph: Turtle.
+
+
+Item #22890
+URL: https://database.turtle-wow.org/?item=22890
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Frost Ward V
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Frost Ward (Rank 5).
+
+
+Item #22897
+URL: https://database.turtle-wow.org/?item=22897
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Conjure Food VII
+Classes: Mage
+Requires Level 60
+Use:
+Teaches Conjure Food (Rank 7).
+
+
+Item #22891
+URL: https://database.turtle-wow.org/?item=22891
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Shadow Ward IV
+Classes: Warlock
+Requires Level 60
+Use:
+Teaches Shadow Ward (Rank 4).
+
+
+Item #23320
+URL: https://database.turtle-wow.org/?item=23320
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flame Shock VI
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Flame Shock (Rank 6).
+
+
+Item #24102
+URL: https://database.turtle-wow.org/?item=24102
+Category: Database/Items/Recipes/Books
+Item: 
+Manual of Eviscerate IX
+Classes: Rogue
+Requires Level 60
+Use:
+Teaches Eviscerate (Rank 9).
+
+
+Item #24101
+URL: https://database.turtle-wow.org/?item=24101
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Ferocious Bite VI
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Ferocious Bite (Rank 6).
+
+
+Item #55552
+URL: https://database.turtle-wow.org/?item=55552
+Category: Database/Items/Recipes/Books
+Item: 
+Guide: Aspect of the Wolf VII
+Classes: Hunter
+Requires Level 60
+Use:
+Teaches Aspect of the Wolf (Rank 7)
+
+
+Item #55580
+URL: https://database.turtle-wow.org/?item=55580
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Searing Shot V
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Searing Shot (Rank 5).
+
+
+Item #58246
+URL: https://database.turtle-wow.org/?item=58246
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Molten Blast VI
+Classes: Shaman
+Requires Level 60
+Use:
+Teaches Molten Blast (Rank 6).
+
+
+Item #58275
+URL: https://database.turtle-wow.org/?item=58275
+Category: Database/Items/Recipes/Books
+Item: 
+Handbook of Noxious Assault IV
+Classes: Rogue
+Requires Level 60
+Requires Noxious Assault
+Use:
+Teaches Noxious Assault (Rank 4).
+
+
+Item #60002
+URL: https://database.turtle-wow.org/?item=60002
+Category: Database/Items/Recipes/Books
+Item: 
+Torn Outline: Cleaning Cloth
+Requires Survival (50)
+
+
+Item #60775
+URL: https://database.turtle-wow.org/?item=60775
+Category: Database/Items/Recipes/Books
+Item: 
+Manual: Intervene
+Classes: Warrior
+Requires Level 50
+"Contains teachings on ways to prevent harm to far away allies."
+
+
+Item #60856
+URL: https://database.turtle-wow.org/?item=60856
+Category: Database/Items/Recipes/Books
+Item: 
+Maraudine Bracer
+Quest Item
+
+
+Item #61226
+URL: https://database.turtle-wow.org/?item=61226
+Category: Database/Items/Recipes/Books
+Item: 
+Book: Smelt Dreamsteel
+Binds when picked up
+Requires Mining (300)
+Use:
+Teaches you how to smelt Dreamsteel.
+
+
+Item #65031
+URL: https://database.turtle-wow.org/?item=65031
+Category: Database/Items/Recipes/Books
+Item: 
+Torn Outline: Repaired Electro-Lantern
+Requires Survival (90)
+"Your savior when the oil runs out."
+
+
+Item #83571
+URL: https://database.turtle-wow.org/?item=83571
+Category: Database/Items/Recipes/Books
+Item: 
+Codex: Shadow Mend
+Classes: Priest
+Requires Level 58
+Requires Shadowform
+"Even in darkness there is salvation."
+
+
+Item #83572
+URL: https://database.turtle-wow.org/?item=83572
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Demon Gate
+Classes: Warlock
+Requires Level 58
+Use:
+Teaches Demon Gate.
+"Dark rituals locked inside shadowy books."
+
+
+Item #83570
+URL: https://database.turtle-wow.org/?item=83570
+Category: Database/Items/Recipes/Books
+Item: 
+Technique: Die by the Sword
+Classes: Warrior
+Requires Level 58
+"Contains scriptures and techniques on how to better deflect attacks when in a position of Retaliation."
+
+
+Item #83574
+URL: https://database.turtle-wow.org/?item=83574
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Wrath IX
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Wrath (Rank 9).
+
+
+Item #83575
+URL: https://database.turtle-wow.org/?item=83575
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Smite IX
+Classes: Priest
+Requires Level 60
+Use:
+Teaches Smite (Rank 9).
+
+
+Item #83573
+URL: https://database.turtle-wow.org/?item=83573
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Shred VI
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Shred (Rank 6).
+
+
+Item #83584
+URL: https://database.turtle-wow.org/?item=83584
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Avoidance
+Unique
+Classes: Warlock
+Requires Level 40
+Use:
+Teaches Avoidance.
+
+
+Item #1101
+URL: https://database.turtle-wow.org/?item=1101
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Renew V
+Classes: Priest
+Requires Level 32
+Use:
+Teaches Renew (Rank 5).
+
+
+Item #1139
+URL: https://database.turtle-wow.org/?item=1139
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Cleanse
+Classes: Paladin
+Requires Level 30
+Use:
+Teaches Cleanse.
+
+
+Item #4142
+URL: https://database.turtle-wow.org/?item=4142
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Polymorph: Pig
+Classes: Mage
+Requires Level 60
+
+
+Item #4176
+URL: https://database.turtle-wow.org/?item=4176
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Undying Strength II
+Classes: Shaman
+Requires Level 36
+Use:
+Teaches Undying Strength (Rank 2).
+
+
+Item #4144
+URL: https://database.turtle-wow.org/?item=4144
+Category: Database/Items/Recipes/Books
+Item: 
+Tome of Polymorph: Cow
+Classes: Mage
+Requires Level 60
+
+
+Item #4225
+URL: https://database.turtle-wow.org/?item=4225
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Entangling Roots III
+Classes: Druid
+Requires Level 28
+Use:
+Teaches Entangling Roots (Rank 3).
+
+
+Item #5127
+URL: https://database.turtle-wow.org/?item=5127
+Category: Database/Items/Recipes/Books
+Item: 
+Knowledge: South Seas Pirate Disguise
+Classes: Rogue
+Requires Level 13
+Requires Disguise
+Use:
+Learn how to disguise yourself as a South Seas pirate.
+
+
+Item #5722
+URL: https://database.turtle-wow.org/?item=5722
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Siphon Mana II
+Classes: Warlock
+Requires Level 36
+Use:
+Teaches Drain Mana (Rank 2).
+
+
+Item #5704
+URL: https://database.turtle-wow.org/?item=5704
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Water Breathing
+Classes: Shaman
+Requires Level 20
+Use:
+Teaches Water Breathing.
+
+
+Item #8799
+URL: https://database.turtle-wow.org/?item=8799
+Category: Database/Items/Recipes/Books
+Item: 
+Book of Mark of the Wild VII
+Classes: Druid
+Requires Level 60
+Use:
+Teaches Mark of the Wild (Rank 4).
+
+
+Item #8918
+URL: https://database.turtle-wow.org/?item=8918
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Seal of Protection III
+Classes: Paladin
+Requires Level 30
+Use:
+Teaches Seal of Protection (Rank 2).
+
+
+Item #8947
+URL: https://database.turtle-wow.org/?item=8947
+Category: Database/Items/Recipes/Books
+Item: 
+Libram: Exorcism VI
+Classes: Paladin
+Requires Level 60
+Use:
+Teaches Exorcism (Rank 3).
+
+
+Item #8975
+URL: https://database.turtle-wow.org/?item=8975
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Fade III
+Classes: Priest
+Requires Level 30
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9027
+URL: https://database.turtle-wow.org/?item=9027
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Mind Blast IX
+Classes: Priest
+Requires Level 58
+Use:
+Teaches Inner Fire (Rank 3).
+
+
+Item #9016
+URL: https://database.turtle-wow.org/?item=9016
+Category: Database/Items/Recipes/Books
+Item: 
+Codex of Holy Smite VIII
+Classes: Priest
+Requires Level 54
+Use:
+Teaches Greater Heal.
+
+
+Item #9074
+URL: https://database.turtle-wow.org/?item=9074
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Flame Shock III
+Classes: Shaman
+Requires Level 28
+Use:
+Teaches Lightning Bolt (Rank 3).
+
+
+Item #9133
+URL: https://database.turtle-wow.org/?item=9133
+Category: Database/Items/Recipes/Books
+Item: 
+Tablet of Chain Heal II
+Classes: Shaman
+Requires Level 46
+Use:
+Teaches Molten Blast (Rank 5).
+
+
+Item #9205
+URL: https://database.turtle-wow.org/?item=9205
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Curse of Agony II
+Classes: Warlock
+Requires Level 20
+Use:
+Teaches Rain of Fire (Rank 1).
+
+
+Item #16366
+URL: https://database.turtle-wow.org/?item=16366
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Suffering (Rank 4)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 60
+Use:
+Teaches Voidwalker Suffering (Rank 4).
+
+
+Item #16382
+URL: https://database.turtle-wow.org/?item=16382
+Category: Database/Items/Recipes/Books
+Item: 
+Grimoire of Devour Magic (Rank 3)
+Binds when picked up
+Unique
+Classes: Warlock
+Requires Level 46
+Use:
+Teaches Felhunter Devour Magic (Rank 3).
+
+

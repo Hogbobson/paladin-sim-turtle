@@ -1,0 +1,829 @@
+Item #728
+URL: https://database.turtle-wow.org/?item=728
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Westfall Stew
+Requires Cooking (75)
+Use:
+Teaches you how to cook Westfall Stew.
+
+
+Item #2699
+URL: https://database.turtle-wow.org/?item=2699
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Redridge Goulash
+Requires Cooking (100)
+Use:
+Teaches you how to cook a delicious Redridge Goulash.
+
+
+Item #2697
+URL: https://database.turtle-wow.org/?item=2697
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Goretusk Liver Pie
+Requires Cooking (50)
+Use:
+Teaches you how to cook a Goretusk Liver Pie.
+
+
+Item #2700
+URL: https://database.turtle-wow.org/?item=2700
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Succulent Pork Ribs
+Requires Cooking (110)
+Use:
+Teaches you how to cook Succulent Pork Ribs.
+
+
+Item #2701
+URL: https://database.turtle-wow.org/?item=2701
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Seasoned Wolf Kabob
+Requires Cooking (100)
+Use:
+Teaches you how to cook a Seasoned Wolf Kabob.
+
+
+Item #2698
+URL: https://database.turtle-wow.org/?item=2698
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Cooked Crab Claw
+Requires Cooking (85)
+Use:
+Teaches you how to cook a Crab Claw.
+
+
+Item #2889
+URL: https://database.turtle-wow.org/?item=2889
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Beer Basted Boar Ribs
+Requires Cooking (25)
+Use:
+Teaches you how to cook Beer Basted Boar Ribs.
+
+
+Item #3682
+URL: https://database.turtle-wow.org/?item=3682
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Curiously Tasty Omelet
+Requires Cooking (130)
+Use:
+Teaches you how to cook a Curiously Tasty Omelet.  Don't ask, you don't want to know.
+
+
+Item #3683
+URL: https://database.turtle-wow.org/?item=3683
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Gooey Spider Cake
+Requires Cooking (110)
+Use:
+Teaches you how to cook a Gooey Spider Cake.
+
+
+Item #3681
+URL: https://database.turtle-wow.org/?item=3681
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Crocolisk Gumbo
+Requires Cooking (120)
+Use:
+Teaches you how to cook a Crocolisk Gumbo.
+
+
+Item #3678
+URL: https://database.turtle-wow.org/?item=3678
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Crocolisk Steak
+Requires Cooking (80)
+Use:
+Teaches you how to cook a Crocolisk Steak.
+
+
+Item #3680
+URL: https://database.turtle-wow.org/?item=3680
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Murloc Fin Soup
+Requires Cooking (90)
+Use:
+Teaches you how to cook a Murloc Fin Soup.
+
+
+Item #3679
+URL: https://database.turtle-wow.org/?item=3679
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Blood Sausage
+Requires Cooking (60)
+Use:
+Teaches you how to cook a Blood Sausage.
+
+
+Item #3736
+URL: https://database.turtle-wow.org/?item=3736
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Tasty Lion Steak
+Requires Cooking (150)
+Use:
+Teaches you how to cook a Tasty Lion Steak.
+
+
+Item #3734
+URL: https://database.turtle-wow.org/?item=3734
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Big Bear Steak
+Requires Cooking (110)
+Use:
+Teaches you how to cook a Big Bear Steak.
+
+
+Item #3735
+URL: https://database.turtle-wow.org/?item=3735
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Hot Lion Chops
+Requires Cooking (125)
+Use:
+Teaches you how to cook up some Hot Lion Chops.
+
+
+Item #3737
+URL: https://database.turtle-wow.org/?item=3737
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Soothing Turtle Bisque
+Requires Cooking (175)
+Use:
+Teaches you how to cook a Soothing Turtle Bisque.
+
+
+Item #4609
+URL: https://database.turtle-wow.org/?item=4609
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Barbecued Buzzard Wing
+Requires Cooking (175)
+Use:
+Teaches you how to cook a Barbecued Buzzard Wing.
+
+
+Item #5482
+URL: https://database.turtle-wow.org/?item=5482
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Kaldorei Spider Kabob
+Requires Cooking (10)
+Use:
+Teaches you how to cook a Kaldorei Spider Kabob.
+
+
+Item #5483
+URL: https://database.turtle-wow.org/?item=5483
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Scorpid Surprise
+Requires Cooking (20)
+Use:
+Teaches you how to cook a Scorpid Surprise.
+
+
+Item #5488
+URL: https://database.turtle-wow.org/?item=5488
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Crispy Lizard Tail
+Requires Cooking (100)
+Use:
+Teaches you how to cook up a Crispy Lizard Tail.
+
+
+Item #5486
+URL: https://database.turtle-wow.org/?item=5486
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Strider Stew
+Requires Cooking (50)
+Use:
+Teaches you how to cook a Strider Stew.
+
+
+Item #5487
+URL: https://database.turtle-wow.org/?item=5487
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Dig Rat Stew
+Requires Cooking (90)
+Use:
+Teaches you how to cook a disgusting Dig Rat Stew.
+
+
+Item #5485
+URL: https://database.turtle-wow.org/?item=5485
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Fillet of Frenzy
+Requires Cooking (50)
+Use:
+Teaches you how to cook a Fillet of Frenzy.
+
+
+Item #5484
+URL: https://database.turtle-wow.org/?item=5484
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Roasted Kodo Meat
+Requires Cooking (35)
+Use:
+Teaches you how to cook Roasted Kodo Meat.
+
+
+Item #5489
+URL: https://database.turtle-wow.org/?item=5489
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Lean Venison
+Requires Cooking (110)
+Use:
+Teaches you how to cook Lean Venison.
+
+
+Item #5528
+URL: https://database.turtle-wow.org/?item=5528
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Clam Chowder
+Requires Cooking (90)
+Use:
+Teaches you how to cook a delicious Clam Chowder.
+
+
+Item #6039
+URL: https://database.turtle-wow.org/?item=6039
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Giant Clam Scorcho
+Requires Cooking (175)
+Use:
+Teaches you how to cook a delicious Giant Clam Scorcho.
+
+
+Item #6326
+URL: https://database.turtle-wow.org/?item=6326
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Slitherskin Mackerel
+Requires Cooking (1)
+Use:
+Teaches you how to cook Slitherskin Mackerel.
+
+
+Item #6325
+URL: https://database.turtle-wow.org/?item=6325
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Brilliant Smallfish
+Requires Cooking (1)
+Use:
+Teaches you how to cook Brilliant Smallfish.
+
+
+Item #6328
+URL: https://database.turtle-wow.org/?item=6328
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Longjaw Mud Snapper
+Requires Cooking (50)
+Use:
+Teaches you how to cook Longjaw Mud Snapper.
+
+
+Item #6329
+URL: https://database.turtle-wow.org/?item=6329
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Loch Frenzy Delight
+Requires Cooking (50)
+Use:
+Teaches you how to cook Loch Frenzy Delight.
+
+
+Item #6330
+URL: https://database.turtle-wow.org/?item=6330
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Bristle Whisker Catfish
+Requires Cooking (100)
+Use:
+Teaches you how to cook Bristle Whisker Catfish.
+
+
+Item #6368
+URL: https://database.turtle-wow.org/?item=6368
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Rainbow Fin Albacore
+Requires Cooking (50)
+Use:
+Teaches you how to cook Rainbow Fin Albacore.
+
+
+Item #6369
+URL: https://database.turtle-wow.org/?item=6369
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Rockscale Cod
+Requires Cooking (175)
+Use:
+Teaches you how to cook Rockscale Cod.
+
+
+Item #6661
+URL: https://database.turtle-wow.org/?item=6661
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Savory Deviate Delight
+Requires Cooking (85)
+Use:
+Teaches you how to cook a Savory Deviate Delight.
+
+
+Item #6891
+URL: https://database.turtle-wow.org/?item=6891
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Herb Baked Egg
+Requires Cooking (1)
+Use:
+Teaches you how to cook a Herb Baked Egg.
+
+
+Item #6892
+URL: https://database.turtle-wow.org/?item=6892
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Smoked Bear Meat
+Requires Cooking (40)
+Use:
+Teaches you how to cook Smoked Bear Meat.
+
+
+Item #7678
+URL: https://database.turtle-wow.org/?item=7678
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Thistle Tea
+Requires Cooking (60)
+Use:
+Teaches you how to brew a Thistle Tea.
+
+
+Item #12226
+URL: https://database.turtle-wow.org/?item=12226
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Crispy Bat Wing
+Requires Cooking (1)
+Use:
+Teaches you how to cook up a Crispy Bat Wing.
+
+
+Item #12229
+URL: https://database.turtle-wow.org/?item=12229
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Hot Wolf Ribs
+Requires Cooking (175)
+Use:
+Teaches you how to cook Hot Wolf Ribs.
+
+
+Item #12227
+URL: https://database.turtle-wow.org/?item=12227
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Lean Wolf Steak
+Requires Cooking (125)
+Use:
+Teaches you how to cook Lean Wolf Steak.
+
+
+Item #12228
+URL: https://database.turtle-wow.org/?item=12228
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Roast Raptor
+Requires Cooking (175)
+Use:
+Teaches you how to cook Roast Raptor.
+
+
+Item #12231
+URL: https://database.turtle-wow.org/?item=12231
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Jungle Stew
+Requires Cooking (175)
+Use:
+Teaches you how to cook Jungle Stew.
+
+
+Item #12239
+URL: https://database.turtle-wow.org/?item=12239
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Dragonbreath Chili
+Requires Cooking (200)
+Use:
+Teaches you how to cook Dragonbreath Chili.
+
+
+Item #12232
+URL: https://database.turtle-wow.org/?item=12232
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Carrion Surprise
+Requires Cooking (175)
+Use:
+Teaches you how to cook Carrion Surprise.
+
+
+Item #12240
+URL: https://database.turtle-wow.org/?item=12240
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Heavy Kodo Stew
+Requires Cooking (200)
+Use:
+Teaches you how to cook Heavy Kodo Stew.
+
+
+Item #12233
+URL: https://database.turtle-wow.org/?item=12233
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Mystery Stew
+Requires Cooking (175)
+Use:
+Teaches you how to cook Mystery Stew.
+
+
+Item #13940
+URL: https://database.turtle-wow.org/?item=13940
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Cooked Glossy Mightfish
+Requires Cooking (225)
+Use:
+Teaches you how to cook Cooked Glossy Mightfish.
+
+
+Item #13939
+URL: https://database.turtle-wow.org/?item=13939
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Spotted Yellowtail
+Requires Cooking (225)
+Use:
+Teaches you how to cook Spotted Yellowtail.
+
+
+Item #13942
+URL: https://database.turtle-wow.org/?item=13942
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Grilled Squid
+Requires Cooking (240)
+Use:
+Teaches you how to cook Grilled Squid.
+
+
+Item #13947
+URL: https://database.turtle-wow.org/?item=13947
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Lobster Stew
+Requires Cooking (275)
+Use:
+Teaches you how to cook Lobster Stew.
+
+
+Item #13941
+URL: https://database.turtle-wow.org/?item=13941
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Filet of Redgill
+Requires Cooking (225)
+Use:
+Teaches you how to cook Filet of Redgill.
+
+
+Item #13948
+URL: https://database.turtle-wow.org/?item=13948
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Mightfish Steak
+Requires Cooking (275)
+Use:
+Teaches you how to cook Mightfish Steak.
+
+
+Item #13949
+URL: https://database.turtle-wow.org/?item=13949
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Baked Salmon
+Requires Cooking (275)
+Use:
+Teaches you how to cook Baked Salmon.
+
+
+Item #13943
+URL: https://database.turtle-wow.org/?item=13943
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Hot Smoked Bass
+Requires Cooking (240)
+Use:
+Teaches you how to cook Hot Smoked Bass.
+
+
+Item #13945
+URL: https://database.turtle-wow.org/?item=13945
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Nightfin Soup
+Requires Cooking (250)
+Use:
+Teaches you how to cook Nightfin Soup.
+
+
+Item #13946
+URL: https://database.turtle-wow.org/?item=13946
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Poached Sunscale Salmon
+Requires Cooking (250)
+Use:
+Teaches you how to cook Poached Sunscale Salmon.
+
+
+Item #16072
+URL: https://database.turtle-wow.org/?item=16072
+Category: Database/Items/Recipes/Cooking
+Item: 
+Expert Cookbook
+Requires Cooking (125)
+Use:
+Teaches you how to be an Expert Cook, allowing a maximum of 225 cooking skill.
+
+
+Item #16073
+URL: https://database.turtle-wow.org/?item=16073
+Category: Database/Items/Recipes/Cooking
+Item: 
+Artisan Cookbook
+Requires Cooking (200)
+Use:
+Teaches you how to be an Artisan Cook, allowing a maximum of 300 cooking skill.
+
+
+Item #16110
+URL: https://database.turtle-wow.org/?item=16110
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Monster Omelet
+Requires Cooking (225)
+Use:
+Teaches you how to cook a Monster Omelet.
+
+
+Item #16111
+URL: https://database.turtle-wow.org/?item=16111
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Spiced Chili Crab
+Requires Cooking (225)
+Use:
+Teaches you how to cook Spiced Chili Crab.
+
+
+Item #16767
+URL: https://database.turtle-wow.org/?item=16767
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Undermine Clam Chowder
+Requires Cooking (225)
+Use:
+Teaches you how to cook a hot Undermine Clam Chowder.
+
+
+Item #17062
+URL: https://database.turtle-wow.org/?item=17062
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Mithril Head Trout
+Requires Cooking (175)
+Use:
+Teaches you how to cook Mithril Head Trout.
+
+
+Item #17200
+URL: https://database.turtle-wow.org/?item=17200
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Gingerbread Cookie
+Requires Cooking (1)
+Use:
+Teaches you how to bake a Gingerbread Cookie.
+
+
+Item #17201
+URL: https://database.turtle-wow.org/?item=17201
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Egg Nog
+Requires Cooking (35)
+Use:
+Teaches you how to make Egg Nog.
+
+
+Item #18046
+URL: https://database.turtle-wow.org/?item=18046
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Tender Wolf Steak
+Requires Cooking (225)
+Use:
+Teaches you how to cook a Tender Wolf Steak.
+
+
+Item #18160
+URL: https://database.turtle-wow.org/?item=18160
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Thistle Tea
+Binds when picked up
+Requires Cooking (60)
+Use:
+Teaches you how to brew a Thistle Tea.
+
+
+Item #18267
+URL: https://database.turtle-wow.org/?item=18267
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Runn Tum Tuber Surprise
+Binds when picked up
+Requires Cooking (275)
+Use:
+Teaches you how to cook Runn Tum Tuber Surprise.
+
+
+Item #19670
+URL: https://database.turtle-wow.org/?item=19670
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Ambersap Glazed Boar Ribs
+Requires Cooking (175)
+Use:
+Teaches you how to cook an Ambersap Glazed Boar Ribs.
+
+
+Item #19671
+URL: https://database.turtle-wow.org/?item=19671
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Crawford Apple Tarte
+Requires Cooking (175)
+Use:
+Teaches you how to cook a Crawford Apple Tarte.
+
+
+Item #20075
+URL: https://database.turtle-wow.org/?item=20075
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Heavy Crocolisk Stew
+Requires Cooking (150)
+Use:
+Teaches you how to cook a Heavy Crocilisk Stew.
+
+
+Item #21025
+URL: https://database.turtle-wow.org/?item=21025
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Dirge's Kickin' Chimaerok Chops
+Unique
+Requires Cooking (300)
+Use:
+Teaches you how to cook Dirge's Kickin' Chimaerok Chops.
+
+
+Item #21099
+URL: https://database.turtle-wow.org/?item=21099
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Smoked Sagefish
+Requires Cooking (80)
+Use:
+Teaches you how to cook Smoked Sagefish.
+
+
+Item #21219
+URL: https://database.turtle-wow.org/?item=21219
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Sagefish Delight
+Requires Cooking (175)
+Use:
+Teaches you how to cook Sagefish Delight.
+
+
+Item #23690
+URL: https://database.turtle-wow.org/?item=23690
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Crystal Flake Throat Lozenge
+Binds when picked up
+Unique
+Requires Cooking (300)
+Use:
+Teaches you how to create Crystal Throat Lozenges.
+
+
+Item #30819
+URL: https://database.turtle-wow.org/?item=30819
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Maritime Gumbo
+Requires Cooking (35)
+Use:
+Teaches you how to make Maritime Gumbo.
+
+
+Item #53016
+URL: https://database.turtle-wow.org/?item=53016
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Gurubashi Gumbo
+Binds when picked up
+Requires Cooking (300)
+Use:
+Teaches you how to cook Gurubashi Gumbo.
+
+
+Item #60980
+URL: https://database.turtle-wow.org/?item=60980
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Danonzo's Tel'Abim Delight
+Binds when picked up
+Requires Cooking (300)
+Use:
+Teaches you how to cook Danonzo's Tel'Abim Delight.
+
+
+Item #60979
+URL: https://database.turtle-wow.org/?item=60979
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Danonzo's Tel'Abim Surprise
+Binds when picked up
+Requires Cooking (300)
+Use:
+Teaches you how to cook Danonzo's Tel'Abim Surprise.
+
+
+Item #60981
+URL: https://database.turtle-wow.org/?item=60981
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Danonzo's Tel'Abim Medley
+Binds when picked up
+Requires Cooking (300)
+Use:
+Teaches you how to cook Danonzo's Tel'Abim Medley.
+
+
+Item #61676
+URL: https://database.turtle-wow.org/?item=61676
+Category: Database/Items/Recipes/Cooking
+Item: 
+Recipe: Gilneas Hot Stew
+Requires Cooking (200)
+Use:
+Teaches you how to cook a mediocre Gilneas Hot Stew.
+
+

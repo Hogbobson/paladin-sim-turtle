@@ -1,0 +1,531 @@
+Item #2551
+URL: https://database.turtle-wow.org/?item=2551
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Monster - Crossbow
+Ranged
+Crossbow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #6315
+URL: https://database.turtle-wow.org/?item=6315
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Steelarrow Crossbow
+Binds when equipped
+Ranged
+Crossbow
+29 - 45  Damage
+Speed 3.40
+(10.9 damage per second)
+Durability 60 / 60
+Requires Level 22
+
+
+Item #12651
+URL: https://database.turtle-wow.org/?item=12651
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Blackcrow
+Binds when picked up
+Ranged
+Crossbow
+77 - 117  Damage
+Speed 3.20
+(30.3 damage per second)
++3 Agility
+Durability 75 / 75
+Requires Level 54
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #13040
+URL: https://database.turtle-wow.org/?item=13040
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Heartseeking Crossbow
+Binds when equipped
+Ranged
+Crossbow
+71 - 108  Damage
+Speed 3.10
+(28.9 damage per second)
++9 Agility
++4 Stamina
+Durability 75 / 75
+Requires Level 51
+Equip:
+Chance to strike your ranged target with a Shadowbolt for 13 to 20 Shadow damage.
+
+
+Item #13038
+URL: https://database.turtle-wow.org/?item=13038
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Swiftwind
+Binds when equipped
+Ranged
+Crossbow
+34 - 51  Damage
+Speed 2.00
+(21.3 damage per second)
++7 Agility
+Durability 75 / 75
+Requires Level 35
+
+
+Item #13037
+URL: https://database.turtle-wow.org/?item=13037
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Crystalpine Stinger
+Binds when equipped
+Ranged
+Crossbow
+35 - 54  Damage
+Speed 2.80
+(15.9 damage per second)
+Durability 75 / 75
+Requires Level 27
+
+
+Item #13039
+URL: https://database.turtle-wow.org/?item=13039
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Skull Splitting Crossbow
+Binds when equipped
+Ranged
+Crossbow
+52 - 79  Damage
+Speed 2.60
+(25.2 damage per second)
++3 Strength
+Durability 75 / 75
+Requires Level 43
+Equip:
++14 Attack Power.
+
+
+Item #15808
+URL: https://database.turtle-wow.org/?item=15808
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Fine Light Crossbow
+Ranged
+Crossbow
+20 - 20  Damage
+Speed 2.70
+(7.4 damage per second)
+Durability 50 / 50
+Requires Level 16
+
+
+Item #15809
+URL: https://database.turtle-wow.org/?item=15809
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Heavy Crossbow
+Ranged
+Crossbow
+36 - 37  Damage
+Speed 2.80
+(13.0 damage per second)
+Durability 65 / 65
+Requires Level 29
+
+
+Item #15807
+URL: https://database.turtle-wow.org/?item=15807
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Light Crossbow
+Ranged
+Crossbow
+6 - 7  Damage
+Speed 2.50
+(2.6 damage per second)
+Durability 30 / 30
+Requires Level 3
+
+
+Item #18388
+URL: https://database.turtle-wow.org/?item=18388
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Stoneshatter
+Binds when picked up
+Ranged
+Crossbow
+73 - 111  Damage
+Speed 2.90
+(31.7 damage per second)
+Durability 75 / 75
+Requires Level 57
+Equip:
+Increased Crossbows +4.
+
+
+Item #18738
+URL: https://database.turtle-wow.org/?item=18738
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Carapace Spine Crossbow
+Binds when picked up
+Ranged
+Crossbow
+82 - 124  Damage
+Speed 3.30
+(31.2 damage per second)
++9 Stamina
++4 Agility
+Durability 75 / 75
+Requires Level 56
+
+
+Item #18836
+URL: https://database.turtle-wow.org/?item=18836
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Grand Marshal's Repeater
+Binds when picked up
+Ranged
+Crossbow
+120 - 175  Damage
+Speed 2.90
+(50.9 damage per second)
++9 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++41 ranged Attack Power.
+
+
+Item #18837
+URL: https://database.turtle-wow.org/?item=18837
+Category: Database/Items/Weapons/Crossbows
+Item: 
+High Warlord's Crossbow
+Binds when picked up
+Ranged
+Crossbow
+120 - 175  Damage
+Speed 2.90
+(50.9 damage per second)
++9 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++41 ranged Attack Power.
+
+
+Item #19107
+URL: https://database.turtle-wow.org/?item=19107
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Bloodseeker
+Binds when picked up
+Ranged
+Crossbow
+85 - 128  Damage
+Speed 3.30
+(32.3 damage per second)
++7 Agility
++8 Strength
+Durability 75 / 75
+
+
+Item #19361
+URL: https://database.turtle-wow.org/?item=19361
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Ashjre'thul, Crossbow of Smiting
+Binds when picked up
+Ranged
+Crossbow
+124 - 186  Damage
+Speed 3.40
+(45.6 damage per second)
++7 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++36 ranged Attack Power.
+
+
+Item #20599
+URL: https://database.turtle-wow.org/?item=20599
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Polished Ironwood Crossbow
+Binds when picked up
+Unique
+Ranged
+Crossbow
+101 - 177  Damage
+Speed 3.10
+(44.8 damage per second)
++6 Stamina
++7 Nature Resistance
+Durability 90 / 90
+Requires Level 60
+Equip:
++26 Attack Power.
+
+
+Item #21459
+URL: https://database.turtle-wow.org/?item=21459
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Crossbow of Imminent Doom
+Binds when picked up
+Ranged
+Crossbow
+103 - 155  Damage
+Speed 3.10
+(41.6 damage per second)
++7 Agility
++5 Stamina
++5 Strength
+Durability 90 / 90
+Requires Level 60
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #22347
+URL: https://database.turtle-wow.org/?item=22347
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Fahrad's Reloading Repeater
+Binds when picked up
+Ranged
+Crossbow
+85 - 128  Damage
+Speed 3.20
+(33.3 damage per second)
++4 Agility
+Durability 75 / 75
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #22812
+URL: https://database.turtle-wow.org/?item=22812
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Nerubian Slavemaker
+Binds when picked up
+Ranged
+Crossbow
+128 - 238  Damage
+Speed 3.20
+(57.2 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
++24 Attack Power.
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #51844
+URL: https://database.turtle-wow.org/?item=51844
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Stunning Crossbow
+Binds when picked up
+Ranged
+Crossbow
+40 - 73  Damage
+Speed 3.40
+(16.6 damage per second)
+"Cock the bow, aim, and fire!"
+
+
+Item #55028
+URL: https://database.turtle-wow.org/?item=55028
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Kavdan's Patient Watch
+Binds when picked up
+Ranged
+Crossbow
+81 - 151  Damage
+Speed 3.10
+(37.4 damage per second)
++8 Stamina
+Requires Level 60
+Requires Syndicate - Exalted
+Equip:
++22 ranged Attack Power.
+"Always hits the heart."
+
+
+Item #55096
+URL: https://database.turtle-wow.org/?item=55096
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Phase-shifting Crossbow
+Binds when picked up
+Unique
+Ranged
+Crossbow
+111 - 203  Damage
+Speed 2.80
+(56.1 damage per second)
++9 Strength
+Durability 90 / 90
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #60338
+URL: https://database.turtle-wow.org/?item=60338
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Lordaeron Rusty Crossbow
+Binds when picked up
+Ranged
+Crossbow
+12 - 23  Damage
+Speed 3.00
+(5.8 damage per second)
+Durability 40 / 40
+
+
+Item #60506
+URL: https://database.turtle-wow.org/?item=60506
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Vigilance
+Binds when picked up
+Ranged
+Crossbow
+72 - 114  Damage
+Speed 2.80
+(33.2 damage per second)
++9 Stamina
++5 Agility
+Durability 75 / 75
+Requires Level 60
+
+
+Item #60624
+URL: https://database.turtle-wow.org/?item=60624
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Goldplated Royal Crossbow
+Binds when picked up
+Ranged
+Crossbow
+86 - 131  Damage
+Speed 3.30
+(32.9 damage per second)
++5 Intellect
++5 Agility
+Durability 75 / 75
+Equip:
++12 Attack Power.
+
+
+Item #60782
+URL: https://database.turtle-wow.org/?item=60782
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Shieldbreaker Arbalest
+Binds when equipped
+Ranged
+Crossbow
+73 - 133  Damage
+Speed 3.00
+(34.3 damage per second)
+Durability 90 / 90
+Requires Level 56
+Equip:
+Your attacks ignore 35 of the target's armor.
+
+
+Item #60821
+URL: https://database.turtle-wow.org/?item=60821
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Theramore Arbalest
+Binds when picked up
+Ranged
+Crossbow
+57 - 106  Damage
+Speed 3.40
+(24.0 damage per second)
++8 Agility
+Durability 75 / 75
+
+
+Item #61683
+URL: https://database.turtle-wow.org/?item=61683
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Battered Arbalest
+Ranged
+Crossbow
+19 - 35  Damage
+Speed 2.20
+(12.3 damage per second)
+Durability 65 / 65
+Requires Level 40
+"Somehow still in working condition."
+
+
+Item #70049
+URL: https://database.turtle-wow.org/?item=70049
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Worn Crossbow
+Ranged
+Crossbow
+3 - 6  Damage
+Speed 3.00
+(1.5 damage per second)
+Durability 20 / 20
+
+
+Item #80745
+URL: https://database.turtle-wow.org/?item=80745
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Abomination Crossbow
+Binds when picked up
+Ranged
+Crossbow
+47 - 87  Damage
+Speed 3.00
+(22.3 damage per second)
++4 Strength
++4 Stamina
+Durability 75 / 75
+Requires Level 37
+"Made from abomination ribs and stitching. Truly horrifying."
+
+
+Item #83517
+URL: https://database.turtle-wow.org/?item=83517
+Category: Database/Items/Weapons/Crossbows
+Item: 
+Balanced Light Crossbow
+Ranged
+Crossbow
+12 - 21  Damage
+Speed 2.90
+(5.7 damage per second)
+Durability 40 / 40
+Requires Level 11
+
+

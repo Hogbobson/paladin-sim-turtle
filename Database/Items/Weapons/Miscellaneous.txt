@@ -1,0 +1,1036 @@
+Item #2200
+URL: https://database.turtle-wow.org/?item=2200
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Potion Green
+One-hand
+Miscellaneous
+5 - 6  Damage
+Speed 2.00
+(2.8 damage per second)
+
+
+Item #2198
+URL: https://database.turtle-wow.org/?item=2198
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Potion Blue
+One-hand
+Miscellaneous
+5 - 6  Damage
+Speed 2.00
+(2.8 damage per second)
+
+
+Item #2199
+URL: https://database.turtle-wow.org/?item=2199
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Vial Purple
+One-hand
+Miscellaneous
+5 - 6  Damage
+Speed 2.00
+(2.8 damage per second)
+
+
+Item #2201
+URL: https://database.turtle-wow.org/?item=2201
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Vial Black
+One-hand
+Miscellaneous
+5 - 6  Damage
+Speed 2.00
+(2.8 damage per second)
+
+
+Item #2703
+URL: https://database.turtle-wow.org/?item=2703
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Tankard Wooden
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2704
+URL: https://database.turtle-wow.org/?item=2704
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Tankard Dirty
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2706
+URL: https://database.turtle-wow.org/?item=2706
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flower - Red
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2709
+URL: https://database.turtle-wow.org/?item=2709
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flower - Rose
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2716
+URL: https://database.turtle-wow.org/?item=2716
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bottle - Green
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2715
+URL: https://database.turtle-wow.org/?item=2715
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Lantern - Round
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2707
+URL: https://database.turtle-wow.org/?item=2707
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flower - Yellow
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2710
+URL: https://database.turtle-wow.org/?item=2710
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bouquet - Roses
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2708
+URL: https://database.turtle-wow.org/?item=2708
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bouquet - White & Purple
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2705
+URL: https://database.turtle-wow.org/?item=2705
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Tankard Metal
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2717
+URL: https://database.turtle-wow.org/?item=2717
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bottle - Black
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2718
+URL: https://database.turtle-wow.org/?item=2718
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Glass - Clear
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #2808
+URL: https://database.turtle-wow.org/?item=2808
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Torch of Flame
+Binds when picked up
+Main Hand
+Miscellaneous
+34 - 51  Damage
+Speed 2.90
+(14.7 damage per second)
+Use:
+Removes the protective enchantments around Morbent Fel.
+
+
+Item #2901
+URL: https://database.turtle-wow.org/?item=2901
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Mining Pick
+Main Hand
+Miscellaneous
+2 - 4  Damage
+Speed 2.00
+(1.5 damage per second)
+"Miners need a mining pick for digging."
+
+
+Item #3351
+URL: https://database.turtle-wow.org/?item=3351
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Rolling Pin
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #3362
+URL: https://database.turtle-wow.org/?item=3362
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Broom
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #3368
+URL: https://database.turtle-wow.org/?item=3368
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Harpoon
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #3696
+URL: https://database.turtle-wow.org/?item=3696
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Vial Yellow
+One-hand
+Miscellaneous
+
+
+Item #3699
+URL: https://database.turtle-wow.org/?item=3699
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Potion Red
+One-hand
+Miscellaneous
+
+
+Item #4616
+URL: https://database.turtle-wow.org/?item=4616
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Ryedol's Lucky Pick
+Quest Item
+Unique
+One-hand
+Miscellaneous
+1 - 2  Damage
+Speed 1.50
+(1.0 damage per second)
+
+
+Item #4704
+URL: https://database.turtle-wow.org/?item=4704
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+OLDCeremonial Club
+Binds when picked up
+Main Hand
+Miscellaneous
+1 - 2  Damage
+Speed 2.20
+(0.7 damage per second)
+Use:
+Right click near a forge to break.
+
+
+Item #4994
+URL: https://database.turtle-wow.org/?item=4994
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Gizmo
+Main Hand
+Miscellaneous
+5 - 6  Damage
+Speed 2.00
+(2.8 damage per second)
+
+
+Item #5410
+URL: https://database.turtle-wow.org/?item=5410
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+OLDCeremonial Club
+Binds when picked up
+Miscellaneous
+1 - 2  Damage
+Speed 2.20
+(0.7 damage per second)
+Use:
+Right click near a forge to break.
+
+
+Item #5532
+URL: https://database.turtle-wow.org/?item=5532
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Hot Iron Poker
+One-hand
+Miscellaneous
+
+
+Item #5956
+URL: https://database.turtle-wow.org/?item=5956
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Blacksmith Hammer
+Main Hand
+Miscellaneous
+2 - 3  Damage
+Speed 2.00
+(1.3 damage per second)
+
+
+Item #6174
+URL: https://database.turtle-wow.org/?item=6174
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Twain Random Sword
+Binds when equipped
+Two-hand
+Miscellaneous
+50 - 100  Damage
+Speed 0.50
+(150.0 damage per second)
+Requires Level 15
+
+
+Item #6219
+URL: https://database.turtle-wow.org/?item=6219
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Arclight Spanner
+Main Hand
+Miscellaneous
+5 - 8  Damage
+Speed 2.40
+(2.7 damage per second)
+Requires Engineering (50)
+
+
+Item #6232
+URL: https://database.turtle-wow.org/?item=6232
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flowers  - Boquet Roses
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6228
+URL: https://database.turtle-wow.org/?item=6228
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Fish - Orange
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6227
+URL: https://database.turtle-wow.org/?item=6227
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Fish - Green
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6229
+URL: https://database.turtle-wow.org/?item=6229
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Fish - Purple
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6225
+URL: https://database.turtle-wow.org/?item=6225
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Fish - Blue
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6234
+URL: https://database.turtle-wow.org/?item=6234
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flower - Long Blue
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6237
+URL: https://database.turtle-wow.org/?item=6237
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flowers  - Boquet Roses (Black)
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6236
+URL: https://database.turtle-wow.org/?item=6236
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flower - Rose (White)
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6233
+URL: https://database.turtle-wow.org/?item=6233
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flowers  - Boquet Wildflowers
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #6235
+URL: https://database.turtle-wow.org/?item=6235
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flower - Rose (Black)
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #7005
+URL: https://database.turtle-wow.org/?item=7005
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Skinning Knife
+One-hand
+Miscellaneous
+2 - 5  Damage
+Speed 1.60
+(2.2 damage per second)
+
+
+Item #7009
+URL: https://database.turtle-wow.org/?item=7009
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Survivalist's Skinning Knife
+One-hand
+Miscellaneous
+2 - 5  Damage
+Speed 1.60
+(2.2 damage per second)
+"Necessary for any would be survivalist."
+
+
+Item #7170
+URL: https://database.turtle-wow.org/?item=7170
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Twain Random Sword FOO
+Binds when equipped
+Two-hand
+Miscellaneous
+50 - 100  Damage
+Speed 0.50
+(150.0 damage per second)
+Requires Level 15
+
+
+Item #9700
+URL: https://database.turtle-wow.org/?item=9700
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Sparkler Blue
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #9701
+URL: https://database.turtle-wow.org/?item=9701
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Sparkler Red
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #9702
+URL: https://database.turtle-wow.org/?item=9702
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Sparkler White
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #10515
+URL: https://database.turtle-wow.org/?item=10515
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Torch of Retribution
+Quest Item
+Unique
+Two-hand
+Miscellaneous
+Use:
+Use on a Sentry Brazier.
+"The flame never falters"
+
+
+Item #9700
+URL: https://database.turtle-wow.org/?item=9700
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Sparkler Blue
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #9701
+URL: https://database.turtle-wow.org/?item=9701
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Sparkler Red
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #9702
+URL: https://database.turtle-wow.org/?item=9702
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Sparkler White
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #10515
+URL: https://database.turtle-wow.org/?item=10515
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Torch of Retribution
+Quest Item
+Unique
+Two-hand
+Miscellaneous
+Use:
+Use on a Sentry Brazier.
+"The flame never falters"
+
+
+Item #12750
+URL: https://database.turtle-wow.org/?item=12750
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Book - Black Skull Glowing
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12746
+URL: https://database.turtle-wow.org/?item=12746
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Orb - Lava
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12742
+URL: https://database.turtle-wow.org/?item=12742
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Book - Brown
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12748
+URL: https://database.turtle-wow.org/?item=12748
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Scepter - Gold
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12744
+URL: https://database.turtle-wow.org/?item=12744
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bag - Brown
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12747
+URL: https://database.turtle-wow.org/?item=12747
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Orb - Lava Offhand
+Off Hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12751
+URL: https://database.turtle-wow.org/?item=12751
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Book - Blue
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12801
+URL: https://database.turtle-wow.org/?item=12801
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bucket - Wood
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #12850
+URL: https://database.turtle-wow.org/?item=12850
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bag - Black
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12854
+URL: https://database.turtle-wow.org/?item=12854
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bag - Green
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12852
+URL: https://database.turtle-wow.org/?item=12852
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bag - Gray
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12858
+URL: https://database.turtle-wow.org/?item=12858
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bag - White
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12856
+URL: https://database.turtle-wow.org/?item=12856
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bag - Red
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12864
+URL: https://database.turtle-wow.org/?item=12864
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Book - B01 Black Glowing
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12866
+URL: https://database.turtle-wow.org/?item=12866
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Book - B02 Black Glowing
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #12868
+URL: https://database.turtle-wow.org/?item=12868
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Book - B02 Blue Glowing
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #13607
+URL: https://database.turtle-wow.org/?item=13607
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bucket - Metal
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #13608
+URL: https://database.turtle-wow.org/?item=13608
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Bucket - Metal Dirty
+Unique
+One-hand
+Miscellaneous
++5 - 6  Damage
+
+
+Item #13612
+URL: https://database.turtle-wow.org/?item=13612
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Glass - Purple Wine
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #13861
+URL: https://database.turtle-wow.org/?item=13861
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Tankard Gold
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #19053
+URL: https://database.turtle-wow.org/?item=19053
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Orb - A01 Blue
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #19487
+URL: https://database.turtle-wow.org/?item=19487
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Fish - Orange Offhand
+Off Hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #19488
+URL: https://database.turtle-wow.org/?item=19488
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Fish - Purple Offhand
+Off Hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #19486
+URL: https://database.turtle-wow.org/?item=19486
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Fish - Green Offhand
+Off Hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #19485
+URL: https://database.turtle-wow.org/?item=19485
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Fish - Blue Offhand
+Off Hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #20468
+URL: https://database.turtle-wow.org/?item=20468
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Orb - A01 Green
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #21121
+URL: https://database.turtle-wow.org/?item=21121
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flower - Purple
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #21123
+URL: https://database.turtle-wow.org/?item=21123
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Flower - White
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #21796
+URL: https://database.turtle-wow.org/?item=21796
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Monster - Item, Ahn'Qiraj Held Scepter
+One-hand
+Miscellaneous
+7 - 8  Damage
+Speed 2.00
+(3.8 damage per second)
+
+
+Item #41464
+URL: https://database.turtle-wow.org/?item=41464
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Hornfang Specialty Mug
+Binds when picked up
+Held In Off-Hand
+Miscellaneous
+Requires Level 54
+Use:
+A strong alcoholic beverage.
+
+
+Item #50062
+URL: https://database.turtle-wow.org/?item=50062
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Half-Eaten Mutton Chop
+One-hand
+Miscellaneous
+5 - 8  Damage
+Speed 1.80
+(3.6 damage per second)
+
+
+Item #50374
+URL: https://database.turtle-wow.org/?item=50374
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Thunder Bluff Guard's Totem
+Binds when picked up
+One-hand
+Miscellaneous
+
+
+Item #58217
+URL: https://database.turtle-wow.org/?item=58217
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Lookout's Illuminator
+Binds when picked up
+Held In Off-Hand
+Miscellaneous
+Requires Level 53
+Requires Thorium Brotherhood - Honored
+Equip:
+Increases damage done by Fire spells and effects by up to 21.
+
+
+Item #67004
+URL: https://database.turtle-wow.org/?item=67004
+Category: Database/Items/Weapons/Miscellaneous
+Item: 
+Decorative Flail
+Binds when picked up
+Unique
+One-hand
+Miscellaneous
+1 - 2  Damage
+Speed 1.50
+(1.0 damage per second)
+"Best used for Intimidation only."
+
+

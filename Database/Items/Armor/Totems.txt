@@ -1,0 +1,248 @@
+Item #22345
+URL: https://database.turtle-wow.org/?item=22345
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Rebirth
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 57
+Equip:
+Reduces the cooldown of Reincarnation by 600000 minutes.
+
+
+Item #22395
+URL: https://database.turtle-wow.org/?item=22395
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Rage
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 52
+Equip:
+Increases damage done by Earth Shock, Flame Shock, and Frost Shock by up to 30.
+
+
+Item #22396
+URL: https://database.turtle-wow.org/?item=22396
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Life
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 60
+Equip:
+Increases healing done by Lesser Healing Wave by 40.
+
+
+Item #23005
+URL: https://database.turtle-wow.org/?item=23005
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Flowing Water
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 60
+Equip:
+Your Water Totems grant party members within 30 yards of you a unique effect depending on the totem.
+
+
+Item #23200
+URL: https://database.turtle-wow.org/?item=23200
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Sustaining
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 60
+Equip:
+Increases healing done by Lesser Healing Wave by 28.
+
+
+Item #23199
+URL: https://database.turtle-wow.org/?item=23199
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of the Storm
+Binds when equipped
+Unique
+Relic
+Totem
+Requires Level 60
+Equip:
+Increases damage done by Chain Lightning and Lightning Bolt by up to 33.
+
+
+Item #51800
+URL: https://database.turtle-wow.org/?item=51800
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Earthstorm
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 60
+Equip:
++5 to Strength of Earth and Grace of Air totem effect.
+
+
+Item #51803
+URL: https://database.turtle-wow.org/?item=51803
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of the Endless Flicker
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 42
+Equip:
+Increases the duration of your Flame Shock by 3000 secs.
+
+
+Item #55114
+URL: https://database.turtle-wow.org/?item=55114
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Broken Earth
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 60
+Equip:
+Increases the damage done by your Earth Shock by 100 and causes your Earth Shock to reduce the target's attack speed by 15% for 8 sec.
+
+
+Item #55370
+URL: https://database.turtle-wow.org/?item=55370
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Static Charge
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 18
+Equip:
+Your Lightning Bolt has a 10% chance to shock your enemy for 30 to 51 Nature damage. This effect generates no threat.
+
+
+Item #58121
+URL: https://database.turtle-wow.org/?item=58121
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of the Corrupted Current
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 24
+Equip:
+Your Healing Wave additionally heals the target for 90 over 6 sec but reduces all their stats by 1 for 6 sec.
+
+
+Item #58146
+URL: https://database.turtle-wow.org/?item=58146
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Tides
+Binds when picked up
+Relic
+Totem
+Requires Level 33
+Equip:
+Your Water Shield releases a tide whenever you are struck while it's active, damaging enemies within 10 yards for 25 to 33 Frost damage.
+
+
+Item #58174
+URL: https://database.turtle-wow.org/?item=58174
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of the Rotten Roots
+Binds when picked up
+Relic
+Totem
+Requires Level 37
+Equip:
+Your Earth Shock reduces healing taken by 15% and causes the target to take 15 Nature damage when they attack for 6 sec.
+
+
+Item #58241
+URL: https://database.turtle-wow.org/?item=58241
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Eruption
+Binds when picked up
+Unique
+Relic
+Totem
+Requires Level 60
+Equip:
+Increases damage done by Molten Blast by up to 35. Improved Molten Blast deals damage for an additional 20% of the refreshed duration.
+"Living flame from the heart of the Firelord's domain surges through this totem."
+
+
+Item #61204
+URL: https://database.turtle-wow.org/?item=61204
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of the Stonebreaker
+Binds when picked up
+Relic
+Totem
+Requires Level 60
+Equip:
+Your Shock spells have a 35% chance to grant 130 attack power for 10 sec.
+
+
+Item #61292
+URL: https://database.turtle-wow.org/?item=61292
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Crackling Thunder
+Binds when picked up
+Relic
+Totem
+Requires Level 60
+Equip:
+Your Lightning Bolt has a 10% chance and your Lightning Strike has a 15% chance to grant you an additional 8% attack and casting speed for 8 sec.
+
+
+Item #61547
+URL: https://database.turtle-wow.org/?item=61547
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of Bad Mojo
+Binds when equipped
+Unique
+Relic
+Totem
+Requires Level 58
+Equip:
+Increases the duration of your Hex by 1.5 secs.
+
+
+Item #61698
+URL: https://database.turtle-wow.org/?item=61698
+Category: Database/Items/Armor/Totems
+Item: 
+Totem of the Calming River
+Binds when picked up
+Relic
+Totem
+Requires Level 60
+Equip:
+Your Water Shield ability grants an additional 8 mana per 5 sec. while active. In addition, the amount of mana restored by your Water Shield when attacked is increased by 10.
+
+

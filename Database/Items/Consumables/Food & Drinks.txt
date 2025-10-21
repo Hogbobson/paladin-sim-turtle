@@ -1,0 +1,262 @@
+Item #1251
+URL: https://database.turtle-wow.org/?item=1251
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Linen Bandage
+Requires First Aid (1)
+Use:
+Heals 66 damage over 6 sec.
+
+
+Item #2581
+URL: https://database.turtle-wow.org/?item=2581
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Heavy Linen Bandage
+Requires First Aid (20)
+Use:
+Heals 114 damage over 6 sec.
+
+
+Item #3531
+URL: https://database.turtle-wow.org/?item=3531
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Heavy Wool Bandage
+Requires First Aid (75)
+Use:
+Heals 301 damage over 7 sec.
+
+
+Item #3530
+URL: https://database.turtle-wow.org/?item=3530
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Wool Bandage
+Requires First Aid (50)
+Use:
+Heals 161 damage over 7 sec.
+
+
+Item #6451
+URL: https://database.turtle-wow.org/?item=6451
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Heavy Silk Bandage
+Requires First Aid (125)
+Use:
+Heals 640 damage over 8 sec.
+
+
+Item #6450
+URL: https://database.turtle-wow.org/?item=6450
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Silk Bandage
+Requires First Aid (100)
+Use:
+Heals 400 damage over 8 sec.
+
+
+Item #8544
+URL: https://database.turtle-wow.org/?item=8544
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Mageweave Bandage
+Requires First Aid (150)
+Use:
+Heals 800 damage over 8 sec.
+
+
+Item #8545
+URL: https://database.turtle-wow.org/?item=8545
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Heavy Mageweave Bandage
+Requires First Aid (175)
+Use:
+Heals 1104 damage over 8 sec.
+
+
+Item #14530
+URL: https://database.turtle-wow.org/?item=14530
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Heavy Runecloth Bandage
+Requires First Aid (225)
+Use:
+Heals 2000 damage over 8 sec.
+
+
+Item #14529
+URL: https://database.turtle-wow.org/?item=14529
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Runecloth Bandage
+Requires First Aid (200)
+Use:
+Heals 1360 damage over 8 sec.
+
+
+Item #19068
+URL: https://database.turtle-wow.org/?item=19068
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Warsong Gulch Silk Bandage
+Binds when picked up
+Requires Level 25
+Requires First Aid (125)
+Use:
+Heals 640 damage over 8 sec.  Usable only inside Warsong Gulch.
+
+
+Item #19066
+URL: https://database.turtle-wow.org/?item=19066
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Warsong Gulch Runecloth Bandage
+Binds when picked up
+Requires Level 45
+Requires First Aid (225)
+Use:
+Heals 2000 damage over 8 sec.  Usable only inside Warsong Gulch.
+
+
+Item #19307
+URL: https://database.turtle-wow.org/?item=19307
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Alterac Heavy Runecloth Bandage
+Binds when picked up
+Requires First Aid (225)
+Use:
+Heals 2000 damage over 8 sec.
+"May only be used in Alterac Valley."
+
+
+Item #20067
+URL: https://database.turtle-wow.org/?item=20067
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Arathi Basin Silk Bandage
+Binds when picked up
+Requires Level 25
+Requires First Aid (125)
+Use:
+Heals 640 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #20066
+URL: https://database.turtle-wow.org/?item=20066
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Arathi Basin Runecloth Bandage
+Binds when picked up
+Requires Level 45
+Requires First Aid (225)
+Use:
+Heals 2000 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #20065
+URL: https://database.turtle-wow.org/?item=20065
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Arathi Basin Mageweave Bandage
+Binds when picked up
+Requires Level 35
+Requires First Aid (175)
+Use:
+Heals 1104 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #20234
+URL: https://database.turtle-wow.org/?item=20234
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Defiler's Runecloth Bandage
+Binds when picked up
+Requires Level 45
+Requires First Aid (225)
+Requires The Defilers - Friendly
+Use:
+Heals 2000 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #20232
+URL: https://database.turtle-wow.org/?item=20232
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Defiler's Mageweave Bandage
+Binds when picked up
+Requires Level 35
+Requires First Aid (175)
+Requires The Defilers - Friendly
+Use:
+Heals 1104 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #20235
+URL: https://database.turtle-wow.org/?item=20235
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Defiler's Silk Bandage
+Binds when picked up
+Requires Level 25
+Requires First Aid (125)
+Requires The Defilers - Friendly
+Use:
+Heals 640 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #20237
+URL: https://database.turtle-wow.org/?item=20237
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Highlander's Mageweave Bandage
+Binds when picked up
+Requires Level 35
+Requires First Aid (175)
+Requires The League of Arathor - Friendly
+Use:
+Heals 1104 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #20244
+URL: https://database.turtle-wow.org/?item=20244
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Highlander's Silk Bandage
+Binds when picked up
+Requires Level 25
+Requires First Aid (125)
+Requires The League of Arathor - Friendly
+Use:
+Heals 640 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #20243
+URL: https://database.turtle-wow.org/?item=20243
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Highlander's Runecloth Bandage
+Binds when picked up
+Requires Level 45
+Requires First Aid (225)
+Requires The League of Arathor - Friendly
+Use:
+Heals 2000 damage over 8 sec.  Usable only inside Arathi Basin.
+
+
+Item #19067
+URL: https://database.turtle-wow.org/?item=19067
+Category: Database/Items/Consumables/Food & Drinks
+Item: 
+Warsong Gulch Mageweave Bandage
+Binds when picked up
+Requires Level 35
+Requires First Aid (175)
+Use:
+Heals 1104 damage over 8 sec.  Usable only inside Warsong Gulch.
+
+

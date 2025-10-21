@@ -1,0 +1,185 @@
+Item #11630
+URL: https://database.turtle-wow.org/?item=11630
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Rockshard Pellets
+Projectile
+Bullet
+Adds 18.0 damage per second
+Requires Level 47
+
+
+Item #13377
+URL: https://database.turtle-wow.org/?item=13377
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Miniature Cannon Balls
+Projectile
+Bullet
+Adds 20.5 damage per second
+Requires Level 56
+
+
+Item #15997
+URL: https://database.turtle-wow.org/?item=15997
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Thorium Shells
+Projectile
+Bullet
+Adds 17.5 damage per second
+Requires Level 52
+
+
+Item #19317
+URL: https://database.turtle-wow.org/?item=19317
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Ice Threaded Bullet
+Binds when picked up
+Projectile
+Bullet
+Adds 16.5 damage per second
+Requires Level 51
+
+
+Item #2516
+URL: https://database.turtle-wow.org/?item=2516
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Light Shot
+Projectile
+Bullet
+Adds 1.5 damage per second
+
+
+Item #2519
+URL: https://database.turtle-wow.org/?item=2519
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Heavy Shot
+Projectile
+Bullet
+Adds 3.5 damage per second
+Requires Level 10
+
+
+Item #3033
+URL: https://database.turtle-wow.org/?item=3033
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Solid Shot
+Projectile
+Bullet
+Adds 7.5 damage per second
+Requires Level 25
+
+
+Item #3034
+URL: https://database.turtle-wow.org/?item=3034
+Category: Database/Items/Projectiles/Bullets
+Item: 
+BKP "Impact" Shot
+Projectile
+Bullet
+Adds 9.0 damage per second
+Requires Level 30
+
+
+Item #3465
+URL: https://database.turtle-wow.org/?item=3465
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Exploding Shot
+Projectile
+Bullet
+Adds 9.5 damage per second
+
+
+Item #4960
+URL: https://database.turtle-wow.org/?item=4960
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Flash Pellet
+Projectile
+Bullet
+Adds 2.0 damage per second
+
+
+Item #5568
+URL: https://database.turtle-wow.org/?item=5568
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Smooth Pebble
+Projectile
+Bullet
+Adds 4.0 damage per second
+Requires Level 13
+
+
+Item #8068
+URL: https://database.turtle-wow.org/?item=8068
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Crafted Heavy Shot
+Projectile
+Bullet
+Adds 4.5 damage per second
+Requires Level 15
+
+
+Item #8067
+URL: https://database.turtle-wow.org/?item=8067
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Crafted Light Shot
+Projectile
+Bullet
+Adds 2.0 damage per second
+Requires Level 5
+
+
+Item #8069
+URL: https://database.turtle-wow.org/?item=8069
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Crafted Solid Shot
+Projectile
+Bullet
+Adds 8.5 damage per second
+Requires Level 30
+
+
+Item #10512
+URL: https://database.turtle-wow.org/?item=10512
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Hi-Impact Mithril Slugs
+Projectile
+Bullet
+Adds 12.5 damage per second
+Requires Level 37
+
+
+Item #10513
+URL: https://database.turtle-wow.org/?item=10513
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Mithril Gyro-Shot
+Projectile
+Bullet
+Adds 15.0 damage per second
+Requires Level 44
+
+
+Item #11284
+URL: https://database.turtle-wow.org/?item=11284
+Category: Database/Items/Projectiles/Bullets
+Item: 
+Accurate Slugs
+Projectile
+Bullet
+Adds 13.0 damage per second
+Requires Level 40
+
+

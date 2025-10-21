@@ -1,0 +1,586 @@
+Item #2665
+URL: https://database.turtle-wow.org/?item=2665
+Category: Database/Items
+Item: 
+Stormwind Seasoning Herbs
+
+
+Item #4470
+URL: https://database.turtle-wow.org/?item=4470
+Category: Database/Items
+Item: 
+Simple Wood
+
+
+Item #4471
+URL: https://database.turtle-wow.org/?item=4471
+Category: Database/Items
+Item: 
+Flint and Tinder
+
+
+Item #4611
+URL: https://database.turtle-wow.org/?item=4611
+Category: Database/Items
+Item: 
+Blue Pearl
+
+
+Item #5024
+URL: https://database.turtle-wow.org/?item=5024
+Category: Database/Items
+Item: 
+Frost Vial
+
+
+Item #5105
+URL: https://database.turtle-wow.org/?item=5105
+Category: Database/Items
+Item: 
+Explosive Shell
+
+
+Item #5116
+URL: https://database.turtle-wow.org/?item=5116
+Category: Database/Items
+Item: 
+Long Tail Feather
+
+
+Item #5140
+URL: https://database.turtle-wow.org/?item=5140
+Category: Database/Items
+Item: 
+Flash Powder
+
+
+Item #5176
+URL: https://database.turtle-wow.org/?item=5176
+Category: Database/Items
+Item: 
+Fire Totem
+Binds when picked up
+Unique
+
+
+Item #5172
+URL: https://database.turtle-wow.org/?item=5172
+Category: Database/Items
+Item: 
+Death Capsule
+
+
+Item #5175
+URL: https://database.turtle-wow.org/?item=5175
+Category: Database/Items
+Item: 
+Earth Totem
+Binds when picked up
+Unique
+
+
+Item #5178
+URL: https://database.turtle-wow.org/?item=5178
+Category: Database/Items
+Item: 
+Air Totem
+Binds when picked up
+Unique
+
+
+Item #5177
+URL: https://database.turtle-wow.org/?item=5177
+Category: Database/Items
+Item: 
+Water Totem
+Binds when picked up
+Unique
+
+
+Item #5530
+URL: https://database.turtle-wow.org/?item=5530
+Category: Database/Items
+Item: 
+Blinding Powder
+
+
+Item #5529
+URL: https://database.turtle-wow.org/?item=5529
+Category: Database/Items
+Item: 
+Tomb Dust
+
+
+Item #5565
+URL: https://database.turtle-wow.org/?item=5565
+Category: Database/Items
+Item: 
+Infernal Stone
+
+
+Item #5636
+URL: https://database.turtle-wow.org/?item=5636
+Category: Database/Items
+Item: 
+Delicate Feather
+
+
+Item #6265
+URL: https://database.turtle-wow.org/?item=6265
+Category: Database/Items
+Item: 
+Soul Shard
+Binds when picked up
+
+
+Item #6359
+URL: https://database.turtle-wow.org/?item=6359
+Category: Database/Items
+Item: 
+Firefin Snapper
+
+
+Item #6358
+URL: https://database.turtle-wow.org/?item=6358
+Category: Database/Items
+Item: 
+Oily Blackmouth
+
+
+Item #6370
+URL: https://database.turtle-wow.org/?item=6370
+Category: Database/Items
+Item: 
+Blackmouth Oil
+
+
+Item #6371
+URL: https://database.turtle-wow.org/?item=6371
+Category: Database/Items
+Item: 
+Fire Oil
+
+
+Item #6453
+URL: https://database.turtle-wow.org/?item=6453
+Category: Database/Items
+Item: 
+Strong Anti-Venom
+Use:
+Target is cured of poisons up to level 35.
+
+
+Item #6452
+URL: https://database.turtle-wow.org/?item=6452
+Category: Database/Items
+Item: 
+Anti-Venom
+Use:
+Target is cured of poisons up to level 25.
+
+
+Item #6470
+URL: https://database.turtle-wow.org/?item=6470
+Category: Database/Items
+Item: 
+Deviate Scale
+
+
+Item #6471
+URL: https://database.turtle-wow.org/?item=6471
+Category: Database/Items
+Item: 
+Perfect Deviate Scale
+
+
+Item #7067
+URL: https://database.turtle-wow.org/?item=7067
+Category: Database/Items
+Item: 
+Elemental Earth
+
+
+Item #7072
+URL: https://database.turtle-wow.org/?item=7072
+Category: Database/Items
+Item: 
+Naga Scale
+
+
+Item #7068
+URL: https://database.turtle-wow.org/?item=7068
+Category: Database/Items
+Item: 
+Elemental Fire
+
+
+Item #7070
+URL: https://database.turtle-wow.org/?item=7070
+Category: Database/Items
+Item: 
+Elemental Water
+
+
+Item #7069
+URL: https://database.turtle-wow.org/?item=7069
+Category: Database/Items
+Item: 
+Elemental Air
+
+
+Item #7075
+URL: https://database.turtle-wow.org/?item=7075
+Category: Database/Items
+Item: 
+Core of Earth
+
+
+Item #7077
+URL: https://database.turtle-wow.org/?item=7077
+Category: Database/Items
+Item: 
+Heart of Fire
+
+
+Item #7079
+URL: https://database.turtle-wow.org/?item=7079
+Category: Database/Items
+Item: 
+Globe of Water
+
+
+Item #7081
+URL: https://database.turtle-wow.org/?item=7081
+Category: Database/Items
+Item: 
+Breath of Wind
+
+
+Item #7080
+URL: https://database.turtle-wow.org/?item=7080
+Category: Database/Items
+Item: 
+Essence of Water
+
+
+Item #7076
+URL: https://database.turtle-wow.org/?item=7076
+Category: Database/Items
+Item: 
+Essence of Earth
+
+
+Item #7078
+URL: https://database.turtle-wow.org/?item=7078
+Category: Database/Items
+Item: 
+Essence of Fire
+
+
+Item #7082
+URL: https://database.turtle-wow.org/?item=7082
+Category: Database/Items
+Item: 
+Essence of Air
+
+
+Item #7972
+URL: https://database.turtle-wow.org/?item=7972
+Category: Database/Items
+Item: 
+Ichor of Undeath
+
+
+Item #8168
+URL: https://database.turtle-wow.org/?item=8168
+Category: Database/Items
+Item: 
+Jet Black Feather
+
+
+Item #9060
+URL: https://database.turtle-wow.org/?item=9060
+Category: Database/Items
+Item: 
+Inlaid Mithril Cylinder
+"Used by Gnomish Engineers to reinforce their creations"
+
+
+Item #9061
+URL: https://database.turtle-wow.org/?item=9061
+Category: Database/Items
+Item: 
+Goblin Rocket Fuel
+"Used by Goblin Engineers to power their creations"
+
+
+Item #10286
+URL: https://database.turtle-wow.org/?item=10286
+Category: Database/Items
+Item: 
+Heart of the Wild
+
+
+Item #10286
+URL: https://database.turtle-wow.org/?item=10286
+Category: Database/Items
+Item: 
+Heart of the Wild
+
+
+Item #11291
+URL: https://database.turtle-wow.org/?item=11291
+Category: Database/Items
+Item: 
+Star Wood
+
+
+Item #12808
+URL: https://database.turtle-wow.org/?item=12808
+Category: Database/Items
+Item: 
+Essence of Undeath
+
+
+Item #12803
+URL: https://database.turtle-wow.org/?item=12803
+Category: Database/Items
+Item: 
+Living Essence
+
+
+Item #13422
+URL: https://database.turtle-wow.org/?item=13422
+Category: Database/Items
+Item: 
+Stonescale Eel
+
+
+Item #13423
+URL: https://database.turtle-wow.org/?item=13423
+Category: Database/Items
+Item: 
+Stonescale Oil
+
+
+Item #13757
+URL: https://database.turtle-wow.org/?item=13757
+Category: Database/Items
+Item: 
+Lightning Eel
+
+
+Item #13890
+URL: https://database.turtle-wow.org/?item=13890
+Category: Database/Items
+Item: 
+Plated Armorfish
+
+
+Item #15420
+URL: https://database.turtle-wow.org/?item=15420
+Category: Database/Items
+Item: 
+Ironfeather
+
+
+Item #16583
+URL: https://database.turtle-wow.org/?item=16583
+Category: Database/Items
+Item: 
+Demonic Figurine
+
+
+Item #17010
+URL: https://database.turtle-wow.org/?item=17010
+Category: Database/Items
+Item: 
+Fiery Core
+
+
+Item #17019
+URL: https://database.turtle-wow.org/?item=17019
+Category: Database/Items
+Item: 
+Arcane Dust
+
+
+Item #17011
+URL: https://database.turtle-wow.org/?item=17011
+Category: Database/Items
+Item: 
+Lava Core
+
+
+Item #17020
+URL: https://database.turtle-wow.org/?item=17020
+Category: Database/Items
+Item: 
+Arcane Powder
+
+
+Item #17026
+URL: https://database.turtle-wow.org/?item=17026
+Category: Database/Items
+Item: 
+Wild Thornroot
+
+
+Item #17024
+URL: https://database.turtle-wow.org/?item=17024
+Category: Database/Items
+Item: 
+Wild Root
+
+
+Item #17029
+URL: https://database.turtle-wow.org/?item=17029
+Category: Database/Items
+Item: 
+Sacred Candle
+
+
+Item #17027
+URL: https://database.turtle-wow.org/?item=17027
+Category: Database/Items
+Item: 
+Scented Candle
+
+
+Item #17028
+URL: https://database.turtle-wow.org/?item=17028
+Category: Database/Items
+Item: 
+Holy Candle
+
+
+Item #17030
+URL: https://database.turtle-wow.org/?item=17030
+Category: Database/Items
+Item: 
+Ankh
+
+
+Item #17021
+URL: https://database.turtle-wow.org/?item=17021
+Category: Database/Items
+Item: 
+Wild Berries
+
+
+Item #17038
+URL: https://database.turtle-wow.org/?item=17038
+Category: Database/Items
+Item: 
+Ironwood Seed
+
+
+Item #17033
+URL: https://database.turtle-wow.org/?item=17033
+Category: Database/Items
+Item: 
+Symbol of Divinity
+
+
+Item #17031
+URL: https://database.turtle-wow.org/?item=17031
+Category: Database/Items
+Item: 
+Rune of Teleportation
+
+
+Item #17036
+URL: https://database.turtle-wow.org/?item=17036
+Category: Database/Items
+Item: 
+Ashwood Seed
+
+
+Item #17037
+URL: https://database.turtle-wow.org/?item=17037
+Category: Database/Items
+Item: 
+Hornbeam Seed
+
+
+Item #17035
+URL: https://database.turtle-wow.org/?item=17035
+Category: Database/Items
+Item: 
+Stranglethorn Seed
+
+
+Item #17032
+URL: https://database.turtle-wow.org/?item=17032
+Category: Database/Items
+Item: 
+Rune of Portals
+
+
+Item #17034
+URL: https://database.turtle-wow.org/?item=17034
+Category: Database/Items
+Item: 
+Maple Seed
+
+
+Item #18512
+URL: https://database.turtle-wow.org/?item=18512
+Category: Database/Items
+Item: 
+Larval Acid
+
+
+Item #19440
+URL: https://database.turtle-wow.org/?item=19440
+Category: Database/Items
+Item: 
+Powerful Anti-Venom
+Requires First Aid (300)
+Use:
+Target is cured of poisons up to level 60.
+
+
+Item #21177
+URL: https://database.turtle-wow.org/?item=21177
+Category: Database/Items
+Item: 
+Symbol of Kings
+
+
+Item #21713
+URL: https://database.turtle-wow.org/?item=21713
+Category: Database/Items
+Item: 
+Elune's Candle
+Unique
+Use:
+Shoots a firework at target.
+
+
+Item #61531
+URL: https://database.turtle-wow.org/?item=61531
+Category: Database/Items
+Item: 
+Glowing Black Pearl
+Binds when picked up
+Unique
+Requires Level 52
+Equip:
+Increases healing done by spells and effects by up to 33.
+Equip:
+Restores 5 mana per 5 sec.
+
+
+Item #61533
+URL: https://database.turtle-wow.org/?item=61533
+Category: Database/Items
+Item: 
+Ring of the Forgotten Hero
+Binds when picked up
+Unique
+Requires Level 52
+Equip:
++40 Attack Power.
+
+

@@ -1,0 +1,2279 @@
+Item #2505
+URL: https://database.turtle-wow.org/?item=2505
+Category: Database/Items/Weapons/Bows
+Item: 
+Polished Shortbow
+Ranged
+Bow
+2 - 5  Damage
+Speed 2.00
+(1.8 damage per second)
+Durability 20 / 20
+
+
+Item #2504
+URL: https://database.turtle-wow.org/?item=2504
+Category: Database/Items/Weapons/Bows
+Item: 
+Worn Shortbow
+Ranged
+Bow
+2 - 5  Damage
+Speed 2.30
+(1.5 damage per second)
+Durability 20 / 20
+
+
+Item #2506
+URL: https://database.turtle-wow.org/?item=2506
+Category: Database/Items/Weapons/Bows
+Item: 
+Hornwood Recurve Bow
+Ranged
+Bow
+3 - 7  Damage
+Speed 2.10
+(2.4 damage per second)
+Durability 30 / 30
+Requires Level 3
+
+
+Item #2507
+URL: https://database.turtle-wow.org/?item=2507
+Category: Database/Items/Weapons/Bows
+Item: 
+Laminated Recurve Bow
+Ranged
+Bow
+10 - 20  Damage
+Speed 2.60
+(5.8 damage per second)
+Durability 40 / 40
+Requires Level 11
+
+
+Item #2550
+URL: https://database.turtle-wow.org/?item=2550
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, Short
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #2773
+URL: https://database.turtle-wow.org/?item=2773
+Category: Database/Items/Weapons/Bows
+Item: 
+Cracked Shortbow
+Ranged
+Bow
+3 - 6  Damage
+Speed 2.30
+(2.0 damage per second)
+Durability 30 / 30
+Requires Level 3
+
+
+Item #2785
+URL: https://database.turtle-wow.org/?item=2785
+Category: Database/Items/Weapons/Bows
+Item: 
+Stiff Recurve Bow
+Ranged
+Bow
+13 - 25  Damage
+Speed 2.80
+(6.8 damage per second)
+Durability 60 / 60
+Requires Level 23
+
+
+Item #2782
+URL: https://database.turtle-wow.org/?item=2782
+Category: Database/Items/Weapons/Bows
+Item: 
+Mishandled Recurve Bow
+Ranged
+Bow
+9 - 18  Damage
+Speed 2.40
+(5.6 damage per second)
+Durability 55 / 55
+Requires Level 19
+
+
+Item #2777
+URL: https://database.turtle-wow.org/?item=2777
+Category: Database/Items/Weapons/Bows
+Item: 
+Feeble Shortbow
+Ranged
+Bow
+4 - 8  Damage
+Speed 1.80
+(3.3 damage per second)
+Durability 35 / 35
+Requires Level 8
+
+
+Item #2780
+URL: https://database.turtle-wow.org/?item=2780
+Category: Database/Items/Weapons/Bows
+Item: 
+Light Hunting Bow
+Ranged
+Bow
+5 - 10  Damage
+Speed 1.70
+(4.4 damage per second)
+Durability 45 / 45
+Requires Level 14
+
+
+Item #2824
+URL: https://database.turtle-wow.org/?item=2824
+Category: Database/Items/Weapons/Bows
+Item: 
+Hurricane
+Binds when equipped
+Ranged
+Bow
+34 - 63  Damage
+Speed 1.60
+(30.3 damage per second)
+Durability 90 / 90
+Requires Level 48
+Equip:
+Chance to strike your target with a Frost Arrow for 31 to 46 Frost damage.
+
+
+Item #2825
+URL: https://database.turtle-wow.org/?item=2825
+Category: Database/Items/Weapons/Bows
+Item: 
+Bow of Searing Arrows
+Binds when equipped
+Ranged
+Bow
+47 - 88  Damage
+Speed 2.70
+(25.0 damage per second)
+Durability 90 / 90
+Requires Level 37
+Equip:
+Chance to strike your ranged target with a Searing Arrow for 18 to 27 Fire damage.
+
+
+Item #2903
+URL: https://database.turtle-wow.org/?item=2903
+Category: Database/Items/Weapons/Bows
+Item: 
+Daryl's Hunting Bow
+Binds when picked up
+Ranged
+Bow
+9 - 18  Damage
+Speed 2.30
+(5.9 damage per second)
+Durability 40 / 40
+
+
+Item #3026
+URL: https://database.turtle-wow.org/?item=3026
+Category: Database/Items/Weapons/Bows
+Item: 
+Reinforced Bow
+Ranged
+Bow
+11 - 22  Damage
+Speed 2.20
+(7.5 damage per second)
+Durability 50 / 50
+Requires Level 16
+
+
+Item #3027
+URL: https://database.turtle-wow.org/?item=3027
+Category: Database/Items/Weapons/Bows
+Item: 
+Heavy Recurve Bow
+Ranged
+Bow
+15 - 29  Damage
+Speed 2.40
+(9.2 damage per second)
+Durability 55 / 55
+Requires Level 20
+
+
+Item #3021
+URL: https://database.turtle-wow.org/?item=3021
+Category: Database/Items/Weapons/Bows
+Item: 
+Ranger Bow
+Binds when equipped
+Ranged
+Bow
+23 - 45  Damage
+Speed 2.70
+(12.6 damage per second)
++1 Agility
+Durability 65 / 65
+Requires Level 20
+
+
+Item #3028
+URL: https://database.turtle-wow.org/?item=3028
+Category: Database/Items/Weapons/Bows
+Item: 
+Longbow
+Ranged
+Bow
+21 - 39  Damage
+Speed 2.30
+(13.0 damage per second)
+Durability 65 / 65
+Requires Level 29
+
+
+Item #3037
+URL: https://database.turtle-wow.org/?item=3037
+Category: Database/Items/Weapons/Bows
+Item: 
+Whipwood Recurve Bow
+Binds when equipped
+Ranged
+Bow
+17 - 32  Damage
+Speed 1.80
+(13.6 damage per second)
+Durability 65 / 65
+Requires Level 29
+
+
+Item #3036
+URL: https://database.turtle-wow.org/?item=3036
+Category: Database/Items/Weapons/Bows
+Item: 
+Heavy Shortbow
+Binds when equipped
+Ranged
+Bow
+10 - 20  Damage
+Speed 2.50
+(6.0 damage per second)
+Durability 40 / 40
+Requires Level 10
+
+
+Item #3039
+URL: https://database.turtle-wow.org/?item=3039
+Category: Database/Items/Weapons/Bows
+Item: 
+Short Ash Bow
+Binds when equipped
+Ranged
+Bow
+12 - 23  Damage
+Speed 1.90
+(9.2 damage per second)
+Durability 55 / 55
+Requires Level 18
+
+
+Item #3078
+URL: https://database.turtle-wow.org/?item=3078
+Category: Database/Items/Weapons/Bows
+Item: 
+Naga Heartpiercer
+Binds when picked up
+Ranged
+Bow
+13 - 25  Damage
+Speed 1.80
+(10.6 damage per second)
+Durability 60 / 60
+Requires Level 21
+
+
+Item #3493
+URL: https://database.turtle-wow.org/?item=3493
+Category: Database/Items/Weapons/Bows
+Item: 
+Raptor's End
+Binds when picked up
+Ranged
+Bow
+24 - 46  Damage
+Speed 2.90
+(12.1 damage per second)
+Durability 65 / 65
+
+
+Item #3742
+URL: https://database.turtle-wow.org/?item=3742
+Category: Database/Items/Weapons/Bows
+Item: 
+Bow of Plunder
+Binds when picked up
+Ranged
+Bow
+20 - 39  Damage
+Speed 2.60
+(11.3 damage per second)
+Durability 60 / 60
+
+
+Item #3778
+URL: https://database.turtle-wow.org/?item=3778
+Category: Database/Items/Weapons/Bows
+Item: 
+Taut Compound Bow
+Ranged
+Bow
+13 - 25  Damage
+Speed 2.50
+(7.6 damage per second)
+Durability 65 / 65
+Requires Level 26
+
+
+Item #4025
+URL: https://database.turtle-wow.org/?item=4025
+Category: Database/Items/Weapons/Bows
+Item: 
+Balanced Long Bow
+Ranged
+Bow
+15 - 29  Damage
+Speed 1.80
+(12.2 damage per second)
+Durability 65 / 65
+Requires Level 40
+
+
+Item #4087
+URL: https://database.turtle-wow.org/?item=4087
+Category: Database/Items/Weapons/Bows
+Item: 
+Trueshot Bow
+Binds when equipped
+Ranged
+Bow
+24 - 45  Damage
+Speed 1.90
+(18.2 damage per second)
+Durability 65 / 65
+Requires Level 36
+Random Bonuses
+
+
+Item #4110
+URL: https://database.turtle-wow.org/?item=4110
+Category: Database/Items/Weapons/Bows
+Item: 
+Master Hunter's Bow
+Binds when picked up
+Ranged
+Bow
+35 - 65  Damage
+Speed 2.40
+(20.8 damage per second)
+Durability 65 / 65
+
+
+Item #4474
+URL: https://database.turtle-wow.org/?item=4474
+Category: Database/Items/Weapons/Bows
+Item: 
+Ravenwood Bow
+Binds when equipped
+Ranged
+Bow
+17 - 32  Damage
+Speed 1.90
+(12.9 damage per second)
+Durability 65 / 65
+Requires Level 27
+
+
+Item #4576
+URL: https://database.turtle-wow.org/?item=4576
+Category: Database/Items/Weapons/Bows
+Item: 
+Light Bow
+Binds when equipped
+Ranged
+Bow
+9 - 18  Damage
+Speed 1.70
+(7.9 damage per second)
+Durability 50 / 50
+Requires Level 16
+
+
+Item #4763
+URL: https://database.turtle-wow.org/?item=4763
+Category: Database/Items/Weapons/Bows
+Item: 
+Blackwood Recurve Bow
+Binds when equipped
+Ranged
+Bow
+7 - 14  Damage
+Speed 2.70
+(3.9 damage per second)
+Durability 30 / 30
+Requires Level 4
+
+
+Item #4931
+URL: https://database.turtle-wow.org/?item=4931
+Category: Database/Items/Weapons/Bows
+Item: 
+Hickory Shortbow
+Binds when picked up
+Ranged
+Bow
+5 - 10  Damage
+Speed 2.00
+(3.8 damage per second)
+Durability 35 / 35
+
+
+Item #5259
+URL: https://database.turtle-wow.org/?item=5259
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, Red
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #5262
+URL: https://database.turtle-wow.org/?item=5262
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, Dark Brown
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #5261
+URL: https://database.turtle-wow.org/?item=5261
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, Gray
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #5346
+URL: https://database.turtle-wow.org/?item=5346
+Category: Database/Items/Weapons/Bows
+Item: 
+Orcish Battle Bow
+Binds when picked up
+Ranged
+Bow
+7 - 14  Damage
+Speed 1.90
+(5.5 damage per second)
+Durability 40 / 40
+
+
+Item #5596
+URL: https://database.turtle-wow.org/?item=5596
+Category: Database/Items/Weapons/Bows
+Item: 
+Ashwood Bow
+Binds when picked up
+Ranged
+Bow
+5 - 11  Damage
+Speed 2.10
+(3.8 damage per second)
+Durability 35 / 35
+
+
+Item #5748
+URL: https://database.turtle-wow.org/?item=5748
+Category: Database/Items/Weapons/Bows
+Item: 
+Centaur Longbow
+Binds when equipped
+Ranged
+Bow
+9 - 18  Damage
+Speed 2.20
+(6.1 damage per second)
+Durability 40 / 40
+Requires Level 11
+
+
+Item #5817
+URL: https://database.turtle-wow.org/?item=5817
+Category: Database/Items/Weapons/Bows
+Item: 
+Lunaris Bow
+Binds when picked up
+Ranged
+Bow
+23 - 43  Damage
+Speed 2.70
+(12.2 damage per second)
+Durability 65 / 65
+
+
+Item #6469
+URL: https://database.turtle-wow.org/?item=6469
+Category: Database/Items/Weapons/Bows
+Item: 
+Venomstrike
+Binds when picked up
+Ranged
+Bow
+16 - 30  Damage
+Speed 2.40
+(9.6 damage per second)
+Durability 65 / 65
+Requires Level 19
+Equip:
+Chance to strike your ranged target with a Venom Shot for 31 to 46 Nature damage.
+
+
+Item #6696
+URL: https://database.turtle-wow.org/?item=6696
+Category: Database/Items/Weapons/Bows
+Item: 
+Nightstalker Bow
+Binds when picked up
+Ranged
+Bow
+19 - 36  Damage
+Speed 1.70
+(16.2 damage per second)
++3 Agility
+Durability 75 / 75
+Requires Level 27
+
+
+Item #6739
+URL: https://database.turtle-wow.org/?item=6739
+Category: Database/Items/Weapons/Bows
+Item: 
+Cliffrunner's Aim
+Binds when picked up
+Ranged
+Bow
+19 - 36  Damage
+Speed 2.30
+(12.0 damage per second)
+Durability 65 / 65
+
+
+Item #8179
+URL: https://database.turtle-wow.org/?item=8179
+Category: Database/Items/Weapons/Bows
+Item: 
+Cadet's Bow
+Ranged
+Bow
+3 - 6  Damage
+Speed 2.00
+(2.3 damage per second)
+Durability 25 / 25
+
+
+Item #8180
+URL: https://database.turtle-wow.org/?item=8180
+Category: Database/Items/Weapons/Bows
+Item: 
+Hunting Bow
+Binds when equipped
+Ranged
+Bow
+8 - 16  Damage
+Speed 2.60
+(4.6 damage per second)
+Durability 35 / 35
+Requires Level 6
+
+
+Item #8183
+URL: https://database.turtle-wow.org/?item=8183
+Category: Database/Items/Weapons/Bows
+Item: 
+Precision Bow
+Binds when equipped
+Ranged
+Bow
+20 - 37  Damage
+Speed 2.60
+(11.0 damage per second)
+Durability 60 / 60
+Requires Level 22
+
+
+Item #9400
+URL: https://database.turtle-wow.org/?item=9400
+Category: Database/Items/Weapons/Bows
+Item: 
+Baelog's Shortbow
+Binds when picked up
+Ranged
+Bow
+29 - 55  Damage
+Speed 2.30
+(18.3 damage per second)
++3 Agility
+Durability 65 / 65
+Requires Level 36
+
+
+Item #9426
+URL: https://database.turtle-wow.org/?item=9426
+Category: Database/Items/Weapons/Bows
+Item: 
+Monolithic Bow
+Binds when equipped
+Ranged
+Bow
+41 - 77  Damage
+Speed 2.70
+(21.9 damage per second)
++6 Strength
++3 Agility
+Durability 75 / 75
+Requires Level 36
+
+
+Item #10567
+URL: https://database.turtle-wow.org/?item=10567
+Category: Database/Items/Weapons/Bows
+Item: 
+Quillshooter
+Binds when equipped
+Ranged
+Bow
+31 - 58  Damage
+Speed 2.80
+(15.9 damage per second)
+Durability 75 / 75
+Requires Level 33
+Equip:
+Chance to strike your ranged target with a Quill Shot for 66 to 99 Nature damage.
+
+
+Item #10567
+URL: https://database.turtle-wow.org/?item=10567
+Category: Database/Items/Weapons/Bows
+Item: 
+Quillshooter
+Binds when equipped
+Ranged
+Bow
+31 - 58  Damage
+Speed 2.80
+(15.9 damage per second)
+Durability 75 / 75
+Requires Level 33
+Equip:
+Chance to strike your ranged target with a Quill Shot for 66 to 99 Nature damage.
+
+
+Item #10624
+URL: https://database.turtle-wow.org/?item=10624
+Category: Database/Items/Weapons/Bows
+Item: 
+Stinging Bow
+Binds when equipped
+Ranged
+Bow
+36 - 67  Damage
+Speed 2.10
+(24.5 damage per second)
++3 Strength
+Durability 75 / 75
+Requires Level 42
+Equip:
++14 Attack Power.
+
+
+Item #11307
+URL: https://database.turtle-wow.org/?item=11307
+Category: Database/Items/Weapons/Bows
+Item: 
+Massive Longbow
+Binds when equipped
+Ranged
+Bow
+43 - 80  Damage
+Speed 2.80
+(22.0 damage per second)
+Durability 65 / 65
+Requires Level 42
+
+
+Item #11306
+URL: https://database.turtle-wow.org/?item=11306
+Category: Database/Items/Weapons/Bows
+Item: 
+Sturdy Recurve
+Binds when equipped
+Ranged
+Bow
+20 - 37  Damage
+Speed 2.20
+(13.0 damage per second)
+Durability 65 / 65
+Requires Level 27
+
+
+Item #11308
+URL: https://database.turtle-wow.org/?item=11308
+Category: Database/Items/Weapons/Bows
+Item: 
+Sylvan Shortbow
+Binds when equipped
+Ranged
+Bow
+32 - 59  Damage
+Speed 2.00
+(22.8 damage per second)
+Durability 65 / 65
+Requires Level 44
+
+
+Item #11305
+URL: https://database.turtle-wow.org/?item=11305
+Category: Database/Items/Weapons/Bows
+Item: 
+Dense Shortbow
+Binds when equipped
+Ranged
+Bow
+19 - 35  Damage
+Speed 1.90
+(14.2 damage per second)
+Durability 65 / 65
+Requires Level 30
+
+
+Item #11304
+URL: https://database.turtle-wow.org/?item=11304
+Category: Database/Items/Weapons/Bows
+Item: 
+Fine Longbow
+Binds when equipped
+Ranged
+Bow
+14 - 26  Damage
+Speed 2.70
+(7.4 damage per second)
+Durability 45 / 45
+Requires Level 14
+
+
+Item #11303
+URL: https://database.turtle-wow.org/?item=11303
+Category: Database/Items/Weapons/Bows
+Item: 
+Fine Shortbow
+Binds when equipped
+Ranged
+Bow
+7 - 14  Damage
+Speed 1.70
+(6.2 damage per second)
+Durability 40 / 40
+Requires Level 11
+
+
+Item #11628
+URL: https://database.turtle-wow.org/?item=11628
+Category: Database/Items/Weapons/Bows
+Item: 
+Houndmaster's Bow
+Binds when picked up
+Ranged
+Bow
+34 - 64  Damage
+Speed 1.80
+(27.2 damage per second)
++3 Agility
+Durability 75 / 75
+Requires Level 48
+Equip:
+Attack Power increased by 24 when fighting Beasts.
+
+
+Item #11628
+URL: https://database.turtle-wow.org/?item=11628
+Category: Database/Items/Weapons/Bows
+Item: 
+Houndmaster's Bow
+Binds when picked up
+Ranged
+Bow
+34 - 64  Damage
+Speed 1.80
+(27.2 damage per second)
++3 Agility
+Durability 75 / 75
+Requires Level 48
+Equip:
+Attack Power increased by 24 when fighting Beasts.
+
+
+Item #12449
+URL: https://database.turtle-wow.org/?item=12449
+Category: Database/Items/Weapons/Bows
+Item: 
+Primitive Bow
+Binds when picked up
+Ranged
+Bow
+4 - 8  Damage
+Speed 2.70
+(2.2 damage per second)
+Durability 25 / 25
+
+
+Item #12447
+URL: https://database.turtle-wow.org/?item=12447
+Category: Database/Items/Weapons/Bows
+Item: 
+Thistlewood Bow
+Binds when picked up
+Ranged
+Bow
+3 - 7  Damage
+Speed 2.30
+(2.2 damage per second)
+Durability 25 / 25
+
+
+Item #12653
+URL: https://database.turtle-wow.org/?item=12653
+Category: Database/Items/Weapons/Bows
+Item: 
+Riphook
+Binds when picked up
+Ranged
+Bow
+46 - 87  Damage
+Speed 2.20
+(30.2 damage per second)
+Durability 75 / 75
+Requires Level 54
+Equip:
++22 Attack Power.
+
+
+Item #13019
+URL: https://database.turtle-wow.org/?item=13019
+Category: Database/Items/Weapons/Bows
+Item: 
+Harpyclaw Short Bow
+Binds when equipped
+Ranged
+Bow
+20 - 38  Damage
+Speed 1.80
+(16.1 damage per second)
+Durability 75 / 75
+Requires Level 27
+
+
+Item #13020
+URL: https://database.turtle-wow.org/?item=13020
+Category: Database/Items/Weapons/Bows
+Item: 
+Skystriker Bow
+Binds when equipped
+Ranged
+Bow
+30 - 57  Damage
+Speed 2.10
+(20.7 damage per second)
+Durability 75 / 75
+Requires Level 34
+
+
+Item #13022
+URL: https://database.turtle-wow.org/?item=13022
+Category: Database/Items/Weapons/Bows
+Item: 
+Gryphonwing Long Bow
+Binds when equipped
+Ranged
+Bow
+53 - 100  Damage
+Speed 2.70
+(28.3 damage per second)
++8 Agility
++4 Stamina
+Durability 75 / 75
+Requires Level 50
+
+
+Item #13023
+URL: https://database.turtle-wow.org/?item=13023
+Category: Database/Items/Weapons/Bows
+Item: 
+Eaglehorn Long Bow
+Binds when equipped
+Ranged
+Bow
+40 - 76  Damage
+Speed 1.80
+(32.2 damage per second)
++10 Agility
++4 Stamina
+Durability 75 / 75
+Requires Level 58
+
+
+Item #13021
+URL: https://database.turtle-wow.org/?item=13021
+Category: Database/Items/Weapons/Bows
+Item: 
+Needle Threader
+Binds when equipped
+Ranged
+Bow
+34 - 64  Damage
+Speed 2.00
+(24.5 damage per second)
++4 Spirit
++6 Stamina
+Durability 75 / 75
+Requires Level 42
+
+
+Item #13147
+URL: https://database.turtle-wow.org/?item=13147
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, White
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #13175
+URL: https://database.turtle-wow.org/?item=13175
+Category: Database/Items/Weapons/Bows
+Item: 
+Voone's Twitchbow
+Binds when picked up
+Ranged
+Bow
+31 - 58  Damage
+Speed 1.60
+(27.8 damage per second)
+Durability 65 / 65
+Requires Level 55
+
+
+Item #13824
+URL: https://database.turtle-wow.org/?item=13824
+Category: Database/Items/Weapons/Bows
+Item: 
+Recurve Long Bow
+Ranged
+Bow
+26 - 50  Damage
+Speed 2.50
+(15.2 damage per second)
+Durability 65 / 65
+Requires Level 45
+
+
+Item #14105
+URL: https://database.turtle-wow.org/?item=14105
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, C01/B02 White
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #14118
+URL: https://database.turtle-wow.org/?item=14118
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, C02/B02 Black
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #14394
+URL: https://database.turtle-wow.org/?item=14394
+Category: Database/Items/Weapons/Bows
+Item: 
+Durability Bow
+Ranged
+Bow
+1 - 3  Damage
+Speed 1.80
+(1.1 damage per second)
+Durability 18 / 18
+
+
+Item #15285
+URL: https://database.turtle-wow.org/?item=15285
+Category: Database/Items/Weapons/Bows
+Item: 
+Archer's Longbow
+Binds when equipped
+Ranged
+Bow
+23 - 44  Damage
+Speed 2.60
+(12.9 damage per second)
+Durability 65 / 65
+Requires Level 27
+
+
+Item #15288
+URL: https://database.turtle-wow.org/?item=15288
+Category: Database/Items/Weapons/Bows
+Item: 
+Blasthorn Bow
+Binds when equipped
+Ranged
+Bow
+51 - 96  Damage
+Speed 2.60
+(28.3 damage per second)
+Durability 65 / 65
+Requires Level 56
+Random Bonuses
+
+
+Item #15289
+URL: https://database.turtle-wow.org/?item=15289
+Category: Database/Items/Weapons/Bows
+Item: 
+Archstrike Bow
+Binds when equipped
+Ranged
+Bow
+48 - 91  Damage
+Speed 2.30
+(30.2 damage per second)
+Durability 65 / 65
+Requires Level 60
+Random Bonuses
+
+
+Item #15284
+URL: https://database.turtle-wow.org/?item=15284
+Category: Database/Items/Weapons/Bows
+Item: 
+Long Battle Bow
+Binds when equipped
+Ranged
+Bow
+18 - 34  Damage
+Speed 2.20
+(11.8 damage per second)
+Durability 65 / 65
+Requires Level 24
+
+
+Item #15286
+URL: https://database.turtle-wow.org/?item=15286
+Category: Database/Items/Weapons/Bows
+Item: 
+Long Redwood Bow
+Binds when equipped
+Ranged
+Bow
+28 - 52  Damage
+Speed 2.80
+(14.3 damage per second)
+Durability 65 / 65
+Requires Level 30
+
+
+Item #15287
+URL: https://database.turtle-wow.org/?item=15287
+Category: Database/Items/Weapons/Bows
+Item: 
+Crusader Bow
+Binds when equipped
+Ranged
+Bow
+32 - 60  Damage
+Speed 2.20
+(20.9 damage per second)
+Durability 65 / 65
+Requires Level 40
+Random Bonuses
+
+
+Item #15295
+URL: https://database.turtle-wow.org/?item=15295
+Category: Database/Items/Weapons/Bows
+Item: 
+Quillfire Bow
+Binds when equipped
+Ranged
+Bow
+41 - 77  Damage
+Speed 2.30
+(25.7 damage per second)
+Durability 65 / 65
+Requires Level 50
+Random Bonuses
+
+
+Item #15296
+URL: https://database.turtle-wow.org/?item=15296
+Category: Database/Items/Weapons/Bows
+Item: 
+Hawkeye Bow
+Binds when equipped
+Ranged
+Bow
+35 - 65  Damage
+Speed 1.70
+(29.4 damage per second)
+Durability 65 / 65
+Requires Level 58
+Random Bonuses
+
+
+Item #15291
+URL: https://database.turtle-wow.org/?item=15291
+Category: Database/Items/Weapons/Bows
+Item: 
+Harpy Needler
+Binds when equipped
+Ranged
+Bow
+44 - 84  Damage
+Speed 2.70
+(23.7 damage per second)
+Durability 65 / 65
+Requires Level 46
+Random Bonuses
+
+
+Item #15294
+URL: https://database.turtle-wow.org/?item=15294
+Category: Database/Items/Weapons/Bows
+Item: 
+Siege Bow
+Binds when equipped
+Ranged
+Bow
+48 - 90  Damage
+Speed 2.80
+(24.6 damage per second)
+Durability 65 / 65
+Requires Level 48
+Random Bonuses
+
+
+Item #16622
+URL: https://database.turtle-wow.org/?item=16622
+Category: Database/Items/Weapons/Bows
+Item: 
+Thornflinger
+Binds when picked up
+Ranged
+Bow
+52 - 97  Damage
+Speed 2.80
+(26.6 damage per second)
+Durability 65 / 65
+
+
+Item #16996
+URL: https://database.turtle-wow.org/?item=16996
+Category: Database/Items/Weapons/Bows
+Item: 
+Gorewood Bow
+Binds when picked up
+Ranged
+Bow
+55 - 104  Damage
+Speed 2.50
+(31.8 damage per second)
++9 Stamina
++3 Agility
++2 Strength
+Durability 75 / 75
+
+
+Item #17069
+URL: https://database.turtle-wow.org/?item=17069
+Category: Database/Items/Weapons/Bows
+Item: 
+Striker's Mark
+Binds when picked up
+Ranged
+Bow
+69 - 129  Damage
+Speed 2.50
+(39.6 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
++22 Attack Power.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #17686
+URL: https://database.turtle-wow.org/?item=17686
+Category: Database/Items/Weapons/Bows
+Item: 
+Master Hunter's Bow
+Binds when picked up
+Ranged
+Bow
+32 - 61  Damage
+Speed 2.40
+(19.4 damage per second)
+Durability 65 / 65
+
+
+Item #17753
+URL: https://database.turtle-wow.org/?item=17753
+Category: Database/Items/Weapons/Bows
+Item: 
+Verdant Keeper's Aim
+Binds when picked up
+Ranged
+Bow
+53 - 100  Damage
+Speed 2.80
+(27.3 damage per second)
+Durability 75 / 75
+Equip:
+Chance to strike your ranged target with Keeper's Sting for 15 to 22 Nature damage.
+
+
+Item #18323
+URL: https://database.turtle-wow.org/?item=18323
+Category: Database/Items/Weapons/Bows
+Item: 
+Satyr's Bow
+Binds when picked up
+Ranged
+Bow
+50 - 93  Damage
+Speed 2.40
+(29.8 damage per second)
++3 Agility
+Durability 75 / 75
+Requires Level 53
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #18482
+URL: https://database.turtle-wow.org/?item=18482
+Category: Database/Items/Weapons/Bows
+Item: 
+Ogre Toothpick Shooter
+Binds when picked up
+Ranged
+Bow
+61 - 62  Damage
+Speed 2.20
+(28.0 damage per second)
++6 Agility
++5 Stamina
+Durability 65 / 65
+Requires Level 55
+
+
+Item #18680
+URL: https://database.turtle-wow.org/?item=18680
+Category: Database/Items/Weapons/Bows
+Item: 
+Ancient Bone Bow
+Binds when picked up
+Ranged
+Bow
+61 - 114  Damage
+Speed 2.80
+(31.3 damage per second)
++11 Agility
+Durability 75 / 75
+Requires Level 56
+
+
+Item #18713
+URL: https://database.turtle-wow.org/?item=18713
+Category: Database/Items/Weapons/Bows
+Item: 
+Rhok'delar, Longbow of the Ancient Keepers
+Binds when picked up
+Unique
+Ranged
+Bow
+89 - 166  Damage
+Speed 2.90
+(44.0 damage per second)
+Durability 90 / 90
+Classes: Hunter
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++17 ranged Attack Power.
+
+
+Item #18729
+URL: https://database.turtle-wow.org/?item=18729
+Category: Database/Items/Weapons/Bows
+Item: 
+Screeching Bow
+Binds when picked up
+Ranged
+Bow
+70 - 71  Damage
+Speed 2.30
+(30.7 damage per second)
++3 Stamina
++10 Shadow Resistance
+Durability 75 / 75
+Requires Level 55
+
+
+Item #18835
+URL: https://database.turtle-wow.org/?item=18835
+Category: Database/Items/Weapons/Bows
+Item: 
+High Warlord's Recurve
+Binds when picked up
+Ranged
+Bow
+74 - 109  Damage
+Speed 1.80
+(50.8 damage per second)
++9 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++41 ranged Attack Power.
+
+
+Item #18833
+URL: https://database.turtle-wow.org/?item=18833
+Category: Database/Items/Weapons/Bows
+Item: 
+Grand Marshal's Bullseye
+Binds when picked up
+Ranged
+Bow
+74 - 109  Damage
+Speed 1.80
+(50.8 damage per second)
++9 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++41 ranged Attack Power.
+
+
+Item #19114
+URL: https://database.turtle-wow.org/?item=19114
+Category: Database/Items/Weapons/Bows
+Item: 
+Highland Bow
+Binds when picked up
+Ranged
+Bow
+41 - 77  Damage
+Speed 2.50
+(23.6 damage per second)
++5 Agility
++4 Stamina
+Durability 65 / 65
+
+
+Item #19350
+URL: https://database.turtle-wow.org/?item=19350
+Category: Database/Items/Weapons/Bows
+Item: 
+Heartstriker
+Binds when picked up
+Ranged
+Bow
+80 - 149  Damage
+Speed 2.60
+(44.0 damage per second)
++9 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++24 Attack Power.
+
+
+Item #19559
+URL: https://database.turtle-wow.org/?item=19559
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrider's Bow
+Binds when picked up
+Ranged
+Bow
+46 - 86  Damage
+Speed 2.40
+(27.5 damage per second)
++8 Stamina
++3 Agility
+Durability 75 / 75
+Requires Level 48
+
+
+Item #19558
+URL: https://database.turtle-wow.org/?item=19558
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrider's Bow
+Binds when picked up
+Ranged
+Bow
+62 - 114  Damage
+Speed 2.40
+(36.7 damage per second)
++11 Stamina
++5 Agility
+Durability 75 / 75
+Requires Level 60
+
+
+Item #19560
+URL: https://database.turtle-wow.org/?item=19560
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrider's Bow
+Binds when picked up
+Ranged
+Bow
+38 - 71  Damage
+Speed 2.40
+(22.7 damage per second)
++6 Stamina
++3 Agility
+Durability 75 / 75
+Requires Level 38
+
+
+Item #19561
+URL: https://database.turtle-wow.org/?item=19561
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrider's Bow
+Binds when picked up
+Ranged
+Bow
+28 - 52  Damage
+Speed 2.40
+(16.7 damage per second)
+Durability 75 / 75
+Requires Level 28
+
+
+Item #19563
+URL: https://database.turtle-wow.org/?item=19563
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrunner's Bow
+Binds when picked up
+Ranged
+Bow
+46 - 86  Damage
+Speed 2.40
+(27.5 damage per second)
++8 Stamina
++3 Agility
+Durability 75 / 75
+Requires Level 48
+
+
+Item #19565
+URL: https://database.turtle-wow.org/?item=19565
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrunner's Bow
+Binds when picked up
+Ranged
+Bow
+28 - 52  Damage
+Speed 2.40
+(16.7 damage per second)
+Durability 75 / 75
+Requires Level 28
+
+
+Item #19562
+URL: https://database.turtle-wow.org/?item=19562
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrunner's Bow
+Binds when picked up
+Ranged
+Bow
+62 - 114  Damage
+Speed 2.40
+(36.7 damage per second)
++11 Stamina
++5 Agility
+Durability 75 / 75
+Requires Level 60
+
+
+Item #19564
+URL: https://database.turtle-wow.org/?item=19564
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrunner's Bow
+Binds when picked up
+Ranged
+Bow
+38 - 71  Damage
+Speed 2.40
+(22.7 damage per second)
++6 Stamina
++3 Agility
+Durability 75 / 75
+Requires Level 38
+
+
+Item #19993
+URL: https://database.turtle-wow.org/?item=19993
+Category: Database/Items/Weapons/Bows
+Item: 
+Hoodoo Hunting Bow
+Binds when picked up
+Ranged
+Bow
+68 - 128  Damage
+Speed 2.80
+(35.0 damage per second)
++10 Agility
++4 Stamina
+Durability 75 / 75
+Requires Level 60
+
+
+Item #20038
+URL: https://database.turtle-wow.org/?item=20038
+Category: Database/Items/Weapons/Bows
+Item: 
+Mandokir's Sting
+Binds when picked up
+Ranged
+Bow
+68 - 127  Damage
+Speed 2.60
+(37.5 damage per second)
++11 Agility
++8 Stamina
+Durability 90 / 90
+Requires Level 60
+
+
+Item #20299
+URL: https://database.turtle-wow.org/?item=20299
+Category: Database/Items/Weapons/Bows
+Item: 
+90 Green Rogue Bow
+Binds when picked up
+Ranged
+Bow
+81 - 151  Damage
+Speed 2.50
+(46.4 damage per second)
++6 Stamina
++10 Agility
+Durability 65 / 65
+Requires Level 60
+
+
+Item #20313
+URL: https://database.turtle-wow.org/?item=20313
+Category: Database/Items/Weapons/Bows
+Item: 
+63 Green Rogue Bow
+Binds when picked up
+Ranged
+Bow
+51 - 96  Damage
+Speed 2.50
+(29.4 damage per second)
++4 Stamina
++7 Agility
+Durability 65 / 65
+Requires Level 58
+
+
+Item #20368
+URL: https://database.turtle-wow.org/?item=20368
+Category: Database/Items/Weapons/Bows
+Item: 
+Bland Bow of Steadiness
+Binds when picked up
+Ranged
+Bow
+46 - 46  Damage
+Speed 1.50
+(30.7 damage per second)
+Durability 75 / 75
+Requires Level 60
+"This bow has no real variance."
+
+
+Item #20438
+URL: https://database.turtle-wow.org/?item=20438
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrunner's Bow
+Binds when picked up
+Ranged
+Bow
+19 - 37  Damage
+Speed 2.40
+(11.7 damage per second)
+Durability 65 / 65
+Requires Level 18
+
+
+Item #20437
+URL: https://database.turtle-wow.org/?item=20437
+Category: Database/Items/Weapons/Bows
+Item: 
+Outrider's Bow
+Binds when picked up
+Ranged
+Bow
+19 - 37  Damage
+Speed 2.40
+(11.7 damage per second)
+Durability 65 / 65
+Requires Level 18
+
+
+Item #20488
+URL: https://database.turtle-wow.org/?item=20488
+Category: Database/Items/Weapons/Bows
+Item: 
+Rhok'delar, Longbow of the Ancient Keepers DEP
+Binds when picked up
+Unique
+Ranged
+Bow
+89 - 166  Damage
+Speed 2.90
+(44.0 damage per second)
+Durability 90 / 90
+Classes: Hunter
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++17 ranged Attack Power.
+
+
+Item #20646
+URL: https://database.turtle-wow.org/?item=20646
+Category: Database/Items/Weapons/Bows
+Item: 
+Sandstrider's Mark
+Binds when picked up
+Ranged
+Bow
+44 - 82  Damage
+Speed 2.30
+(27.4 damage per second)
++8 Stamina
+Durability 65 / 65
+
+
+Item #20663
+URL: https://database.turtle-wow.org/?item=20663
+Category: Database/Items/Weapons/Bows
+Item: 
+Deep Strike Bow
+Binds when picked up
+Ranged
+Bow
+58 - 108  Damage
+Speed 2.70
+(30.7 damage per second)
++6 Agility
++6 Intellect
++4 Stamina
+Durability 75 / 75
+Requires Level 55
+
+
+Item #21478
+URL: https://database.turtle-wow.org/?item=21478
+Category: Database/Items/Weapons/Bows
+Item: 
+Bow of Taut Sinew
+Binds when picked up
+Ranged
+Bow
+59 - 111  Damage
+Speed 2.20
+(38.6 damage per second)
++8 Nature Resistance
+Durability 90 / 90
+Requires Level 60
+Equip:
++22 Attack Power.
+
+
+Item #21550
+URL: https://database.turtle-wow.org/?item=21550
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, Kaldorei
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #21616
+URL: https://database.turtle-wow.org/?item=21616
+Category: Database/Items/Weapons/Bows
+Item: 
+Huhuran's Stinger
+Binds when picked up
+Ranged
+Bow
+87 - 163  Damage
+Speed 2.70
+(46.3 damage per second)
++18 Agility
+Durability 90 / 90
+Requires Level 60
+
+
+Item #22318
+URL: https://database.turtle-wow.org/?item=22318
+Category: Database/Items/Weapons/Bows
+Item: 
+Malgen's Long Bow
+Binds when picked up
+Ranged
+Bow
+63 - 118  Damage
+Speed 2.90
+(31.2 damage per second)
++4 Stamina
+Durability 75 / 75
+Requires Level 56
+Equip:
++20 Attack Power.
+
+
+Item #22811
+URL: https://database.turtle-wow.org/?item=22811
+Category: Database/Items/Weapons/Bows
+Item: 
+Soulstring
+Binds when picked up
+Ranged
+Bow
+113 - 201  Damage
+Speed 2.90
+(54.1 damage per second)
++6 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++18 Attack Power.
+
+
+Item #41190
+URL: https://database.turtle-wow.org/?item=41190
+Category: Database/Items/Weapons/Bows
+Item: 
+Bow of Alah'Thalas
+Binds when picked up
+Ranged
+Bow
+9 - 18  Damage
+Speed 2.50
+(5.4 damage per second)
++1 Agility
+Durability 35 / 35
+
+
+Item #41725
+URL: https://database.turtle-wow.org/?item=41725
+Category: Database/Items/Weapons/Bows
+Item: 
+Dragonmaw Battle Bow
+Binds when picked up
+Ranged
+Bow
+22 - 58  Damage
+Speed 2.40
+(16.7 damage per second)
++5 Fire Resistance
+Durability 75 / 75
+Requires Level 28
+
+
+Item #51768
+URL: https://database.turtle-wow.org/?item=51768
+Category: Database/Items/Weapons/Bows
+Item: 
+Bow of Quel'Danil
+Binds when picked up
+Ranged
+Bow
+32 - 59  Damage
+Speed 2.10
+(21.7 damage per second)
++4 Agility
++4 Stamina
+Durability 65 / 65
+
+
+Item #55346
+URL: https://database.turtle-wow.org/?item=55346
+Category: Database/Items/Weapons/Bows
+Item: 
+Rain of Spiders
+Binds when picked up
+Unique
+Ranged
+Bow
+144 - 255  Damage
+Speed 3.10
+(64.4 damage per second)
++10 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
++22 ranged Attack Power.
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #58016
+URL: https://database.turtle-wow.org/?item=58016
+Category: Database/Items/Weapons/Bows
+Item: 
+Ashwood Bow
+Binds when picked up
+Ranged
+Bow
+29 - 50  Damage
+Speed 2.30
+(17.2 damage per second)
++5 Stamina
+Durability 65 / 65
+
+
+Item #58193
+URL: https://database.turtle-wow.org/?item=58193
+Category: Database/Items/Weapons/Bows
+Item: 
+Demon Hair Bow
+Binds when picked up
+Ranged
+Bow
+53 - 79  Damage
+Speed 3.10
+(21.3 damage per second)
+Durability 75 / 75
+Requires Level 35
+Equip:
++19 ranged Attack Power.
+
+
+Item #60309
+URL: https://database.turtle-wow.org/?item=60309
+Category: Database/Items/Weapons/Bows
+Item: 
+'Jadewood' Longbow
+Binds when picked up
+Ranged
+Bow
+23 - 45  Damage
+Speed 1.90
+(17.9 damage per second)
++6 Intellect
+Durability 65 / 65
+"The band is encrusted with bright jades"
+
+
+Item #60339
+URL: https://database.turtle-wow.org/?item=60339
+Category: Database/Items/Weapons/Bows
+Item: 
+High Elven Rotten Bow
+Binds when picked up
+Ranged
+Bow
+9 - 18  Damage
+Speed 2.30
+(5.9 damage per second)
+Durability 40 / 40
+
+
+Item #60440
+URL: https://database.turtle-wow.org/?item=60440
+Category: Database/Items/Weapons/Bows
+Item: 
+Bloodscalp Longbow
+Binds when picked up
+Ranged
+Bow
+56 - 108  Damage
+Speed 3.00
+(27.3 damage per second)
++6 Agility
+Durability 75 / 75
+Requires Level 45
+
+
+Item #60882
+URL: https://database.turtle-wow.org/?item=60882
+Category: Database/Items/Weapons/Bows
+Item: 
+Magram Windstriker
+Binds when picked up
+Ranged
+Bow
+71 - 92  Damage
+Speed 2.90
++5 - 7 Nature Damage
+(30.2 damage per second)
++4 Intellect
+Durability 75 / 75
+Requires Level 48
+Requires Magram Clan Centaur - Revered
+Equip:
++12 ranged Attack Power.
+
+
+Item #60953
+URL: https://database.turtle-wow.org/?item=60953
+Category: Database/Items/Weapons/Bows
+Item: 
+Brackenwall Longbow
+Binds when picked up
+Ranged
+Bow
+49 - 90  Damage
+Speed 2.90
+(24.0 damage per second)
++8 Agility
+Durability 75 / 75
+
+
+Item #61165
+URL: https://database.turtle-wow.org/?item=61165
+Category: Database/Items/Weapons/Bows
+Item: 
+Bow of the Night Huntress
+Binds when picked up
+Ranged
+Bow
+22 - 41  Damage
+Speed 2.20
+(14.3 damage per second)
++5 Shadow Resistance
+Durability 65 / 65
+
+
+Item #61525
+URL: https://database.turtle-wow.org/?item=61525
+Category: Database/Items/Weapons/Bows
+Item: 
+Nature's Call
+Binds when picked up
+Unique
+Ranged
+Bow
+103 - 191  Damage
+Speed 3.00
+(49.0 damage per second)
++8 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
+Improves your chance to hit by 1%.
+Equip:
+Your attacks ignore 25 of the target's armor.
+"Favored by the dryad."
+
+
+Item #61569
+URL: https://database.turtle-wow.org/?item=61569
+Category: Database/Items/Weapons/Bows
+Item: 
+Time Frozen Bow
+Binds when equipped
+Ranged
+Bow
+76 - 139  Damage
+Speed 3.50
++4 - 10 Fire Damage
+(32.7 damage per second)
++-10 Frost Resistance
+Durability 75 / 75
+Requires Level 59
+Equip:
+Increases your attack and casting speed by 1%.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #80207
+URL: https://database.turtle-wow.org/?item=80207
+Category: Database/Items/Weapons/Bows
+Item: 
+Worn Wooden Bow
+Binds when picked up
+Ranged
+Bow
+5 - 9  Damage
+Speed 2.80
+(2.5 damage per second)
+Durability 25 / 25
+
+
+Item #80223
+URL: https://database.turtle-wow.org/?item=80223
+Category: Database/Items/Weapons/Bows
+Item: 
+Farstrider Lodge Protector's Bow
+Binds when picked up
+Ranged
+Bow
+19 - 37  Damage
+Speed 2.40
+(11.7 damage per second)
+Durability 65 / 65
+Requires Level 18
+
+
+Item #80503
+URL: https://database.turtle-wow.org/?item=80503
+Category: Database/Items/Weapons/Bows
+Item: 
+Well-balanced Short Bow
+Binds when picked up
+Ranged
+Bow
+8 - 15  Damage
+Speed 1.70
+(6.8 damage per second)
+Durability 40 / 40
+Classes: Warrior, Hunter, Rogue
+Requires Level 10
+Requires Silvermoon Remnant - Friendly
+
+
+Item #80546
+URL: https://database.turtle-wow.org/?item=80546
+Category: Database/Items/Weapons/Bows
+Item: 
+Quel'dorei Ranger's Longbow
+Binds when picked up
+Ranged
+Bow
+75 - 118  Damage
+Speed 2.90
+(33.3 damage per second)
++5 Stamina
+Durability 75 / 75
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
++22 Attack Power.
+
+
+Item #80603
+URL: https://database.turtle-wow.org/?item=80603
+Category: Database/Items/Weapons/Bows
+Item: 
+Sturdy Short Bow
+Binds when picked up
+Ranged
+Bow
+7 - 14  Damage
+Speed 1.70
+(6.2 damage per second)
+Durability 40 / 40
+Classes: Warrior, Hunter, Rogue
+Requires Level 10
+Requires Revantusk Trolls - Friendly
+
+
+Item #80646
+URL: https://database.turtle-wow.org/?item=80646
+Category: Database/Items/Weapons/Bows
+Item: 
+Revantusk Shadow Hunter's Longbow
+Binds when picked up
+Ranged
+Bow
+75 - 118  Damage
+Speed 2.90
+(33.3 damage per second)
++5 Stamina
+Durability 75 / 75
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
++22 Attack Power.
+
+
+Item #80820
+URL: https://database.turtle-wow.org/?item=80820
+Category: Database/Items/Weapons/Bows
+Item: 
+Quilflinger
+Binds when equipped
+Ranged
+Bow
+7 - 14  Damage
+Speed 2.10
++1 - 1 Nature Damage
+(5.5 damage per second)
+Durability 35 / 35
+Requires Level 8
+
+
+Item #80825
+URL: https://database.turtle-wow.org/?item=80825
+Category: Database/Items/Weapons/Bows
+Item: 
+Flamestring Bow
+Binds when equipped
+Ranged
+Bow
+44 - 84  Damage
+Speed 2.60
++2 - 7 Fire Damage
+(26.3 damage per second)
+Requires Level 42
+Equip:
+Adds 4 fire damage to your weapon attack.
+
+
+Item #80876
+URL: https://database.turtle-wow.org/?item=80876
+Category: Database/Items/Weapons/Bows
+Item: 
+Silvermoon Bow
+Ranged
+Bow
+2 - 5  Damage
+Speed 2.30
+(1.5 damage per second)
+Durability 20 / 20
+
+
+Item #83225
+URL: https://database.turtle-wow.org/?item=83225
+Category: Database/Items/Weapons/Bows
+Item: 
+Bow of the Grove
+Binds when picked up
+Ranged
+Bow
+43 - 68  Damage
+Speed 2.60
+(21.3 damage per second)
++3 Agility
+Durability 75 / 75
+Requires Level 35
+
+
+Item #83452
+URL: https://database.turtle-wow.org/?item=83452
+Category: Database/Items/Weapons/Bows
+Item: 
+Windbreaker
+Binds when picked up
+Ranged
+Bow
+44 - 96  Damage
+Speed 2.30
++7 - 14 Frost Damage
+(35.0 damage per second)
++12 Agility
++5 Frost Resistance
+Durability 75 / 75
+Requires Level 60
+
+
+Item #5258
+URL: https://database.turtle-wow.org/?item=5258
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, Black
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+
+Item #5260
+URL: https://database.turtle-wow.org/?item=5260
+Category: Database/Items/Weapons/Bows
+Item: 
+Monster - Bow, Brown
+Ranged
+Bow
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 18 / 18
+
+

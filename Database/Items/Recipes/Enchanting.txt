@@ -1,0 +1,1116 @@
+Item #24
+URL: https://database.turtle-wow.org/?item=24
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Agility
+Binds when picked up
+Requires Enchanting (185)
+Use:
+Teaches you how to permanently enchant a bracer to give +5 Agility.
+
+
+Item #31
+URL: https://database.turtle-wow.org/?item=31
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Lesser Intellect
+Binds when picked up
+Requires Enchanting (170)
+Use:
+Teaches you how to permanentl enchant boots to give +3 Intellect.
+
+
+Item #6222
+URL: https://database.turtle-wow.org/?item=6222
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Imbue Chest - Minor Spirit
+Requires Enchanting (60)
+Use:
+Teaches you how to temporarily imbue a piece of chest armor to give +3 Spirit for 60 min.
+
+
+Item #6347
+URL: https://database.turtle-wow.org/?item=6347
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Minor Strength
+Requires Enchanting (80)
+Use:
+Teaches you how to permanently enchant a bracer to give +1 Strength.
+
+
+Item #6344
+URL: https://database.turtle-wow.org/?item=6344
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Minor Spirit
+Requires Enchanting (60)
+Use:
+Teaches you how to permanently enchant a bracer to give +1 Spirit.
+
+
+Item #6343
+URL: https://database.turtle-wow.org/?item=6343
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Imbue Chest - Spirit
+Requires Enchanting (60)
+Use:
+Teaches you how to temporarily imbue a piece of chest armor to give +3 Spirit for 60 min.
+
+
+Item #6345
+URL: https://database.turtle-wow.org/?item=6345
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Imbue Cloak - Protection
+Requires Enchanting (90)
+Use:
+Teaches you how to permanently enchant a cloak to give 10 additional armor.
+
+
+Item #6349
+URL: https://database.turtle-wow.org/?item=6349
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant 2H Weapon - Lesser Intellect
+Requires Enchanting (100)
+Use:
+Teaches you how to permanently enchant a two-handed weapon so it grants +3 intellect.
+
+
+Item #6342
+URL: https://database.turtle-wow.org/?item=6342
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Chest - Minor Mana
+Requires Enchanting (20)
+Use:
+Teaches you how to permanently enchant a piece of chest armor to give +5 mana.
+
+
+Item #6346
+URL: https://database.turtle-wow.org/?item=6346
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Chest - Lesser Mana
+Requires Enchanting (80)
+Use:
+Teaches you how to permanently enchant a piece of chest armor to give +20 mana.
+
+
+Item #6348
+URL: https://database.turtle-wow.org/?item=6348
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Minor Beastslayer
+Requires Enchanting (90)
+Use:
+Teaches you how to permanently enchant a melee weapon so it does +2 damage to beasts.
+
+
+Item #6375
+URL: https://database.turtle-wow.org/?item=6375
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Lesser Spirit
+Requires Enchanting (120)
+Use:
+Teaches you how to permanently enchant a bracer to give +3 Spirit.
+
+
+Item #6376
+URL: https://database.turtle-wow.org/?item=6376
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Minor Stamina
+Requires Enchanting (125)
+Use:
+Teaches you how to permanently enchant a pair of boots to grant +1 Stamina.
+
+
+Item #6377
+URL: https://database.turtle-wow.org/?item=6377
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Minor Agility
+Requires Enchanting (125)
+Use:
+Teaches you how to permanently enchant a pair of boots to grant +1 Agility.
+
+
+Item #11038
+URL: https://database.turtle-wow.org/?item=11038
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant 2H Weapon - Lesser Spirit
+Requires Enchanting (110)
+Use:
+Teaches you how to permanently enchant a two-handed weapon so it grants +3 Spirit.
+
+
+Item #11039
+URL: https://database.turtle-wow.org/?item=11039
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Minor Agility
+Requires Enchanting (110)
+Use:
+Teaches you how to permanently enchant a cloak so it grants +1 Agility.
+
+
+Item #11081
+URL: https://database.turtle-wow.org/?item=11081
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Shield - Lesser Protection
+Requires Enchanting (115)
+Use:
+Teaches you how to permanently enchant a shield with +30 armor.
+
+
+Item #11098
+URL: https://database.turtle-wow.org/?item=11098
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Lesser Shadow Resistance
+Requires Enchanting (135)
+Use:
+Teaches you how to permanently enchant a cloak so it grants 10 shadow resistance.
+
+
+Item #11101
+URL: https://database.turtle-wow.org/?item=11101
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Lesser Strength
+Requires Enchanting (140)
+Use:
+Teaches you how to permanently enchant a bracer to give +3 Strength.
+
+
+Item #11150
+URL: https://database.turtle-wow.org/?item=11150
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Mining
+Requires Enchanting (145)
+Use:
+Teaches you how to permanently enchant gloves to give +2 mining skill.
+
+
+Item #11151
+URL: https://database.turtle-wow.org/?item=11151
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Herbalism
+Requires Enchanting (145)
+Use:
+Teaches you how to permanently enchant gloves to give +2 herbalism skill.
+
+
+Item #11152
+URL: https://database.turtle-wow.org/?item=11152
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Fishing
+Requires Enchanting (145)
+Use:
+Teaches you how to permanently enchant gloves to give +2 fishing skill.
+
+
+Item #11164
+URL: https://database.turtle-wow.org/?item=11164
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Lesser Beastslayer
+Requires Enchanting (175)
+Use:
+Teaches you how to permanently enchant a weapon to do 6 additional damage to beasts.
+
+
+Item #11167
+URL: https://database.turtle-wow.org/?item=11167
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Lesser Spirit
+Requires Enchanting (190)
+Use:
+Teaches you how to permanently enchant a pair of boots to grant +3 Spirit.
+
+
+Item #11163
+URL: https://database.turtle-wow.org/?item=11163
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Lesser Deflection
+Requires Enchanting (170)
+Use:
+Teaches you how to permanently enchant a bracer to give +2 Defense.
+
+
+Item #11168
+URL: https://database.turtle-wow.org/?item=11168
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Shield - Lesser Block
+Requires Enchanting (195)
+Use:
+Teaches you how to permanently enchant a shield to grant +2% blocking.
+
+
+Item #11166
+URL: https://database.turtle-wow.org/?item=11166
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Skinning
+Requires Enchanting (200)
+Use:
+Teaches you how to permanently enchant gloves to give +5 skinning skill.
+
+
+Item #11165
+URL: https://database.turtle-wow.org/?item=11165
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Lesser Elemental Slayer
+Requires Enchanting (175)
+Use:
+Teaches you how to permanently enchant a weapon to do 6 additional damage to elementals.
+
+
+Item #11203
+URL: https://database.turtle-wow.org/?item=11203
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Advanced Mining
+Requires Enchanting (215)
+Use:
+Teaches you how to permanently enchant gloves to give +5 mining skill.
+
+
+Item #11207
+URL: https://database.turtle-wow.org/?item=11207
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Fiery Weapon
+Requires Enchanting (265)
+Use:
+Teaches you how to permanently enchant a weapon to regularly blast its target with fire.
+
+
+Item #11208
+URL: https://database.turtle-wow.org/?item=11208
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Demonslaying
+Requires Enchanting (230)
+Use:
+Teaches you how to permanently enchant a weapon to have a chance of stunning and inflicting heavy damage on demons.
+
+
+Item #11205
+URL: https://database.turtle-wow.org/?item=11205
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Advanced Herbalism
+Requires Enchanting (225)
+Use:
+Teaches you how to permanently enchant gloves to give +5 herbalism skill.
+
+
+Item #11206
+URL: https://database.turtle-wow.org/?item=11206
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Lesser Agility
+Requires Enchanting (225)
+Use:
+Teaches you how to permanently enchant a cloak so it grants +3 Agility.
+
+
+Item #11204
+URL: https://database.turtle-wow.org/?item=11204
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Greater Spirit
+Requires Enchanting (220)
+Use:
+Teaches you how to permanently enchant a bracer to give +7 Spirit.
+
+
+Item #11202
+URL: https://database.turtle-wow.org/?item=11202
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Shield - Stamina
+Requires Enchanting (210)
+Use:
+Teaches you how to permanently enchant a shield to grant +5 Stamina.
+
+
+Item #11223
+URL: https://database.turtle-wow.org/?item=11223
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Deflection
+Requires Enchanting (235)
+Use:
+Teaches you how to permanently enchant a bracer to give +3 Defense.
+
+
+Item #11224
+URL: https://database.turtle-wow.org/?item=11224
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Shield - Frost Resistance
+Requires Enchanting (235)
+Use:
+Teaches you how to permanently enchant a shield to grant 8 frost resistance.
+
+
+Item #11226
+URL: https://database.turtle-wow.org/?item=11226
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Riding Skill
+Requires Enchanting (250)
+Use:
+Teaches you how to permanently enchant gloves to give a minor bonus to riding speed.
+
+
+Item #11225
+URL: https://database.turtle-wow.org/?item=11225
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Greater Stamina
+Requires Enchanting (245)
+Use:
+Teaches you how to permanently enchant a bracer to give +7 Stamina.
+
+
+Item #11813
+URL: https://database.turtle-wow.org/?item=11813
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Smoking Heart of the Mountain
+Requires Enchanting (265)
+Use:
+Teaches you how to make a smoking heart of the mountain.
+
+
+Item #16214
+URL: https://database.turtle-wow.org/?item=16214
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Greater Intellect
+Requires Enchanting (255)
+Use:
+Teaches you how to permanently enchant a bracer to give +7 Intellect.
+
+
+Item #16217
+URL: https://database.turtle-wow.org/?item=16217
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Shield - Greater Stamina
+Binds when picked up
+Requires Enchanting (265)
+Use:
+Teaches you how to permanently enchant a shield to grant +7 Stamina.
+
+
+Item #16215
+URL: https://database.turtle-wow.org/?item=16215
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Greater Stamina
+Requires Enchanting (260)
+Use:
+Teaches you how to permanently enchant a pair of boots to grant +7 Stamina.
+
+
+Item #16219
+URL: https://database.turtle-wow.org/?item=16219
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Greater Agility
+Requires Enchanting (270)
+Use:
+Teaches you how to permanently enchant gloves to give +7 Agility.
+
+
+Item #16220
+URL: https://database.turtle-wow.org/?item=16220
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Spirit
+Requires Enchanting (275)
+Use:
+Teaches you how to permanently enchant a pair of boots to grant +5 Spirit.
+
+
+Item #16218
+URL: https://database.turtle-wow.org/?item=16218
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Superior Spirit
+Requires Enchanting (270)
+Use:
+Teaches you how to permanently enchant a bracer to give +9 Spirit.
+
+
+Item #16216
+URL: https://database.turtle-wow.org/?item=16216
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Greater Resistance
+Requires Enchanting (265)
+Use:
+Teaches you how to permanently enchant a cloak so it adds 5 to all resistances.
+
+
+Item #16224
+URL: https://database.turtle-wow.org/?item=16224
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Superior Defense
+Requires Enchanting (285)
+Use:
+Teaches you how to permanently enchant a cloak to give 70 additional armor.
+
+
+Item #16221
+URL: https://database.turtle-wow.org/?item=16221
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Chest - Major Health
+Requires Enchanting (275)
+Use:
+Teaches you how to permanently enchant a piece of chest armor to give +100 health.
+
+
+Item #16222
+URL: https://database.turtle-wow.org/?item=16222
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Shield - Superior Spirit
+Requires Enchanting (280)
+Use:
+Teaches you how to permanently enchant a shield to grant +9 Spirit.
+
+
+Item #16223
+URL: https://database.turtle-wow.org/?item=16223
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Icy Chill
+Requires Enchanting (285)
+Use:
+Teaches you how to permanently enchant a weapon to give it an icy chill that sometimes slows its target.
+
+
+Item #16242
+URL: https://database.turtle-wow.org/?item=16242
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Chest - Major Mana
+Requires Enchanting (290)
+Use:
+Teaches you how to permanently enchant a piece of chest armor to give +100 mana.
+
+
+Item #16248
+URL: https://database.turtle-wow.org/?item=16248
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Unholy
+Requires Enchanting (295)
+Use:
+Teaches you how to permanently enchant a weapon to occasionally curse those it strikes.
+
+
+Item #16249
+URL: https://database.turtle-wow.org/?item=16249
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant 2H Weapon - Major Intellect
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a two-handed weapon so it grants +9 Intellect.
+
+
+Item #16244
+URL: https://database.turtle-wow.org/?item=16244
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Greater Strength
+Requires Enchanting (295)
+Use:
+Teaches you how to permanently enchant gloves to give +7 Strength.
+
+
+Item #16247
+URL: https://database.turtle-wow.org/?item=16247
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant 2H Weapon - Superior Impact
+Requires Enchanting (295)
+Use:
+Teaches you how to permanently enchant a two-handed weapon to do 9 additional damage.
+
+
+Item #16250
+URL: https://database.turtle-wow.org/?item=16250
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Superior Striking
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a weapon to do 5 additional damage.
+
+
+Item #16243
+URL: https://database.turtle-wow.org/?item=16243
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Runed Arcanite Rod
+Requires Enchanting (290)
+Use:
+Teaches you how to make a Runed Arcanite Rod.
+
+
+Item #16245
+URL: https://database.turtle-wow.org/?item=16245
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Greater Agility
+Requires Enchanting (295)
+Use:
+Teaches you how to permanently enchant a pair of boots to grant +7 Agility.
+
+
+Item #16246
+URL: https://database.turtle-wow.org/?item=16246
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Superior Strength
+Requires Enchanting (295)
+Use:
+Teaches you how to permanently enchant a bracer to give +9 Strength.
+
+
+Item #16251
+URL: https://database.turtle-wow.org/?item=16251
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Superior Stamina
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a bracer to give +9 Stamina.
+
+
+Item #16253
+URL: https://database.turtle-wow.org/?item=16253
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Chest - Greater Stats
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a piece of chest armor to give +4 to each of the five attributes.
+
+
+Item #16254
+URL: https://database.turtle-wow.org/?item=16254
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Lifestealing
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a weapon to occasionally steal some of the health of the foe and give it to the wielder.
+
+
+Item #16255
+URL: https://database.turtle-wow.org/?item=16255
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant 2H Weapon - Major Spirit
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a two-handed weapon so it grants +9 Spirit.
+
+
+Item #16252
+URL: https://database.turtle-wow.org/?item=16252
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Crusader
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a weapon to occasionally bless the wielder with great strength.
+
+
+Item #17725
+URL: https://database.turtle-wow.org/?item=17725
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Winter's Might
+Requires Enchanting (190)
+Use:
+Teaches you how to permanently enchant a weapon to grant up to 7 additional frost damage when casting frost spells.
+
+
+Item #18259
+URL: https://database.turtle-wow.org/?item=18259
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Spell Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a weapon to add up to 30 damage to spells.
+
+
+Item #18260
+URL: https://database.turtle-wow.org/?item=18260
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Healing Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a weapon to add up to 55 points of healing to healing spells.
+
+
+Item #19447
+URL: https://database.turtle-wow.org/?item=19447
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Healing
+Binds when picked up
+Requires Enchanting (300)
+Requires Argent Dawn - Revered
+Use:
+Teaches you how to permanently enchant a bracer to increase the effects of healing spells by 24.
+
+
+Item #19448
+URL: https://database.turtle-wow.org/?item=19448
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Mighty Spirit
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a weapon to increase your spirit by 20.
+
+
+Item #19446
+URL: https://database.turtle-wow.org/?item=19446
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Mana Regeneration
+Binds when picked up
+Requires Enchanting (290)
+Requires Argent Dawn - Honored
+Use:
+Teaches you how to permanently enchant a bracer to restore 4 mana every 5 seconds.
+
+
+Item #19445
+URL: https://database.turtle-wow.org/?item=19445
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Agility
+Binds when picked up
+Requires Enchanting (290)
+Requires Timbermaw Hold - Honored
+Use:
+Teaches you how to permanently enchant a weapon to increase your agility by 15.
+
+
+Item #19449
+URL: https://database.turtle-wow.org/?item=19449
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Mighty Intellect
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a weapon to increase your intellect by 22.
+
+
+Item #19444
+URL: https://database.turtle-wow.org/?item=19444
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Weapon - Strength
+Binds when picked up
+Requires Enchanting (290)
+Use:
+Teaches you how to permanently enchant a weapon to increase your strength by 15.
+
+
+Item #20727
+URL: https://database.turtle-wow.org/?item=20727
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Shadow Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase the shadow damage done by spells and abilities by 20.
+
+
+Item #20730
+URL: https://database.turtle-wow.org/?item=20730
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Healing Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase the healing done by spells and abilities by 30.
+
+
+Item #20728
+URL: https://database.turtle-wow.org/?item=20728
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Frost Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase the frost damage done by spells and abilities by 20.
+
+
+Item #20726
+URL: https://database.turtle-wow.org/?item=20726
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Threat
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase the threat that the wearer generates against monsters.
+
+
+Item #20729
+URL: https://database.turtle-wow.org/?item=20729
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Fire Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase the fire damage done by spells and abilities by 20.
+
+
+Item #20731
+URL: https://database.turtle-wow.org/?item=20731
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Superior Agility
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase Agility by 15.
+
+
+Item #20736
+URL: https://database.turtle-wow.org/?item=20736
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Dodge
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a cloak to increase dodge chance by 1%.
+
+
+Item #20734
+URL: https://database.turtle-wow.org/?item=20734
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Stealth
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a cloak to increase stealth.
+
+
+Item #20732
+URL: https://database.turtle-wow.org/?item=20732
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Greater Fire Resistance
+Binds when picked up
+Requires Enchanting (300)
+Requires Cenarion Circle - Friendly
+Use:
+Teaches you how to permanently enchant a cloak to increase Fire Resistance by 15 .
+
+
+Item #20735
+URL: https://database.turtle-wow.org/?item=20735
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Subtlety
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a cloak to reduce how threatening the wearer is to monsters by 2%.
+
+
+Item #20733
+URL: https://database.turtle-wow.org/?item=20733
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Greater Nature Resistance
+Binds when picked up
+Requires Enchanting (300)
+Requires Cenarion Circle - Honored
+Use:
+Teaches you how to permanently enchant a cloak to increase Nature Resistance by 15 .
+
+
+Item #20755
+URL: https://database.turtle-wow.org/?item=20755
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Wizard Oil
+Requires Enchanting (275)
+Use:
+Teaches you how to create Wizard Oil.
+
+
+Item #20754
+URL: https://database.turtle-wow.org/?item=20754
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Lesser Mana Oil
+Requires Enchanting (250)
+Use:
+Teaches you how to create Lesser Mana Oil.
+
+
+Item #20756
+URL: https://database.turtle-wow.org/?item=20756
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Brilliant Wizard Oil
+Binds when picked up
+Requires Enchanting (300)
+Requires Zandalar Tribe - Honored
+Use:
+Teaches you how to create Brilliant Wizard Oil.
+
+
+Item #20757
+URL: https://database.turtle-wow.org/?item=20757
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Brilliant Mana Oil
+Binds when picked up
+Requires Enchanting (300)
+Requires Zandalar Tribe - Friendly
+Use:
+Teaches you how to create Brilliant Mana Oil.
+
+
+Item #20753
+URL: https://database.turtle-wow.org/?item=20753
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Lesser Wizard Oil
+Requires Enchanting (200)
+Use:
+Teaches you how to create Lesser Wizard Oil.
+
+
+Item #20758
+URL: https://database.turtle-wow.org/?item=20758
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Minor Wizard Oil
+Requires Enchanting (45)
+Use:
+Teaches you how to create Minor Wizard Oil.
+
+
+Item #20752
+URL: https://database.turtle-wow.org/?item=20752
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Minor Mana Oil
+Requires Enchanting (150)
+Use:
+Teaches you how to create Minor Mana Oil.
+
+
+Item #22392
+URL: https://database.turtle-wow.org/?item=22392
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant 2H Weapon - Agility
+Binds when picked up
+Requires Enchanting (290)
+Requires Timbermaw Hold - Friendly
+Use:
+Teaches you how to permanently enchant a two-handed weapon to increase your agility by 25.
+
+
+Item #51286
+URL: https://database.turtle-wow.org/?item=51286
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant 2H Weapon - Minor Intellect
+Requires Enchanting (75)
+Use:
+Teaches you how to permanently enchant a two-handed weapon so it grants +2 intellect.
+
+
+Item #53017
+URL: https://database.turtle-wow.org/?item=53017
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Major Strength
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase strength by 9.
+
+
+Item #55044
+URL: https://database.turtle-wow.org/?item=55044
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Major Intellect
+Binds when picked up
+Requires Enchanting (300)
+Requires Shen'dralar - Friendly
+Use:
+Teaches you how to permanently enchant a pair of boots to grant +9 Intellect.
+
+
+Item #61180
+URL: https://database.turtle-wow.org/?item=61180
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Cloak - Greater Arcane Resistance
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a cloak to increase arcane magic resistance by 15.
+
+
+Item #61219
+URL: https://database.turtle-wow.org/?item=61219
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Superior Stamina
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a pair of boots to increase stamina by 15.
+
+
+Item #61217
+URL: https://database.turtle-wow.org/?item=61217
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Chest - Mighty Mana
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a chest armor to increase mana by 150.
+
+
+Item #61220
+URL: https://database.turtle-wow.org/?item=61220
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Greater Spirit
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a pair of boots to increase spirit by 12.
+
+
+Item #61221
+URL: https://database.turtle-wow.org/?item=61221
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Greater Deflection
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a pair of bracers to increase defense skill by 5.
+
+
+Item #61733
+URL: https://database.turtle-wow.org/?item=61733
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Eternal Dreamstone Shard
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to create an Eternal Dreamstone Shard
+
+
+Item #61738
+URL: https://database.turtle-wow.org/?item=61738
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Bracer - Vampirism
+Requires Enchanting (185)
+Use:
+Teaches you how to permanently enchant a pair of bracers to increase vampirism by 1%.
+
+
+Item #61739
+URL: https://database.turtle-wow.org/?item=61739
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Boots - Vampirism
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant a pair of boots to increase vampirism by 1%.
+
+
+Item #70000
+URL: https://database.turtle-wow.org/?item=70000
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Nature Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase the nature damage done by spells and abilities by 20.
+
+
+Item #70001
+URL: https://database.turtle-wow.org/?item=70001
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Arcane Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase the arcane damage done by spells and abilities by 20.
+
+
+Item #70002
+URL: https://database.turtle-wow.org/?item=70002
+Category: Database/Items/Recipes/Enchanting
+Item: 
+Formula: Enchant Gloves - Holy Power
+Binds when picked up
+Requires Enchanting (300)
+Use:
+Teaches you how to permanently enchant gloves to increase the holy damage done by spells and abilities by 20.
+
+

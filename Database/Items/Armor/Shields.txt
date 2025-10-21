@@ -1,0 +1,6894 @@
+Item #143
+URL: https://database.turtle-wow.org/?item=143
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Stormwind Guard
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #876
+URL: https://database.turtle-wow.org/?item=876
+Category: Database/Items/Armor/Shields
+Item: 
+Worn Wooden Buckler
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #1166
+URL: https://database.turtle-wow.org/?item=1166
+Category: Database/Items/Armor/Shields
+Item: 
+Dented Buckler
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #1167
+URL: https://database.turtle-wow.org/?item=1167
+Category: Database/Items/Armor/Shields
+Item: 
+Small Targe
+Off Hand
+Shield
+161 Armor
+3 Block
+Durability 45 / 45
+Requires Level 5
+
+
+Item #1168
+URL: https://database.turtle-wow.org/?item=1168
+Category: Database/Items/Armor/Shields
+Item: 
+Skullflame Shield
+Binds when equipped
+Off Hand
+Shield
+2256 Armor
+40 Block
++10 Fire Resistance
++10 Shadow Resistance
+Durability 120 / 120
+Requires Level 54
+Equip:
+When struck in combat has a 3% chance of stealing 35 life from target enemy.
+Equip:
+When struck in combat has a 1% chance of dealing 75 to 126 Fire damage to all targets around you.
+
+
+Item #1169
+URL: https://database.turtle-wow.org/?item=1169
+Category: Database/Items/Armor/Shields
+Item: 
+Blackskull Shield
+Binds when equipped
+Off Hand
+Shield
+1895 Armor
+30 Block
++10 Spirit
++5 Stamina
++10 Shadow Resistance
+Durability 120 / 120
+Requires Level 41
+
+
+Item #1193
+URL: https://database.turtle-wow.org/?item=1193
+Category: Database/Items/Armor/Shields
+Item: 
+Banded Buckler
+Off Hand
+Shield
+336 Armor
+5 Block
+Durability 60 / 60
+Requires Level 12
+
+
+Item #1204
+URL: https://database.turtle-wow.org/?item=1204
+Category: Database/Items/Armor/Shields
+Item: 
+The Green Tower
+Binds when equipped
+Off Hand
+Shield
+1308 Armor
+25 Block
++7 Spirit
++13 Stamina
+Durability 120 / 120
+Requires Level 36
+Equip:
+When struck in combat has a 1% chance of raising a thorny shield that inflicts 3 Nature damage to attackers when hit and increases Nature resistance by 50 for 30 sec.\n
+
+
+Item #1200
+URL: https://database.turtle-wow.org/?item=1200
+Category: Database/Items/Armor/Shields
+Item: 
+Large Wooden Shield
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #1203
+URL: https://database.turtle-wow.org/?item=1203
+Category: Database/Items/Armor/Shields
+Item: 
+Aegis of Stormwind
+Binds when equipped
+Off Hand
+Shield
+1867 Armor
+33 Block
++15 Stamina
++6 Strength
+Durability 100 / 100
+Requires Level 49
+
+
+Item #1202
+URL: https://database.turtle-wow.org/?item=1202
+Category: Database/Items/Armor/Shields
+Item: 
+Wall Shield
+Off Hand
+Shield
+336 Armor
+5 Block
+Durability 60 / 60
+Requires Level 12
+
+
+Item #1201
+URL: https://database.turtle-wow.org/?item=1201
+Category: Database/Items/Armor/Shields
+Item: 
+Dull Heater Shield
+Off Hand
+Shield
+161 Armor
+3 Block
+Durability 45 / 45
+Requires Level 5
+
+
+Item #1276
+URL: https://database.turtle-wow.org/?item=1276
+Category: Database/Items/Armor/Shields
+Item: 
+Fire Hardened Buckler
+Binds when picked up
+Off Hand
+Shield
+528 Armor
+10 Block
++5 Spirit
+Durability 80 / 80
+
+
+Item #1438
+URL: https://database.turtle-wow.org/?item=1438
+Category: Database/Items/Armor/Shields
+Item: 
+Warrior's Shield
+Off Hand
+Shield
+135 Armor
+3 Block
+Durability 40 / 40
+Requires Level 4
+
+
+Item #1547
+URL: https://database.turtle-wow.org/?item=1547
+Category: Database/Items/Armor/Shields
+Item: 
+Shield of the Faith
+Binds when picked up
+Off Hand
+Shield
+578 Armor
+11 Block
++6 Spirit
+Durability 85 / 85
+
+
+Item #1557
+URL: https://database.turtle-wow.org/?item=1557
+Category: Database/Items/Armor/Shields
+Item: 
+Buckler of the Seas
+Binds when picked up
+Off Hand
+Shield
+411 Armor
+7 Block
++3 Spirit
+Durability 65 / 65
+
+
+Item #1957
+URL: https://database.turtle-wow.org/?item=1957
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Small Wooden
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #1961
+URL: https://database.turtle-wow.org/?item=1961
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Buckler Wooden
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #1979
+URL: https://database.turtle-wow.org/?item=1979
+Category: Database/Items/Armor/Shields
+Item: 
+Wall of the Dead
+Binds when equipped
+Off Hand
+Shield
+1937 Armor
+34 Block
++10 Strength
++15 Stamina
+Durability 120 / 120
+Requires Level 45
+Equip:
+When struck in combat has a 3% chance to encase the caster in bone, increasing armor by 150 for 20 sec.
+
+
+Item #1984
+URL: https://database.turtle-wow.org/?item=1984
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Kite Metal
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #1985
+URL: https://database.turtle-wow.org/?item=1985
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Large Wooden
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #2021
+URL: https://database.turtle-wow.org/?item=2021
+Category: Database/Items/Armor/Shields
+Item: 
+Green Carapace Shield
+Binds when equipped
+Off Hand
+Shield
+428 Armor
+7 Block
++4 Nature Resistance
+Durability 65 / 65
+Requires Level 16
+
+
+Item #2040
+URL: https://database.turtle-wow.org/?item=2040
+Category: Database/Items/Armor/Shields
+Item: 
+Troll Protector
+Binds when equipped
+Off Hand
+Shield
+1676 Armor
+27 Block
++10 Stamina
+Durability 100 / 100
+Requires Level 43
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+
+
+Item #2051
+URL: https://database.turtle-wow.org/?item=2051
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Small Wooden Damaged
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #2052
+URL: https://database.turtle-wow.org/?item=2052
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Small Metal Damaged
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #2053
+URL: https://database.turtle-wow.org/?item=2053
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Buckler Metal Damaged
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #2133
+URL: https://database.turtle-wow.org/?item=2133
+Category: Database/Items/Armor/Shields
+Item: 
+Small Shield
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #2129
+URL: https://database.turtle-wow.org/?item=2129
+Category: Database/Items/Armor/Shields
+Item: 
+Large Round Shield
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #2210
+URL: https://database.turtle-wow.org/?item=2210
+Category: Database/Items/Armor/Shields
+Item: 
+Battered Buckler
+Off Hand
+Shield
+12 Armor
+1 Block
+Durability 25 / 25
+
+
+Item #2211
+URL: https://database.turtle-wow.org/?item=2211
+Category: Database/Items/Armor/Shields
+Item: 
+Bent Large Shield
+Off Hand
+Shield
+32 Armor
+1 Block
+Durability 30 / 30
+
+
+Item #2212
+URL: https://database.turtle-wow.org/?item=2212
+Category: Database/Items/Armor/Shields
+Item: 
+Cracked Buckler
+Off Hand
+Shield
+61 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #2221
+URL: https://database.turtle-wow.org/?item=2221
+Category: Database/Items/Armor/Shields
+Item: 
+Targe Shield
+Off Hand
+Shield
+469 Armor
+7 Block
+Durability 80 / 80
+Requires Level 23
+
+
+Item #2220
+URL: https://database.turtle-wow.org/?item=2220
+Category: Database/Items/Armor/Shields
+Item: 
+Box Shield
+Off Hand
+Shield
+397 Armor
+6 Block
+Durability 70 / 70
+Requires Level 18
+
+
+Item #2219
+URL: https://database.turtle-wow.org/?item=2219
+Category: Database/Items/Armor/Shields
+Item: 
+Small Round Shield
+Off Hand
+Shield
+383 Armor
+5 Block
+Durability 70 / 70
+Requires Level 17
+
+
+Item #2215
+URL: https://database.turtle-wow.org/?item=2215
+Category: Database/Items/Armor/Shields
+Item: 
+Wooden Shield
+Off Hand
+Shield
+172 Armor
+2 Block
+Durability 45 / 45
+Requires Level 6
+
+
+Item #2217
+URL: https://database.turtle-wow.org/?item=2217
+Category: Database/Items/Armor/Shields
+Item: 
+Rectangular Shield
+Off Hand
+Shield
+311 Armor
+4 Block
+Durability 60 / 60
+Requires Level 12
+
+
+Item #2213
+URL: https://database.turtle-wow.org/?item=2213
+Category: Database/Items/Armor/Shields
+Item: 
+Worn Large Shield
+Off Hand
+Shield
+79 Armor
+1 Block
+Durability 35 / 35
+Requires Level 2
+
+
+Item #2222
+URL: https://database.turtle-wow.org/?item=2222
+Category: Database/Items/Armor/Shields
+Item: 
+Tower Shield
+Off Hand
+Shield
+483 Armor
+8 Block
+Durability 85 / 85
+Requires Level 24
+
+
+Item #2214
+URL: https://database.turtle-wow.org/?item=2214
+Category: Database/Items/Armor/Shields
+Item: 
+Wooden Buckler
+Off Hand
+Shield
+282 Armor
+3 Block
+Durability 55 / 55
+Requires Level 10
+
+
+Item #2249
+URL: https://database.turtle-wow.org/?item=2249
+Category: Database/Items/Armor/Shields
+Item: 
+Militia Buckler
+Binds when picked up
+Off Hand
+Shield
+161 Armor
+3 Block
+Durability 45 / 45
+
+
+Item #2362
+URL: https://database.turtle-wow.org/?item=2362
+Category: Database/Items/Armor/Shields
+Item: 
+Worn Wooden Shield
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #2376
+URL: https://database.turtle-wow.org/?item=2376
+Category: Database/Items/Armor/Shields
+Item: 
+Worn Heater Shield
+Off Hand
+Shield
+161 Armor
+3 Block
+Durability 45 / 45
+Requires Level 5
+
+
+Item #2377
+URL: https://database.turtle-wow.org/?item=2377
+Category: Database/Items/Armor/Shields
+Item: 
+Round Buckler
+Off Hand
+Shield
+161 Armor
+3 Block
+Durability 45 / 45
+Requires Level 5
+
+
+Item #2451
+URL: https://database.turtle-wow.org/?item=2451
+Category: Database/Items/Armor/Shields
+Item: 
+Crested Heater Shield
+Off Hand
+Shield
+1457 Armor
+23 Block
+Durability 85 / 85
+Requires Level 45
+
+
+Item #2444
+URL: https://database.turtle-wow.org/?item=2444
+Category: Database/Items/Armor/Shields
+Item: 
+Ornate Buckler
+Off Hand
+Shield
+1457 Armor
+23 Block
+Durability 85 / 85
+Requires Level 45
+
+
+Item #2445
+URL: https://database.turtle-wow.org/?item=2445
+Category: Database/Items/Armor/Shields
+Item: 
+Large Metal Shield
+Off Hand
+Shield
+413 Armor
+7 Block
+Durability 70 / 70
+Requires Level 17
+
+
+Item #2442
+URL: https://database.turtle-wow.org/?item=2442
+Category: Database/Items/Armor/Shields
+Item: 
+Reinforced Targe
+Off Hand
+Shield
+491 Armor
+9 Block
+Durability 80 / 80
+Requires Level 22
+
+
+Item #2448
+URL: https://database.turtle-wow.org/?item=2448
+Category: Database/Items/Armor/Shields
+Item: 
+Heavy Pavise
+Off Hand
+Shield
+646 Armor
+14 Block
+Durability 85 / 85
+Requires Level 32
+
+
+Item #2441
+URL: https://database.turtle-wow.org/?item=2441
+Category: Database/Items/Armor/Shields
+Item: 
+Ringed Buckler
+Off Hand
+Shield
+413 Armor
+7 Block
+Durability 70 / 70
+Requires Level 17
+
+
+Item #2443
+URL: https://database.turtle-wow.org/?item=2443
+Category: Database/Items/Armor/Shields
+Item: 
+Metal Buckler
+Off Hand
+Shield
+646 Armor
+14 Block
+Durability 85 / 85
+Requires Level 32
+
+
+Item #2446
+URL: https://database.turtle-wow.org/?item=2446
+Category: Database/Items/Armor/Shields
+Item: 
+Kite Shield
+Off Hand
+Shield
+491 Armor
+9 Block
+Durability 80 / 80
+Requires Level 22
+
+
+Item #2900
+URL: https://database.turtle-wow.org/?item=2900
+Category: Database/Items/Armor/Shields
+Item: 
+Stone Buckler
+Binds when picked up
+Off Hand
+Shield
+161 Armor
+3 Block
+Durability 45 / 45
+
+
+Item #2916
+URL: https://database.turtle-wow.org/?item=2916
+Category: Database/Items/Armor/Shields
+Item: 
+Gold Lion Shield
+Binds when picked up
+Off Hand
+Shield
+645 Armor
+13 Block
++2 Strength
++5 Stamina
++3 Spirit
+Durability 85 / 85
+
+
+Item #3160
+URL: https://database.turtle-wow.org/?item=3160
+Category: Database/Items/Armor/Shields
+Item: 
+Ironplate Buckler
+Binds when picked up
+Off Hand
+Shield
+328 Armor
+5 Block
++2 Spirit
+Durability 55 / 55
+
+
+Item #3276
+URL: https://database.turtle-wow.org/?item=3276
+Category: Database/Items/Armor/Shields
+Item: 
+Deathguard Buckler
+Binds when picked up
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #3450
+URL: https://database.turtle-wow.org/?item=3450
+Category: Database/Items/Armor/Shields
+Item: 
+Faerleia's Shield
+Binds when picked up
+Off Hand
+Shield
+328 Armor
+5 Block
++2 Strength
+Durability 55 / 55
+
+
+Item #3648
+URL: https://database.turtle-wow.org/?item=3648
+Category: Database/Items/Armor/Shields
+Item: 
+Warrior's Buckler
+Off Hand
+Shield
+135 Armor
+3 Block
+Durability 40 / 40
+Requires Level 4
+
+
+Item #3650
+URL: https://database.turtle-wow.org/?item=3650
+Category: Database/Items/Armor/Shields
+Item: 
+Battle Shield
+Off Hand
+Shield
+135 Armor
+3 Block
+Durability 40 / 40
+Requires Level 4
+
+
+Item #3651
+URL: https://database.turtle-wow.org/?item=3651
+Category: Database/Items/Armor/Shields
+Item: 
+Veteran Shield
+Binds when equipped
+Off Hand
+Shield
+328 Armor
+5 Block
++2 Strength
+Durability 55 / 55
+Requires Level 10
+
+
+Item #3652
+URL: https://database.turtle-wow.org/?item=3652
+Category: Database/Items/Armor/Shields
+Item: 
+Hunting Buckler
+Binds when equipped
+Off Hand
+Shield
+311 Armor
+5 Block
++1 Stamina
++1 Intellect
+Durability 50 / 50
+Requires Level 9
+
+
+Item #3649
+URL: https://database.turtle-wow.org/?item=3649
+Category: Database/Items/Armor/Shields
+Item: 
+Tribal Buckler
+Off Hand
+Shield
+189 Armor
+3 Block
+Durability 45 / 45
+Requires Level 6
+
+
+Item #3653
+URL: https://database.turtle-wow.org/?item=3653
+Category: Database/Items/Armor/Shields
+Item: 
+Ceremonial Buckler
+Binds when equipped
+Off Hand
+Shield
+328 Armor
+5 Block
++2 Spirit
+Durability 55 / 55
+Requires Level 10
+
+
+Item #3656
+URL: https://database.turtle-wow.org/?item=3656
+Category: Database/Items/Armor/Shields
+Item: 
+Lambent Scale Shield
+Binds when equipped
+Off Hand
+Shield
+528 Armor
+10 Block
++4 Strength
++2 Stamina
+Durability 80 / 80
+Requires Level 22
+
+
+Item #3655
+URL: https://database.turtle-wow.org/?item=3655
+Category: Database/Items/Armor/Shields
+Item: 
+Burnished Shield
+Binds when equipped
+Off Hand
+Shield
+428 Armor
+7 Block
++3 Stamina
++2 Strength
+Durability 65 / 65
+Requires Level 16
+
+
+Item #3654
+URL: https://database.turtle-wow.org/?item=3654
+Category: Database/Items/Armor/Shields
+Item: 
+Brackwater Shield
+Binds when equipped
+Off Hand
+Shield
+311 Armor
+5 Block
++1 Agility
++1 Stamina
+Durability 50 / 50
+Requires Level 9
+
+
+Item #3743
+URL: https://database.turtle-wow.org/?item=3743
+Category: Database/Items/Armor/Shields
+Item: 
+Sentry Buckler
+Binds when picked up
+Off Hand
+Shield
+545 Armor
+10 Block
++1 Intellect
++5 Spirit
+Durability 80 / 80
+
+
+Item #3763
+URL: https://database.turtle-wow.org/?item=3763
+Category: Database/Items/Armor/Shields
+Item: 
+Lunar Buckler
+Binds when picked up
+Off Hand
+Shield
+963 Armor
+17 Block
++3 Strength
++8 Spirit
+Durability 85 / 85
+
+
+Item #3816
+URL: https://database.turtle-wow.org/?item=3816
+Category: Database/Items/Armor/Shields
+Item: 
+Reflective Heater
+Off Hand
+Shield
+583 Armor
+11 Block
+Durability 85 / 85
+Requires Level 31
+
+
+Item #3817
+URL: https://database.turtle-wow.org/?item=3817
+Category: Database/Items/Armor/Shields
+Item: 
+Reinforced Buckler
+Off Hand
+Shield
+540 Armor
+9 Block
+Durability 85 / 85
+Requires Level 28
+
+
+Item #3987
+URL: https://database.turtle-wow.org/?item=3987
+Category: Database/Items/Armor/Shields
+Item: 
+Deflecting Tower
+Off Hand
+Shield
+1442 Armor
+21 Block
+Durability 85 / 85
+Requires Level 48
+
+
+Item #3988
+URL: https://database.turtle-wow.org/?item=3988
+Category: Database/Items/Armor/Shields
+Item: 
+Plate Wall Shield
+Off Hand
+Shield
+1742 Armor
+32 Block
+Durability 85 / 85
+Requires Level 60
+
+
+Item #3986
+URL: https://database.turtle-wow.org/?item=3986
+Category: Database/Items/Armor/Shields
+Item: 
+Protective Pavise
+Off Hand
+Shield
+1317 Armor
+17 Block
+Durability 85 / 85
+Requires Level 43
+
+
+Item #3990
+URL: https://database.turtle-wow.org/?item=3990
+Category: Database/Items/Armor/Shields
+Item: 
+Crested Buckler
+Off Hand
+Shield
+1517 Armor
+23 Block
+Durability 85 / 85
+Requires Level 51
+
+
+Item #3989
+URL: https://database.turtle-wow.org/?item=3989
+Category: Database/Items/Armor/Shields
+Item: 
+Blocking Targe
+Off Hand
+Shield
+1015 Armor
+14 Block
+Durability 85 / 85
+Requires Level 37
+
+
+Item #3991
+URL: https://database.turtle-wow.org/?item=3991
+Category: Database/Items/Armor/Shields
+Item: 
+Plated Buckler
+Off Hand
+Shield
+1817 Armor
+35 Block
+Durability 85 / 85
+Requires Level 63
+
+
+Item #4064
+URL: https://database.turtle-wow.org/?item=4064
+Category: Database/Items/Armor/Shields
+Item: 
+Emblazoned Buckler
+Binds when equipped
+Off Hand
+Shield
+578 Armor
+11 Block
++5 Spirit
++2 Stamina
+Durability 85 / 85
+Requires Level 25
+
+
+Item #4065
+URL: https://database.turtle-wow.org/?item=4065
+Category: Database/Items/Armor/Shields
+Item: 
+Combat Shield
+Binds when equipped
+Off Hand
+Shield
+678 Armor
+14 Block
++7 Strength
++2 Stamina
+Durability 85 / 85
+Requires Level 31
+
+
+Item #4070
+URL: https://database.turtle-wow.org/?item=4070
+Category: Database/Items/Armor/Shields
+Item: 
+Jouster's Crest
+Binds when equipped
+Off Hand
+Shield
+1101 Armor
+17 Block
++9 Stamina
+Durability 85 / 85
+Requires Level 36
+
+
+Item #4068
+URL: https://database.turtle-wow.org/?item=4068
+Category: Database/Items/Armor/Shields
+Item: 
+Chief Brigadier Shield
+Binds when equipped
+Off Hand
+Shield
+963 Armor
+17 Block
++9 Stamina
+Durability 85 / 85
+Requires Level 35
+
+
+Item #4066
+URL: https://database.turtle-wow.org/?item=4066
+Category: Database/Items/Armor/Shields
+Item: 
+Insignia Buckler
+Binds when equipped
+Off Hand
+Shield
+661 Armor
+14 Block
++7 Spirit
++3 Stamina
+Durability 85 / 85
+Requires Level 30
+
+
+Item #4067
+URL: https://database.turtle-wow.org/?item=4067
+Category: Database/Items/Armor/Shields
+Item: 
+Glyphed Buckler
+Binds when equipped
+Off Hand
+Shield
+728 Armor
+16 Block
++7 Spirit
++4 Stamina
+Durability 85 / 85
+Requires Level 34
+
+
+Item #4069
+URL: https://database.turtle-wow.org/?item=4069
+Category: Database/Items/Armor/Shields
+Item: 
+Blackforge Buckler
+Binds when equipped
+Off Hand
+Shield
+1465 Armor
+22 Block
++10 Spirit
++3 Stamina
+Durability 85 / 85
+Requires Level 42
+
+
+Item #4115
+URL: https://database.turtle-wow.org/?item=4115
+Category: Database/Items/Armor/Shields
+Item: 
+Grom'gol Buckler
+Binds when picked up
+Off Hand
+Shield
+695 Armor
+15 Block
++2 Strength
++3 Stamina
++7 Spirit
+Durability 85 / 85
+
+
+Item #4129
+URL: https://database.turtle-wow.org/?item=4129
+Category: Database/Items/Armor/Shields
+Item: 
+Collection Plate
+Binds when picked up
+Off Hand
+Shield
+1380 Armor
+20 Block
++2 Strength
++9 Stamina
+Durability 85 / 85
+
+
+Item #4263
+URL: https://database.turtle-wow.org/?item=4263
+Category: Database/Items/Armor/Shields
+Item: 
+Standard Issue Shield
+Off Hand
+Shield
+161 Armor
+3 Block
+Durability 45 / 45
+Requires Level 5
+
+
+Item #4290
+URL: https://database.turtle-wow.org/?item=4290
+Category: Database/Items/Armor/Shields
+Item: 
+Dust Bowl
+Binds when equipped
+Off Hand
+Shield
+378 Armor
+6 Block
++2 Strength
++2 Spirit
+Durability 60 / 60
+Requires Level 13
+
+
+Item #4444
+URL: https://database.turtle-wow.org/?item=4444
+Category: Database/Items/Armor/Shields
+Item: 
+Black Husk Shield
+Binds when equipped
+Off Hand
+Shield
+478 Armor
+9 Block
++4 Spirit
++3 Stamina
+Durability 75 / 75
+Requires Level 19
+Use:
+Attempts to cure 1 poison effect on the target, and 1 more poison effect every 2 seconds for 8 sec.
+5  Charges
+
+
+Item #4477
+URL: https://database.turtle-wow.org/?item=4477
+Category: Database/Items/Armor/Shields
+Item: 
+Nefarious Buckler
+Binds when equipped
+Off Hand
+Shield
+645 Armor
+13 Block
++6 Stamina
++3 Strength
+Durability 85 / 85
+Requires Level 29
+
+
+Item #4507
+URL: https://database.turtle-wow.org/?item=4507
+Category: Database/Items/Armor/Shields
+Item: 
+Pit Fighter's Shield
+Binds when picked up
+Off Hand
+Shield
+1287 Armor
+22 Block
++8 Strength
++3 Stamina
+Durability 100 / 100
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #4652
+URL: https://database.turtle-wow.org/?item=4652
+Category: Database/Items/Armor/Shields
+Item: 
+Salbac Shield
+Binds when picked up
+Off Hand
+Shield
+1408 Armor
+20 Block
++9 Strength
++3 Spirit
+Durability 85 / 85
+
+
+Item #4822
+URL: https://database.turtle-wow.org/?item=4822
+Category: Database/Items/Armor/Shields
+Item: 
+Owl's Disk
+Binds when equipped
+Off Hand
+Shield
+461 Armor
+8 Block
++4 Intellect
+Durability 70 / 70
+Requires Level 18
+
+
+Item #4820
+URL: https://database.turtle-wow.org/?item=4820
+Category: Database/Items/Armor/Shields
+Item: 
+Guardian Buckler
+Binds when equipped
+Off Hand
+Shield
+495 Armor
+9 Block
++3 Stamina
++3 Spirit
+Durability 75 / 75
+Requires Level 20
+
+
+Item #4821
+URL: https://database.turtle-wow.org/?item=4821
+Category: Database/Items/Armor/Shields
+Item: 
+Bear Buckler
+Binds when equipped
+Off Hand
+Shield
+461 Armor
+8 Block
++3 Strength
++3 Stamina
+Durability 70 / 70
+Requires Level 18
+
+
+Item #4911
+URL: https://database.turtle-wow.org/?item=4911
+Category: Database/Items/Armor/Shields
+Item: 
+Thick Bark Buckler
+Binds when picked up
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #4967
+URL: https://database.turtle-wow.org/?item=4967
+Category: Database/Items/Armor/Shields
+Item: 
+Tribal Warrior's Shield
+Binds when picked up
+Off Hand
+Shield
+189 Armor
+3 Block
+Durability 45 / 45
+
+
+Item #4975
+URL: https://database.turtle-wow.org/?item=4975
+Category: Database/Items/Armor/Shields
+Item: 
+Vigilant Buckler
+Binds when picked up
+Off Hand
+Shield
+728 Armor
+16 Block
++7 Stamina
+Durability 85 / 85
+Equip:
+Increases your chance to block attacks with a shield by 1%.
+
+
+Item #5094
+URL: https://database.turtle-wow.org/?item=5094
+Category: Database/Items/Armor/Shields
+Item: 
+Razormane War Shield
+Binds when picked up
+Off Hand
+Shield
+444 Armor
+8 Block
+Durability 75 / 75
+Requires Level 19
+
+
+Item #5302
+URL: https://database.turtle-wow.org/?item=5302
+Category: Database/Items/Armor/Shields
+Item: 
+Cobalt Buckler
+Binds when picked up
+Off Hand
+Shield
+411 Armor
+7 Block
++3 Stamina
+Durability 65 / 65
+
+
+Item #5325
+URL: https://database.turtle-wow.org/?item=5325
+Category: Database/Items/Armor/Shields
+Item: 
+Welding Shield
+Binds when picked up
+Off Hand
+Shield
+345 Armor
+6 Block
++2 Stamina
+Durability 55 / 55
+
+
+Item #5357
+URL: https://database.turtle-wow.org/?item=5357
+Category: Database/Items/Armor/Shields
+Item: 
+Ward of the Vale
+Binds when picked up
+Off Hand
+Shield
+528 Armor
+10 Block
++1 Intellect
++5 Spirit
+Durability 80 / 80
+
+
+Item #5395
+URL: https://database.turtle-wow.org/?item=5395
+Category: Database/Items/Armor/Shields
+Item: 
+Woodland Shield
+Binds when picked up
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #5443
+URL: https://database.turtle-wow.org/?item=5443
+Category: Database/Items/Armor/Shields
+Item: 
+Gold-plated Buckler
+Binds when picked up
+Off Hand
+Shield
+471 Armor
+9 Block
++5 Stamina
++2 Agility
+Durability 75 / 75
+Requires Level 15
+
+
+Item #5593
+URL: https://database.turtle-wow.org/?item=5593
+Category: Database/Items/Armor/Shields
+Item: 
+Crag Buckler
+Binds when picked up
+Off Hand
+Shield
+189 Armor
+3 Block
+Durability 45 / 45
+
+
+Item #5940
+URL: https://database.turtle-wow.org/?item=5940
+Category: Database/Items/Armor/Shields
+Item: 
+Bone Buckler
+Binds when picked up
+Off Hand
+Shield
+220 Armor
+4 Block
+Durability 50 / 50
+
+
+Item #6078
+URL: https://database.turtle-wow.org/?item=6078
+Category: Database/Items/Armor/Shields
+Item: 
+Pikeman Shield
+Binds when picked up
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #6176
+URL: https://database.turtle-wow.org/?item=6176
+Category: Database/Items/Armor/Shields
+Item: 
+Dwarven Kite Shield
+Binds when picked up
+Off Hand
+Shield
+55 Armor
+1 Block
+Durability 35 / 35
+
+
+Item #6187
+URL: https://database.turtle-wow.org/?item=6187
+Category: Database/Items/Armor/Shields
+Item: 
+Dwarven Defender
+Binds when picked up
+Off Hand
+Shield
+361 Armor
+6 Block
++3 Stamina
+Durability 60 / 60
+
+
+Item #6203
+URL: https://database.turtle-wow.org/?item=6203
+Category: Database/Items/Armor/Shields
+Item: 
+Thuggish Shield
+Off Hand
+Shield
+189 Armor
+3 Block
+Durability 45 / 45
+Requires Level 6
+
+
+Item #6223
+URL: https://database.turtle-wow.org/?item=6223
+Category: Database/Items/Armor/Shields
+Item: 
+Crest of Darkshire
+Binds when picked up
+Off Hand
+Shield
+661 Armor
+14 Block
++2 Strength
++7 Stamina
+Durability 85 / 85
+
+
+Item #6254
+URL: https://database.turtle-wow.org/?item=6254
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Ironforge
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #6320
+URL: https://database.turtle-wow.org/?item=6320
+Category: Database/Items/Armor/Shields
+Item: 
+Commander's Crest
+Binds when picked up
+Off Hand
+Shield
+623 Armor
+13 Block
++3 Spirit
++3 Stamina
++6 Strength
+Durability 95 / 95
+Requires Level 23
+
+
+Item #6380
+URL: https://database.turtle-wow.org/?item=6380
+Category: Database/Items/Armor/Shields
+Item: 
+Inscribed Buckler
+Binds when equipped
+Off Hand
+Shield
+378 Armor
+6 Block
++2 Intellect
++2 Spirit
+Durability 60 / 60
+Requires Level 13
+
+
+Item #6383
+URL: https://database.turtle-wow.org/?item=6383
+Category: Database/Items/Armor/Shields
+Item: 
+Forest Buckler
+Binds when equipped
+Off Hand
+Shield
+478 Armor
+9 Block
++4 Intellect
++2 Stamina
+Durability 75 / 75
+Requires Level 19
+
+
+Item #6400
+URL: https://database.turtle-wow.org/?item=6400
+Category: Database/Items/Armor/Shields
+Item: 
+Glimmering Shield
+Binds when equipped
+Off Hand
+Shield
+595 Armor
+12 Block
++4 Strength
++3 Stamina
+Durability 85 / 85
+Requires Level 26
+
+
+Item #6434
+URL: https://database.turtle-wow.org/?item=6434
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Stromgarde
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #6447
+URL: https://database.turtle-wow.org/?item=6447
+Category: Database/Items/Armor/Shields
+Item: 
+Worn Turtle Shell Shield
+Off Hand
+Shield
+412 Armor
+6 Block
+Durability 65 / 65
+Requires Level 15
+
+
+Item #6559
+URL: https://database.turtle-wow.org/?item=6559
+Category: Database/Items/Armor/Shields
+Item: 
+Bard's Buckler
+Binds when equipped
+Off Hand
+Shield
+345 Armor
+6 Block
+Durability 55 / 55
+Requires Level 11
+Random Bonuses
+
+
+Item #6560
+URL: https://database.turtle-wow.org/?item=6560
+Category: Database/Items/Armor/Shields
+Item: 
+Soldier's Shield
+Binds when equipped
+Off Hand
+Shield
+361 Armor
+6 Block
+Durability 60 / 60
+Requires Level 12
+Random Bonuses
+
+
+Item #6571
+URL: https://database.turtle-wow.org/?item=6571
+Category: Database/Items/Armor/Shields
+Item: 
+Scouting Buckler
+Binds when equipped
+Off Hand
+Shield
+445 Armor
+8 Block
+Durability 70 / 70
+Requires Level 17
+Random Bonuses
+
+
+Item #6572
+URL: https://database.turtle-wow.org/?item=6572
+Category: Database/Items/Armor/Shields
+Item: 
+Defender Shield
+Binds when equipped
+Off Hand
+Shield
+461 Armor
+8 Block
+Durability 70 / 70
+Requires Level 18
+Random Bonuses
+
+
+Item #6598
+URL: https://database.turtle-wow.org/?item=6598
+Category: Database/Items/Armor/Shields
+Item: 
+Dervish Buckler
+Binds when equipped
+Off Hand
+Shield
+545 Armor
+10 Block
+Durability 80 / 80
+Requires Level 23
+Random Bonuses
+
+
+Item #6599
+URL: https://database.turtle-wow.org/?item=6599
+Category: Database/Items/Armor/Shields
+Item: 
+Battleforge Shield
+Binds when equipped
+Off Hand
+Shield
+561 Armor
+11 Block
+Durability 85 / 85
+Requires Level 24
+Random Bonuses
+
+
+Item #6630
+URL: https://database.turtle-wow.org/?item=6630
+Category: Database/Items/Armor/Shields
+Item: 
+Seedcloud Buckler
+Binds when picked up
+Off Hand
+Shield
+566 Armor
+11 Block
++3 Spirit
++6 Intellect
+Durability 90 / 90
+Requires Level 20
+
+
+Item #6676
+URL: https://database.turtle-wow.org/?item=6676
+Category: Database/Items/Armor/Shields
+Item: 
+Constable Buckler
+Binds when picked up
+Off Hand
+Shield
+528 Armor
+10 Block
++4 Stamina
++3 Spirit
+Durability 80 / 80
+
+
+Item #6694
+URL: https://database.turtle-wow.org/?item=6694
+Category: Database/Items/Armor/Shields
+Item: 
+Heart of Agamaggan
+Binds when picked up
+Off Hand
+Shield
+776 Armor
+17 Block
++8 Spirit
++7 Stamina
+Durability 100 / 100
+Requires Level 31
+
+
+Item #6725
+URL: https://database.turtle-wow.org/?item=6725
+Category: Database/Items/Armor/Shields
+Item: 
+Marbled Buckler
+Binds when picked up
+Off Hand
+Shield
+775 Armor
+17 Block
++5 Agility
++5 Strength
++5 Spirit
++5 Stamina
+Durability 100 / 100
+
+
+Item #6746
+URL: https://database.turtle-wow.org/?item=6746
+Category: Database/Items/Armor/Shields
+Item: 
+Basalt Buckler
+Binds when picked up
+Off Hand
+Shield
+963 Armor
+17 Block
++2 Stamina
++8 Intellect
+Durability 85 / 85
+
+
+Item #6828
+URL: https://database.turtle-wow.org/?item=6828
+Category: Database/Items/Armor/Shields
+Item: 
+Visionary Buckler
+Binds when picked up
+Off Hand
+Shield
+711 Armor
+15 Block
++4 Stamina
++7 Spirit
+Durability 85 / 85
+
+
+Item #6970
+URL: https://database.turtle-wow.org/?item=6970
+Category: Database/Items/Armor/Shields
+Item: 
+Furen's Favor
+Binds when picked up
+Off Hand
+Shield
+411 Armor
+7 Block
++3 Strength
+Durability 65 / 65
+Classes: Warrior
+
+
+Item #7002
+URL: https://database.turtle-wow.org/?item=7002
+Category: Database/Items/Armor/Shields
+Item: 
+Arctic Buckler
+Binds when picked up
+Off Hand
+Shield
+642 Armor
+13 Block
++8 Spirit
++3 Stamina
++5 Frost Resistance
+Durability 100 / 100
+
+
+Item #7108
+URL: https://database.turtle-wow.org/?item=7108
+Category: Database/Items/Armor/Shields
+Item: 
+Infantry Shield
+Binds when equipped
+Off Hand
+Shield
+207 Armor
+4 Block
+Durability 45 / 45
+Requires Level 6
+Random Bonuses
+
+
+Item #7109
+URL: https://database.turtle-wow.org/?item=7109
+Category: Database/Items/Armor/Shields
+Item: 
+Pioneer Buckler
+Off Hand
+Shield
+135 Armor
+3 Block
+Durability 40 / 40
+Requires Level 4
+
+
+Item #7120
+URL: https://database.turtle-wow.org/?item=7120
+Category: Database/Items/Armor/Shields
+Item: 
+Ruga's Bulwark
+Binds when picked up
+Off Hand
+Shield
+411 Armor
+7 Block
++3 Strength
+Durability 65 / 65
+Classes: Warrior
+
+
+Item #7188
+URL: https://database.turtle-wow.org/?item=7188
+Category: Database/Items/Armor/Shields
+Item: 
+Stormwind Guard Shield
+Binds when equipped
+Off Hand
+Shield
+478 Armor
+9 Block
++2 Strength
++4 Stamina
+Durability 75 / 75
+Requires Level 19
+
+
+Item #7331
+URL: https://database.turtle-wow.org/?item=7331
+Category: Database/Items/Armor/Shields
+Item: 
+Phalanx Shield
+Binds when equipped
+Off Hand
+Shield
+645 Armor
+13 Block
+Durability 85 / 85
+Requires Level 29
+Random Bonuses
+
+
+Item #7330
+URL: https://database.turtle-wow.org/?item=7330
+Category: Database/Items/Armor/Shields
+Item: 
+Infiltrator Buckler
+Binds when equipped
+Off Hand
+Shield
+628 Armor
+13 Block
+Durability 85 / 85
+Requires Level 28
+Random Bonuses
+
+
+Item #7465
+URL: https://database.turtle-wow.org/?item=7465
+Category: Database/Items/Armor/Shields
+Item: 
+Knight's Crest
+Binds when equipped
+Off Hand
+Shield
+728 Armor
+16 Block
+Durability 85 / 85
+Requires Level 34
+Random Bonuses
+
+
+Item #7463
+URL: https://database.turtle-wow.org/?item=7463
+Category: Database/Items/Armor/Shields
+Item: 
+Sentinel Buckler
+Binds when equipped
+Off Hand
+Shield
+711 Armor
+15 Block
+Durability 85 / 85
+Requires Level 33
+Random Bonuses
+
+
+Item #7496
+URL: https://database.turtle-wow.org/?item=7496
+Category: Database/Items/Armor/Shields
+Item: 
+Field Plate Shield
+Binds when equipped
+Off Hand
+Shield
+1257 Armor
+19 Block
+Durability 85 / 85
+Requires Level 38
+Random Bonuses
+
+
+Item #7495
+URL: https://database.turtle-wow.org/?item=7495
+Category: Database/Items/Armor/Shields
+Item: 
+Captain's Buckler
+Binds when equipped
+Off Hand
+Shield
+1380 Armor
+20 Block
+Durability 85 / 85
+Requires Level 39
+Random Bonuses
+
+
+Item #7536
+URL: https://database.turtle-wow.org/?item=7536
+Category: Database/Items/Armor/Shields
+Item: 
+Champion's Wall Shield
+Binds when equipped
+Off Hand
+Shield
+1493 Armor
+23 Block
+Durability 85 / 85
+Requires Level 43
+Random Bonuses
+
+
+Item #7537
+URL: https://database.turtle-wow.org/?item=7537
+Category: Database/Items/Armor/Shields
+Item: 
+Gothic Shield
+Binds when equipped
+Off Hand
+Shield
+1521 Armor
+23 Block
+Durability 85 / 85
+Requires Level 44
+Random Bonuses
+
+
+Item #7726
+URL: https://database.turtle-wow.org/?item=7726
+Category: Database/Items/Armor/Shields
+Item: 
+Aegis of the Scarlet Commander
+Binds when picked up
+Off Hand
+Shield
+1548 Armor
+23 Block
++7 Spirit
++8 Stamina
++7 Strength
+Durability 100 / 100
+Requires Level 39
+
+
+Item #7748
+URL: https://database.turtle-wow.org/?item=7748
+Category: Database/Items/Armor/Shields
+Item: 
+Forcestone Buckler
+Binds when picked up
+Off Hand
+Shield
+1408 Armor
+20 Block
++3 Stamina
++9 Spirit
+Durability 85 / 85
+
+
+Item #7747
+URL: https://database.turtle-wow.org/?item=7747
+Category: Database/Items/Armor/Shields
+Item: 
+Vile Protector
+Binds when picked up
+Off Hand
+Shield
+1051 Armor
+17 Block
++4 Strength
+Durability 85 / 85
+Equip:
+When struck in combat has a 1% chance of inflicting 105 to 176 Shadow damage to the attacker.
+
+
+Item #7787
+URL: https://database.turtle-wow.org/?item=7787
+Category: Database/Items/Armor/Shields
+Item: 
+Resplendent Guardian
+Binds when equipped
+Off Hand
+Shield
+680 Armor
+14 Block
++7 Stamina
+Durability 100 / 100
+Requires Level 26
+Equip:
+Increases your chance to block attacks with a shield by 1%.
+
+
+Item #8134
+URL: https://database.turtle-wow.org/?item=8134
+Category: Database/Items/Armor/Shields
+Item: 
+Myrmidon's Defender
+Binds when equipped
+Off Hand
+Shield
+1578 Armor
+25 Block
++2 Stamina
++2 Agility
++11 Spirit
+Durability 85 / 85
+Requires Level 46
+
+
+Item #8135
+URL: https://database.turtle-wow.org/?item=8135
+Category: Database/Items/Armor/Shields
+Item: 
+Chromite Shield
+Binds when equipped
+Off Hand
+Shield
+1436 Armor
+21 Block
++3 Strength
++10 Stamina
+Durability 85 / 85
+Requires Level 41
+
+
+Item #8275
+URL: https://database.turtle-wow.org/?item=8275
+Category: Database/Items/Armor/Shields
+Item: 
+Ebonhold Buckler
+Binds when equipped
+Off Hand
+Shield
+1720 Armor
+30 Block
++4 Stamina
++12 Spirit
+Durability 85 / 85
+Requires Level 51
+
+
+Item #8282
+URL: https://database.turtle-wow.org/?item=8282
+Category: Database/Items/Armor/Shields
+Item: 
+Valorous Shield
+Binds when equipped
+Off Hand
+Shield
+1578 Armor
+25 Block
++6 Strength
++9 Stamina
+Durability 85 / 85
+Requires Level 46
+
+
+Item #8313
+URL: https://database.turtle-wow.org/?item=8313
+Category: Database/Items/Armor/Shields
+Item: 
+Hero's Buckler
+Binds when equipped
+Off Hand
+Shield
+1890 Armor
+36 Block
++7 Strength
++12 Intellect
+Durability 85 / 85
+Requires Level 57
+
+
+Item #8320
+URL: https://database.turtle-wow.org/?item=8320
+Category: Database/Items/Armor/Shields
+Item: 
+Alabaster Shield
+Binds when equipped
+Off Hand
+Shield
+1748 Armor
+31 Block
++3 Strength
++13 Stamina
+Durability 85 / 85
+Requires Level 52
+
+
+Item #9403
+URL: https://database.turtle-wow.org/?item=9403
+Category: Database/Items/Armor/Shields
+Item: 
+Battered Viking Shield
+Binds when picked up
+Off Hand
+Shield
+963 Armor
+17 Block
++8 Stamina
++4 Spirit
+Durability 85 / 85
+Requires Level 35
+
+
+Item #9404
+URL: https://database.turtle-wow.org/?item=9404
+Category: Database/Items/Armor/Shields
+Item: 
+Olaf's All Purpose Shield
+Binds when picked up
+Off Hand
+Shield
+1287 Armor
+22 Block
++11 Stamina
+Durability 100 / 100
+Requires Level 37
+Use:
+Reduces your fall speed for 10 sec.
+
+
+Item #9444
+URL: https://database.turtle-wow.org/?item=9444
+Category: Database/Items/Armor/Shields
+Item: 
+Techbot CPU Shell
+Off Hand
+Shield
+475 Armor
+9 Block
+Durability 80 / 80
+Requires Level 21
+
+
+Item #9458
+URL: https://database.turtle-wow.org/?item=9458
+Category: Database/Items/Armor/Shields
+Item: 
+Thermaplugg's Central Core
+Binds when picked up
+Off Hand
+Shield
+795 Armor
+18 Block
++3 Spirit
+Durability 100 / 100
+Requires Level 32
+Equip:
+When struck in combat has a 5% chance of inflicting 35 to 66 Nature damage to the attacker.
+
+
+Item #9522
+URL: https://database.turtle-wow.org/?item=9522
+Category: Database/Items/Armor/Shields
+Item: 
+Energized Stone Circle
+Binds when picked up
+Off Hand
+Shield
+678 Armor
+14 Block
++2 Stamina
++7 Spirit
+Durability 85 / 85
+
+
+Item #9607
+URL: https://database.turtle-wow.org/?item=9607
+Category: Database/Items/Armor/Shields
+Item: 
+Bastion of Stormwind
+Binds when picked up
+Off Hand
+Shield
+495 Armor
+9 Block
+Durability 75 / 75
+Classes: Paladin
+Equip:
+Increased Defense +3.
+
+
+Item #9643
+URL: https://database.turtle-wow.org/?item=9643
+Category: Database/Items/Armor/Shields
+Item: 
+Optomatic Deflector
+Binds when picked up
+Off Hand
+Shield
+1578 Armor
+25 Block
++5 Strength
+Durability 85 / 85
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+
+
+Item #9661
+URL: https://database.turtle-wow.org/?item=9661
+Category: Database/Items/Armor/Shields
+Item: 
+Earthclasp Barrier
+Binds when picked up
+Off Hand
+Shield
+1257 Armor
+19 Block
++1 Stamina
++9 Spirit
+Durability 85 / 85
+
+
+Item #9706
+URL: https://database.turtle-wow.org/?item=9706
+Category: Database/Items/Armor/Shields
+Item: 
+Tharg's Disk
+Binds when picked up
+Off Hand
+Shield
+1257 Armor
+19 Block
++10 Stamina
+Durability 85 / 85
+
+
+Item #9753
+URL: https://database.turtle-wow.org/?item=9753
+Category: Database/Items/Armor/Shields
+Item: 
+Gypsy Buckler
+Binds when equipped
+Off Hand
+Shield
+239 Armor
+4 Block
+Durability 50 / 50
+Requires Level 7
+Random Bonuses
+
+
+Item #9764
+URL: https://database.turtle-wow.org/?item=9764
+Category: Database/Items/Armor/Shields
+Item: 
+Cadet Shield
+Binds when equipped
+Off Hand
+Shield
+274 Armor
+5 Block
+Durability 50 / 50
+Requires Level 8
+Random Bonuses
+
+
+Item #9778
+URL: https://database.turtle-wow.org/?item=9778
+Category: Database/Items/Armor/Shields
+Item: 
+Bandit Buckler
+Binds when equipped
+Off Hand
+Shield
+411 Armor
+7 Block
+Durability 65 / 65
+Requires Level 15
+Random Bonuses
+
+
+Item #9790
+URL: https://database.turtle-wow.org/?item=9790
+Category: Database/Items/Armor/Shields
+Item: 
+Raider's Shield
+Binds when equipped
+Off Hand
+Shield
+395 Armor
+7 Block
+Durability 65 / 65
+Requires Level 14
+Random Bonuses
+
+
+Item #9804
+URL: https://database.turtle-wow.org/?item=9804
+Category: Database/Items/Armor/Shields
+Item: 
+Superior Buckler
+Binds when equipped
+Off Hand
+Shield
+511 Armor
+9 Block
+Durability 80 / 80
+Requires Level 21
+Random Bonuses
+
+
+Item #9816
+URL: https://database.turtle-wow.org/?item=9816
+Category: Database/Items/Armor/Shields
+Item: 
+Fortified Shield
+Binds when equipped
+Off Hand
+Shield
+495 Armor
+9 Block
+Durability 75 / 75
+Requires Level 20
+Random Bonuses
+
+
+Item #9830
+URL: https://database.turtle-wow.org/?item=9830
+Category: Database/Items/Armor/Shields
+Item: 
+Scaled Shield
+Binds when equipped
+Off Hand
+Shield
+611 Armor
+12 Block
+Durability 85 / 85
+Requires Level 27
+Random Bonuses
+
+
+Item #9843
+URL: https://database.turtle-wow.org/?item=9843
+Category: Database/Items/Armor/Shields
+Item: 
+Banded Shield
+Binds when equipped
+Off Hand
+Shield
+628 Armor
+13 Block
+Durability 85 / 85
+Requires Level 28
+Random Bonuses
+
+
+Item #9858
+URL: https://database.turtle-wow.org/?item=9858
+Category: Database/Items/Armor/Shields
+Item: 
+Archer's Buckler
+Binds when equipped
+Off Hand
+Shield
+678 Armor
+14 Block
+Durability 85 / 85
+Requires Level 31
+Random Bonuses
+
+
+Item #9873
+URL: https://database.turtle-wow.org/?item=9873
+Category: Database/Items/Armor/Shields
+Item: 
+Renegade Shield
+Binds when equipped
+Off Hand
+Shield
+695 Armor
+15 Block
+Durability 85 / 85
+Requires Level 32
+Random Bonuses
+
+
+Item #9899
+URL: https://database.turtle-wow.org/?item=9899
+Category: Database/Items/Armor/Shields
+Item: 
+Jazeraint Shield
+Binds when equipped
+Off Hand
+Shield
+1148 Armor
+18 Block
+Durability 85 / 85
+Requires Level 37
+Random Bonuses
+
+
+Item #9918
+URL: https://database.turtle-wow.org/?item=9918
+Category: Database/Items/Armor/Shields
+Item: 
+Brigade Defender
+Binds when equipped
+Off Hand
+Shield
+1408 Armor
+20 Block
+Durability 85 / 85
+Requires Level 40
+Random Bonuses
+
+
+Item #9935
+URL: https://database.turtle-wow.org/?item=9935
+Category: Database/Items/Armor/Shields
+Item: 
+Embossed Plate Shield
+Binds when equipped
+Off Hand
+Shield
+1408 Armor
+20 Block
+Durability 85 / 85
+Requires Level 40
+Random Bonuses
+
+
+Item #9958
+URL: https://database.turtle-wow.org/?item=9958
+Category: Database/Items/Armor/Shields
+Item: 
+Warmonger's Buckler
+Binds when equipped
+Off Hand
+Shield
+1550 Armor
+24 Block
+Durability 85 / 85
+Requires Level 45
+Random Bonuses
+
+
+Item #9974
+URL: https://database.turtle-wow.org/?item=9974
+Category: Database/Items/Armor/Shields
+Item: 
+Overlord's Shield
+Binds when equipped
+Off Hand
+Shield
+1606 Armor
+26 Block
+Durability 85 / 85
+Requires Level 47
+Random Bonuses
+
+
+Item #10078
+URL: https://database.turtle-wow.org/?item=10078
+Category: Database/Items/Armor/Shields
+Item: 
+Lord's Crest
+Binds when equipped
+Off Hand
+Shield
+1635 Armor
+27 Block
+Durability 85 / 85
+Requires Level 48
+Random Bonuses
+
+
+Item #10093
+URL: https://database.turtle-wow.org/?item=10093
+Category: Database/Items/Armor/Shields
+Item: 
+Revenant Deflector
+Binds when equipped
+Off Hand
+Shield
+1663 Armor
+28 Block
+Durability 85 / 85
+Requires Level 49
+Random Bonuses
+
+
+Item #10158
+URL: https://database.turtle-wow.org/?item=10158
+Category: Database/Items/Armor/Shields
+Item: 
+Mercurial Guard
+Binds when equipped
+Off Hand
+Shield
+1946 Armor
+37 Block
+Durability 85 / 85
+Requires Level 59
+Random Bonuses
+
+
+Item #10195
+URL: https://database.turtle-wow.org/?item=10195
+Category: Database/Items/Armor/Shields
+Item: 
+Crusader's Shield
+Binds when equipped
+Off Hand
+Shield
+1691 Armor
+29 Block
+Durability 85 / 85
+Requires Level 50
+Random Bonuses
+
+
+Item #10204
+URL: https://database.turtle-wow.org/?item=10204
+Category: Database/Items/Armor/Shields
+Item: 
+Heavy Lamellar Shield
+Binds when equipped
+Off Hand
+Shield
+1691 Armor
+29 Block
+Durability 85 / 85
+Requires Level 50
+Random Bonuses
+
+
+Item #10271
+URL: https://database.turtle-wow.org/?item=10271
+Category: Database/Items/Armor/Shields
+Item: 
+Masterwork Shield
+Binds when equipped
+Off Hand
+Shield
+1975 Armor
+38 Block
+Durability 85 / 85
+Requires Level 60
+Random Bonuses
+
+
+Item #10362
+URL: https://database.turtle-wow.org/?item=10362
+Category: Database/Items/Armor/Shields
+Item: 
+Ornate Shield
+Binds when equipped
+Off Hand
+Shield
+1776 Armor
+32 Block
+Durability 85 / 85
+Requires Level 53
+Random Bonuses
+
+
+Item #10363
+URL: https://database.turtle-wow.org/?item=10363
+Category: Database/Items/Armor/Shields
+Item: 
+Engraved Wall
+Binds when equipped
+Off Hand
+Shield
+1833 Armor
+34 Block
+Durability 85 / 85
+Requires Level 55
+Random Bonuses
+
+
+Item #10364
+URL: https://database.turtle-wow.org/?item=10364
+Category: Database/Items/Armor/Shields
+Item: 
+Templar Shield
+Binds when equipped
+Off Hand
+Shield
+1776 Armor
+32 Block
+Durability 85 / 85
+Requires Level 53
+Random Bonuses
+
+
+Item #10366
+URL: https://database.turtle-wow.org/?item=10366
+Category: Database/Items/Armor/Shields
+Item: 
+Demon Guard
+Binds when equipped
+Off Hand
+Shield
+1918 Armor
+36 Block
+Durability 85 / 85
+Requires Level 58
+Random Bonuses
+
+
+
+
+Item #10365
+URL: https://database.turtle-wow.org/?item=10365
+Category: Database/Items/Armor/Shields
+Item: 
+Emerald Shield
+Binds when equipped
+Off Hand
+Shield
+1805 Armor
+33 Block
+Durability 85 / 85
+Requires Level 54
+Random Bonuses
+
+
+Item #9522
+URL: https://database.turtle-wow.org/?item=9522
+Category: Database/Items/Armor/Shields
+Item: 
+Energized Stone Circle
+Binds when picked up
+Off Hand
+Shield
+678 Armor
+14 Block
++2 Stamina
++7 Spirit
+Durability 85 / 85
+
+
+Item #9607
+URL: https://database.turtle-wow.org/?item=9607
+Category: Database/Items/Armor/Shields
+Item: 
+Bastion of Stormwind
+Binds when picked up
+Off Hand
+Shield
+495 Armor
+9 Block
+Durability 75 / 75
+Classes: Paladin
+Equip:
+Increased Defense +3.
+
+
+Item #9643
+URL: https://database.turtle-wow.org/?item=9643
+Category: Database/Items/Armor/Shields
+Item: 
+Optomatic Deflector
+Binds when picked up
+Off Hand
+Shield
+1578 Armor
+25 Block
++5 Strength
+Durability 85 / 85
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+
+
+Item #9661
+URL: https://database.turtle-wow.org/?item=9661
+Category: Database/Items/Armor/Shields
+Item: 
+Earthclasp Barrier
+Binds when picked up
+Off Hand
+Shield
+1257 Armor
+19 Block
++1 Stamina
++9 Spirit
+Durability 85 / 85
+
+
+Item #9706
+URL: https://database.turtle-wow.org/?item=9706
+Category: Database/Items/Armor/Shields
+Item: 
+Tharg's Disk
+Binds when picked up
+Off Hand
+Shield
+1257 Armor
+19 Block
++10 Stamina
+Durability 85 / 85
+
+
+Item #9753
+URL: https://database.turtle-wow.org/?item=9753
+Category: Database/Items/Armor/Shields
+Item: 
+Gypsy Buckler
+Binds when equipped
+Off Hand
+Shield
+239 Armor
+4 Block
+Durability 50 / 50
+Requires Level 7
+Random Bonuses
+
+
+Item #9764
+URL: https://database.turtle-wow.org/?item=9764
+Category: Database/Items/Armor/Shields
+Item: 
+Cadet Shield
+Binds when equipped
+Off Hand
+Shield
+274 Armor
+5 Block
+Durability 50 / 50
+Requires Level 8
+Random Bonuses
+
+
+Item #9778
+URL: https://database.turtle-wow.org/?item=9778
+Category: Database/Items/Armor/Shields
+Item: 
+Bandit Buckler
+Binds when equipped
+Off Hand
+Shield
+411 Armor
+7 Block
+Durability 65 / 65
+Requires Level 15
+Random Bonuses
+
+
+Item #9790
+URL: https://database.turtle-wow.org/?item=9790
+Category: Database/Items/Armor/Shields
+Item: 
+Raider's Shield
+Binds when equipped
+Off Hand
+Shield
+395 Armor
+7 Block
+Durability 65 / 65
+Requires Level 14
+Random Bonuses
+
+
+Item #9804
+URL: https://database.turtle-wow.org/?item=9804
+Category: Database/Items/Armor/Shields
+Item: 
+Superior Buckler
+Binds when equipped
+Off Hand
+Shield
+511 Armor
+9 Block
+Durability 80 / 80
+Requires Level 21
+Random Bonuses
+
+
+Item #9816
+URL: https://database.turtle-wow.org/?item=9816
+Category: Database/Items/Armor/Shields
+Item: 
+Fortified Shield
+Binds when equipped
+Off Hand
+Shield
+495 Armor
+9 Block
+Durability 75 / 75
+Requires Level 20
+Random Bonuses
+
+
+Item #9830
+URL: https://database.turtle-wow.org/?item=9830
+Category: Database/Items/Armor/Shields
+Item: 
+Scaled Shield
+Binds when equipped
+Off Hand
+Shield
+611 Armor
+12 Block
+Durability 85 / 85
+Requires Level 27
+Random Bonuses
+
+
+Item #9843
+URL: https://database.turtle-wow.org/?item=9843
+Category: Database/Items/Armor/Shields
+Item: 
+Banded Shield
+Binds when equipped
+Off Hand
+Shield
+628 Armor
+13 Block
+Durability 85 / 85
+Requires Level 28
+Random Bonuses
+
+
+Item #9858
+URL: https://database.turtle-wow.org/?item=9858
+Category: Database/Items/Armor/Shields
+Item: 
+Archer's Buckler
+Binds when equipped
+Off Hand
+Shield
+678 Armor
+14 Block
+Durability 85 / 85
+Requires Level 31
+Random Bonuses
+
+
+Item #9873
+URL: https://database.turtle-wow.org/?item=9873
+Category: Database/Items/Armor/Shields
+Item: 
+Renegade Shield
+Binds when equipped
+Off Hand
+Shield
+695 Armor
+15 Block
+Durability 85 / 85
+Requires Level 32
+Random Bonuses
+
+
+Item #9899
+URL: https://database.turtle-wow.org/?item=9899
+Category: Database/Items/Armor/Shields
+Item: 
+Jazeraint Shield
+Binds when equipped
+Off Hand
+Shield
+1148 Armor
+18 Block
+Durability 85 / 85
+Requires Level 37
+Random Bonuses
+
+
+Item #9918
+URL: https://database.turtle-wow.org/?item=9918
+Category: Database/Items/Armor/Shields
+Item: 
+Brigade Defender
+Binds when equipped
+Off Hand
+Shield
+1408 Armor
+20 Block
+Durability 85 / 85
+Requires Level 40
+Random Bonuses
+
+
+Item #9935
+URL: https://database.turtle-wow.org/?item=9935
+Category: Database/Items/Armor/Shields
+Item: 
+Embossed Plate Shield
+Binds when equipped
+Off Hand
+Shield
+1408 Armor
+20 Block
+Durability 85 / 85
+Requires Level 40
+Random Bonuses
+
+
+Item #9958
+URL: https://database.turtle-wow.org/?item=9958
+Category: Database/Items/Armor/Shields
+Item: 
+Warmonger's Buckler
+Binds when equipped
+Off Hand
+Shield
+1550 Armor
+24 Block
+Durability 85 / 85
+Requires Level 45
+Random Bonuses
+
+
+Item #9974
+URL: https://database.turtle-wow.org/?item=9974
+Category: Database/Items/Armor/Shields
+Item: 
+Overlord's Shield
+Binds when equipped
+Off Hand
+Shield
+1606 Armor
+26 Block
+Durability 85 / 85
+Requires Level 47
+Random Bonuses
+
+
+Item #10078
+URL: https://database.turtle-wow.org/?item=10078
+Category: Database/Items/Armor/Shields
+Item: 
+Lord's Crest
+Binds when equipped
+Off Hand
+Shield
+1635 Armor
+27 Block
+Durability 85 / 85
+Requires Level 48
+Random Bonuses
+
+
+Item #10093
+URL: https://database.turtle-wow.org/?item=10093
+Category: Database/Items/Armor/Shields
+Item: 
+Revenant Deflector
+Binds when equipped
+Off Hand
+Shield
+1663 Armor
+28 Block
+Durability 85 / 85
+Requires Level 49
+Random Bonuses
+
+
+Item #10158
+URL: https://database.turtle-wow.org/?item=10158
+Category: Database/Items/Armor/Shields
+Item: 
+Mercurial Guard
+Binds when equipped
+Off Hand
+Shield
+1946 Armor
+37 Block
+Durability 85 / 85
+Requires Level 59
+Random Bonuses
+
+
+Item #10195
+URL: https://database.turtle-wow.org/?item=10195
+Category: Database/Items/Armor/Shields
+Item: 
+Crusader's Shield
+Binds when equipped
+Off Hand
+Shield
+1691 Armor
+29 Block
+Durability 85 / 85
+Requires Level 50
+Random Bonuses
+
+
+Item #10204
+URL: https://database.turtle-wow.org/?item=10204
+Category: Database/Items/Armor/Shields
+Item: 
+Heavy Lamellar Shield
+Binds when equipped
+Off Hand
+Shield
+1691 Armor
+29 Block
+Durability 85 / 85
+Requires Level 50
+Random Bonuses
+
+
+Item #10271
+URL: https://database.turtle-wow.org/?item=10271
+Category: Database/Items/Armor/Shields
+Item: 
+Masterwork Shield
+Binds when equipped
+Off Hand
+Shield
+1975 Armor
+38 Block
+Durability 85 / 85
+Requires Level 60
+Random Bonuses
+
+
+Item #10363
+URL: https://database.turtle-wow.org/?item=10363
+Category: Database/Items/Armor/Shields
+Item: 
+Engraved Wall
+Binds when equipped
+Off Hand
+Shield
+1833 Armor
+34 Block
+Durability 85 / 85
+Requires Level 55
+Random Bonuses
+
+
+Item #10364
+URL: https://database.turtle-wow.org/?item=10364
+Category: Database/Items/Armor/Shields
+Item: 
+Templar Shield
+Binds when equipped
+Off Hand
+Shield
+1776 Armor
+32 Block
+Durability 85 / 85
+Requires Level 53
+Random Bonuses
+
+
+Item #10365
+URL: https://database.turtle-wow.org/?item=10365
+Category: Database/Items/Armor/Shields
+Item: 
+Emerald Shield
+Binds when equipped
+Off Hand
+Shield
+1805 Armor
+33 Block
+Durability 85 / 85
+Requires Level 54
+Random Bonuses
+
+
+Item #10366
+URL: https://database.turtle-wow.org/?item=10366
+Category: Database/Items/Armor/Shields
+Item: 
+Demon Guard
+Binds when equipped
+Off Hand
+Shield
+1918 Armor
+36 Block
+Durability 85 / 85
+Requires Level 58
+Random Bonuses
+
+
+Item #10367
+URL: https://database.turtle-wow.org/?item=10367
+Category: Database/Items/Armor/Shields
+Item: 
+Hyperion Shield
+Binds when equipped
+Off Hand
+Shield
+1975 Armor
+38 Block
+Durability 85 / 85
+Requires Level 60
+Random Bonuses
+
+
+Item #10686
+URL: https://database.turtle-wow.org/?item=10686
+Category: Database/Items/Armor/Shields
+Item: 
+Aegis of Battle
+Binds when picked up
+Off Hand
+Shield
+1898 Armor
+34 Block
++10 Stamina
+Durability 100 / 100
+Equip:
+Increases your chance to dodge an attack by 1%.
+
+
+Item #10767
+URL: https://database.turtle-wow.org/?item=10767
+Category: Database/Items/Armor/Shields
+Item: 
+Savage Boar's Guard
+Binds when picked up
+Off Hand
+Shield
+1287 Armor
+22 Block
++11 Strength
++6 Stamina
+Durability 100 / 100
+Requires Level 37
+
+
+Item #10835
+URL: https://database.turtle-wow.org/?item=10835
+Category: Database/Items/Armor/Shields
+Item: 
+Crest of Supremacy
+Binds when picked up
+Off Hand
+Shield
+1930 Armor
+35 Block
++6 Agility
++7 Intellect
++7 Spirit
++7 Stamina
++6 Strength
+Durability 100 / 100
+Requires Level 51
+
+
+Item #11041
+URL: https://database.turtle-wow.org/?item=11041
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Kite Metal Gold
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #11199
+URL: https://database.turtle-wow.org/?item=11199
+Category: Database/Items/Armor/Shields
+Item: 
+Engineer's Shield 1
+Off Hand
+Shield
+10 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #11200
+URL: https://database.turtle-wow.org/?item=11200
+Category: Database/Items/Armor/Shields
+Item: 
+Engineer's Shield 2
+Off Hand
+Shield
+10 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #11201
+URL: https://database.turtle-wow.org/?item=11201
+Category: Database/Items/Armor/Shields
+Item: 
+Engineer's Shield 3
+Off Hand
+Shield
+10 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #11586
+URL: https://database.turtle-wow.org/?item=11586
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Engineer B01
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #11589
+URL: https://database.turtle-wow.org/?item=11589
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Orange Skull
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #11585
+URL: https://database.turtle-wow.org/?item=11585
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Engineer A01
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #11587
+URL: https://database.turtle-wow.org/?item=11587
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Engineer C01
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #11631
+URL: https://database.turtle-wow.org/?item=11631
+Category: Database/Items/Armor/Shields
+Item: 
+Stoneshell Guard
+Binds when picked up
+Off Hand
+Shield
+1903 Armor
+31 Block
++6 Strength
++9 Stamina
+Durability 100 / 100
+Requires Level 47
+
+
+Item #11785
+URL: https://database.turtle-wow.org/?item=11785
+Category: Database/Items/Armor/Shields
+Item: 
+Rock Golem Bulwark
+Binds when picked up
+Off Hand
+Shield
+1994 Armor
+36 Block
++10 Stamina
++10 Nature Resistance
++10 Arcane Resistance
+Durability 100 / 100
+Requires Level 53
+
+
+Item #11915
+URL: https://database.turtle-wow.org/?item=11915
+Category: Database/Items/Armor/Shields
+Item: 
+Shizzle's Drizzle Blocker
+Binds when picked up
+Off Hand
+Shield
+1691 Armor
+29 Block
++13 Strength
++1 Stamina
+Durability 85 / 85
+
+
+Item #12454
+URL: https://database.turtle-wow.org/?item=12454
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde B01 Brown
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12452
+URL: https://database.turtle-wow.org/?item=12452
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde A02 Silver
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12453
+URL: https://database.turtle-wow.org/?item=12453
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde A03 Triangle
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12456
+URL: https://database.turtle-wow.org/?item=12456
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde B02 Brown
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12602
+URL: https://database.turtle-wow.org/?item=12602
+Category: Database/Items/Armor/Shields
+Item: 
+Draconian Deflector
+Binds when picked up
+Off Hand
+Shield
+2153 Armor
+40 Block
++7 Stamina
++10 Fire Resistance
+Durability 100 / 100
+Requires Level 58
+Equip:
+Increased Defense +10.
+
+
+Item #12893
+URL: https://database.turtle-wow.org/?item=12893
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Black Skull
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12933
+URL: https://database.turtle-wow.org/?item=12933
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Scarlet Crusade B03
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12931
+URL: https://database.turtle-wow.org/?item=12931
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Scarlet Crusade A01/A02 Model
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12932
+URL: https://database.turtle-wow.org/?item=12932
+Category: Database/Items/Armor/Shields
+Item: 
+Scarlet Crusade Defender's Shield
+Off Hand
+Shield
+1 Block
+Durability 20 / 20
+"A sturdy shield, ready to stand against the forces of darkness in the name of justice and honor."
+
+
+Item #12980
+URL: https://database.turtle-wow.org/?item=12980
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Wall Metal Silver
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12981
+URL: https://database.turtle-wow.org/?item=12981
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Wall Metal Gold
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12995
+URL: https://database.turtle-wow.org/?item=12995
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Wall Metal Red
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #12997
+URL: https://database.turtle-wow.org/?item=12997
+Category: Database/Items/Armor/Shields
+Item: 
+Redbeard Crest
+Binds when equipped
+Off Hand
+Shield
+547 Armor
+11 Block
++6 Strength
++3 Stamina
+Durability 90 / 90
+Requires Level 19
+
+
+Item #13079
+URL: https://database.turtle-wow.org/?item=13079
+Category: Database/Items/Armor/Shields
+Item: 
+Shield of Thorsen
+Binds when equipped
+Off Hand
+Shield
+711 Armor
+14 Block
++7 Strength
+Durability 100 / 100
+Requires Level 25
+
+
+Item #13082
+URL: https://database.turtle-wow.org/?item=13082
+Category: Database/Items/Armor/Shields
+Item: 
+Mountainside Buckler
+Binds when equipped
+Off Hand
+Shield
+1612 Armor
+25 Block
++12 Spirit
++5 Intellect
+Durability 100 / 100
+Requires Level 41
+
+
+Item #13081
+URL: https://database.turtle-wow.org/?item=13081
+Category: Database/Items/Armor/Shields
+Item: 
+Skullance Shield
+Binds when equipped
+Off Hand
+Shield
+814 Armor
+19 Block
++8 Strength
++5 Stamina
++4 Agility
+Durability 100 / 100
+Requires Level 33
+
+
+Item #13083
+URL: https://database.turtle-wow.org/?item=13083
+Category: Database/Items/Armor/Shields
+Item: 
+Garrett Family Crest
+Binds when equipped
+Off Hand
+Shield
+2121 Armor
+39 Block
++5 Agility
++4 Intellect
++17 Spirit
+Durability 100 / 100
+Requires Level 57
+
+
+Item #13205
+URL: https://database.turtle-wow.org/?item=13205
+Category: Database/Items/Armor/Shields
+Item: 
+Rhombeard Protector
+Binds when picked up
+Off Hand
+Shield
+2089 Armor
+38 Block
++10 Spirit
++15 Intellect
+Durability 100 / 100
+Requires Level 56
+
+
+Item #13245
+URL: https://database.turtle-wow.org/?item=13245
+Category: Database/Items/Armor/Shields
+Item: 
+Kresh's Back
+Binds when picked up
+Off Hand
+Shield
+471 Armor
+9 Block
+Durability 75 / 75
+Requires Level 15
+Equip:
+Increased Defense +4.
+
+
+Item #13243
+URL: https://database.turtle-wow.org/?item=13243
+Category: Database/Items/Armor/Shields
+Item: 
+Argent Defender
+Binds when picked up
+Off Hand
+Shield
+2121 Armor
+39 Block
+Durability 100 / 100
+Equip:
+Has a 1% chance when struck in combat of increasing chance to block by 50% for 10 sec.
+
+
+Item #13254
+URL: https://database.turtle-wow.org/?item=13254
+Category: Database/Items/Armor/Shields
+Item: 
+Astral Guard
+Binds when picked up
+Off Hand
+Shield
+1930 Armor
+35 Block
++6 Stamina
+Durability 100 / 100
+Requires Level 51
+Random Bonuses
+
+
+Item #13318
+URL: https://database.turtle-wow.org/?item=13318
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde A01 Red
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #13319
+URL: https://database.turtle-wow.org/?item=13319
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde B03
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #13375
+URL: https://database.turtle-wow.org/?item=13375
+Category: Database/Items/Armor/Shields
+Item: 
+Crest of Retribution
+Binds when picked up
+Off Hand
+Shield
+2057 Armor
+38 Block
+Durability 100 / 100
+Requires Level 55
+Equip:
+Deals 5 to 36 damage every time you block.
+
+
+Item #13529
+URL: https://database.turtle-wow.org/?item=13529
+Category: Database/Items/Armor/Shields
+Item: 
+Husk of Nerub'enkan
+Binds when picked up
+Off Hand
+Shield
+2089 Armor
+38 Block
++10 Stamina
++15 Nature Resistance
+Durability 100 / 100
+Requires Level 56
+
+
+Item #13630
+URL: https://database.turtle-wow.org/?item=13630
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde C03
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #13629
+URL: https://database.turtle-wow.org/?item=13629
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde C02
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #13628
+URL: https://database.turtle-wow.org/?item=13628
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Horde B04
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #13814
+URL: https://database.turtle-wow.org/?item=13814
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Stromgarde B03
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #13922
+URL: https://database.turtle-wow.org/?item=13922
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, B01 WoodSteelCap
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #14002
+URL: https://database.turtle-wow.org/?item=14002
+Category: Database/Items/Armor/Shields
+Item: 
+Darrowshire Strongguard
+Binds when picked up
+Off Hand
+Shield
+2153 Armor
+40 Block
++8 Spirit
++8 Stamina
++10 Nature Resistance
++10 Frost Resistance
+Durability 100 / 100
+
+
+Item #14393
+URL: https://database.turtle-wow.org/?item=14393
+Category: Database/Items/Armor/Shields
+Item: 
+Durability Shield
+Off Hand
+Shield
+10 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #14528
+URL: https://database.turtle-wow.org/?item=14528
+Category: Database/Items/Armor/Shields
+Item: 
+Rattlecage Buckler
+Binds when picked up
+Off Hand
+Shield
+2121 Armor
+39 Block
++7 Spirit
++12 Intellect
++7 Stamina
++7 Shadow Resistance
+Durability 100 / 100
+Requires Level 57
+
+
+Item #14608
+URL: https://database.turtle-wow.org/?item=14608
+Category: Database/Items/Armor/Shields
+Item: 
+Dokebi Buckler
+Binds when equipped
+Off Hand
+Shield
+595 Armor
+12 Block
++3 Stamina
++5 Intellect
+Durability 85 / 85
+Requires Level 26
+
+
+Item #14607
+URL: https://database.turtle-wow.org/?item=14607
+Category: Database/Items/Armor/Shields
+Item: 
+Hawkeye's Buckler
+Binds when equipped
+Off Hand
+Shield
+695 Armor
+15 Block
++5 Strength
++6 Intellect
+Durability 85 / 85
+Requires Level 32
+
+
+Item #14729
+URL: https://database.turtle-wow.org/?item=14729
+Category: Database/Items/Armor/Shields
+Item: 
+War Paint Shield
+Binds when equipped
+Off Hand
+Shield
+411 Armor
+7 Block
++2 Strength
++2 Spirit
+Durability 65 / 65
+Requires Level 15
+
+
+Item #14777
+URL: https://database.turtle-wow.org/?item=14777
+Category: Database/Items/Armor/Shields
+Item: 
+Ravager's Shield
+Binds when equipped
+Off Hand
+Shield
+1380 Armor
+20 Block
++7 Intellect
++6 Spirit
++3 Strength
+Durability 85 / 85
+Requires Level 39
+
+
+Item #14780
+URL: https://database.turtle-wow.org/?item=14780
+Category: Database/Items/Armor/Shields
+Item: 
+Khan's Buckler
+Binds when equipped
+Off Hand
+Shield
+1521 Armor
+23 Block
++5 Stamina
++9 Intellect
++3 Agility
+Durability 85 / 85
+Requires Level 44
+
+
+Item #14790
+URL: https://database.turtle-wow.org/?item=14790
+Category: Database/Items/Armor/Shields
+Item: 
+Protector Buckler
+Binds when equipped
+Off Hand
+Shield
+1663 Armor
+28 Block
++3 Agility
++5 Spirit
++10 Intellect
+Durability 85 / 85
+Requires Level 49
+
+
+Item #14800
+URL: https://database.turtle-wow.org/?item=14800
+Category: Database/Items/Armor/Shields
+Item: 
+Bloodlust Buckler
+Binds when equipped
+Off Hand
+Shield
+1805 Armor
+33 Block
++7 Intellect
++11 Spirit
+Durability 85 / 85
+Requires Level 54
+
+
+Item #14812
+URL: https://database.turtle-wow.org/?item=14812
+Category: Database/Items/Armor/Shields
+Item: 
+Warstrike Buckler
+Binds when equipped
+Off Hand
+Shield
+1946 Armor
+37 Block
++3 Stamina
++15 Spirit
+Durability 85 / 85
+Requires Level 59
+
+
+Item #14825
+URL: https://database.turtle-wow.org/?item=14825
+Category: Database/Items/Armor/Shields
+Item: 
+Symbolic Crest
+Binds when equipped
+Off Hand
+Shield
+1257 Armor
+19 Block
++7 Stamina
++4 Strength
++4 Spirit
+Durability 85 / 85
+Requires Level 38
+
+
+Item #14842
+URL: https://database.turtle-wow.org/?item=14842
+Category: Database/Items/Armor/Shields
+Item: 
+Tyrant's Shield
+Binds when equipped
+Off Hand
+Shield
+1493 Armor
+23 Block
++9 Strength
++5 Stamina
+Durability 85 / 85
+Requires Level 43
+
+
+Item #14852
+URL: https://database.turtle-wow.org/?item=14852
+Category: Database/Items/Armor/Shields
+Item: 
+Sunscale Shield
+Binds when equipped
+Off Hand
+Shield
+1663 Armor
+28 Block
++3 Spirit
++10 Stamina
++5 Strength
+Durability 85 / 85
+Requires Level 49
+
+
+Item #14902
+URL: https://database.turtle-wow.org/?item=14902
+Category: Database/Items/Armor/Shields
+Item: 
+Saltstone Shield
+Binds when equipped
+Off Hand
+Shield
+1051 Armor
+17 Block
+Durability 85 / 85
+Requires Level 36
+Random Bonuses
+
+
+Item #14916
+URL: https://database.turtle-wow.org/?item=14916
+Category: Database/Items/Armor/Shields
+Item: 
+Jade Deflector
+Binds when equipped
+Off Hand
+Shield
+1635 Armor
+27 Block
+Durability 85 / 85
+Requires Level 48
+Random Bonuses
+
+
+Item #14912
+URL: https://database.turtle-wow.org/?item=14912
+Category: Database/Items/Armor/Shields
+Item: 
+Brutish Shield
+Binds when equipped
+Off Hand
+Shield
+1550 Armor
+24 Block
+Durability 85 / 85
+Requires Level 45
+Random Bonuses
+
+
+Item #14930
+URL: https://database.turtle-wow.org/?item=14930
+Category: Database/Items/Armor/Shields
+Item: 
+Lofty Shield
+Binds when equipped
+Off Hand
+Shield
+1748 Armor
+31 Block
+Durability 85 / 85
+Requires Level 52
+Random Bonuses
+
+
+Item #14947
+URL: https://database.turtle-wow.org/?item=14947
+Category: Database/Items/Armor/Shields
+Item: 
+Warbringer's Shield
+Binds when equipped
+Off Hand
+Shield
+1436 Armor
+21 Block
+Durability 85 / 85
+Requires Level 41
+Random Bonuses
+
+
+Item #14954
+URL: https://database.turtle-wow.org/?item=14954
+Category: Database/Items/Armor/Shields
+Item: 
+Bloodforged Shield
+Binds when equipped
+Off Hand
+Shield
+1578 Armor
+25 Block
+Durability 85 / 85
+Requires Level 46
+Random Bonuses
+
+
+Item #14964
+URL: https://database.turtle-wow.org/?item=14964
+Category: Database/Items/Armor/Shields
+Item: 
+High Chief's Shield
+Binds when equipped
+Off Hand
+Shield
+1720 Armor
+30 Block
+Durability 85 / 85
+Requires Level 51
+Random Bonuses
+
+
+Item #14973
+URL: https://database.turtle-wow.org/?item=14973
+Category: Database/Items/Armor/Shields
+Item: 
+Glorious Shield
+Binds when equipped
+Off Hand
+Shield
+1833 Armor
+34 Block
+Durability 85 / 85
+Requires Level 55
+Random Bonuses
+
+
+Item #14982
+URL: https://database.turtle-wow.org/?item=14982
+Category: Database/Items/Armor/Shields
+Item: 
+Exalted Shield
+Binds when equipped
+Off Hand
+Shield
+1975 Armor
+38 Block
+Durability 85 / 85
+Requires Level 60
+Random Bonuses
+
+
+Item #15006
+URL: https://database.turtle-wow.org/?item=15006
+Category: Database/Items/Armor/Shields
+Item: 
+Primal Buckler
+Off Hand
+Shield
+135 Armor
+3 Block
+Durability 40 / 40
+Requires Level 4
+
+
+Item #15014
+URL: https://database.turtle-wow.org/?item=15014
+Category: Database/Items/Armor/Shields
+Item: 
+Lupine Buckler
+Binds when equipped
+Off Hand
+Shield
+361 Armor
+6 Block
+Durability 60 / 60
+Requires Level 12
+Random Bonuses
+
+
+Item #15113
+URL: https://database.turtle-wow.org/?item=15113
+Category: Database/Items/Armor/Shields
+Item: 
+Rigid Buckler
+Binds when equipped
+Off Hand
+Shield
+461 Armor
+8 Block
+Durability 70 / 70
+Requires Level 18
+Random Bonuses
+
+
+Item #15123
+URL: https://database.turtle-wow.org/?item=15123
+Category: Database/Items/Armor/Shields
+Item: 
+Robust Buckler
+Binds when equipped
+Off Hand
+Shield
+545 Armor
+10 Block
+Durability 80 / 80
+Requires Level 23
+Random Bonuses
+
+
+Item #15133
+URL: https://database.turtle-wow.org/?item=15133
+Category: Database/Items/Armor/Shields
+Item: 
+Cutthroat's Buckler
+Binds when equipped
+Off Hand
+Shield
+628 Armor
+13 Block
+Durability 85 / 85
+Requires Level 28
+Random Bonuses
+
+
+Item #15207
+URL: https://database.turtle-wow.org/?item=15207
+Category: Database/Items/Armor/Shields
+Item: 
+Steelcap Shield
+Binds when picked up
+Off Hand
+Shield
+411 Armor
+7 Block
++2 Stamina
++2 Strength
+Durability 65 / 65
+
+
+Item #15298
+URL: https://database.turtle-wow.org/?item=15298
+Category: Database/Items/Armor/Shields
+Item: 
+Grizzly Buckler
+Binds when equipped
+Off Hand
+Shield
+274 Armor
+5 Block
+Durability 50 / 50
+Requires Level 8
+Random Bonuses
+
+
+Item #15307
+URL: https://database.turtle-wow.org/?item=15307
+Category: Database/Items/Armor/Shields
+Item: 
+Feral Buckler
+Binds when equipped
+Off Hand
+Shield
+395 Armor
+7 Block
+Durability 65 / 65
+Requires Level 14
+Random Bonuses
+
+
+Item #15332
+URL: https://database.turtle-wow.org/?item=15332
+Category: Database/Items/Armor/Shields
+Item: 
+Wrangler's Buckler
+Binds when equipped
+Off Hand
+Shield
+528 Armor
+10 Block
+Durability 80 / 80
+Requires Level 22
+Random Bonuses
+
+
+Item #15342
+URL: https://database.turtle-wow.org/?item=15342
+Category: Database/Items/Armor/Shields
+Item: 
+Pathfinder Guard
+Binds when equipped
+Off Hand
+Shield
+578 Armor
+11 Block
+Durability 85 / 85
+Requires Level 25
+Random Bonuses
+
+
+Item #15352
+URL: https://database.turtle-wow.org/?item=15352
+Category: Database/Items/Armor/Shields
+Item: 
+Headhunter's Buckler
+Binds when equipped
+Off Hand
+Shield
+645 Armor
+13 Block
+Durability 85 / 85
+Requires Level 29
+Random Bonuses
+
+
+Item #15367
+URL: https://database.turtle-wow.org/?item=15367
+Category: Database/Items/Armor/Shields
+Item: 
+Trickster's Protector
+Binds when equipped
+Off Hand
+Shield
+728 Armor
+16 Block
+Durability 85 / 85
+Requires Level 34
+Random Bonuses
+
+
+Item #15466
+URL: https://database.turtle-wow.org/?item=15466
+Category: Database/Items/Armor/Shields
+Item: 
+Clink Shield
+Binds when picked up
+Off Hand
+Shield
+545 Armor
+10 Block
++4 Stamina
++2 Agility
++3 Strength
+Durability 80 / 80
+
+
+Item #15478
+URL: https://database.turtle-wow.org/?item=15478
+Category: Database/Items/Armor/Shields
+Item: 
+Charger's Shield
+Off Hand
+Shield
+112 Armor
+2 Block
+Durability 40 / 40
+Requires Level 3
+
+
+Item #15486
+URL: https://database.turtle-wow.org/?item=15486
+Category: Database/Items/Armor/Shields
+Item: 
+War Torn Shield
+Binds when equipped
+Off Hand
+Shield
+239 Armor
+4 Block
+Durability 50 / 50
+Requires Level 7
+Random Bonuses
+
+
+Item #15494
+URL: https://database.turtle-wow.org/?item=15494
+Category: Database/Items/Armor/Shields
+Item: 
+Bloodspattered Shield
+Binds when equipped
+Off Hand
+Shield
+378 Armor
+6 Block
+Durability 60 / 60
+Requires Level 13
+Random Bonuses
+
+
+Item #15504
+URL: https://database.turtle-wow.org/?item=15504
+Category: Database/Items/Armor/Shields
+Item: 
+Outrunner's Shield
+Binds when equipped
+Off Hand
+Shield
+445 Armor
+8 Block
+Durability 70 / 70
+Requires Level 17
+Random Bonuses
+
+
+Item #15512
+URL: https://database.turtle-wow.org/?item=15512
+Category: Database/Items/Armor/Shields
+Item: 
+Grunt's Shield
+Binds when equipped
+Off Hand
+Shield
+478 Armor
+9 Block
+Durability 75 / 75
+Requires Level 19
+Random Bonuses
+
+
+Item #15530
+URL: https://database.turtle-wow.org/?item=15530
+Category: Database/Items/Armor/Shields
+Item: 
+Sentry's Shield
+Binds when equipped
+Off Hand
+Shield
+595 Armor
+12 Block
+Durability 85 / 85
+Requires Level 26
+Random Bonuses
+
+
+Item #15522
+URL: https://database.turtle-wow.org/?item=15522
+Category: Database/Items/Armor/Shields
+Item: 
+Spiked Chain Shield
+Binds when equipped
+Off Hand
+Shield
+561 Armor
+11 Block
+Durability 85 / 85
+Requires Level 24
+Random Bonuses
+
+
+Item #15543
+URL: https://database.turtle-wow.org/?item=15543
+Category: Database/Items/Armor/Shields
+Item: 
+Wicked Chain Shield
+Binds when equipped
+Off Hand
+Shield
+645 Armor
+13 Block
+Durability 85 / 85
+Requires Level 29
+Random Bonuses
+
+
+Item #15552
+URL: https://database.turtle-wow.org/?item=15552
+Category: Database/Items/Armor/Shields
+Item: 
+Thick Scale Shield
+Binds when equipped
+Off Hand
+Shield
+678 Armor
+14 Block
+Durability 85 / 85
+Requires Level 31
+Random Bonuses
+
+
+Item #15569
+URL: https://database.turtle-wow.org/?item=15569
+Category: Database/Items/Armor/Shields
+Item: 
+Marauder's Crest
+Binds when equipped
+Off Hand
+Shield
+963 Armor
+17 Block
+Durability 85 / 85
+Requires Level 35
+Random Bonuses
+
+
+Item #15563
+URL: https://database.turtle-wow.org/?item=15563
+Category: Database/Items/Armor/Shields
+Item: 
+Pillager's Shield
+Binds when equipped
+Off Hand
+Shield
+695 Armor
+15 Block
+Durability 85 / 85
+Requires Level 32
+Random Bonuses
+
+
+Item #15584
+URL: https://database.turtle-wow.org/?item=15584
+Category: Database/Items/Armor/Shields
+Item: 
+Sparkleshell Shield
+Binds when equipped
+Off Hand
+Shield
+1051 Armor
+17 Block
+Durability 85 / 85
+Requires Level 36
+Random Bonuses
+
+
+Item #15592
+URL: https://database.turtle-wow.org/?item=15592
+Category: Database/Items/Armor/Shields
+Item: 
+Steadfast Buckler
+Binds when equipped
+Off Hand
+Shield
+1257 Armor
+19 Block
+Durability 85 / 85
+Requires Level 38
+Random Bonuses
+
+
+Item #15604
+URL: https://database.turtle-wow.org/?item=15604
+Category: Database/Items/Armor/Shields
+Item: 
+Ancient Defender
+Binds when equipped
+Off Hand
+Shield
+1436 Armor
+21 Block
+Durability 85 / 85
+Requires Level 41
+Random Bonuses
+
+
+Item #15618
+URL: https://database.turtle-wow.org/?item=15618
+Category: Database/Items/Armor/Shields
+Item: 
+Bonelink Wall Shield
+Binds when equipped
+Off Hand
+Shield
+1465 Armor
+22 Block
+Durability 85 / 85
+Requires Level 42
+Random Bonuses
+
+
+Item #15621
+URL: https://database.turtle-wow.org/?item=15621
+Category: Database/Items/Armor/Shields
+Item: 
+Gryphon Mail Buckler
+Binds when equipped
+Off Hand
+Shield
+1578 Armor
+25 Block
+Durability 85 / 85
+Requires Level 46
+Random Bonuses
+
+
+Item #15633
+URL: https://database.turtle-wow.org/?item=15633
+Category: Database/Items/Armor/Shields
+Item: 
+Formidable Crest
+Binds when equipped
+Off Hand
+Shield
+1606 Armor
+26 Block
+Durability 85 / 85
+Requires Level 47
+Random Bonuses
+
+
+Item #15648
+URL: https://database.turtle-wow.org/?item=15648
+Category: Database/Items/Armor/Shields
+Item: 
+Ironhide Shield
+Binds when equipped
+Off Hand
+Shield
+1720 Armor
+30 Block
+Durability 85 / 85
+Requires Level 51
+Random Bonuses
+
+
+Item #15657
+URL: https://database.turtle-wow.org/?item=15657
+Category: Database/Items/Armor/Shields
+Item: 
+Merciless Shield
+Binds when equipped
+Off Hand
+Shield
+1748 Armor
+31 Block
+Durability 85 / 85
+Requires Level 52
+Random Bonuses
+
+
+Item #15667
+URL: https://database.turtle-wow.org/?item=15667
+Category: Database/Items/Armor/Shields
+Item: 
+Impenetrable Wall
+Binds when equipped
+Off Hand
+Shield
+1861 Armor
+35 Block
+Durability 85 / 85
+Requires Level 56
+Random Bonuses
+
+
+Item #15675
+URL: https://database.turtle-wow.org/?item=15675
+Category: Database/Items/Armor/Shields
+Item: 
+Magnificent Guard
+Binds when equipped
+Off Hand
+Shield
+1890 Armor
+36 Block
+Durability 85 / 85
+Requires Level 57
+Random Bonuses
+
+
+Item #15687
+URL: https://database.turtle-wow.org/?item=15687
+Category: Database/Items/Armor/Shields
+Item: 
+Triumphant Shield
+Binds when equipped
+Off Hand
+Shield
+1975 Armor
+38 Block
+Durability 85 / 85
+Requires Level 60
+Random Bonuses
+
+
+Item #15695
+URL: https://database.turtle-wow.org/?item=15695
+Category: Database/Items/Armor/Shields
+Item: 
+Studded Ring Shield
+Binds when picked up
+Off Hand
+Shield
+711 Armor
+15 Block
++6 Strength
++4 Stamina
+Durability 85 / 85
+
+
+Item #15865
+URL: https://database.turtle-wow.org/?item=15865
+Category: Database/Items/Armor/Shields
+Item: 
+Anchorhold Buckler
+Binds when picked up
+Off Hand
+Shield
+728 Armor
+16 Block
++6 Intellect
++4 Spirit
+Durability 85 / 85
+
+
+Item #15890
+URL: https://database.turtle-wow.org/?item=15890
+Category: Database/Items/Armor/Shields
+Item: 
+Vanguard Shield
+Binds when equipped
+Off Hand
+Shield
+1805 Armor
+33 Block
++12 Stamina
++5 Spirit
+Durability 85 / 85
+Requires Level 54
+
+
+Item #15887
+URL: https://database.turtle-wow.org/?item=15887
+Category: Database/Items/Armor/Shields
+Item: 
+Heroic Guard
+Binds when equipped
+Off Hand
+Shield
+1890 Armor
+36 Block
+Durability 85 / 85
+Requires Level 57
+Random Bonuses
+
+
+Item #15895
+URL: https://database.turtle-wow.org/?item=15895
+Category: Database/Items/Armor/Shields
+Item: 
+Burnt Buckler
+Off Hand
+Shield
+112 Armor
+2 Block
+Durability 40 / 40
+Requires Level 3
+
+
+Item #15892
+URL: https://database.turtle-wow.org/?item=15892
+Category: Database/Items/Armor/Shields
+Item: 
+Slayer's Shield
+Binds when equipped
+Off Hand
+Shield
+611 Armor
+12 Block
++6 Strength
++3 Agility
+Durability 85 / 85
+Requires Level 27
+
+
+Item #15891
+URL: https://database.turtle-wow.org/?item=15891
+Category: Database/Items/Armor/Shields
+Item: 
+Hulking Shield
+Binds when equipped
+Off Hand
+Shield
+511 Armor
+9 Block
++5 Stamina
+Durability 80 / 80
+Requires Level 21
+
+
+Item #15894
+URL: https://database.turtle-wow.org/?item=15894
+Category: Database/Items/Armor/Shields
+Item: 
+Bristlebark Buckler
+Binds when equipped
+Off Hand
+Shield
+495 Armor
+9 Block
++2 Agility
++4 Intellect
+Durability 75 / 75
+Requires Level 20
+
+
+Item #15893
+URL: https://database.turtle-wow.org/?item=15893
+Category: Database/Items/Armor/Shields
+Item: 
+Prospector's Buckler
+Binds when equipped
+Off Hand
+Shield
+428 Armor
+7 Block
++1 Stamina
++3 Intellect
+Durability 65 / 65
+Requires Level 16
+
+
+Item #15943
+URL: https://database.turtle-wow.org/?item=15943
+Category: Database/Items/Armor/Shields
+Item: 
+Imbued Shield
+Binds when equipped
+Off Hand
+Shield
+1861 Armor
+35 Block
++3 Strength
++14 Stamina
+Durability 85 / 85
+Requires Level 56
+
+
+Item #15990
+URL: https://database.turtle-wow.org/?item=15990
+Category: Database/Items/Armor/Shields
+Item: 
+Enduring Shield
+Binds when equipped
+Off Hand
+Shield
+728 Armor
+16 Block
++6 Strength
++4 Stamina
++3 Agility
+Durability 85 / 85
+Requires Level 34
+
+
+Item #15991
+URL: https://database.turtle-wow.org/?item=15991
+Category: Database/Items/Armor/Shields
+Item: 
+Warleader's Shield
+Binds when equipped
+Off Hand
+Shield
+1918 Armor
+36 Block
++14 Stamina
++4 Agility
+Durability 85 / 85
+Requires Level 58
+
+
+Item #16660
+URL: https://database.turtle-wow.org/?item=16660
+Category: Database/Items/Armor/Shields
+Item: 
+Driftmire Shield
+Binds when picked up
+Off Hand
+Shield
+528 Armor
+10 Block
++3 Intellect
++2 Strength
++3 Stamina
+Durability 80 / 80
+
+
+Item #16788
+URL: https://database.turtle-wow.org/?item=16788
+Category: Database/Items/Armor/Shields
+Item: 
+Captain Rackmore's Wheel
+Binds when picked up
+Off Hand
+Shield
+678 Armor
+14 Block
++8 Stamina
+Durability 85 / 85
+
+
+Item #16998
+URL: https://database.turtle-wow.org/?item=16998
+Category: Database/Items/Armor/Shields
+Item: 
+Sacred Protector
+Binds when picked up
+Off Hand
+Shield
+2121 Armor
+39 Block
++15 Stamina
++10 Intellect
+Durability 100 / 100
+
+
+Item #17066
+URL: https://database.turtle-wow.org/?item=17066
+Category: Database/Items/Armor/Shields
+Item: 
+Drillborer Disk
+Binds when picked up
+Off Hand
+Shield
+2539 Armor
+46 Block
++10 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+When struck in combat inflicts 3 Arcane damage to the attacker.
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+Equip:
+Increases the block value of your shield by 23.
+
+
+Item #17186
+URL: https://database.turtle-wow.org/?item=17186
+Category: Database/Items/Armor/Shields
+Item: 
+Small Targe
+Off Hand
+Shield
+112 Armor
+2 Block
+Durability 40 / 40
+Requires Level 3
+
+
+Item #17188
+URL: https://database.turtle-wow.org/?item=17188
+Category: Database/Items/Armor/Shields
+Item: 
+Ringed Buckler
+Off Hand
+Shield
+367 Armor
+6 Block
+Durability 65 / 65
+Requires Level 14
+
+
+Item #17184
+URL: https://database.turtle-wow.org/?item=17184
+Category: Database/Items/Armor/Shields
+Item: 
+Small Shield
+Off Hand
+Shield
+29 Armor
+1 Block
+Durability 25 / 25
+
+
+Item #17187
+URL: https://database.turtle-wow.org/?item=17187
+Category: Database/Items/Armor/Shields
+Item: 
+Banded Buckler
+Off Hand
+Shield
+289 Armor
+4 Block
+Durability 50 / 50
+Requires Level 9
+
+
+Item #17183
+URL: https://database.turtle-wow.org/?item=17183
+Category: Database/Items/Armor/Shields
+Item: 
+Dented Buckler
+Off Hand
+Shield
+29 Armor
+1 Block
+Durability 25 / 25
+
+
+Item #17189
+URL: https://database.turtle-wow.org/?item=17189
+Category: Database/Items/Armor/Shields
+Item: 
+Metal Buckler
+Off Hand
+Shield
+599 Armor
+12 Block
+Durability 85 / 85
+Requires Level 29
+
+
+Item #17185
+URL: https://database.turtle-wow.org/?item=17185
+Category: Database/Items/Armor/Shields
+Item: 
+Round Buckler
+Off Hand
+Shield
+112 Armor
+2 Block
+Durability 40 / 40
+Requires Level 3
+
+
+Item #17190
+URL: https://database.turtle-wow.org/?item=17190
+Category: Database/Items/Armor/Shields
+Item: 
+Ornate Buckler
+Off Hand
+Shield
+1377 Armor
+20 Block
+Durability 85 / 85
+Requires Level 42
+
+
+Item #17192
+URL: https://database.turtle-wow.org/?item=17192
+Category: Database/Items/Armor/Shields
+Item: 
+Reinforced Targe
+Off Hand
+Shield
+444 Armor
+8 Block
+Durability 75 / 75
+Requires Level 19
+
+
+Item #17482
+URL: https://database.turtle-wow.org/?item=17482
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, B01 WoodCopperCap
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #17508
+URL: https://database.turtle-wow.org/?item=17508
+Category: Database/Items/Armor/Shields
+Item: 
+Forcestone Buckler
+Binds when picked up
+Off Hand
+Shield
+1051 Armor
+17 Block
++3 Stamina
++8 Spirit
+Durability 85 / 85
+
+
+Item #17718
+URL: https://database.turtle-wow.org/?item=17718
+Category: Database/Items/Armor/Shields
+Item: 
+Gizlock's Hypertech Buckler
+Binds when picked up
+Off Hand
+Shield
+1835 Armor
+32 Block
++10 Intellect
++5 Stamina
+Durability 100 / 100
+Requires Level 48
+Equip:
+Restores 4 mana per 5 sec.
+
+
+Item #18168
+URL: https://database.turtle-wow.org/?item=18168
+Category: Database/Items/Armor/Shields
+Item: 
+Force Reactive Disk
+Binds when equipped
+Off Hand
+Shield
+2548 Armor
+44 Block
++11 Stamina
+Durability 120 / 120
+Requires Level 60
+Requires Engineering (300)
+Equip:
+When the shield blocks it releases an electrical charge that damages all nearby enemies.   This also has a chance of damaging the shield.
+
+
+Item #18166
+URL: https://database.turtle-wow.org/?item=18166
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Royal Dreadguard
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #18303
+URL: https://database.turtle-wow.org/?item=18303
+Category: Database/Items/Armor/Shields
+Item: 
+Nimble Buckler
+Binds when picked up
+Off Hand
+Shield
+1776 Armor
+32 Block
++5 Agility
+Durability 85 / 85
+Requires Level 53
+Equip:
+Increases your chance to block attacks with a shield by 3%.
+
+
+Item #18342
+URL: https://database.turtle-wow.org/?item=18342
+Category: Database/Items/Armor/Shields
+Item: 
+Quel'dorai Guard
+Binds when equipped
+Off Hand
+Shield
+2026 Armor
+37 Block
++11 Arcane Resistance
+Durability 100 / 100
+Requires Level 54
+Equip:
+Increases your chance to dodge an attack by 1%.
+
+
+Item #18352
+URL: https://database.turtle-wow.org/?item=18352
+Category: Database/Items/Armor/Shields
+Item: 
+Petrified Bark Shield
+Binds when picked up
+Off Hand
+Shield
+1861 Armor
+35 Block
+Durability 85 / 85
+Requires Level 56
+Equip:
+Increases the block value of your shield by 23.
+
+
+Item #18485
+URL: https://database.turtle-wow.org/?item=18485
+Category: Database/Items/Armor/Shields
+Item: 
+Observer's Shield
+Binds when picked up
+Off Hand
+Shield
+2089 Armor
+38 Block
++14 Intellect
++5 Spirit
++9 Stamina
+Durability 100 / 100
+Requires Level 56
+
+
+Item #18499
+URL: https://database.turtle-wow.org/?item=18499
+Category: Database/Items/Armor/Shields
+Item: 
+Barrier Shield
+Binds when picked up
+Off Hand
+Shield
+2121 Armor
+39 Block
+Durability 100 / 100
+Requires Level 57
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+Equip:
+Increases the block value of your shield by 18.
+
+
+Item #18535
+URL: https://database.turtle-wow.org/?item=18535
+Category: Database/Items/Armor/Shields
+Item: 
+Milli's Shield
+Binds when picked up
+Off Hand
+Shield
+2106 Armor
+37 Block
++7 Spirit
++7 Stamina
+Durability 100 / 100
+Equip:
+Restores 4 health per 5 sec.
+
+
+Item #18673
+URL: https://database.turtle-wow.org/?item=18673
+Category: Database/Items/Armor/Shields
+Item: 
+Avalanchion's Stony Hide
+Binds when equipped
+Off Hand
+Shield
+2026 Armor
+37 Block
++16 Stamina
+Durability 100 / 100
+Requires Level 54
+Equip:
+Increases the block value of your shield by 10.
+
+
+Item #18696
+URL: https://database.turtle-wow.org/?item=18696
+Category: Database/Items/Armor/Shields
+Item: 
+Intricately Runed Shield
+Binds when picked up
+Off Hand
+Shield
+2121 Armor
+39 Block
++8 Stamina
+Durability 100 / 100
+Requires Level 57
+Equip:
+Increases the block value of your shield by 24.
+
+
+Item #18756
+URL: https://database.turtle-wow.org/?item=18756
+Category: Database/Items/Armor/Shields
+Item: 
+Dreadguard's Protector
+Binds when picked up
+Off Hand
+Shield
+2121 Armor
+39 Block
++18 Strength
++5 Stamina
+Durability 100 / 100
+Requires Level 57
+
+
+Item #18825
+URL: https://database.turtle-wow.org/?item=18825
+Category: Database/Items/Armor/Shields
+Item: 
+Grand Marshal's Aegis
+Binds when picked up
+Off Hand
+Shield
+3106 Armor
+59 Block
++25 Stamina
++12 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+When struck in combat has a 5% chance of inflicting 35 to 66 Nature damage to the attacker.
+
+
+Item #18826
+URL: https://database.turtle-wow.org/?item=18826
+Category: Database/Items/Armor/Shields
+Item: 
+High Warlord's Shield Wall
+Binds when picked up
+Off Hand
+Shield
+3106 Armor
+59 Block
++25 Stamina
++12 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+When struck in combat has a 5% chance of inflicting 35 to 66 Nature damage to the attacker.
+
+
+Item #19321
+URL: https://database.turtle-wow.org/?item=19321
+Category: Database/Items/Armor/Shields
+Item: 
+The Immovable Object
+Binds when picked up
+Unique
+Off Hand
+Shield
+2468 Armor
+44 Block
++15 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases the block value of your shield by 27.
+
+
+Item #19348
+URL: https://database.turtle-wow.org/?item=19348
+Category: Database/Items/Armor/Shields
+Item: 
+Red Dragonscale Protector
+Binds when picked up
+Off Hand
+Shield
+2787 Armor
+51 Block
++17 Intellect
++6 Spirit
++6 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 37.
+
+
+Item #19349
+URL: https://database.turtle-wow.org/?item=19349
+Category: Database/Items/Armor/Shields
+Item: 
+Elementium Reinforced Bulwark
+Binds when picked up
+Off Hand
+Shield
+2893 Armor
+54 Block
++23 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases the block value of your shield by 19.
+Equip:
+Increased Defense +7.
+
+
+Item #19763
+URL: https://database.turtle-wow.org/?item=19763
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Round A01/Buckler Damaged A02Black
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #19862
+URL: https://database.turtle-wow.org/?item=19862
+Category: Database/Items/Armor/Shields
+Item: 
+Aegis of the Blood God
+Binds when picked up
+Off Hand
+Shield
+2575 Armor
+47 Block
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases the block value of your shield by 30.
+Equip:
+Increased Defense +7.
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+
+
+Item #19915
+URL: https://database.turtle-wow.org/?item=19915
+Category: Database/Items/Armor/Shields
+Item: 
+Zulian Defender
+Binds when picked up
+Off Hand
+Shield
+2312 Armor
+43 Block
++15 Stamina
++9 Intellect
++8 Spirit
+Durability 100 / 100
+Requires Level 60
+
+
+Item #20502
+URL: https://database.turtle-wow.org/?item=20502
+Category: Database/Items/Armor/Shields
+Item: 
+Ironbark Shield
+Binds when picked up
+Off Hand
+Shield
+1803 Armor
+31 Block
++6 Stamina
+Durability 100 / 100
+Equip:
+Improves your chance to get a critical strike with Nature spells by 1%.
+
+
+Item #20688
+URL: https://database.turtle-wow.org/?item=20688
+Category: Database/Items/Armor/Shields
+Item: 
+Earthen Guard
+Binds when picked up
+Off Hand
+Shield
+2575 Armor
+47 Block
++19 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases your chance to block attacks with a shield by 1%.
+Equip:
+Increased Defense +7.
+Equip:
+Increases the block value of your shield by 14.
+
+
+Item #21269
+URL: https://database.turtle-wow.org/?item=21269
+Category: Database/Items/Armor/Shields
+Item: 
+Blessed Qiraji Bulwark
+Binds when picked up
+Unique
+Off Hand
+Shield
+2964 Armor
+55 Block
++20 Stamina
+Durability 120 / 120
+Equip:
+Increases your chance to block attacks with a shield by 3%.
+Equip:
+Increases the block value of your shield by 15.
+Equip:
+Increased Defense +8.
+"The shield is infused and reinforced with Elementium."
+
+
+Item #21485
+URL: https://database.turtle-wow.org/?item=21485
+Category: Database/Items/Armor/Shields
+Item: 
+Buru's Skull Fragment
+Binds when picked up
+Off Hand
+Shield
+2575 Armor
+47 Block
++20 Stamina
++11 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increased Defense +6.
+
+
+Item #21549
+URL: https://database.turtle-wow.org/?item=21549
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Shieldguard
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #21572
+URL: https://database.turtle-wow.org/?item=21572
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Alliance PVP
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #21610
+URL: https://database.turtle-wow.org/?item=21610
+Category: Database/Items/Armor/Shields
+Item: 
+Wormscale Blocker
+Binds when picked up
+Off Hand
+Shield
+3035 Armor
+57 Block
++13 Intellect
++10 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 35.
+Equip:
+Restores 6 mana per 5 sec.
+
+
+Item #22198
+URL: https://database.turtle-wow.org/?item=22198
+Category: Database/Items/Armor/Shields
+Item: 
+Jagged Obsidian Shield
+Binds when equipped
+Off Hand
+Shield
+2645 Armor
+48 Block
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+Equip:
++5 All Resistances.
+Equip:
+When struck by a harmful spell, the caster of that spell has a 5% chance to be silenced for 3 sec.
+
+
+Item #22336
+URL: https://database.turtle-wow.org/?item=22336
+Category: Database/Items/Armor/Shields
+Item: 
+Draconian Aegis of the Legion
+Binds when picked up
+Off Hand
+Shield
+2153 Armor
+40 Block
++7 Stamina
+Durability 100 / 100
+Requires Level 58
+Equip:
+Increases damage and healing done by magical spells and effects by up to 20.
+
+
+Item #22819
+URL: https://database.turtle-wow.org/?item=22819
+Category: Database/Items/Armor/Shields
+Item: 
+Shield of Condemnation
+Binds when picked up
+Off Hand
+Shield
+3425 Armor
+68 Block
++10 Stamina
++10 Intellect
+Durability 120 / 120
+Requires Level 60
+Equip:
+Restores 6 mana per 5 sec.
+Equip:
+Increases healing done by spells and effects by up to 59.
+
+
+Item #22818
+URL: https://database.turtle-wow.org/?item=22818
+Category: Database/Items/Armor/Shields
+Item: 
+The Plague Bearer
+Binds when picked up
+Off Hand
+Shield
+3106 Armor
+59 Block
++21 Stamina
++15 Frost Resistance
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increased Defense +9.
+
+
+Item #23043
+URL: https://database.turtle-wow.org/?item=23043
+Category: Database/Items/Armor/Shields
+Item: 
+The Face of Death
+Binds when picked up
+Off Hand
+Shield
+3494 Armor
+66 Block
++21 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases your chance to block attacks with a shield by 3%.
+Equip:
+Increases the block value of your shield by 21.
+
+
+Item #23075
+URL: https://database.turtle-wow.org/?item=23075
+Category: Database/Items/Armor/Shields
+Item: 
+Death's Bargain
+Binds when picked up
+Off Hand
+Shield
+3106 Armor
+59 Block
++12 Stamina
++12 Intellect
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases healing done by spells and effects by up to 29.
+Equip:
+Restores 4 mana per 5 sec.
+
+
+Item #23139
+URL: https://database.turtle-wow.org/?item=23139
+Category: Database/Items/Armor/Shields
+Item: 
+Lord Blackwood's Buckler
+Binds when picked up
+Off Hand
+Shield
+2121 Armor
+39 Block
++10 Stamina
+Durability 100 / 100
+Requires Level 57
+Equip:
+Increases the block value of your shield by 27.
+
+
+Item #23238
+URL: https://database.turtle-wow.org/?item=23238
+Category: Database/Items/Armor/Shields
+Item: 
+Stygian Buckler
+Binds when picked up
+Off Hand
+Shield
+2929 Armor
+55 Block
+Durability 120 / 120
+Requires Level 60
+Equip:
+When struck has a 15% chance of reducing the attacker's movement speed by 50% for 5 secs.
+
+
+Item #23356
+URL: https://database.turtle-wow.org/?item=23356
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Skullflame
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #25818
+URL: https://database.turtle-wow.org/?item=25818
+Category: Database/Items/Armor/Shields
+Item: 
+Monster - Shield, Legion
+Off Hand
+Shield
+
+
+Item #40003
+URL: https://database.turtle-wow.org/?item=40003
+Category: Database/Items/Armor/Shields
+Item: 
+Vault's Defender
+Binds when picked up
+Off Hand
+Shield
+2217 Armor
+42 Block
++6 Agility
++10 Stamina
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases your chance to dodge an attack by 1%.
+Equip:
+Increases your chance to block attacks with a shield by 1%.
+
+
+Item #41034
+URL: https://database.turtle-wow.org/?item=41034
+Category: Database/Items/Armor/Shields
+Item: 
+Rakklan's Targe
+Binds when picked up
+Off Hand
+Shield
+112 Armor
+2 Block
+Durability 40 / 40
+
+
+Item #41047
+URL: https://database.turtle-wow.org/?item=41047
+Category: Database/Items/Armor/Shields
+Item: 
+Barnacle Targe
+Binds when equipped
+Off Hand
+Shield
+189 Armor
+4 Block
+Durability 45 / 45
+Requires Level 5
+Equip:
+Causes 1 Nature damage to any creature that strikes the caster.
+
+
+Item #41043
+URL: https://database.turtle-wow.org/?item=41043
+Category: Database/Items/Armor/Shields
+Item: 
+Bark Buckler
+Binds when equipped
+Off Hand
+Shield
+172 Armor
+3 Block
++1 Stamina
++1 Spirit
+Durability 45 / 45
+Requires Level 5
+
+
+Item #41136
+URL: https://database.turtle-wow.org/?item=41136
+Category: Database/Items/Armor/Shields
+Item: 
+Labor Union Defender
+Binds when picked up
+Off Hand
+Shield
+328 Armor
+5 Block
++2 Agility
+Durability 55 / 55
+Classes: Warrior
+
+
+Item #41670
+URL: https://database.turtle-wow.org/?item=41670
+Category: Database/Items/Armor/Shields
+Item: 
+Gingerbread Bulwark
+Binds when picked up
+Off Hand
+Shield
+1 Block
+Durability 20 / 20
+
+
+Item #41721
+URL: https://database.turtle-wow.org/?item=41721
+Category: Database/Items/Armor/Shields
+Item: 
+Bulwark of the Old Horde
+Binds when picked up
+Off Hand
+Shield
+724 Armor
+16 Block
++7 Strength
++7 Fire Resistance
+Durability 100 / 100
+Requires Level 28
+Equip:
+Increases your chance to block attacks with a shield by 1%.
+
+
+Item #41839
+URL: https://database.turtle-wow.org/?item=41839
+Category: Database/Items/Armor/Shields
+Item: 
+Defender of Dorgal
+Binds when picked up
+Off Hand
+Shield
+591 Armor
+12 Block
++5 Agility
++3 Stamina
+Durability 85 / 85
+
+
+Item #41964
+URL: https://database.turtle-wow.org/?item=41964
+Category: Database/Items/Armor/Shields
+Item: 
+Shield of Baggoth
+Binds when picked up
+Off Hand
+Shield
+814 Armor
+20 Block
++7 Stamina
++8 Intellect
+Durability 85 / 85
+
+
+Item #50307
+URL: https://database.turtle-wow.org/?item=50307
+Category: Database/Items/Armor/Shields
+Item: 
+Ironforge Guard's Shield
+Binds when picked up
+Off Hand
+Shield
+
+
+Item #50315
+URL: https://database.turtle-wow.org/?item=50315
+Category: Database/Items/Armor/Shields
+Item: 
+Stormwind Guard's Shield
+Off Hand
+Shield
+1 Block
+Durability 20 / 20
+
+
+Item #50379
+URL: https://database.turtle-wow.org/?item=50379
+Category: Database/Items/Armor/Shields
+Item: 
+Forsaken Guard's Shield
+Binds when picked up
+Off Hand
+Shield
+
+
+Item #50378
+URL: https://database.turtle-wow.org/?item=50378
+Category: Database/Items/Armor/Shields
+Item: 
+Stromgarde Guard's Shield
+Binds when picked up
+Off Hand
+Shield
+
+
+Item #50417
+URL: https://database.turtle-wow.org/?item=50417
+Category: Database/Items/Armor/Shields
+Item: 
+Time-shifting Wheel
+Binds when picked up
+Off Hand
+Shield
+2192 Armor
+41 Block
++9 Intellect
++5 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 37.
+
+
+Item #50528
+URL: https://database.turtle-wow.org/?item=50528
+Category: Database/Items/Armor/Shields
+Item: 
+Tempered Defender
+Binds when picked up
+Off Hand
+Shield
+776 Armor
+17 Block
++5 Strength
++10 Stamina
+Durability 100 / 100
+Classes: Warrior, Paladin
+Requires Level 30
+Requires Silvermoon Remnant - Honored
+
+
+Item #51042
+URL: https://database.turtle-wow.org/?item=51042
+Category: Database/Items/Armor/Shields
+Item: 
+Heater Shield of the Templar
+Binds when picked up
+Off Hand
+Shield
+
+
+Item #51264
+URL: https://database.turtle-wow.org/?item=51264
+Category: Database/Items/Armor/Shields
+Item: 
+Blast Shield
+Binds when equipped
+Off Hand
+Shield
+328 Armor
+5 Block
++10 Fire Resistance
+Durability 55 / 55
+Requires Level 10
+"Protects you from explosions, conditions may apply."
+
+
+Item #51796
+URL: https://database.turtle-wow.org/?item=51796
+Category: Database/Items/Armor/Shields
+Item: 
+Shield of Consuming Darkness
+Binds when picked up
+Off Hand
+Shield
+2504 Armor
+45 Block
++6 Intellect
++6 Stamina
++-10 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 18.
+Equip:
+Restores 4 mana per 5 sec.
+"Green runes trace along the surface."
+
+
+Item #55023
+URL: https://database.turtle-wow.org/?item=55023
+Category: Database/Items/Armor/Shields
+Item: 
+Hath's Stalwart Defense
+Binds when picked up
+Off Hand
+Shield
+1744 Armor
+35 Block
++6 Strength
++5 Stamina
+Durability 100 / 100
+Requires Level 45
+Requires Syndicate - Revered
+Equip:
+Increased Defense +3.
+" Add this effect when implemented: Use: Take cover behind the shield, reducing damage taken by 10% for 10 seconds, but reducing your movement speed by 80%."
+
+
+Item #55090
+URL: https://database.turtle-wow.org/?item=55090
+Category: Database/Items/Armor/Shields
+Item: 
+Scaleshield of Azure Flight
+Binds when picked up
+Unique
+Off Hand
+Shield
+3423 Armor
+64 Block
++12 Intellect
++8 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to hit with spells by 2%.
+Equip:
+Increases damage done by Nature spells and effects by up to 29.
+
+
+Item #55121
+URL: https://database.turtle-wow.org/?item=55121
+Category: Database/Items/Armor/Shields
+Item: 
+Bulwark of Enduring Earth
+Binds when picked up
+Unique
+Off Hand
+Shield
+3565 Armor
+68 Block
++24 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+Equip:
+Increases the block value of your shield by 24.
+Equip:
+When struck in combat has a 3% chance to grant 200 Armor and 30 Block Value for 10 sec.
+
+
+Item #55349
+URL: https://database.turtle-wow.org/?item=55349
+Category: Database/Items/Armor/Shields
+Item: 
+Nethraka, Wing of Oblivion
+Binds when picked up
+Unique
+Off Hand
+Shield
+3563 Armor
+72 Block
++13 Intellect
++13 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 70.
+Equip:
+Restores 5 mana per 5 sec.
+
+
+Item #55498
+URL: https://database.turtle-wow.org/?item=55498
+Category: Database/Items/Armor/Shields
+Item: 
+Clamshell of the Depths
+Binds when picked up
+Unique
+Off Hand
+Shield
+2504 Armor
+45 Block
++9 Intellect
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 21.
+
+
+Item #55514
+URL: https://database.turtle-wow.org/?item=55514
+Category: Database/Items/Armor/Shields
+Item: 
+Clam Shield
+Binds when equipped
+Off Hand
+Shield
+461 Armor
+8 Block
++4 Stamina
++3 Strength
+Durability 70 / 70
+Requires Level 19
+
+
+Item #58034
+URL: https://database.turtle-wow.org/?item=58034
+Category: Database/Items/Armor/Shields
+Item: 
+Leafsguard
+Binds when picked up
+Off Hand
+Shield
+645 Armor
+13 Block
++5 Stamina
++5 Spirit
+Durability 85 / 85
+
+
+Item #58046
+URL: https://database.turtle-wow.org/?item=58046
+Category: Database/Items/Armor/Shields
+Item: 
+Shield of Galoraz
+Binds when picked up
+Off Hand
+Shield
+706 Armor
+15 Block
++5 Intellect
++3 Spirit
+Durability 100 / 100
+Requires Level 28
+Equip:
+Increases damage and healing done by magical spells and effects by up to 8.
+
+
+Item #58102
+URL: https://database.turtle-wow.org/?item=58102
+Category: Database/Items/Armor/Shields
+Item: 
+Dragonmaw Bulwark
+Binds when equipped
+Off Hand
+Shield
+680 Armor
+14 Block
++5 Stamina
++5 Strength
+Durability 100 / 100
+Requires Level 26
+Equip:
+Increases your chance to block attacks with a shield by 1%.
+
+
+Item #58143
+URL: https://database.turtle-wow.org/?item=58143
+Category: Database/Items/Armor/Shields
+Item: 
+Kelpie's Legacy
+Binds when picked up
+Off Hand
+Shield
+814 Armor
+19 Block
++12 Stamina
+Durability 100 / 100
+Requires Level 33
+
+
+Item #58158
+URL: https://database.turtle-wow.org/?item=58158
+Category: Database/Items/Armor/Shields
+Item: 
+Husk of Arashna
+Binds when equipped
+Off Hand
+Shield
+1148 Armor
+18 Block
++8 Stamina
++5 Strength
+Durability 85 / 85
+Requires Level 37
+
+
+Item #58233
+URL: https://database.turtle-wow.org/?item=58233
+Category: Database/Items/Armor/Shields
+Item: 
+Bulwark of Holy Resolve
+Binds when picked up
+Off Hand
+Shield
+2396 Armor
+42 Block
++10 Stamina
++10 Shadow Resistance
+Durability 120 / 120
+Requires Level 58
+Requires Argent Dawn - Exalted
+Equip:
+Increases the block value of your shield by 23.
+Equip:
+Restores 7 health per 5 sec.
+
+
+Item #58242
+URL: https://database.turtle-wow.org/?item=58242
+Category: Database/Items/Armor/Shields
+Item: 
+Sulfuron Aegis
+Binds when picked up
+Unique
+Off Hand
+Shield
+2504 Armor
+45 Block
++23 Stamina
++15 Fire Resistance
+Durability 120 / 120
+Requires Level 60
+Equip:
+When struck in combat inflicts 4 Fire damage to the attacker.
+
+
+Item #58276
+URL: https://database.turtle-wow.org/?item=58276
+Category: Database/Items/Armor/Shields
+Item: 
+Hull of Forlorn Souls
+Binds when picked up
+Unique
+Off Hand
+Shield
+1221 Armor
+24 Block
++6 Stamina
++4 Spirit
++10 Frost Resistance
+Durability 120 / 120
+Requires Level 35
+Equip:
+Have a 2% chance when struck in combat of crashing a wave on enemies in front of you, dealing 50 to 66 Frost damage, increasing Frost damage taken by 4% and reducing movement and swimming speed by 50% for 12 sec.
+
+
+Item #60234
+URL: https://database.turtle-wow.org/?item=60234
+Category: Database/Items/Armor/Shields
+Item: 
+Hazzuri Primalist Defender
+Binds when picked up
+Off Hand
+Shield
+1805 Armor
+33 Block
++5 Strength
++10 Stamina
+Durability 85 / 85
+Equip:
+Increased Defense +4.
+
+
+Item #60393
+URL: https://database.turtle-wow.org/?item=60393
+Category: Database/Items/Armor/Shields
+Item: 
+Shield of Mathela
+Binds when picked up
+Off Hand
+Shield
+557 Armor
+12 Block
+Durability 100 / 100
+Equip:
+Increases damage and healing done by magical spells and effects by up to 8.
+"Belonged to the maiden of the Light."
+
+
+Item #60523
+URL: https://database.turtle-wow.org/?item=60523
+Category: Database/Items/Armor/Shields
+Item: 
+Sen'jin Buckler
+Binds when picked up
+Off Hand
+Shield
+274 Armor
+5 Block
++1 Strength
++1 Agility
+Durability 50 / 50
+
+
+Item #60611
+URL: https://database.turtle-wow.org/?item=60611
+Category: Database/Items/Armor/Shields
+Item: 
+Dark Iron Wardguard
+Binds when equipped
+Off Hand
+Shield
+1867 Armor
+33 Block
++10 Stamina
+Durability 100 / 100
+Requires Level 49
+Equip:
+Increases damage and healing done by magical spells and effects by up to 14.
+
+
+Item #60726
+URL: https://database.turtle-wow.org/?item=60726
+Category: Database/Items/Armor/Shields
+Item: 
+Spellguard's Shield
+Binds when picked up
+Off Hand
+Shield
+2217 Armor
+42 Block
++13 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Dalaran - Revered
+Equip:
+Increases damage and healing done by magical spells and effects by up to 15.
+
+
+Item #60819
+URL: https://database.turtle-wow.org/?item=60819
+Category: Database/Items/Armor/Shields
+Item: 
+Dustwallow Defender
+Binds when picked up
+Off Hand
+Shield
+1648 Armor
+26 Block
++7 Stamina
+Durability 100 / 100
+Equip:
+Increases your chance to dodge an attack by 1%.
+
+
+Item #60844
+URL: https://database.turtle-wow.org/?item=60844
+Category: Database/Items/Armor/Shields
+Item: 
+The People's Defender
+Binds when picked up
+Off Hand
+Shield
+494 Armor
+9 Block
+Durability 75 / 75
+Equip:
+Increases your chance to dodge an attack by 1%.
+
+
+Item #60950
+URL: https://database.turtle-wow.org/?item=60950
+Category: Database/Items/Armor/Shields
+Item: 
+Wattapo's Bulwark
+Binds when picked up
+Off Hand
+Shield
+1648 Armor
+26 Block
++7 Stamina
+Durability 100 / 100
+Equip:
+Increases your chance to dodge an attack by 1%.
+
+
+Item #61009
+URL: https://database.turtle-wow.org/?item=61009
+Category: Database/Items/Armor/Shields
+Item: 
+Time-Shifting Wheel
+Binds when picked up
+Unique
+Off Hand
+Shield
+2468 Armor
+44 Block
++10 Intellect
++10 Stamina
+Durability 120 / 120
+Requires  - Exalted
+Equip:
+Reduces damage taken from critical hits and damage over time effects by 3%.
+Equip:
+Increases healing done by spells and effects by up to 33.
+
+
+Item #61028
+URL: https://database.turtle-wow.org/?item=61028
+Category: Database/Items/Armor/Shields
+Item: 
+Bulwark of the Crimson Guard
+Binds when picked up
+Off Hand
+Shield
+2243 Armor
+43 Block
++8 Intellect
++8 Stamina
++10 Shadow Resistance
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 12.
+Equip:
+Decreases the magical resistances of your spell targets by 10.
+
+
+Item #61240
+URL: https://database.turtle-wow.org/?item=61240
+Category: Database/Items/Armor/Shields
+Item: 
+Greymane Shield - Monster
+Off Hand
+Shield
+
+
+Item #61238
+URL: https://database.turtle-wow.org/?item=61238
+Category: Database/Items/Armor/Shields
+Item: 
+Scaleshield of Emerald Flight
+Binds when picked up
+Off Hand
+Shield
+2929 Armor
+55 Block
++12 Agility
++12 Strength
++12 Intellect
++12 Spirit
++12 Stamina
++15 Nature Resistance
+Durability 120 / 120
+Requires Level 60
+Use:
+Take the form of a green dragonkin, gaining immunity to Fear and Charm effects.  Lasts 15 sec.
+
+
+Item #61241
+URL: https://database.turtle-wow.org/?item=61241
+Category: Database/Items/Armor/Shields
+Item: 
+Gilneas Rebel Shield - Monster
+Off Hand
+Shield
+
+
+Item #61276
+URL: https://database.turtle-wow.org/?item=61276
+Category: Database/Items/Armor/Shields
+Item: 
+Hyperchromatic Deflector
+Binds when picked up
+Off Hand
+Shield
+2504 Armor
+45 Block
++10 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++8 All Resistances.
+Equip:
+You have a 3% chance to reflect harmful spells.
+
+
+Item #61314
+URL: https://database.turtle-wow.org/?item=61314
+Category: Database/Items/Armor/Shields
+Item: 
+Marshal's Blocker
+Binds when picked up
+Off Hand
+Shield
+1711 Armor
+28 Block
++7 Agility
+Durability 100 / 100
+Requires Level 44
+Equip:
+Increases your chance to dodge an attack by 1%.
+
+
+Item #61370
+URL: https://database.turtle-wow.org/?item=61370
+Category: Database/Items/Armor/Shields
+Item: 
+Bristlehide Buckler
+Binds when picked up
+Off Hand
+Shield
+189 Armor
+4 Block
+Durability 45 / 45
+Requires Level 5
+Equip:
+Causes 1 Nature damage to any creature that strikes the caster.
+
+
+Item #61386
+URL: https://database.turtle-wow.org/?item=61386
+Category: Database/Items/Armor/Shields
+Item: 
+Gubblewire Shield
+Binds when picked up
+Off Hand
+Shield
+330 Armor
+5 Block
++1 Intellect
++1 Stamina
++5 Nature Resistance
+Durability 55 / 55
+
+
+Item #61489
+URL: https://database.turtle-wow.org/?item=61489
+Category: Database/Items/Armor/Shields
+Item: 
+Ravenwood Shield
+Binds when picked up
+Off Hand
+Shield
+1396 Armor
+20 Block
++6 Stamina
++3 Agility
++3 Strength
+Durability 85 / 85
+
+
+Item #61509
+URL: https://database.turtle-wow.org/?item=61509
+Category: Database/Items/Armor/Shields
+Item: 
+Stoneshell Shield
+Binds when equipped
+Off Hand
+Shield
+1776 Armor
+32 Block
++13 Stamina
+Durability 85 / 85
+Requires Level 53
+
+
+Item #61526
+URL: https://database.turtle-wow.org/?item=61526
+Category: Database/Items/Armor/Shields
+Item: 
+Jadestone Protector
+Binds when picked up
+Off Hand
+Shield
+3035 Armor
+57 Block
++14 Stamina
++13 Intellect
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increased Defense +8.
+Equip:
+Reduces damage taken from critical hits and damage over time effects by 3%.
+Equip:
+Increases the block value of your shield by 18.
+
+
+Item #61540
+URL: https://database.turtle-wow.org/?item=61540
+Category: Database/Items/Armor/Shields
+Item: 
+Emberscale Shield
+Binds when equipped
+Off Hand
+Shield
+1635 Armor
+27 Block
++14 Stamina
+Durability 85 / 85
+Requires Level 48
+
+
+Item #61617
+URL: https://database.turtle-wow.org/?item=61617
+Category: Database/Items/Armor/Shields
+Item: 
+Iron-plated Defender
+Binds when equipped
+Off Hand
+Shield
+1428 Armor
+20 Block
+Durability 85 / 85
+Requires Level 40
+Equip:
+Increased Defense +6.
+
+
+Item #61670
+URL: https://database.turtle-wow.org/?item=61670
+Category: Database/Items/Armor/Shields
+Item: 
+Smuggled Greymane Protector
+Binds when picked up
+Off Hand
+Shield
+1731 Armor
+29 Block
++10 Shadow Resistance
+Durability 100 / 100
+Requires Level 45
+Equip:
+Increased Defense +3.
+
+
+Item #61710
+URL: https://database.turtle-wow.org/?item=61710
+Category: Database/Items/Armor/Shields
+Item: 
+Defender of Nordrassil
+Binds when picked up
+Off Hand
+Shield
+2289 Armor
+41 Block
++6 Stamina
++6 Intellect
++5 Nature Resistance
+Durability 100 / 100
+Equip:
+Increases damage and healing done by magical spells and effects by up to 16.
+Equip:
+Increases damage done by Nature spells and effects by up to 7.
+
+
+Item #65103
+URL: https://database.turtle-wow.org/?item=65103
+Category: Database/Items/Armor/Shields
+Item: 
+Shell of the Great Sleeper
+Binds when picked up
+Off Hand
+Shield
+2853 Armor
+53 Block
++9 Intellect
++7 Stamina
++14 Spirit
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 37.
+Equip:
+Allows 5% of your Mana regeneration to continue while casting.
+
+
+Item #80543
+URL: https://database.turtle-wow.org/?item=80543
+Category: Database/Items/Armor/Shields
+Item: 
+Quel'dorei Defender's Bulwark
+Binds when picked up
+Off Hand
+Shield
+2205 Armor
+42 Block
++12 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Increases the block value of your shield by 24.
+
+
+Item #80643
+URL: https://database.turtle-wow.org/?item=80643
+Category: Database/Items/Armor/Shields
+Item: 
+Revantusk Defender's Bulwark
+Binds when picked up
+Off Hand
+Shield
+2205 Armor
+42 Block
++12 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Increases the block value of your shield by 24.
+
+
+Item #80718
+URL: https://database.turtle-wow.org/?item=80718
+Category: Database/Items/Armor/Shields
+Item: 
+Ghamoo-ra's Guard
+Binds when picked up
+Off Hand
+Shield
+495 Armor
+9 Block
+Durability 75 / 75
+Requires Level 20
+Equip:
+Increased Defense +3.
+
+
+Item #80746
+URL: https://database.turtle-wow.org/?item=80746
+Category: Database/Items/Armor/Shields
+Item: 
+Rockshard Guard
+Binds when picked up
+Off Hand
+Shield
+1612 Armor
+25 Block
++8 Stamina
+Durability 100 / 100
+Requires Level 40
+Equip:
+Increases the block value of your shield by 12.
+Equip:
+Increases your chance to block attacks with a shield by 1%.
+
+
+Item #81095
+URL: https://database.turtle-wow.org/?item=81095
+Category: Database/Items/Armor/Shields
+Item: 
+Worn Thalassian Shield
+Off Hand
+Shield
+5 Armor
+1 Block
+Durability 20 / 20
+
+
+Item #81311
+URL: https://database.turtle-wow.org/?item=81311
+Category: Database/Items/Armor/Shields
+Item: 
+Technician's Servoshield
+Binds when picked up
+Off Hand
+Shield
+598 Armor
+11 Block
++5 Intellect
++3 Agility
++3 Stamina
++10 Nature Resistance
+Durability 100 / 100
+Requires Level 30
+Equip:
+Increased Defense +2.
+Equip:
+When struck in combat inflicts 1 Arcane damage to the attacker.
+"Spark resistant and built to last!"
+
+
+Item #81319
+URL: https://database.turtle-wow.org/?item=81319
+Category: Database/Items/Armor/Shields
+Item: 
+Razorblade Buckler
+Binds when picked up
+Off Hand
+Shield
+776 Armor
+17 Block
++2 Agility
++6 Stamina
+Durability 100 / 100
+Equip:
+When struck in combat inflicts 2 Arcane damage to the attacker.
+
+
+Item #81411
+URL: https://database.turtle-wow.org/?item=81411
+Category: Database/Items/Armor/Shields
+Item: 
+Oscilation Inhibited Disk
+Binds when picked up
+Off Hand
+Shield
+635 Armor
+13 Block
++6 Stamina
++3 Agility
++5 Nature Resistance
+Durability 85 / 85
+"An engineering masterpiece - Barthos Thundercrack"
+
+
+Item #83444
+URL: https://database.turtle-wow.org/?item=83444
+Category: Database/Items/Armor/Shields
+Item: 
+Bonewall
+Binds when picked up
+Off Hand
+Shield
+2206 Armor
+42 Block
++14 Stamina
++5 Strength
++5 Shadow Resistance
+Durability 100 / 100
+Requires Level 60
+Equip:
+Increased Defense +7.
+
+
+Item #84033
+URL: https://database.turtle-wow.org/?item=84033
+Category: Database/Items/Armor/Shields
+Item: 
+Bulwark of the Light
+Binds when picked up
+Off Hand
+Shield
+3423 Armor
+64 Block
++19 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+Equip:
+Increases the block value of your shield by 32.
+
+
+Item #2216
+URL: https://database.turtle-wow.org/?item=2216
+Category: Database/Items/Armor/Shields
+Item: 
+Simple Buckler
+Off Hand
+Shield
+297 Armor
+3 Block
+Durability 55 / 55
+Requires Level 11
+
+
+Item #3761
+URL: https://database.turtle-wow.org/?item=3761
+Category: Database/Items/Armor/Shields
+Item: 
+Deadskull Shield
+Binds when picked up
+Off Hand
+Shield
+611 Armor
+12 Block
++1 Strength
++7 Stamina
+Durability 85 / 85
+
+
+Item #4937
+URL: https://database.turtle-wow.org/?item=4937
+Category: Database/Items/Armor/Shields
+Item: 
+Charging Buckler
+Binds when picked up
+Off Hand
+Shield
+135 Armor
+3 Block
+Durability 40 / 40
+
+
+Item #15145
+URL: https://database.turtle-wow.org/?item=15145
+Category: Database/Items/Armor/Shields
+Item: 
+Ghostwalker Buckler
+Binds when equipped
+Off Hand
+Shield
+678 Armor
+14 Block
+Durability 85 / 85
+Requires Level 31
+Random Bonuses
+
+
+Item #17106
+URL: https://database.turtle-wow.org/?item=17106
+Category: Database/Items/Armor/Shields
+Item: 
+Malistar's Defender
+Binds when picked up
+Off Hand
+Shield
+2822 Armor
+52 Block
++12 Intellect
++9 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Restores 9 mana per 5 sec.
+
+

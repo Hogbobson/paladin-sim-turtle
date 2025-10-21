@@ -1,0 +1,423 @@
+Item #2946
+URL: https://database.turtle-wow.org/?item=2946
+Category: Database/Items/Weapons/Thrown
+Item: 
+Balanced Throwing Dagger
+Thrown
+Thrown
+4 - 9  Damage
+Speed 2.20
+(3.0 damage per second)
+Durability 400 / 400
+Requires Level 3
+
+
+Item #2947
+URL: https://database.turtle-wow.org/?item=2947
+Category: Database/Items/Weapons/Thrown
+Item: 
+Small Throwing Knife
+Thrown
+Thrown
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 400 / 400
+
+
+Item #3108
+URL: https://database.turtle-wow.org/?item=3108
+Category: Database/Items/Weapons/Thrown
+Item: 
+Heavy Throwing Dagger
+Thrown
+Thrown
+17 - 32  Damage
+Speed 2.10
+(11.7 damage per second)
+Durability 400 / 400
+Requires Level 22
+
+
+Item #3111
+URL: https://database.turtle-wow.org/?item=3111
+Category: Database/Items/Weapons/Thrown
+Item: 
+Crude Throwing Axe
+Thrown
+Thrown
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 400 / 400
+
+
+Item #3107
+URL: https://database.turtle-wow.org/?item=3107
+Category: Database/Items/Weapons/Thrown
+Item: 
+Keen Throwing Knife
+Thrown
+Thrown
+8 - 16  Damage
+Speed 1.90
+(6.3 damage per second)
+Durability 400 / 400
+Requires Level 11
+
+
+Item #3135
+URL: https://database.turtle-wow.org/?item=3135
+Category: Database/Items/Weapons/Thrown
+Item: 
+Sharp Throwing Axe
+Thrown
+Thrown
+8 - 16  Damage
+Speed 1.90
+(6.3 damage per second)
+Durability 400 / 400
+Requires Level 11
+
+
+Item #3131
+URL: https://database.turtle-wow.org/?item=3131
+Category: Database/Items/Weapons/Thrown
+Item: 
+Weighted Throwing Axe
+Thrown
+Thrown
+4 - 9  Damage
+Speed 2.20
+(3.0 damage per second)
+Durability 400 / 400
+Requires Level 3
+
+
+Item #3137
+URL: https://database.turtle-wow.org/?item=3137
+Category: Database/Items/Weapons/Thrown
+Item: 
+Deadly Throwing Axe
+Thrown
+Thrown
+17 - 32  Damage
+Speed 2.10
+(11.7 damage per second)
+Durability 400 / 400
+Requires Level 22
+
+
+Item #3463
+URL: https://database.turtle-wow.org/?item=3463
+Category: Database/Items/Weapons/Thrown
+Item: 
+Silver Star
+Binds when picked up
+Thrown
+Thrown
+28 - 53  Damage
+Speed 2.30
+(17.6 damage per second)
++6 Agility
+Durability 440 / 440
+
+
+Item #4959
+URL: https://database.turtle-wow.org/?item=4959
+Category: Database/Items/Weapons/Thrown
+Item: 
+Throwing Tomahawk
+Thrown
+Thrown
+3 - 7  Damage
+Speed 2.00
+(2.5 damage per second)
+Durability 400 / 400
+
+
+Item #5379
+URL: https://database.turtle-wow.org/?item=5379
+Category: Database/Items/Weapons/Thrown
+Item: 
+Boot Knife
+Thrown
+Thrown
+2 - 5  Damage
+Speed 1.70
+(2.1 damage per second)
+Durability 400 / 400
+Requires Level 3
+
+
+Item #5856
+URL: https://database.turtle-wow.org/?item=5856
+Category: Database/Items/Weapons/Thrown
+Item: 
+Monster - Throwing Axe
+Thrown
+Thrown
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 400 / 400
+
+
+Item #5870
+URL: https://database.turtle-wow.org/?item=5870
+Category: Database/Items/Weapons/Thrown
+Item: 
+Monster - Throwing Spear
+Thrown
+Thrown
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 400 / 400
+
+
+Item #6088
+URL: https://database.turtle-wow.org/?item=6088
+Category: Database/Items/Weapons/Thrown
+Item: 
+Monster - Torch, Ranged
+Thrown
+Thrown
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 400 / 400
+
+
+Item #6886
+URL: https://database.turtle-wow.org/?item=6886
+Category: Database/Items/Weapons/Thrown
+Item: 
+Monster - Throwing Knife
+Thrown
+Thrown
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 400 / 400
+
+
+Item #13173
+URL: https://database.turtle-wow.org/?item=13173
+Category: Database/Items/Weapons/Thrown
+Item: 
+Flightblade Throwing Axe
+Binds when picked up
+Thrown
+Thrown
+54 - 102  Damage
+Speed 2.20
+(35.5 damage per second)
++7 Agility
++7 Strength
+Durability 480 / 480
+Requires Level 55
+
+
+Item #15326
+URL: https://database.turtle-wow.org/?item=15326
+Category: Database/Items/Weapons/Thrown
+Item: 
+Gleaming Throwing Axe
+Thrown
+Thrown
+23 - 43  Damage
+Speed 1.80
+(18.3 damage per second)
+Durability 400 / 400
+Requires Level 35
+
+
+Item #15327
+URL: https://database.turtle-wow.org/?item=15327
+Category: Database/Items/Weapons/Thrown
+Item: 
+Wicked Throwing Dagger
+Thrown
+Thrown
+23 - 43  Damage
+Speed 1.80
+(18.3 damage per second)
+Durability 400 / 400
+Requires Level 35
+
+
+Item #20086
+URL: https://database.turtle-wow.org/?item=20086
+Category: Database/Items/Weapons/Thrown
+Item: 
+Dusksteel Throwing Knife
+Binds when picked up
+Thrown
+Thrown
+35 - 65  Damage
+Speed 1.80
++1 - 7 Shadow Damage
+(30.0 damage per second)
+Durability 440 / 440
+Equip:
++15 Attack Power.
+
+
+Item #20814
+URL: https://database.turtle-wow.org/?item=20814
+Category: Database/Items/Weapons/Thrown
+Item: 
+Master's Throwing Dagger
+Thrown
+Thrown
+52 - 97  Damage
+Speed 2.20
+(33.9 damage per second)
+Durability 400 / 400
+Requires Level 60
+
+
+Item #21135
+URL: https://database.turtle-wow.org/?item=21135
+Category: Database/Items/Weapons/Thrown
+Item: 
+Assassin's Throwing Axe
+Binds when picked up
+Thrown
+Thrown
+78 - 146  Damage
+Speed 3.00
+(37.3 damage per second)
++11 Agility
+Durability 480 / 480
+Requires Level 58
+
+
+Item #55072
+URL: https://database.turtle-wow.org/?item=55072
+Category: Database/Items/Weapons/Thrown
+Item: 
+Fahrad's Silent Nails
+Binds when picked up
+Thrown
+Thrown
+80 - 146  Damage
+Speed 3.00
+(37.7 damage per second)
++7 Agility
++6 Strength
+Durability 520 / 520
+Requires Level 60
+Requires Ravenholdt - Exalted
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #55474
+URL: https://database.turtle-wow.org/?item=55474
+Category: Database/Items/Weapons/Thrown
+Item: 
+Balanced Razor Shivs
+Binds when picked up
+Thrown
+Thrown
+34 - 66  Damage
+Speed 2.10
+(23.8 damage per second)
++3 Agility
+Durability 480 / 480
+Requires Level 36
+Equip:
+Your attacks ignore 15 of the target's armor.
+
+
+Item #55510
+URL: https://database.turtle-wow.org/?item=55510
+Category: Database/Items/Weapons/Thrown
+Item: 
+Fragments of Aldrach
+Binds when picked up
+Unique
+Thrown
+Thrown
+124 - 187  Damage
+Speed 1.90
+(81.8 damage per second)
++19 Agility
+Durability 320 / 320
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #58239
+URL: https://database.turtle-wow.org/?item=58239
+Category: Database/Items/Weapons/Thrown
+Item: 
+Overheated Skyrazors
+Binds when picked up
+Unique
+Thrown
+Thrown
+45 - 76  Damage
+Speed 1.60
+(37.8 damage per second)
+Durability 480 / 480
+Requires Level 60
+Equip:
+Increases your chance to dodge an attack by 1%.
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #58281
+URL: https://database.turtle-wow.org/?item=58281
+Category: Database/Items/Weapons/Thrown
+Item: 
+Trusty Goblin Shiv
+Binds when picked up
+Thrown
+Thrown
+28 - 53  Damage
+Speed 2.30
+(17.6 damage per second)
++6 Stamina
+Durability 440 / 440
+
+
+Item #58302
+URL: https://database.turtle-wow.org/?item=58302
+Category: Database/Items/Weapons/Thrown
+Item: 
+Deflecting Poniards
+Binds when equipped
+Thrown
+Thrown
+41 - 77  Damage
+Speed 1.80
+(32.8 damage per second)
++-2 Strength
++-2 Spirit
+Durability 440 / 440
+Requires Level 51
+Equip:
+Increases your chance to parry an attack by 1%.
+
+
+Item #61562
+URL: https://database.turtle-wow.org/?item=61562
+Category: Database/Items/Weapons/Thrown
+Item: 
+Bandit's Throwing Axe
+Binds when picked up
+Thrown
+Thrown
+85 - 154  Damage
+Speed 3.20
+(37.3 damage per second)
++11 Strength
+Durability 480 / 480
+Requires Level 58
+
+

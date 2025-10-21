@@ -1,0 +1,5298 @@
+Item #28
+URL: https://database.turtle-wow.org/?item=28
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Thalassian Mace
+Main Hand
+Mace
+1 - 3  Damage
+Speed 1.90
+(1.1 damage per second)
+Durability 20 / 20
+
+
+Item #36
+URL: https://database.turtle-wow.org/?item=36
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Worn Mace
+Main Hand
+Mace
+1 - 3  Damage
+Speed 1.90
+(1.1 damage per second)
+Durability 20 / 20
+
+
+Item #766
+URL: https://database.turtle-wow.org/?item=766
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Flanged Mace
+Main Hand
+Mace
+4 - 8  Damage
+Speed 2.00
+(3.0 damage per second)
+Durability 30 / 30
+Requires Level 2
+
+
+Item #781
+URL: https://database.turtle-wow.org/?item=781
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stone Gnoll Hammer
+Main Hand
+Mace
+5 - 11  Damage
+Speed 2.10
+(3.8 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #789
+URL: https://database.turtle-wow.org/?item=789
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stout Battlehammer
+Binds when equipped
+Main Hand
+Mace
+17 - 33  Damage
+Speed 2.30
+(10.9 damage per second)
+Durability 60 / 60
+Requires Level 17
+Random Bonuses
+
+
+Item #810
+URL: https://database.turtle-wow.org/?item=810
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of the Northern Wind
+Binds when equipped
+Main Hand
+Mace
+58 - 108  Damage
+Speed 2.10
+(39.5 damage per second)
+Durability 105 / 105
+Requires Level 49
+Chance on hit:
+Launches a bolt of frost at the enemy causing 20 to 31 Frost damage and slowing movement speed by 50% for 5 sec.
+
+
+Item #827
+URL: https://database.turtle-wow.org/?item=827
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Wicked Blackjack
+Binds when equipped
+Main Hand
+Mace
+14 - 26  Damage
+Speed 2.30
+(8.7 damage per second)
++2 Strength
+Durability 50 / 50
+Requires Level 12
+
+
+Item #852
+URL: https://database.turtle-wow.org/?item=852
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Mace
+One-hand
+Mace
+8 - 16  Damage
+Speed 1.90
+(6.3 damage per second)
+Durability 45 / 45
+Requires Level 9
+
+
+Item #865
+URL: https://database.turtle-wow.org/?item=865
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Leaden Mace
+Binds when equipped
+One-hand
+Mace
+32 - 61  Damage
+Speed 2.90
+(16.0 damage per second)
+Durability 75 / 75
+Requires Level 26
+Random Bonuses
+
+
+Item #868
+URL: https://database.turtle-wow.org/?item=868
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ardent Custodian
+Binds when equipped
+Main Hand
+Mace
+48 - 90  Damage
+Speed 2.10
+(32.9 damage per second)
++10 Stamina
+Durability 105 / 105
+Requires Level 38
+Equip:
+Increased Defense +5.
+
+
+Item #920
+URL: https://database.turtle-wow.org/?item=920
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Wicked Spiked Mace
+Binds when equipped
+Main Hand
+Mace
+22 - 42  Damage
+Speed 2.50
+(12.8 damage per second)
++4 Agility
+Durability 65 / 65
+Requires Level 20
+
+
+Item #925
+URL: https://database.turtle-wow.org/?item=925
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Flail
+Main Hand
+Mace
+18 - 34  Damage
+Speed 2.20
+(11.8 damage per second)
+Durability 65 / 65
+Requires Level 20
+
+
+Item #936
+URL: https://database.turtle-wow.org/?item=936
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Midnight Mace
+Binds when equipped
+One-hand
+Mace
+45 - 84  Damage
+Speed 2.50
++1 - 10 Shadow Damage
+(28.0 damage per second)
++10 Shadow Resistance
+Durability 90 / 90
+Requires Level 33
+
+
+Item #1009
+URL: https://database.turtle-wow.org/?item=1009
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Compact Hammer
+Binds when picked up
+Main Hand
+Mace
+11 - 21  Damage
+Speed 2.30
+(7.0 damage per second)
++1 Stamina
+Durability 45 / 45
+
+
+Item #1117
+URL: https://database.turtle-wow.org/?item=1117
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Item, Fishing Pole
+One-hand
+Mace
+Durability 20 / 20
+
+
+Item #1158
+URL: https://database.turtle-wow.org/?item=1158
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Solid Metal Club
+Binds when picked up
+Main Hand
+Mace
+8 - 16  Damage
+Speed 2.70
+(4.4 damage per second)
+Durability 40 / 40
+
+
+Item #1214
+URL: https://database.turtle-wow.org/?item=1214
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gnoll Punisher
+Binds when equipped
+Main Hand
+Mace
+14 - 27  Damage
+Speed 2.40
+(8.5 damage per second)
++2 Strength
+Durability 50 / 50
+Requires Level 12
+
+
+Item #1207
+URL: https://database.turtle-wow.org/?item=1207
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Murphstar
+Binds when equipped
+One-hand
+Mace
+31 - 59  Damage
+Speed 2.10
+(21.4 damage per second)
+Durability 75 / 75
+Requires Level 34
+Random Bonuses
+
+
+Item #1296
+URL: https://database.turtle-wow.org/?item=1296
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Blackrock Mace
+Binds when equipped
+Main Hand
+Mace
+18 - 35  Damage
+Speed 2.50
+(10.6 damage per second)
++3 Strength
+Durability 60 / 60
+Requires Level 16
+
+
+Item #1382
+URL: https://database.turtle-wow.org/?item=1382
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Rock Mace
+Binds when picked up
+Main Hand
+Mace
+2 - 5  Damage
+Speed 1.90
+(1.8 damage per second)
+Durability 30 / 30
+
+
+Item #1394
+URL: https://database.turtle-wow.org/?item=1394
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Driftwood Club
+Binds when equipped
+Main Hand
+Mace
+9 - 17  Damage
+Speed 1.70
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Requires Level 10
+
+
+Item #1389
+URL: https://database.turtle-wow.org/?item=1389
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Kobold Mining Mallet
+Main Hand
+Mace
+4 - 9  Damage
+Speed 2.30
+(2.8 damage per second)
+Durability 30 / 30
+Requires Level 2
+
+
+Item #1415
+URL: https://database.turtle-wow.org/?item=1415
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Carpenter's Mallet
+Main Hand
+Mace
+3 - 7  Damage
+Speed 1.70
+(2.9 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #1440
+URL: https://database.turtle-wow.org/?item=1440
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gnoll Skull Basher
+Binds when equipped
+Main Hand
+Mace
+18 - 34  Damage
+Speed 2.70
+(9.6 damage per second)
++2 Strength
++2 Stamina
+Durability 55 / 55
+Requires Level 14
+
+
+Item #1457
+URL: https://database.turtle-wow.org/?item=1457
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Shadowhide Mace
+Binds when equipped
+Main Hand
+Mace
+17 - 32  Damage
+Speed 2.20
+(11.1 damage per second)
++3 Stamina
+Durability 60 / 60
+Requires Level 17
+
+
+Item #1480
+URL: https://database.turtle-wow.org/?item=1480
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Fist of the People's Militia
+Binds when picked up
+Main Hand
+Mace
+9 - 18  Damage
+Speed 1.60
+(8.4 damage per second)
++2 Strength
+Durability 50 / 50
+
+
+Item #1483
+URL: https://database.turtle-wow.org/?item=1483
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Face Smasher
+Binds when equipped
+One-hand
+Mace
+25 - 48  Damage
+Speed 2.60
+(14.0 damage per second)
++3 Strength
++3 Stamina
+Durability 70 / 70
+Requires Level 16
+
+
+Item #1510
+URL: https://database.turtle-wow.org/?item=1510
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Heavy Hammer
+Main Hand
+Mace
+6 - 12  Damage
+Speed 2.40
+(3.8 damage per second)
+Durability 40 / 40
+Requires Level 7
+
+
+Item #1608
+URL: https://database.turtle-wow.org/?item=1608
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Skullcrusher Mace
+Binds when equipped
+One-hand
+Mace
+53 - 99  Damage
+Speed 2.70
+(28.1 damage per second)
+Durability 75 / 75
+Requires Level 42
+Random Bonuses
+
+
+Item #1721
+URL: https://database.turtle-wow.org/?item=1721
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Viking Warhammer
+Binds when equipped
+Main Hand
+Mace
+60 - 112  Damage
+Speed 2.40
+(35.8 damage per second)
++11 Stamina
++5 Strength
+Durability 90 / 90
+Requires Level 49
+
+
+Item #1815
+URL: https://database.turtle-wow.org/?item=1815
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ornamental Mace
+Main Hand
+Mace
+10 - 19  Damage
+Speed 2.80
+(5.2 damage per second)
+Durability 50 / 50
+Requires Level 12
+
+
+Item #1825
+URL: https://database.turtle-wow.org/?item=1825
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bulky Bludgeon
+Main Hand
+Mace
+17 - 32  Damage
+Speed 2.80
+(8.8 damage per second)
+Durability 70 / 70
+Requires Level 23
+
+
+Item #1823
+URL: https://database.turtle-wow.org/?item=1823
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bludgeoning Cudgel
+Main Hand
+Mace
+8 - 16  Damage
+Speed 1.80
+(6.7 damage per second)
+Durability 60 / 60
+Requires Level 17
+
+
+Item #1906
+URL: https://database.turtle-wow.org/?item=1906
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Torch
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1911
+URL: https://database.turtle-wow.org/?item=1911
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Tool, Wrench Small
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1902
+URL: https://database.turtle-wow.org/?item=1902
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Basic Wooden Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1901
+URL: https://database.turtle-wow.org/?item=1901
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Basic Stone Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #1913
+URL: https://database.turtle-wow.org/?item=1913
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Studded Blackjack
+Main Hand
+Mace
+5 - 10  Damage
+Speed 1.80
+(4.2 damage per second)
+Durability 40 / 40
+Requires Level 5
+
+
+Item #1926
+URL: https://database.turtle-wow.org/?item=1926
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Weighted Sap
+Binds when equipped
+Main Hand
+Mace
+12 - 22  Damage
+Speed 2.20
+(7.7 damage per second)
++1 Strength
+Durability 50 / 50
+Requires Level 10
+
+
+Item #1938
+URL: https://database.turtle-wow.org/?item=1938
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Block Mallet
+Binds when equipped
+Main Hand
+Mace
+14 - 26  Damage
+Speed 1.80
+(11.1 damage per second)
++3 Stamina
+Durability 60 / 60
+Requires Level 17
+
+
+Item #1958
+URL: https://database.turtle-wow.org/?item=1958
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Petrified Shinbone
+Binds when equipped
+Main Hand
+Mace
+12 - 23  Damage
+Speed 2.00
+(8.8 damage per second)
++2 Stamina
+Durability 50 / 50
+Requires Level 12
+
+
+Item #2028
+URL: https://database.turtle-wow.org/?item=2028
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer
+One-hand
+Mace
+16 - 30  Damage
+Speed 2.40
+(9.6 damage per second)
+Durability 60 / 60
+Requires Level 16
+
+
+Item #2055
+URL: https://database.turtle-wow.org/?item=2055
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Small Wooden Hammer
+Main Hand
+Mace
+2 - 4  Damage
+Speed 1.90
+(1.6 damage per second)
+Durability 25 / 25
+
+
+Item #2056
+URL: https://database.turtle-wow.org/?item=2056
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Velvet Hammer
+Main Hand
+Mace
+4 - 9  Damage
+Speed 2.00
+(3.3 damage per second)
+Durability 40 / 40
+Requires Level 5
+
+
+Item #2048
+URL: https://database.turtle-wow.org/?item=2048
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Anvilmar Hammer
+Binds when picked up
+Main Hand
+Mace
+3 - 6  Damage
+Speed 2.10
+(2.1 damage per second)
+Durability 30 / 30
+
+
+Item #2064
+URL: https://database.turtle-wow.org/?item=2064
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Trogg Club
+Main Hand
+Mace
+6 - 13  Damage
+Speed 2.00
+(4.8 damage per second)
+Durability 40 / 40
+Requires Level 6
+
+
+Item #2079
+URL: https://database.turtle-wow.org/?item=2079
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Sergeant's Warhammer
+Binds when equipped
+One-hand
+Mace
+12 - 24  Damage
+Speed 2.10
+(8.6 damage per second)
+Durability 50 / 50
+Requires Level 12
+Random Bonuses
+
+
+Item #2075
+URL: https://database.turtle-wow.org/?item=2075
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Priest's Mace
+Binds when equipped
+Main Hand
+Mace
+9 - 17  Damage
+Speed 2.00
+(6.5 damage per second)
+Durability 40 / 40
+Requires Level 7
+Random Bonuses
+
+
+Item #2130
+URL: https://database.turtle-wow.org/?item=2130
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Club
+One-hand
+Mace
+1 - 3  Damage
+Speed 1.90
+(1.1 damage per second)
+Durability 20 / 20
+
+
+Item #2182
+URL: https://database.turtle-wow.org/?item=2182
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Ornate Metal Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2196
+URL: https://database.turtle-wow.org/?item=2196
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Item, Mutton
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2197
+URL: https://database.turtle-wow.org/?item=2197
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Dwarven Battle Loaf
+Binds when picked up
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+"More than just food, it's a testament to the durability of Dwarven culture. Use wisely, or just use it to break rocks."
+
+
+Item #2194
+URL: https://database.turtle-wow.org/?item=2194
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Diamond Hammer
+Binds when equipped
+Unique
+One-hand
+Mace
+28 - 53  Damage
+Speed 2.50
+(16.2 damage per second)
++3 Strength
++4 Stamina
+Durability 75 / 75
+Requires Level 20
+
+
+Item #2202
+URL: https://database.turtle-wow.org/?item=2202
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Item, Mutton with Bite
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2243
+URL: https://database.turtle-wow.org/?item=2243
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hand of Edward the Odd
+Binds when equipped
+Unique
+One-hand
+Mace
+50 - 94  Damage
+Speed 1.60
+(45.0 damage per second)
++10 Spirit
++13 Intellect
+Durability 105 / 105
+Requires Level 57
+Chance on hit:
+Next spell cast within 4 sec will cast instantly.
+
+
+Item #2259
+URL: https://database.turtle-wow.org/?item=2259
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Frostmane Club
+Main Hand
+Mace
+4 - 9  Damage
+Speed 2.00
+(3.3 damage per second)
+Durability 35 / 35
+Requires Level 3
+
+
+Item #2256
+URL: https://database.turtle-wow.org/?item=2256
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Skeletal Club
+Binds when equipped
+Main Hand
+Mace
+28 - 53  Damage
+Speed 2.60
+(15.6 damage per second)
+Durability 75 / 75
+Requires Level 19
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 30 Shadow damage.
+
+
+Item #2267
+URL: https://database.turtle-wow.org/?item=2267
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stonesplinter Mace
+Binds when equipped
+Main Hand
+Mace
+10 - 20  Damage
+Speed 2.00
+(7.5 damage per second)
++1 Stamina
+Durability 50 / 50
+Requires Level 10
+
+
+Item #2485
+URL: https://database.turtle-wow.org/?item=2485
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Splintered Board
+Main Hand
+Mace
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #2500
+URL: https://database.turtle-wow.org/?item=2500
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Light Hammer
+Main Hand
+Mace
+3 - 6  Damage
+Speed 1.70
+(2.6 damage per second)
+Durability 30 / 30
+Requires Level 2
+
+
+Item #2492
+URL: https://database.turtle-wow.org/?item=2492
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Cudgel
+One-hand
+Mace
+3 - 7  Damage
+Speed 1.80
+(2.8 damage per second)
+Durability 30 / 30
+Requires Level 2
+
+
+Item #2524
+URL: https://database.turtle-wow.org/?item=2524
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Truncheon
+Main Hand
+Mace
+29 - 54  Damage
+Speed 2.50
+(16.6 damage per second)
+Durability 75 / 75
+Requires Level 29
+
+
+Item #2532
+URL: https://database.turtle-wow.org/?item=2532
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Morning Star
+Main Hand
+Mace
+34 - 64  Damage
+Speed 1.90
+(25.8 damage per second)
+Durability 75 / 75
+Requires Level 41
+
+
+Item #2558
+URL: https://database.turtle-wow.org/?item=2558
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Good Wooden Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2695
+URL: https://database.turtle-wow.org/?item=2695
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Spiked Club
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2810
+URL: https://database.turtle-wow.org/?item=2810
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Standard Serpent
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2809
+URL: https://database.turtle-wow.org/?item=2809
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Spiked Basic
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2816
+URL: https://database.turtle-wow.org/?item=2816
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Death Speaker Scepter
+Binds when picked up
+Main Hand
+Mace
+33 - 63  Damage
+Speed 2.80
+(17.1 damage per second)
++1 Spirit
+Durability 90 / 90
+Requires Level 28
+Equip:
+Increases healing done by spells and effects by up to 11.
+Equip:
+Increases damage done by Shadow spells and effects by up to 7.
+
+
+Item #2813
+URL: https://database.turtle-wow.org/?item=2813
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Standard Basic
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #2821
+URL: https://database.turtle-wow.org/?item=2821
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Mo'grosh Masher
+Binds when equipped
+Main Hand
+Mace
+16 - 30  Damage
+Speed 2.50
+(9.2 damage per second)
++2 Strength
+Durability 55 / 55
+Requires Level 13
+
+
+Item #2848
+URL: https://database.turtle-wow.org/?item=2848
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bronze Mace
+Main Hand
+Mace
+18 - 34  Damage
+Speed 2.60
+(10.0 damage per second)
+Durability 60 / 60
+Requires Level 17
+
+
+Item #2844
+URL: https://database.turtle-wow.org/?item=2844
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Copper Mace
+Main Hand
+Mace
+6 - 11  Damage
+Speed 2.20
+(3.9 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #2884
+URL: https://database.turtle-wow.org/?item=2884
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Goblin's Party Fizzler
+Binds when picked up
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+"A little spark for a lot of fun."
+
+
+Item #3044
+URL: https://database.turtle-wow.org/?item=3044
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+OLDMonster - Mace, Standard Basic Offhand
+Off Hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #3223
+URL: https://database.turtle-wow.org/?item=3223
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Frostmane Scepter
+Binds when equipped
+Main Hand
+Mace
+9 - 17  Damage
+Speed 2.20
+(5.9 damage per second)
++1 Stamina
+Durability 40 / 40
+Requires Level 6
+
+
+Item #3262
+URL: https://database.turtle-wow.org/?item=3262
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Putrid Wooden Hammer
+Main Hand
+Mace
+1 - 3  Damage
+Speed 2.00
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #3269
+URL: https://database.turtle-wow.org/?item=3269
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Forsaken Maul
+Binds when picked up
+Main Hand
+Mace
+2 - 5  Damage
+Speed 1.90
+(1.8 damage per second)
+Durability 30 / 30
+
+
+Item #3294
+URL: https://database.turtle-wow.org/?item=3294
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Deadman Club
+Main Hand
+Mace
+1 - 3  Damage
+Speed 1.80
+(1.1 damage per second)
+Durability 20 / 20
+
+
+Item #3329
+URL: https://database.turtle-wow.org/?item=3329
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Spiked Wooden Plank
+Main Hand
+Mace
+6 - 12  Damage
+Speed 1.90
+(4.7 damage per second)
+Durability 40 / 40
+Requires Level 6
+
+
+Item #3350
+URL: https://database.turtle-wow.org/?item=3350
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Item, Bone
+Unique
+One-hand
+Mace
+Durability 20 / 20
+
+
+Item #3361
+URL: https://database.turtle-wow.org/?item=3361
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Spiked Heavy
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #3414
+URL: https://database.turtle-wow.org/?item=3414
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Crested Scepter
+Binds when equipped
+Main Hand
+Mace
+31 - 58  Damage
+Speed 2.60
+(17.1 damage per second)
++5 Stamina
++2 Intellect
+Durability 80 / 80
+Requires Level 22
+
+
+Item #3491
+URL: https://database.turtle-wow.org/?item=3491
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Heavy Bronze Mace
+Binds when equipped
+Main Hand
+Mace
+25 - 47  Damage
+Speed 2.80
+(12.9 damage per second)
++4 Strength
+Durability 65 / 65
+Requires Level 20
+
+
+Item #3492
+URL: https://database.turtle-wow.org/?item=3492
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Mighty Iron Hammer
+Binds when equipped
+Main Hand
+Mace
+30 - 57  Damage
+Speed 2.80
+(15.5 damage per second)
++5 Strength
+Durability 75 / 75
+Requires Level 25
+
+
+Item #3570
+URL: https://database.turtle-wow.org/?item=3570
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bonegrinding Pestle
+Binds when picked up
+Main Hand
+Mace
+13 - 26  Damage
+Speed 2.40
+(8.1 damage per second)
++2 Strength
+Durability 50 / 50
+
+
+Item #3774
+URL: https://database.turtle-wow.org/?item=3774
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Dynamite, Unlit
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #3787
+URL: https://database.turtle-wow.org/?item=3787
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stone Club
+Main Hand
+Mace
+20 - 38  Damage
+Speed 2.20
+(13.2 damage per second)
+Durability 75 / 75
+Requires Level 35
+
+
+Item #4021
+URL: https://database.turtle-wow.org/?item=4021
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Blunting Mace
+Main Hand
+Mace
+24 - 45  Damage
+Speed 2.10
+(16.4 damage per second)
+Durability 75 / 75
+Requires Level 41
+
+
+Item #4090
+URL: https://database.turtle-wow.org/?item=4090
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Mug O' Hurt
+Binds when equipped
+One-hand
+Mace
+37 - 69  Damage
+Speed 1.70
+(31.2 damage per second)
+Durability 90 / 90
+Requires Level 41
+Chance on hit:
+Slows the target's movement by 50% for 10 sec.
+
+
+Item #4122
+URL: https://database.turtle-wow.org/?item=4122
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bookmaker's Scepter
+Binds when picked up
+Main Hand
+Mace
+31 - 59  Damage
+Speed 2.30
+(19.6 damage per second)
++6 Intellect
+Durability 75 / 75
+
+
+Item #4303
+URL: https://database.turtle-wow.org/?item=4303
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Cranial Thumper
+Binds when equipped
+Main Hand
+Mace
+12 - 24  Damage
+Speed 2.80
+(6.4 damage per second)
++1 Strength
+Durability 40 / 40
+Requires Level 7
+
+
+Item #4439
+URL: https://database.turtle-wow.org/?item=4439
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bruiser Club
+Binds when equipped
+Main Hand
+Mace
+17 - 32  Damage
+Speed 2.20
+(11.1 damage per second)
++2 Strength
++2 Stamina
+Durability 60 / 60
+Requires Level 17
+
+
+Item #4511
+URL: https://database.turtle-wow.org/?item=4511
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Black Water Hammer
+Binds when picked up
+Main Hand
+Mace
+42 - 78  Damage
+Speed 2.70
+(22.2 damage per second)
++7 Strength
+Durability 75 / 75
+
+
+Item #4563
+URL: https://database.turtle-wow.org/?item=4563
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Billy Club
+Main Hand
+Mace
+6 - 11  Damage
+Speed 2.20
+(3.9 damage per second)
+Durability 35 / 35
+Requires Level 4
+
+
+Item #4569
+URL: https://database.turtle-wow.org/?item=4569
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Staunch Hammer
+Binds when equipped
+Main Hand
+Mace
+11 - 21  Damage
+Speed 2.20
+(7.3 damage per second)
+Durability 45 / 45
+Requires Level 9
+Random Bonuses
+
+
+Item #4924
+URL: https://database.turtle-wow.org/?item=4924
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Primitive Club
+Binds when picked up
+Main Hand
+Mace
+3 - 6  Damage
+Speed 2.10
+(2.1 damage per second)
+Durability 30 / 30
+
+
+Item #4948
+URL: https://database.turtle-wow.org/?item=4948
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stinging Mace
+Binds when picked up
+Main Hand
+Mace
+9 - 18  Damage
+Speed 2.30
+(5.9 damage per second)
++1 Strength
+Durability 40 / 40
+
+
+Item #4971
+URL: https://database.turtle-wow.org/?item=4971
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Skorn's Hammer
+Binds when picked up
+Main Hand
+Mace
+12 - 23  Damage
+Speed 2.70
+(6.5 damage per second)
++1 Strength
+Durability 40 / 40
+
+
+Item #4978
+URL: https://database.turtle-wow.org/?item=4978
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ryedol's Hammer
+Binds when picked up
+Main Hand
+Mace
+33 - 62  Damage
+Speed 2.50
+(19.0 damage per second)
++6 Strength
+Durability 75 / 75
+
+
+Item #4993
+URL: https://database.turtle-wow.org/?item=4993
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Item, Skull
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5197
+URL: https://database.turtle-wow.org/?item=5197
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Cookie's Tenderizer
+Binds when picked up
+One-hand
+Mace
+20 - 39  Damage
+Speed 2.80
+(10.5 damage per second)
++3 Strength
+Durability 60 / 60
+Requires Level 16
+
+
+Item #5256
+URL: https://database.turtle-wow.org/?item=5256
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Kovork's Rattle
+Binds when equipped
+One-hand
+Mace
+38 - 72  Damage
+Speed 3.00
+(18.3 damage per second)
++2 Strength
++5 Agility
+Durability 75 / 75
+Requires Level 30
+
+
+Item #5291
+URL: https://database.turtle-wow.org/?item=5291
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Jeweled Club
+Main Hand
+Mace
+1 - 2  Damage
+Speed 2.20
+(0.7 damage per second)
+Durability 20 / 20
+
+
+Item #5324
+URL: https://database.turtle-wow.org/?item=5324
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Engineer's Hammer
+Binds when picked up
+Main Hand
+Mace
+13 - 26  Damage
+Speed 2.40
+(8.1 damage per second)
++2 Stamina
+Durability 50 / 50
+
+
+Item #5495
+URL: https://database.turtle-wow.org/?item=5495
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace2H, Large Metal (1H, Special)
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5541
+URL: https://database.turtle-wow.org/?item=5541
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Iridescent Hammer
+Binds when equipped
+One-hand
+Mace
+18 - 34  Damage
+Speed 1.80
+(14.4 damage per second)
++3 Strength
++3 Stamina
+Durability 70 / 70
+Requires Level 23
+
+
+Item #5580
+URL: https://database.turtle-wow.org/?item=5580
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Militia Hammer
+Binds when picked up
+Main Hand
+Mace
+3 - 6  Damage
+Speed 2.30
+(2.0 damage per second)
+Durability 30 / 30
+
+
+Item #5587
+URL: https://database.turtle-wow.org/?item=5587
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Thornroot Club
+Binds when picked up
+Main Hand
+Mace
+10 - 19  Damage
+Speed 2.10
+(6.9 damage per second)
++1 Stamina
+Durability 45 / 45
+
+
+Item #5757
+URL: https://database.turtle-wow.org/?item=5757
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hardwood Cudgel
+Binds when picked up
+Main Hand
+Mace
+18 - 34  Damage
+Speed 2.60
+(10.0 damage per second)
++2 Strength
++2 Stamina
+Durability 55 / 55
+
+
+Item #6196
+URL: https://database.turtle-wow.org/?item=6196
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Noboru's Truncheon
+Binds when picked up
+Unique
+Main Hand
+Mace
+15 - 29  Damage
+Speed 2.10
+(10.5 damage per second)
+Durability 75 / 75
+Requires Level 29
+
+
+Item #6323
+URL: https://database.turtle-wow.org/?item=6323
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Baron's Scepter
+Binds when picked up
+Main Hand
+Mace
+21 - 40  Damage
+Speed 2.40
+(12.7 damage per second)
++4 Strength
+Durability 65 / 65
+Requires Level 20
+
+
+Item #6334
+URL: https://database.turtle-wow.org/?item=6334
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Green
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #6360
+URL: https://database.turtle-wow.org/?item=6360
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Steelscale Crushfish
+Binds when equipped
+One-hand
+Mace
+22 - 42  Damage
+Speed 2.50
+(12.8 damage per second)
++4 Strength
+Durability 65 / 65
+Requires Level 20
+
+
+Item #6472
+URL: https://database.turtle-wow.org/?item=6472
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stinging Viper
+Binds when picked up
+One-hand
+Mace
+30 - 57  Damage
+Speed 2.80
+(15.5 damage per second)
+Durability 75 / 75
+Requires Level 19
+Chance on hit:
+Poisons target for 7 Nature damage every 3 sec for 15 sec.
+
+
+Item #6618
+URL: https://database.turtle-wow.org/?item=6618
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Orb
+One-hand
+Mace
+Durability 20 / 20
+
+
+Item #6651
+URL: https://database.turtle-wow.org/?item=6651
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Broken Wine Bottle
+One-hand
+Mace
+6 - 12  Damage
+Speed 1.70
+(5.3 damage per second)
+Durability 40 / 40
+Requires Level 7
+"Alterac Old-and-Yellow"
+
+
+Item #6804
+URL: https://database.turtle-wow.org/?item=6804
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Windstorm Hammer
+Binds when picked up
+Main Hand
+Mace
+42 - 72  Damage
+Speed 2.10
+(27.1 damage per second)
++6 Strength
++6 Stamina
+Durability 90 / 90
+
+
+Item #6946
+URL: https://database.turtle-wow.org/?item=6946
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Gun, Club
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #6968
+URL: https://database.turtle-wow.org/?item=6968
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Elunite Hammer
+Binds when picked up
+Main Hand
+Mace
+12 - 23  Damage
+Speed 2.30
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #6982
+URL: https://database.turtle-wow.org/?item=6982
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Umbral Mace
+Binds when picked up
+Main Hand
+Mace
+12 - 23  Damage
+Speed 2.30
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #6983
+URL: https://database.turtle-wow.org/?item=6983
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Haggard's Hammer
+Binds when picked up
+Main Hand
+Mace
+12 - 23  Damage
+Speed 2.30
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7117
+URL: https://database.turtle-wow.org/?item=7117
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Heirloom Hammer
+Binds when picked up
+Main Hand
+Mace
+12 - 23  Damage
+Speed 2.30
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7328
+URL: https://database.turtle-wow.org/?item=7328
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Thun'grim's Mace
+Binds when picked up
+Main Hand
+Mace
+12 - 23  Damage
+Speed 2.30
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #7687
+URL: https://database.turtle-wow.org/?item=7687
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ironspine's Fist
+Binds when picked up
+One-hand
+Mace
+38 - 72  Damage
+Speed 2.40
+(22.9 damage per second)
++7 Strength
+Durability 90 / 90
+Requires Level 30
+
+
+Item #7721
+URL: https://database.turtle-wow.org/?item=7721
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hand of Righteousness
+Binds when picked up
+Main Hand
+Mace
+56 - 105  Damage
+Speed 2.70
+(29.8 damage per second)
++8 Spirit
+Durability 90 / 90
+Requires Level 39
+Equip:
+Increases healing done by spells and effects by up to 15.
+
+
+Item #7736
+URL: https://database.turtle-wow.org/?item=7736
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Fight Club
+Binds when equipped
+One-hand
+Mace
+41 - 76  Damage
+Speed 2.20
+(26.6 damage per second)
++6 Stamina
++6 Strength
+Durability 90 / 90
+Requires Level 34
+
+
+Item #7752
+URL: https://database.turtle-wow.org/?item=7752
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Dreamslayer
+Binds when equipped
+Main Hand
+Mace
+31 - 59  Damage
+Speed 2.10
+(21.4 damage per second)
++7 Strength
++3 Spirit
+Durability 90 / 90
+Requires Level 28
+
+
+Item #7946
+URL: https://database.turtle-wow.org/?item=7946
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Runed Mithril Hammer
+Binds when equipped
+Main Hand
+Mace
+45 - 88  Damage
+Speed 2.00
+(33.3 damage per second)
+50 Armor
++8 Stamina
++4 Strength
+Durability 90 / 90
+Requires Level 44
+
+
+Item #7954
+URL: https://database.turtle-wow.org/?item=7954
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Shatterer
+Binds when equipped
+Main Hand
+Mace
+53 - 99  Damage
+Speed 2.40
+(31.7 damage per second)
+Durability 90 / 90
+Requires Level 42
+Chance on hit:
+Disarm target's weapon for 10 sec.
+
+
+Item #7945
+URL: https://database.turtle-wow.org/?item=7945
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Big Black Mace
+Binds when equipped
+Main Hand
+Mace
+46 - 86  Damage
+Speed 2.40
+(27.5 damage per second)
++8 Strength
+Durability 75 / 75
+Requires Level 41
+
+
+Item #8194
+URL: https://database.turtle-wow.org/?item=8194
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Goblin Nutcracker
+Binds when equipped
+One-hand
+Mace
+38 - 72  Damage
+Speed 2.20
+(25.0 damage per second)
+Durability 75 / 75
+Requires Level 38
+Random Bonuses
+
+
+Item #8708
+URL: https://database.turtle-wow.org/?item=8708
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of Expertise
+Binds when picked up
+Unique
+Main Hand
+Mace
+54 - 101  Damage
+Speed 2.10
+(36.9 damage per second)
+Durability 105 / 105
+
+
+Item #9359
+URL: https://database.turtle-wow.org/?item=9359
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Wirt's Third Leg
+Binds when equipped
+One-hand
+Mace
+49 - 91  Damage
+Speed 2.30
+(30.4 damage per second)
++9 Agility
++4 Stamina
+Durability 90 / 90
+Requires Level 40
+
+
+Item #9386
+URL: https://database.turtle-wow.org/?item=9386
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Excavator's Brand
+Binds when equipped
+Unique
+One-hand
+Mace
+43 - 82  Damage
+Speed 2.60
+(24.0 damage per second)
+Durability 90 / 90
+Requires Level 31
+Chance on hit:
+Hurls a fiery ball that causes 40 Fire damage and an additional 9 damage over 6 sec.
+
+
+Item #9419
+URL: https://database.turtle-wow.org/?item=9419
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Galgann's Firehammer
+Binds when picked up
+One-hand
+Mace
+47 - 89  Damage
+Speed 2.20
+(30.9 damage per second)
+Durability 90 / 90
+Requires Level 41
+Chance on hit:
+Blasts a target for 80 to 113 Fire damage.
+
+
+Item #9427
+URL: https://database.turtle-wow.org/?item=9427
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stonevault Bonebreaker
+Binds when equipped
+One-hand
+Mace
+54 - 101  Damage
+Speed 2.70
+(28.7 damage per second)
++8 Strength
++4 Agility
+Durability 90 / 90
+Requires Level 37
+
+
+Item #9457
+URL: https://database.turtle-wow.org/?item=9457
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Royal Diplomatic Scepter
+Binds when picked up
+One-hand
+Mace
+37 - 69  Damage
+Speed 2.30
+(23.0 damage per second)
++7 Spirit
++2 Stamina
+Durability 90 / 90
+Requires Level 30
+
+
+Item #9488
+URL: https://database.turtle-wow.org/?item=9488
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Oscillating Power Hammer
+Binds when equipped
+One-hand
+Mace
+24 - 46  Damage
+Speed 2.00
+(17.5 damage per second)
++5 Strength
++1 Stamina
+Durability 80 / 80
+Requires Level 23
+
+
+Item #9639
+URL: https://database.turtle-wow.org/?item=9639
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Hand of Antu'sul
+Binds when picked up
+Main Hand
+Mace
+61 - 113  Damage
+Speed 2.70
+(32.2 damage per second)
+Durability 90 / 90
+Requires Level 43
+Chance on hit:
+Blasts nearby enemies with thunder increasing the time between their attacks by 11% for 10 sec and doing 7 Nature damage to them.  Will affect up to 4 targets.
+
+
+Item #9651
+URL: https://database.turtle-wow.org/?item=9651
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gryphon Rider's Stormhammer
+Binds when picked up
+Main Hand
+Mace
+66 - 124  Damage
+Speed 2.70
+(35.2 damage per second)
+Durability 90 / 90
+Chance on hit:
+Blasts a target for 91 to 126 Nature damage.
+
+
+Item #9659
+URL: https://database.turtle-wow.org/?item=9659
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Tauren Spiked
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #9686
+URL: https://database.turtle-wow.org/?item=9686
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Spirit of the Faerie Dragon
+Binds when picked up
+Main Hand
+Mace
+62 - 115  Damage
+Speed 2.60
+(34.0 damage per second)
+50 Armor
++10 Stamina
+Durability 90 / 90
+
+
+Item #10571
+URL: https://database.turtle-wow.org/?item=10571
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ebony Boneclub
+Binds when equipped
+One-hand
+Mace
+31 - 59  Damage
+Speed 1.80
+(25.0 damage per second)
++5 Strength
++5 Shadow Resistance
+Durability 90 / 90
+Requires Level 32
+
+
+Item #10591
+URL: https://database.turtle-wow.org/?item=10591
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Stormhammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #9639
+URL: https://database.turtle-wow.org/?item=9639
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Hand of Antu'sul
+Binds when picked up
+Main Hand
+Mace
+61 - 113  Damage
+Speed 2.70
+(32.2 damage per second)
+Durability 90 / 90
+Requires Level 43
+Chance on hit:
+Blasts nearby enemies with thunder increasing the time between their attacks by 11% for 10 sec and doing 7 Nature damage to them.  Will affect up to 4 targets.
+
+
+Item #9659
+URL: https://database.turtle-wow.org/?item=9659
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Tauren Spiked
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #9651
+URL: https://database.turtle-wow.org/?item=9651
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gryphon Rider's Stormhammer
+Binds when picked up
+Main Hand
+Mace
+66 - 124  Damage
+Speed 2.70
+(35.2 damage per second)
+Durability 90 / 90
+Chance on hit:
+Blasts a target for 91 to 126 Nature damage.
+
+
+Item #9686
+URL: https://database.turtle-wow.org/?item=9686
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Spirit of the Faerie Dragon
+Binds when picked up
+Main Hand
+Mace
+62 - 115  Damage
+Speed 2.60
+(34.0 damage per second)
+50 Armor
++10 Stamina
+Durability 90 / 90
+
+
+Item #10544
+URL: https://database.turtle-wow.org/?item=10544
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Thistlewood Maul
+Binds when picked up
+Main Hand
+Mace
+2 - 5  Damage
+Speed 1.90
+(1.8 damage per second)
+Durability 30 / 30
+
+
+Item #10571
+URL: https://database.turtle-wow.org/?item=10571
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ebony Boneclub
+Binds when equipped
+One-hand
+Mace
+31 - 59  Damage
+Speed 1.80
+(25.0 damage per second)
++5 Strength
++5 Shadow Resistance
+Durability 90 / 90
+Requires Level 32
+
+
+Item #10591
+URL: https://database.turtle-wow.org/?item=10591
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Stormhammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #10804
+URL: https://database.turtle-wow.org/?item=10804
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Fist of the Damned
+Binds when picked up
+One-hand
+Mace
+42 - 80  Damage
+Speed 1.90
+(32.1 damage per second)
+Durability 75 / 75
+Requires Level 49
+Chance on hit:
+Steals 30 life from target enemy.
+
+
+Item #10838
+URL: https://database.turtle-wow.org/?item=10838
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Might of Hakkar
+Binds when picked up
+Main Hand
+Mace
+60 - 112  Damage
+Speed 2.40
+(35.8 damage per second)
++11 Stamina
++5 Spirit
+Durability 90 / 90
+Requires Level 49
+
+
+Item #11120
+URL: https://database.turtle-wow.org/?item=11120
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Belgrom's Hammer
+Binds when picked up
+Main Hand
+Mace
+64 - 120  Damage
+Speed 2.80
+(32.9 damage per second)
++10 Strength
+Durability 75 / 75
+
+
+Item #11264
+URL: https://database.turtle-wow.org/?item=11264
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Baron Silverlaine
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11369
+URL: https://database.turtle-wow.org/?item=11369
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Thaurissan Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11383
+URL: https://database.turtle-wow.org/?item=11383
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Green Scepter
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #11411
+URL: https://database.turtle-wow.org/?item=11411
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Large Bear Bone
+Main Hand
+Mace
+14 - 28  Damage
+Speed 2.40
+(8.8 damage per second)
+Durability 70 / 70
+Requires Level 23
+
+
+Item #11684
+URL: https://database.turtle-wow.org/?item=11684
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ironfoe
+Binds when picked up
+Unique
+One-hand
+Mace
+73 - 136  Damage
+Speed 2.40
+(43.5 damage per second)
+Durability 105 / 105
+Requires Level 55
+Chance on hit:
+Grants 2 extra attacks on your next swing.
+Arms of Thaurissan
+(0/2)
+Ironfoe
+Modrag'zan, Heart of the Mountain
+(2) Set:
+Your extra attacks increase your attack speed by 10% for 6 sec.
+
+
+Item #11805
+URL: https://database.turtle-wow.org/?item=11805
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Rubidium Hammer
+Binds when picked up
+Main Hand
+Mace
+51 - 96  Damage
+Speed 2.00
+(36.8 damage per second)
+120 Armor
++5 Strength
+Durability 90 / 90
+Requires Level 51
+
+
+Item #11906
+URL: https://database.turtle-wow.org/?item=11906
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Beastsmasher
+Binds when picked up
+Main Hand
+Mace
+48 - 90  Damage
+Speed 2.10
+(32.9 damage per second)
+Durability 75 / 75
+Equip:
++30 Attack Power when fighting Beasts.
+
+
+Item #11923
+URL: https://database.turtle-wow.org/?item=11923
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Hammer of Grace
+Binds when picked up
+Main Hand
+Mace
+71 - 132  Damage
+Speed 2.70
+(37.6 damage per second)
+Durability 90 / 90
+Requires Level 52
+Equip:
+Increases healing done by spells and effects by up to 31.
+
+
+Item #11964
+URL: https://database.turtle-wow.org/?item=11964
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Swiftstrike Cudgel
+Binds when picked up
+Main Hand
+Mace
+36 - 68  Damage
+Speed 1.60
+(32.5 damage per second)
+Durability 75 / 75
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #12183
+URL: https://database.turtle-wow.org/?item=12183
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Thrall's Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12787
+URL: https://database.turtle-wow.org/?item=12787
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Horde Bone Claw Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12788
+URL: https://database.turtle-wow.org/?item=12788
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Horde Bone Spike Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12781
+URL: https://database.turtle-wow.org/?item=12781
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Serenity
+Binds when equipped
+Main Hand
+Mace
+52 - 98  Damage
+Speed 2.00
+(37.5 damage per second)
+Durability 90 / 90
+Requires Level 52
+Chance on hit:
+Dispels a magic effect on the current foe.
+
+
+Item #12786
+URL: https://database.turtle-wow.org/?item=12786
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Horde Skull Club
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12792
+URL: https://database.turtle-wow.org/?item=12792
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Volcanic Hammer
+Binds when equipped
+Main Hand
+Mace
+60 - 113  Damage
+Speed 2.50
+(34.6 damage per second)
+Durability 75 / 75
+Requires Level 53
+Chance on hit:
+Hurls a fiery ball that causes 100 to 129 Fire damage and an additional 18 damage over 6 sec.
+
+
+Item #12794
+URL: https://database.turtle-wow.org/?item=12794
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Masterwork Stormhammer
+Binds when equipped
+Main Hand
+Mace
+58 - 108  Damage
+Speed 2.00
+(41.5 damage per second)
+Durability 90 / 90
+Requires Level 57
+Chance on hit:
+Blasts up to 3 targets for 105 to 146 Nature damage.
+
+
+Item #12883
+URL: https://database.turtle-wow.org/?item=12883
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Thaurissan Silver
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12934
+URL: https://database.turtle-wow.org/?item=12934
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Maul B03 Red
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13006
+URL: https://database.turtle-wow.org/?item=13006
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Mass of McGowan
+Binds when equipped
+Main Hand
+Mace
+80 - 149  Damage
+Speed 2.80
+(40.9 damage per second)
++10 Strength
++10 Stamina
+Durability 90 / 90
+Requires Level 57
+
+
+Item #13025
+URL: https://database.turtle-wow.org/?item=13025
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Deadwood Sledge
+Binds when equipped
+Main Hand
+Mace
+33 - 62  Damage
+Speed 1.90
+(25.0 damage per second)
++2 Stamina
++7 Spirit
+Durability 90 / 90
+Requires Level 32
+
+
+Item #13026
+URL: https://database.turtle-wow.org/?item=13026
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Heaven's Light
+Binds when equipped
+Main Hand
+Mace
+57 - 107  Damage
+Speed 2.70
+(30.4 damage per second)
++4 Strength
++4 Agility
++5 Spirit
++4 Intellect
++4 Stamina
+Durability 90 / 90
+Requires Level 40
+
+
+Item #13024
+URL: https://database.turtle-wow.org/?item=13024
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Beazel's Basher
+Binds when equipped
+Main Hand
+Mace
+32 - 60  Damage
+Speed 2.50
+(18.4 damage per second)
++6 Strength
++2 Spirit
+Durability 90 / 90
+Requires Level 24
+
+
+Item #13028
+URL: https://database.turtle-wow.org/?item=13028
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bludstone Hammer
+Binds when equipped
+Main Hand
+Mace
+59 - 110  Damage
+Speed 2.10
+(40.2 damage per second)
++12 Spirit
++5 Stamina
+Durability 90 / 90
+Requires Level 56
+
+
+Item #13027
+URL: https://database.turtle-wow.org/?item=13027
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bonesnapper
+Binds when equipped
+Main Hand
+Mace
+66 - 124  Damage
+Speed 2.70
+(35.2 damage per second)
++11 Strength
++5 Stamina
+Durability 90 / 90
+Requires Level 48
+
+
+Item #13048
+URL: https://database.turtle-wow.org/?item=13048
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Looming Gavel
+Binds when equipped
+Main Hand
+Mace
+33 - 62  Damage
+Speed 2.40
+(19.8 damage per second)
++6 Stamina
++3 Agility
+Durability 90 / 90
+Requires Level 26
+
+
+Item #13183
+URL: https://database.turtle-wow.org/?item=13183
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Venomspitter
+Binds when picked up
+Unique
+One-hand
+Mace
+52 - 98  Damage
+Speed 1.90
+(39.5 damage per second)
+Durability 90 / 90
+Requires Level 55
+Chance on hit:
+Poisons target for 7 Nature damage every 2 sec for 30 sec.
+Spider's Kiss
+(0/2)
+Fang of the Crystal Spider
+Venomspitter
+(2) Set:
+Chance on Hit: Immobilizes the target and lowers their armor by 100 for 10 sec.
+
+
+Item #13204
+URL: https://database.turtle-wow.org/?item=13204
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bashguuder
+Binds when picked up
+One-hand
+Mace
+49 - 93  Damage
+Speed 1.80
+(39.4 damage per second)
++9 Strength
+Durability 90 / 90
+Requires Level 55
+Chance on hit:
+Punctures target's armor lowering it by 200. Can be applied up to 3 times.
+
+
+Item #13220
+URL: https://database.turtle-wow.org/?item=13220
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Item, Holy Symbol
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13312
+URL: https://database.turtle-wow.org/?item=13312
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Hammer Gold Orange
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13349
+URL: https://database.turtle-wow.org/?item=13349
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Scepter of the Unholy
+Binds when picked up
+Main Hand
+Mace
+69 - 129  Damage
+Speed 2.40
+(41.3 damage per second)
++5 Stamina
+Durability 90 / 90
+Requires Level 58
+Equip:
+Increases damage done by Shadow spells and effects by up to 19.
+
+
+Item #13401
+URL: https://database.turtle-wow.org/?item=13401
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Cruel Hand of Timmy
+Binds when picked up
+One-hand
+Mace
+50 - 94  Damage
+Speed 1.80
+(40.0 damage per second)
+Durability 90 / 90
+Requires Level 56
+Chance on hit:
+Lowers all attributes of target by 15 for 60 sec.
+
+
+Item #13820
+URL: https://database.turtle-wow.org/?item=13820
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Clout Mace
+Main Hand
+Mace
+31 - 58  Damage
+Speed 2.30
+(19.3 damage per second)
+Durability 75 / 75
+Requires Level 49
+
+
+Item #13894
+URL: https://database.turtle-wow.org/?item=13894
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Standard B01 White
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14487
+URL: https://database.turtle-wow.org/?item=14487
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Bonechill Hammer
+Binds when picked up
+One-hand
+Mace
+68 - 127  Damage
+Speed 2.40
+(40.6 damage per second)
+Durability 90 / 90
+Requires Level 57
+Chance on hit:
+Blasts a target for 90 Frost damage.
+
+
+Item #14533
+URL: https://database.turtle-wow.org/?item=14533
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Hammer Blue Mighty
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14575
+URL: https://database.turtle-wow.org/?item=14575
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Bashguud's Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #15223
+URL: https://database.turtle-wow.org/?item=15223
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Jagged Star
+Binds when equipped
+Main Hand
+Mace
+24 - 45  Damage
+Speed 2.80
+(12.3 damage per second)
+Durability 65 / 65
+Requires Level 19
+Random Bonuses
+
+
+Item #15227
+URL: https://database.turtle-wow.org/?item=15227
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Diamond-Tip Bludgeon
+Binds when equipped
+One-hand
+Mace
+49 - 91  Damage
+Speed 2.40
+(29.2 damage per second)
+Durability 75 / 75
+Requires Level 44
+Random Bonuses
+
+
+Item #15224
+URL: https://database.turtle-wow.org/?item=15224
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Battlesmasher
+Binds when equipped
+One-hand
+Mace
+24 - 45  Damage
+Speed 2.70
+(12.8 damage per second)
+Durability 65 / 65
+Requires Level 20
+Random Bonuses
+
+
+Item #15222
+URL: https://database.turtle-wow.org/?item=15222
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Barbed Club
+Binds when equipped
+Main Hand
+Mace
+15 - 29  Damage
+Speed 2.30
+(9.6 damage per second)
+Durability 55 / 55
+Requires Level 14
+Random Bonuses
+
+
+Item #15226
+URL: https://database.turtle-wow.org/?item=15226
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Giant Club
+Binds when equipped
+Main Hand
+Mace
+26 - 49  Damage
+Speed 1.90
+(19.7 damage per second)
+Durability 75 / 75
+Requires Level 32
+Random Bonuses
+
+
+Item #15229
+URL: https://database.turtle-wow.org/?item=15229
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Blesswind Hammer
+Binds when equipped
+One-hand
+Mace
+48 - 90  Damage
+Speed 2.10
+(32.9 damage per second)
+Durability 75 / 75
+Requires Level 50
+Random Bonuses
+
+
+Item #15228
+URL: https://database.turtle-wow.org/?item=15228
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Smashing Star
+Binds when equipped
+One-hand
+Mace
+62 - 115  Damage
+Speed 2.80
+(31.6 damage per second)
+Durability 75 / 75
+Requires Level 48
+Random Bonuses
+
+
+Item #15225
+URL: https://database.turtle-wow.org/?item=15225
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Sequoia Hammer
+Binds when equipped
+Main Hand
+Mace
+32 - 60  Damage
+Speed 2.70
+(17.0 damage per second)
+Durability 75 / 75
+Requires Level 28
+Random Bonuses
+
+
+Item #15445
+URL: https://database.turtle-wow.org/?item=15445
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of Orgrimmar
+Binds when picked up
+Main Hand
+Mace
+18 - 35  Damage
+Speed 2.90
+(9.1 damage per second)
++1 Strength
++1 Stamina
+Durability 55 / 55
+
+
+Item #15863
+URL: https://database.turtle-wow.org/?item=15863
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Grave Scepter
+Binds when picked up
+Main Hand
+Mace
+36 - 67  Damage
+Speed 1.60
+(32.2 damage per second)
++8 Intellect
++5 Spirit
+Durability 75 / 75
+
+
+Item #16769
+URL: https://database.turtle-wow.org/?item=16769
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Furbolg Medicine Totem
+Binds when picked up
+Main Hand
+Mace
+54 - 101  Damage
+Speed 2.50
+(31.0 damage per second)
++6 Stamina
++6 Spirit
+Durability 75 / 75
+Requires Level 47
+
+
+Item #16792
+URL: https://database.turtle-wow.org/?item=16792
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Giant Club
+Binds when equipped
+Main Hand
+Mace
+26 - 49  Damage
+Speed 1.90
+(19.7 damage per second)
+Durability 75 / 75
+Requires Level 32
+Random Bonuses
+
+
+Item #17003
+URL: https://database.turtle-wow.org/?item=17003
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Skullstone Hammer
+Binds when picked up
+Main Hand
+Mace
+68 - 128  Damage
+Speed 2.70
+(36.3 damage per second)
++9 Intellect
++4 Stamina
++3 Spirit
+Durability 75 / 75
+
+
+Item #17039
+URL: https://database.turtle-wow.org/?item=17039
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Skullbreaker
+Binds when picked up
+Main Hand
+Mace
+31 - 59  Damage
+Speed 2.40
+(18.8 damage per second)
++5 Intellect
++3 Stamina
+Durability 75 / 75
+
+
+Item #17040
+URL: https://database.turtle-wow.org/?item=17040
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Frying Pan
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #17041
+URL: https://database.turtle-wow.org/?item=17041
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Blazing Pan
+Binds when picked up
+One-hand
+Mace
+5 - 8  Damage
+Speed 2.00
+(3.3 damage per second)
+Durability 20 / 20
+"Don't be surprised if your enemies end up well-done."
+
+
+Item #17055
+URL: https://database.turtle-wow.org/?item=17055
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Changuk Smasher
+Binds when equipped
+One-hand
+Mace
+44 - 83  Damage
+Speed 1.90
+(33.4 damage per second)
++6 Stamina
++6 Intellect
++5 Spirit
+Durability 90 / 90
+Requires Level 45
+
+
+Item #17105
+URL: https://database.turtle-wow.org/?item=17105
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Aurastone Hammer
+Binds when picked up
+One-hand
+Mace
+78.8 - 161.8  Damage
+Speed 2.70
+(44.6 damage per second)
++10 Intellect
++10 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Restores 5 mana per 5 sec.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 33.
+
+
+Item #17112
+URL: https://database.turtle-wow.org/?item=17112
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Empyrean Demolisher
+Binds when picked up
+Main Hand
+Mace
+94 - 175  Damage
+Speed 2.80
+(48.0 damage per second)
+Durability 105 / 105
+Requires Level 60
+Chance on hit:
+Increases your attack speed by 20% for 10 sec.
+
+
+Item #17733
+URL: https://database.turtle-wow.org/?item=17733
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Fist of Stone
+Binds when picked up
+Main Hand
+Mace
+44 - 83  Damage
+Speed 1.80
+(35.3 damage per second)
++11 Stamina
++5 Spirit
+Durability 90 / 90
+Requires Level 48
+Chance on hit:
+Restores 50 mana.
+
+
+Item #17943
+URL: https://database.turtle-wow.org/?item=17943
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Fist of Stone
+Binds when picked up
+Main Hand
+Mace
+44 - 83  Damage
+Speed 1.80
+(35.3 damage per second)
+Durability 90 / 90
+Requires Level 48
+Chance on hit:
+Restores 50 mana.
+
+
+Item #18044
+URL: https://database.turtle-wow.org/?item=18044
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hurley's Tankard
+Binds when picked up
+Main Hand
+Mace
+71 - 132  Damage
+Speed 2.70
+(37.6 damage per second)
++12 Stamina
++5 Agility
+Durability 90 / 90
+Requires Level 52
+
+
+Item #18048
+URL: https://database.turtle-wow.org/?item=18048
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Mastersmith's Hammer
+Binds when picked up
+Main Hand
+Mace
+66 - 123  Damage
+Speed 2.40
+(39.4 damage per second)
++5 Intellect
+Durability 90 / 90
+Requires Level 55
+Equip:
+Increases damage and healing done by magical spells and effects by up to 14.
+
+
+Item #18321
+URL: https://database.turtle-wow.org/?item=18321
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Energetic Rod
+Binds when picked up
+Main Hand
+Mace
+71 - 107  Damage
+Speed 2.30
+(38.7 damage per second)
++5 Intellect
+Durability 90 / 90
+Requires Level 54
+Equip:
+Increases damage and healing done by magical spells and effects by up to 14.
+
+
+Item #18376
+URL: https://database.turtle-wow.org/?item=18376
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Timeworn Mace
+Binds when picked up
+One-hand
+Mace
+62 - 117  Damage
+Speed 2.20
+(40.7 damage per second)
+120 Armor
++7 Strength
++11 Stamina
+Durability 90 / 90
+Requires Level 57
+
+
+Item #18671
+URL: https://database.turtle-wow.org/?item=18671
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Baron Charr's Sceptre
+Binds when equipped
+Main Hand
+Mace
+70 - 132  Damage
+Speed 2.60
+(38.8 damage per second)
++5 Strength
+Durability 90 / 90
+Requires Level 54
+Chance on hit:
+Blasts a target for 35 Fire damage.
+
+
+Item #18683
+URL: https://database.turtle-wow.org/?item=18683
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of the Vesper
+Binds when picked up
+One-hand
+Mace
+70 - 131  Damage
+Speed 2.50
+(40.2 damage per second)
++12 Stamina
++7 Strength
+Durability 90 / 90
+Requires Level 56
+
+
+Item #18866
+URL: https://database.turtle-wow.org/?item=18866
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+High Warlord's Bludgeon
+Binds when picked up
+One-hand
+Mace
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #18865
+URL: https://database.turtle-wow.org/?item=18865
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Grand Marshal's Punisher
+Binds when picked up
+One-hand
+Mace
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #19104
+URL: https://database.turtle-wow.org/?item=19104
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stormstrike Hammer
+Binds when picked up
+Unique
+One-hand
+Mace
+80 - 150  Damage
+Speed 2.70
+(42.6 damage per second)
++15 Strength
+Durability 90 / 90
+Requires Level 60
+
+
+Item #19170
+URL: https://database.turtle-wow.org/?item=19170
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ebon Hand
+Binds when equipped
+One-hand
+Mace
+90 - 168  Damage
+Speed 2.50
+(51.6 damage per second)
++9 Stamina
++7 Fire Resistance
+Durability 105 / 105
+Requires Level 60
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 125 to 276 Shadow damage.
+
+
+Item #19293
+URL: https://database.turtle-wow.org/?item=19293
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Last Year's Mutton
+One-hand
+Mace
+44 - 82  Damage
+Speed 2.00
+(31.5 damage per second)
+Durability 75 / 75
+Requires Level 50
+
+
+Item #19292
+URL: https://database.turtle-wow.org/?item=19292
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Last Month's Mutton
+One-hand
+Mace
+29 - 54  Damage
+Speed 2.50
+(16.6 damage per second)
+Durability 75 / 75
+Requires Level 25
+
+
+Item #19335
+URL: https://database.turtle-wow.org/?item=19335
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Spineshatter
+Binds when picked up
+Unique
+Main Hand
+Mace
+99 - 184  Damage
+Speed 2.60
+(54.4 damage per second)
++13 Stamina
++9 Strength
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increased Maces +5.
+
+
+Item #19360
+URL: https://database.turtle-wow.org/?item=19360
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Lok'amir il Romathis
+Binds when picked up
+Unique
+Main Hand
+Mace
+47.9 - 127.9  Damage
+Speed 2.10
+(41.9 damage per second)
++18 Intellect
++8 Spirit
++10 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 84.
+"The Hand of Nefarius"
+
+
+Item #19404
+URL: https://database.turtle-wow.org/?item=19404
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, The Hand of Nefarius
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #19808
+URL: https://database.turtle-wow.org/?item=19808
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Rockhide Strongfish
+Binds when equipped
+One-hand
+Mace
+46 - 87  Damage
+Speed 2.50
+(26.6 damage per second)
++8 Stamina
+Durability 75 / 75
+Requires Level 40
+
+
+Item #19890
+URL: https://database.turtle-wow.org/?item=19890
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Jin'do's Hexxer
+Binds when picked up
+Unique
+Main Hand
+Mace
+64.4 - 134.4  Damage
+Speed 2.40
+(41.4 damage per second)
++9 Intellect
++6 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 51.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #19908
+URL: https://database.turtle-wow.org/?item=19908
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Sceptre of Smiting
+Binds when picked up
+Unique
+One-hand
+Mace
+77 - 145  Damage
+Speed 2.60
+(42.7 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
+Increased Maces +2.
+Chance on hit:
+Blasts the enemy with poison for 63 to 94 Nature damage.
+
+
+Item #19916
+URL: https://database.turtle-wow.org/?item=19916
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Standard Serpent Green
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #19961
+URL: https://database.turtle-wow.org/?item=19961
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gri'lek's Grinder
+Binds when picked up
+One-hand
+Mace
+75 - 140  Damage
+Speed 2.40
+(44.8 damage per second)
+Durability 90 / 90
+Requires Level 60
+Equip:
++48 Attack Power when fighting Dragonkin.
+
+
+Item #20580
+URL: https://database.turtle-wow.org/?item=20580
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of Bestial Fury
+Binds when picked up
+Unique
+Main Hand
+Mace
+69 - 130  Damage
+Speed 1.90
+(52.4 damage per second)
+100 Armor
++13 Strength
++13 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
++210 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #20648
+URL: https://database.turtle-wow.org/?item=20648
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Cold Forged Hammer
+Binds when picked up
+Unique
+Main Hand
+Mace
+72 - 135  Damage
+Speed 2.50
+(41.4 damage per second)
++5 Stamina
++9 Intellect
+Durability 90 / 90
+Equip:
+Restores 3 mana per 5 sec.
+
+
+Item #20666
+URL: https://database.turtle-wow.org/?item=20666
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hardened Steel Warhammer
+Binds when picked up
+Unique
+One-hand
+Mace
+74 - 138  Damage
+Speed 2.60
+(40.8 damage per second)
++10 Stamina
++6 Intellect
+Durability 90 / 90
+Requires Level 57
+Equip:
+Increases healing done by spells and effects by up to 11.
+
+
+Item #20738
+URL: https://database.turtle-wow.org/?item=20738
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Scepter of the Shifting Sands
+One-hand
+Mace
+1 - 1  Damage
+Speed 1.00
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #21268
+URL: https://database.turtle-wow.org/?item=21268
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Blessed Qiraji War Hammer
+Binds when picked up
+One-hand
+Mace
+89 - 166  Damage
+Speed 2.10
+(60.7 damage per second)
+70 Armor
++12 Stamina
++10 Strength
+Durability 105 / 105
+Equip:
++280 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+Equip:
+Increased Defense +8.
+"The weapon is infused and reinforced with Elementium."
+
+
+Item #21398
+URL: https://database.turtle-wow.org/?item=21398
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of the Gathering Storm
+Binds when picked up
+Unique
+Main Hand
+Mace
+62 - 137  Damage
+Speed 2.40
+(41.5 damage per second)
++10 Stamina
++9 Intellect
+Durability 105 / 105
+Classes: Shaman
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 64.
+Gift of the Gathering Storm
+(0/3)
+Cloak of the Gathering Storm
+Hammer of the Gathering Storm
+Ring of the Gathering Storm
+(2) Set:
+Increases the chain target damage multiplier of your Chain Lightning spell by 5%.
+(3) Set:
+Purge increases your casting speed by 5% for 6 sec or until you cast a spell when it successfully removes a magic effect.
+
+
+Item #21407
+URL: https://database.turtle-wow.org/?item=21407
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Mace of Unending Life
+Binds when picked up
+Unique
+Main Hand
+Mace
+100 - 188  Damage
+Speed 2.60
+(55.4 damage per second)
+50 Armor
++9 Strength
++7 Agility
++11 Intellect
++10 Stamina
+Durability 105 / 105
+Classes: Druid
+Equip:
+Increases your chance to dodge an attack by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 40.
+Equip:
++196 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+Symbols of Unending Life
+(0/3)
+Band of Unending Life
+Cloak of Unending Life
+Mace of Unending Life
+(2) Set:
+Your finishing moves now refund 30 energy on a Miss, Dodge, Block, or Parry.
+(3) Set:
+Your finishing moves have a 8% chance per combo point to restore 35 Energy.
+(3) Set:
+Your Swipe hits 1 additional target.
+
+
+Item #21410
+URL: https://database.turtle-wow.org/?item=21410
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gavel of Infinite Wisdom
+Binds when picked up
+Unique
+Main Hand
+Mace
+70 - 154  Damage
+Speed 2.70
+(41.5 damage per second)
++11 Intellect
++10 Stamina
+Durability 105 / 105
+Classes: Priest
+Equip:
+Restores 5 mana per 5 sec.
+Equip:
+Increases healing done by spells and effects by up to 106.
+Finery of Infinite Wisdom
+(0/3)
+Gavel of Infinite Wisdom
+Ring of Infinite Wisdom
+Shroud of Infinite Wisdom
+(2) Set:
+Increases the damage of your Shadow Word: Pain spell by 5%.
+(3) Set:
+Increases Pain Spike damage by 20% and heals you for 40% of its damage.
+
+
+Item #21466
+URL: https://database.turtle-wow.org/?item=21466
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stinger of Ayamiss
+Binds when picked up
+Main Hand
+Mace
+63.4 - 136.4  Damage
+Speed 2.40
+(41.6 damage per second)
++7 Intellect
++9 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 36.
+
+
+Item #21715
+URL: https://database.turtle-wow.org/?item=21715
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Sand Polished Hammer
+Binds when picked up
+Unique
+One-hand
+Mace
+97 - 181  Damage
+Speed 2.60
+(53.5 damage per second)
++9 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++20 Attack Power.
+
+
+Item #21837
+URL: https://database.turtle-wow.org/?item=21837
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Anubisath Warhammer
+Binds when picked up
+One-hand
+Mace
+66 - 123  Damage
+Speed 1.80
+(52.5 damage per second)
++7 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increased Maces +5.
+Equip:
++26 Attack Power.
+
+
+Item #21839
+URL: https://database.turtle-wow.org/?item=21839
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Scepter of the False Prophet
+Binds when picked up
+Main Hand
+Mace
+38.36 - 111.36  Damage
+Speed 1.80
+(41.6 damage per second)
++10 Stamina
++19 Intellect
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 187.
+Equip:
+Restores 3 mana per 5 sec.
+
+
+Item #22213
+URL: https://database.turtle-wow.org/?item=22213
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Hand of Edward the Odd
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #22315
+URL: https://database.turtle-wow.org/?item=22315
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of Revitalization
+Binds when picked up
+Main Hand
+Mace
+75 - 141  Damage
+Speed 2.70
+(40.0 damage per second)
++5 Stamina
+Durability 90 / 90
+Requires Level 56
+Equip:
+Increases healing done by spells and effects by up to 26.
+
+
+Item #22322
+URL: https://database.turtle-wow.org/?item=22322
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Jaw Breaker
+Binds when picked up
+One-hand
+Mace
+45 - 84  Damage
+Speed 1.60
+(40.3 damage per second)
+Durability 90 / 90
+Requires Level 56
+Equip:
+Improves your chance to get a critical strike by 1%.
+"Not edible"
+
+
+Item #22341
+URL: https://database.turtle-wow.org/?item=22341
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Horde A04 Pale - Bone Wrench
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #22380
+URL: https://database.turtle-wow.org/?item=22380
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Simone's Cultivating Hammer
+Binds when picked up
+Main Hand
+Mace
+50.66 - 97.66  Damage
+Speed 1.80
+(41.2 damage per second)
++6 Intellect
+Durability 90 / 90
+Equip:
+Increases healing done by spells and effects by up to 37.
+
+
+Item #22384
+URL: https://database.turtle-wow.org/?item=22384
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Persuader
+Binds when equipped
+Main Hand
+Mace
+86 - 161  Damage
+Speed 2.70
+(45.7 damage per second)
+Durability 105 / 105
+Requires Level 58
+Equip:
+Improves your chance to hit by 1%.
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #22713
+URL: https://database.turtle-wow.org/?item=22713
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Zulian Scepter of Rites
+Binds when picked up
+Unique
+One-hand
+Mace
+71.9 - 142.9  Damage
+Speed 2.60
+(41.3 damage per second)
++9 Stamina
++8 Intellect
+Durability 90 / 90
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 26.
+Equip:
+Restores 4 mana per 5 sec.
+
+
+Item #22724
+URL: https://database.turtle-wow.org/?item=22724
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace1H, Korth'azz
+One-hand
+Mace
+1 - 3  Damage
+Speed 2.90
+(0.7 damage per second)
+Durability 20 / 20
+
+
+Item #22808
+URL: https://database.turtle-wow.org/?item=22808
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Castigator
+Binds when picked up
+Unique
+One-hand
+Mace
+129 - 238  Damage
+Speed 2.80
+(65.5 damage per second)
++11 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+Equip:
++22 Attack Power.
+
+
+Item #22942
+URL: https://database.turtle-wow.org/?item=22942
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Widow's Embrace
+Binds when picked up
+Unique
+One-hand
+Mace
+42.53 - 115.53  Damage
+Speed 1.90
+(41.6 damage per second)
++12 Intellect
++12 Stamina
++14 Spirit
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 178.
+
+
+Item #22988
+URL: https://database.turtle-wow.org/?item=22988
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The End of Dreams
+Binds when picked up
+Unique
+One-hand
+Mace
+44 - 120  Damage
+Speed 1.90
+(43.2 damage per second)
++13 Intellect
++13 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 95.
+Equip:
++322 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+Equip:
+Restores 5 mana per 5 sec.
+
+
+Item #23056
+URL: https://database.turtle-wow.org/?item=23056
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of the Twisting Nether
+Binds when picked up
+Unique
+One-hand
+Mace
+36 - 120  Damage
+Speed 1.90
+(41.1 damage per second)
++8 Stamina
++11 Intellect
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 238.
+Equip:
+Restores 8 mana per 5 sec.
+
+
+Item #23221
+URL: https://database.turtle-wow.org/?item=23221
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Misplaced Servo Arm
+Binds when picked up
+One-hand
+Mace
+112 - 221  Damage
+Speed 2.80
+(59.5 damage per second)
+Durability 105 / 105
+Requires Level 60
+Equip:
+Chance to discharge electricity causing 100 to 151 Nature damage to your target.
+
+
+Item #23454
+URL: https://database.turtle-wow.org/?item=23454
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Grand Marshal's Warhammer
+Binds when picked up
+One-hand
+Mace
+88 - 158  Damage
+Speed 2.90
+(42.4 damage per second)
++16 Stamina
++10 Intellect
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 178.
+Equip:
+Restores 6 mana per 5 sec.
+
+
+Item #23464
+URL: https://database.turtle-wow.org/?item=23464
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+High Warlord's Battle Mace
+Binds when picked up
+One-hand
+Mace
+88 - 158  Damage
+Speed 2.90
+(42.4 damage per second)
++16 Stamina
++10 Intellect
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 178.
+Equip:
+Restores 6 mana per 5 sec.
+
+
+Item #23583
+URL: https://database.turtle-wow.org/?item=23583
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Sir Zeliek
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #36019
+URL: https://database.turtle-wow.org/?item=36019
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Harborage War-Mace
+Binds when picked up
+One-hand
+Mace
+39 - 72  Damage
+Speed 2.30
+(24.1 damage per second)
++5 Strength
++3 Stamina
+Durability 75 / 75
+Requires Level 37
+Equip:
++6 Attack Power.
+
+
+Item #41134
+URL: https://database.turtle-wow.org/?item=41134
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Enforcer's Fist
+Binds when picked up
+One-hand
+Mace
+10 - 22  Damage
+Speed 2.10
+(7.6 damage per second)
++1 Stamina
+Durability 50 / 50
+Classes: Warrior
+
+
+Item #41669
+URL: https://database.turtle-wow.org/?item=41669
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Sweet Winter Cane
+Binds when picked up
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #41717
+URL: https://database.turtle-wow.org/?item=41717
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Dark Iron Bludgeon
+Binds when picked up
+Main Hand
+Mace
+30 - 69  Damage
+Speed 2.30
+(21.5 damage per second)
+Durability 75 / 75
+Equip:
++15 Attack Power.
+
+
+Item #41723
+URL: https://database.turtle-wow.org/?item=41723
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Cudgel of Binding
+Binds when picked up
+Main Hand
+Mace
+32 - 53  Damage
+Speed 2.50
+(17.0 damage per second)
++2 Strength
++2 Nature Resistance
+Durability 75 / 75
+Requires Level 28
+Equip:
+Increases damage and healing done by magical spells and effects by up to 6.
+
+
+Item #41793
+URL: https://database.turtle-wow.org/?item=41793
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Harlekk's Battle Wrench
+Binds when picked up
+Main Hand
+Mace
+38 - 77  Damage
+Speed 2.60
+(22.1 damage per second)
++5 Nature Resistance
+Durability 75 / 75
+Equip:
+Increased Maces +2.
+
+
+Item #41818
+URL: https://database.turtle-wow.org/?item=41818
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Scepter of Yor'thegg
+Binds when picked up
+Main Hand
+Mace
+31 - 75  Damage
+Speed 2.10
+(25.2 damage per second)
+Durability 75 / 75
+Equip:
++16 Attack Power.
+
+
+Item #41852
+URL: https://database.turtle-wow.org/?item=41852
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Red Jenny
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #41910
+URL: https://database.turtle-wow.org/?item=41910
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Tor Nagaz
+Binds when picked up
+One-hand
+Mace
+63 - 117  Damage
+Speed 2.80
+(32.1 damage per second)
++8 Strength
++8 Stamina
++-5 Spirit
+Durability 90 / 90
+
+
+Item #50187
+URL: https://database.turtle-wow.org/?item=50187
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Cursed Shinbone
+Binds when picked up
+Main Hand
+Mace
+6 - 11  Damage
+Speed 2.00
+(4.3 damage per second)
+Durability 35 / 35
+Requires Level 5
+Chance on hit:
+Physical damage caused by the target is reduced by 5 for 120 sec.
+
+
+Item #51719
+URL: https://database.turtle-wow.org/?item=51719
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Garden Shovel
+Binds when picked up
+Unique
+Main Hand
+Mace
+22 - 42  Damage
+Speed 2.00
+(16.0 damage per second)
++4 Stamina
++3 Agility
+Durability 75 / 75
+
+
+Item #51810
+URL: https://database.turtle-wow.org/?item=51810
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gnoll Slammer
+Binds when picked up
+Main Hand
+Mace
+11 - 20  Damage
+Speed 2.20
+(7.0 damage per second)
++1 Strength
+Durability 45 / 45
+
+
+Item #55041
+URL: https://database.turtle-wow.org/?item=55041
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Wildhammer Stormcaller
+Binds when picked up
+Unique
+One-hand
+Mace
+80 - 155  Damage
+Speed 2.40
+(49.0 damage per second)
++11 Stamina
++7 Strength
+Durability 105 / 105
+Requires Level 60
+Requires Wildhammer Clan - Exalted
+Equip:
+Improves your chance to get a critical strike by 1%.
+Use:
+Launch the electrified hammer at an enemy, dealing 100 to 121 Nature damage and slowing it by 25% for 2 sec.
+"Crackling with lightning."
+
+
+Item #55128
+URL: https://database.turtle-wow.org/?item=55128
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Comet Signaller
+Binds when picked up
+Unique
+One-hand
+Mace
+62 - 137  Damage
+Speed 2.30
+(43.3 damage per second)
++15 Intellect
++15 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 140.
+Equip:
+Decreases the magical resistances of your spell targets by 10.
+
+
+Item #55276
+URL: https://database.turtle-wow.org/?item=55276
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Forgotten Raven's Mallet
+Binds when picked up
+One-hand
+Mace
+135 - 252  Damage
+Speed 2.70
+(71.7 damage per second)
+130 Armor
++15 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases your chance to dodge an attack by 1%.
+Equip:
++392 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #55347
+URL: https://database.turtle-wow.org/?item=55347
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Thunderfall, Stormhammer of the Chief Thane
+Binds when picked up
+Unique
+One-hand
+Mace
+167 - 286  Damage
+Speed 2.80
+(80.9 damage per second)
++-8 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 2%.
+Equip:
+Your attacks ignore 35 of the target's armor.
+
+
+Item #55555
+URL: https://database.turtle-wow.org/?item=55555
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Ivonor, Maiden's Mallet
+Binds when picked up
+Unique
+One-hand
+Mace
+68 - 124  Damage
+Speed 2.20
+(43.6 damage per second)
++10 Stamina
++9 Intellect
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 143.
+Equip:
+Restores 4 mana per 5 sec.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #58048
+URL: https://database.turtle-wow.org/?item=58048
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Shovel of Loneliness
+Binds when equipped
+One-hand
+Mace
+33 - 66  Damage
+Speed 2.60
+(19.0 damage per second)
++3 Stamina
+Durability 75 / 75
+Requires Level 31
+Equip:
+Increases damage done by Frost spells and effects by up to 7.
+
+
+Item #58080
+URL: https://database.turtle-wow.org/?item=58080
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Rufus' Trusty Tankard
+Binds when picked up
+One-hand
+Mace
+53 - 99  Damage
+Speed 2.40
+(31.7 damage per second)
++8 Stamina
+Durability 90 / 90
+Chance on hit:
+Slows the target's movement by 50% for 10 sec.
+
+
+Item #58127
+URL: https://database.turtle-wow.org/?item=58127
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hammer of Earthfury
+Binds when picked up
+Main Hand
+Mace
+30 - 53  Damage
+Speed 2.60
+(16.0 damage per second)
++2 Intellect
+Durability 70 / 70
+Equip:
+Increases damage done by Nature spells and effects by up to 6.
+
+
+Item #58155
+URL: https://database.turtle-wow.org/?item=58155
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Rotten Dwarven Shinbone
+Binds when equipped
+One-hand
+Mace
+37 - 65  Damage
+Speed 2.40
++3 - 4 Shadow Damage
+(22.8 damage per second)
++-3 Spirit
+Durability 75 / 75
+Requires Level 34
+
+
+Item #58182
+URL: https://database.turtle-wow.org/?item=58182
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Rusted Anchor
+Binds when picked up
+One-hand
+Mace
+46 - 85  Damage
+Speed 2.50
++2 - 5 Nature Damage
+(27.6 damage per second)
++6 Agility
++6 Spirit
+Durability 90 / 90
+Requires Level 33
+
+
+Item #58216
+URL: https://database.turtle-wow.org/?item=58216
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Hansel's Gavel
+Binds when picked up
+One-hand
+Mace
+79 - 112  Damage
+Speed 2.50
+(38.2 damage per second)
++16 Strength
+Durability 90 / 90
+Requires Level 53
+Requires Thorium Brotherhood - Honored
+
+
+Item #58214
+URL: https://database.turtle-wow.org/?item=58214
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Modrag'zan, Heart of the Mountain
+Binds when picked up
+Unique
+One-hand
+Mace
+94 - 175  Damage
+Speed 2.80
+(48.0 damage per second)
+Durability 105 / 105
+Requires Level 60
+Chance on hit:
+Grants 1 extra attack on your next swing and increase damage by 12 for 8 sec.
+Arms of Thaurissan
+(0/2)
+Ironfoe
+Modrag'zan, Heart of the Mountain
+(2) Set:
+Your extra attacks increase your attack speed by 10% for 6 sec.
+
+
+Item #58245
+URL: https://database.turtle-wow.org/?item=58245
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Dummy One-Handed Mace
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 50 / 50
+
+
+Item #58249
+URL: https://database.turtle-wow.org/?item=58249
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Defunct Hole Puncher
+Binds when equipped
+One-hand
+Mace
+12 - 22  Damage
+Speed 2.20
+(7.7 damage per second)
++2 Agility
+Durability 50 / 50
+Requires Level 10
+
+
+Item #58269
+URL: https://database.turtle-wow.org/?item=58269
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Right
+Binds when picked up
+Main Hand
+Mace
+49 - 76  Damage
+Speed 2.50
+(25.0 damage per second)
++6 Stamina
++6 Strength
+Durability 90 / 90
+
+
+Item #60152
+URL: https://database.turtle-wow.org/?item=60152
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gigno's Spanner
+Binds when picked up
+Main Hand
+Mace
+72 - 106  Damage
+Speed 2.30
+(38.7 damage per second)
++6 Intellect
+Durability 90 / 90
+Requires Engineering (200)
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #60317
+URL: https://database.turtle-wow.org/?item=60317
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Lightgraced Mallet
+Binds when picked up
+Main Hand
+Mace
+54 - 100  Damage
+Speed 2.80
+(27.5 damage per second)
++7 Intellect
++2 Spirit
+Durability 90 / 90
+Equip:
+Increases damage and healing done by magical spells and effects by up to 6.
+
+
+Item #60416
+URL: https://database.turtle-wow.org/?item=60416
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Skull of Grarr
+Binds when picked up
+Main Hand
+Mace
+59 - 114  Damage
+Speed 2.10
+(41.2 damage per second)
+80 Armor
++10 Strength
++8 Stamina
+Durability 90 / 90
+Requires Level 60
+"A hardhead in life and thick skull in death."
+
+
+Item #60486
+URL: https://database.turtle-wow.org/?item=60486
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Fishbringer
+Binds when picked up
+Main Hand
+Mace
+95 - 176  Damage
+Speed 3.00
++3 - 5 Holy Damage
+(46.5 damage per second)
++12 Stamina
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Smites an enemy for 30 Holy damage.
+"Glimmers with the pure energy of the light, is it alive?"
+
+
+Item #60491
+URL: https://database.turtle-wow.org/?item=60491
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Blunting Mace
+Main Hand
+Mace
+24 - 45  Damage
+Speed 2.10
+(16.4 damage per second)
+Durability 75 / 75
+Requires Level 41
+
+
+Item #60543
+URL: https://database.turtle-wow.org/?item=60543
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Wrench of Creation
+Binds when picked up
+Unique
+One-hand
+Mace
+68 - 101  Damage
+Speed 2.30
+(36.7 damage per second)
+Durability 90 / 90
+Requires Level 51
+Requires Engineering (250)
+Equip:
+Engineering skill increased by 15.
+Equip:
+Increased Maces +3.
+Equip:
+Increases damage done by Nature spells and effects by up to 7.
+
+
+Item #60544
+URL: https://database.turtle-wow.org/?item=60544
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Wrench of Creation
+Binds when picked up
+Main Hand
+Mace
+68 - 101  Damage
+Speed 2.30
+(36.7 damage per second)
+Durability 90 / 90
+Requires Level 51
+Requires Engineering (250)
+Equip:
+Engineering skill increased by 15.
+Equip:
+Increased Maces +3.
+Equip:
+Increases damage done by Nature spells and effects by up to 7.
+
+
+Item #60601
+URL: https://database.turtle-wow.org/?item=60601
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Murloc Clubber
+Binds when picked up
+One-hand
+Mace
+47 - 94  Damage
+Speed 2.60
+(27.1 damage per second)
++7 Agility
+Durability 75 / 75
+
+
+Item #60696
+URL: https://database.turtle-wow.org/?item=60696
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Rubyheart Mallet
+Binds when picked up
+One-hand
+Mace
+62 - 115  Damage
+Speed 2.30
+(38.5 damage per second)
++9 Intellect
+Equip:
+Increases damage and healing done by magical spells and effects by up to 12.
+
+
+Item #60757
+URL: https://database.turtle-wow.org/?item=60757
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Dawnshield Mace
+Binds when picked up
+One-hand
+Mace
+13 - 23  Damage
+Speed 2.40
+(7.5 damage per second)
++1 Intellect
+Durability 50 / 50
+
+
+Item #60773
+URL: https://database.turtle-wow.org/?item=60773
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Blackrock Authority
+Binds when picked up
+One-hand
+Mace
+61 - 127  Damage
+Speed 2.70
+(34.8 damage per second)
+Durability 75 / 75
+Equip:
++14 Attack Power.
+
+
+Item #60800
+URL: https://database.turtle-wow.org/?item=60800
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Femur Club
+Binds when picked up
+One-hand
+Mace
+71 - 133  Damage
+Speed 2.70
+(37.8 damage per second)
+Durability 75 / 75
+Requires Level 58
+Chance on hit:
+Knocks target silly for 2 sec.
+
+
+Item #60902
+URL: https://database.turtle-wow.org/?item=60902
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gelkis Earthbinder
+Binds when picked up
+Main Hand
+Mace
+66 - 124  Damage
+Speed 2.70
+(35.2 damage per second)
++3 Spirit
++6 Nature Resistance
+Durability 90 / 90
+Requires Level 48
+Requires Gelkis Clan Centaur - Revered
+Equip:
+Increases healing done by spells and effects by up to 24.
+"In harmony with the earth."
+
+
+Item #60952
+URL: https://database.turtle-wow.org/?item=60952
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Stonemaul Seer Club
+Binds when picked up
+Main Hand
+Mace
+56 - 104  Damage
+Speed 2.60
+(30.8 damage per second)
+Durability 90 / 90
+Equip:
+Improves your chance to hit with spells by 1%.
+
+
+Item #61237
+URL: https://database.turtle-wow.org/?item=61237
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Mallet of the Awakening
+Binds when picked up
+Main Hand
+Mace
+76 - 140  Damage
+Speed 1.80
+(60.0 damage per second)
++11 Stamina
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases your chance to block attacks with a shield by 2%.
+Equip:
+Increases the block value of your shield by 21.
+"Covered in moss, biding its time."
+
+
+Item #61295
+URL: https://database.turtle-wow.org/?item=61295
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Dawnstone Bludgeon
+Binds when picked up
+Unique
+One-hand
+Mace
+75 - 140  Damage
+Speed 2.40
+(44.8 damage per second)
++11 Stamina
+Durability 90 / 90
+Requires Level 60
+Equip:
+Increases the block value of your shield by 15.
+
+
+Item #61308
+URL: https://database.turtle-wow.org/?item=61308
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gavel of Gilnean Justice
+Binds when picked up
+Main Hand
+Mace
+62 - 122  Damage
+Speed 2.80
+(32.9 damage per second)
++4 Strength
++2 Intellect
+Durability 90 / 90
+Requires Level 43
+Equip:
+Increased Maces +2.
+Equip:
+Increases damage done by Holy spells and effects by up to 11.
+"An artifact that holds the final say in Gilnean law."
+
+
+Item #61349
+URL: https://database.turtle-wow.org/?item=61349
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Dwarven Battle Bludgeon
+Binds when picked up
+Main Hand
+Mace
+56 - 91  Damage
+Speed 2.60
+(28.3 damage per second)
+Durability 75 / 75
+Chance on hit:
+Knocks target silly for 2 sec.
+
+
+Item #61572
+URL: https://database.turtle-wow.org/?item=61572
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Gartside Family Wrench
+Binds when equipped
+Main Hand
+Mace
+51 - 101  Damage
+Speed 2.50
+(30.4 damage per second)
++6 Strength
+Durability 90 / 90
+Requires Level 40
+Equip:
++16 Attack Power.
+"Lodged in the side of the prototype, this wrench has seen better days."
+
+
+Item #61651
+URL: https://database.turtle-wow.org/?item=61651
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Jadestone Mallet
+Binds when picked up
+Unique
+Main Hand
+Mace
+60 - 131  Damage
+Speed 2.30
+(41.5 damage per second)
++10 Intellect
++10 Stamina
++13 Spirit
+Durability 105 / 105
+Requires Level 60
+Equip:
+Increases healing done by spells and effects by up to 106.
+
+
+Item #61730
+URL: https://database.turtle-wow.org/?item=61730
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Copper Infused Bludgeon
+Binds when picked up
+Main Hand
+Mace
+48 - 72  Damage
+Speed 2.30
+(26.1 damage per second)
++6 Agility
++2 Intellect
+Durability 75 / 75
+
+
+Item #70047
+URL: https://database.turtle-wow.org/?item=70047
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Smoldering Brand
+Binds when picked up
+One-hand
+Mace
+22 - 38  Damage
+Speed 1.80
++2 - 6 Fire Damage
+(18.9 damage per second)
+Durability 75 / 75
+Requires Survival (75)
+Equip:
+Increase the Spirit of nearby party members by 4.
+
+
+Item #70045
+URL: https://database.turtle-wow.org/?item=70045
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Rusty Shovel
+Binds when picked up
+Unique
+Main Hand
+Mace
+30 - 57  Damage
+Speed 2.80
+(15.5 damage per second)
++5 Strength
+Durability 75 / 75
+"Engraved on the handle are two letters, S.Y."
+
+
+Item #80500
+URL: https://database.turtle-wow.org/?item=80500
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Tempered Argus Mace
+Binds when picked up
+One-hand
+Mace
+13 - 25  Damage
+Speed 2.30
+(8.3 damage per second)
++2 Stamina
+Durability 50 / 50
+Classes: Warrior, Paladin, Druid
+Requires Level 10
+Requires Silvermoon Remnant - Friendly
+
+
+Item #80530
+URL: https://database.turtle-wow.org/?item=80530
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Quel'dorei Guardian's Mace
+Binds when picked up
+One-hand
+Mace
+77 - 145  Damage
+Speed 2.60
+(42.7 damage per second)
++8 Strength
++8 Agility
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+
+
+Item #80532
+URL: https://database.turtle-wow.org/?item=80532
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Quel'dorei Cleric's Hammer
+Binds when picked up
+Main Hand
+Mace
+55 - 102  Damage
+Speed 1.90
+(41.3 damage per second)
++4 Intellect
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Increases healing done by spells and effects by up to 31.
+
+
+Item #80632
+URL: https://database.turtle-wow.org/?item=80632
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Revantusk Mender's Scepter
+Binds when picked up
+Main Hand
+Mace
+55 - 102  Damage
+Speed 1.90
+(41.3 damage per second)
++4 Intellect
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Increases healing done by spells and effects by up to 31.
+
+
+Item #80630
+URL: https://database.turtle-wow.org/?item=80630
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Revantusk Watcher's Mace
+Binds when picked up
+One-hand
+Mace
+77 - 145  Damage
+Speed 2.60
+(42.7 damage per second)
++8 Strength
++8 Agility
++5 Stamina
+Durability 90 / 90
+Requires Level 60
+Requires Revantusk Trolls - Revered
+
+
+Item #80700
+URL: https://database.turtle-wow.org/?item=80700
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Tribal Trogg Club
+Binds when picked up
+Main Hand
+Mace
+14 - 27  Damage
+Speed 2.30
+(8.9 damage per second)
++2 Agility
++2 Stamina
+Durability 50 / 50
+Requires Level 13
+"It's just a big bone."
+
+
+Item #80723
+URL: https://database.turtle-wow.org/?item=80723
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Nail on a Plank
+Binds when picked up
+Main Hand
+Mace
+28 - 51  Damage
+Speed 2.60
+(15.2 damage per second)
+Durability 70 / 70
+Requires Level 23
+Chance on hit:
+Punctures target's armor lowering it by 100.
+
+
+Item #80767
+URL: https://database.turtle-wow.org/?item=80767
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Skull of Grarr
+Binds when picked up
+Main Hand
+Mace
+59 - 114  Damage
+Speed 2.10
+(41.2 damage per second)
+100 Armor
++11 Strength
++6 Stamina
+Durability 90 / 90
+Requires Level 58
+
+
+Item #80798
+URL: https://database.turtle-wow.org/?item=80798
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Charged Servo Arm
+Binds when equipped
+Main Hand
+Mace
+31 - 53  Damage
+Speed 2.40
+(17.5 damage per second)
+Durability 80 / 80
+Requires Level 25
+Chance on hit:
+Blasts a target for 35 to 66 Nature damage.
+
+
+Item #81383
+URL: https://database.turtle-wow.org/?item=81383
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+The Ogre Truncheon
+Binds when picked up
+Main Hand
+Mace
+71 - 108  Damage
+Speed 2.60
+(34.4 damage per second)
+15 Armor
++12 Strength
+Durability 90 / 90
+Requires Level 47
+"Authority comes from a good thwacking"
+
+
+Item #83279
+URL: https://database.turtle-wow.org/?item=83279
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Everflame Torch
+Binds when picked up
+One-hand
+Mace
+47 - 68  Damage
+Speed 1.80
++5 - 10 Fire Damage
+(36.1 damage per second)
++8 Spirit
++5 Fire Resistance
+Durability 90 / 90
+Requires Level 49
+Chance on hit:
+Burns an enemy, then inflicts additional Fire damage every 3 sec. for 21 sec.
+
+
+Item #84600
+URL: https://database.turtle-wow.org/?item=84600
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Blackthorn's Blackjack
+Binds when picked up
+Unique
+One-hand
+Mace
+92 - 171  Damage
+Speed 2.80
+(47.0 damage per second)
++12 Strength
+Durability 105 / 105
+Requires Level 60
+Requires  - Exalted
+Equip:
+Improves your chance to hit by 1%.
+Chance on hit:
+Stuns target for 1 sec.
+"The time of origin remains a mystery."
+
+
+Item #1903
+URL: https://database.turtle-wow.org/?item=1903
+Category: Database/Items/Weapons/One-Handed Maces
+Item: 
+Monster - Mace, Basic Metal Hammer
+One-hand
+Mace
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+

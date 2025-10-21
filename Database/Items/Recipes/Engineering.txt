@@ -1,0 +1,991 @@
+Item #4408
+URL: https://database.turtle-wow.org/?item=4408
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Mechanical Squirrel
+Requires Engineering (75)
+Use:
+Teaches you how to make a Mechanical Squirrel.
+
+
+Item #4416
+URL: https://database.turtle-wow.org/?item=4416
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Goblin Land Mine
+Requires Engineering (195)
+Use:
+Teaches you how to make a Goblin Land Mine.
+
+
+Item #4411
+URL: https://database.turtle-wow.org/?item=4411
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Flame Deflector
+Requires Engineering (125)
+Use:
+Teaches you how to make a Flame Deflector.
+
+
+Item #4413
+URL: https://database.turtle-wow.org/?item=4413
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Discombobulator Ray
+Requires Engineering (160)
+Use:
+Teaches you how to make a Discombobulator Ray.
+
+
+Item #4414
+URL: https://database.turtle-wow.org/?item=4414
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Portable Bronze Mortar
+Requires Engineering (165)
+Use:
+Teaches you how to make a Portable Bronze Mortar.
+
+
+Item #4412
+URL: https://database.turtle-wow.org/?item=4412
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Moonsight Rifle
+Requires Engineering (145)
+Use:
+Teaches you how to make a Moonsight Rifle.
+
+
+Item #4410
+URL: https://database.turtle-wow.org/?item=4410
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Shadow Goggles
+Requires Engineering (120)
+Use:
+Teaches you how to make Shadow Goggles.
+
+
+Item #4415
+URL: https://database.turtle-wow.org/?item=4415
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Craftsman's Monocle
+Requires Engineering (185)
+Use:
+Teaches you how to make a Craftman's Monocle.
+
+
+Item #4409
+URL: https://database.turtle-wow.org/?item=4409
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Small Seaforium Charge
+Requires Engineering (100)
+Use:
+Teaches you how to make a Small Seaforium Charge.
+
+
+Item #4417
+URL: https://database.turtle-wow.org/?item=4417
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Large Seaforium Charge
+Requires Engineering (200)
+Use:
+Teaches you how to make a Large Seaforium Charge.
+
+
+Item #6672
+URL: https://database.turtle-wow.org/?item=6672
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Flash Bomb
+Requires Engineering (185)
+Use:
+Teaches you how to make a Flash Bomb.
+
+
+Item #6716
+URL: https://database.turtle-wow.org/?item=6716
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: EZ-Thro Dynamite
+Requires Engineering (100)
+Use:
+Teaches you how to make EZ-Thro Dynamite.
+
+
+Item #7192
+URL: https://database.turtle-wow.org/?item=7192
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Goblin Rocket Boots
+Requires Engineering (130)
+Use:
+Teaches you how to make Goblin Rocket Boots.
+
+
+Item #7561
+URL: https://database.turtle-wow.org/?item=7561
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Goblin Jumper Cables
+Requires Engineering (165)
+Use:
+Teaches you how to make Goblin Jumper Cables.
+
+
+Item #7560
+URL: https://database.turtle-wow.org/?item=7560
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Gnomish Universal Remote
+Requires Engineering (125)
+Use:
+Teaches you how to make a Gnomish Universal Remote.
+
+
+Item #7742
+URL: https://database.turtle-wow.org/?item=7742
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Gnomish Cloaking Device
+Requires Engineering (200)
+Use:
+Teaches you how to make a Gnomish Cloaking Device.
+
+
+Item #10602
+URL: https://database.turtle-wow.org/?item=10602
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Deadly Scope
+Requires Engineering (210)
+Use:
+Teaches you how to make a Deadly Scope.
+
+
+Item #10608
+URL: https://database.turtle-wow.org/?item=10608
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Sniper Scope
+Requires Engineering (240)
+Use:
+Teaches you how to make a Sniper Scope.
+
+
+Item #10604
+URL: https://database.turtle-wow.org/?item=10604
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Mithril Heavy-bore Rifle
+Requires Engineering (220)
+Use:
+Teaches you how to make a Mithril Heavy-bore Rifle.
+
+
+Item #10609
+URL: https://database.turtle-wow.org/?item=10609
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Mithril Mechanical Dragonling
+Requires Engineering (250)
+Use:
+Teaches you how to make a Mithril Mechanical Dragonling.
+
+
+Item #10601
+URL: https://database.turtle-wow.org/?item=10601
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Bright-Eye Goggles
+Requires Engineering (175)
+Use:
+Teaches you how to make Bright-Eye Goggles.
+
+
+Item #10606
+URL: https://database.turtle-wow.org/?item=10606
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Parachute Cloak
+Requires Engineering (225)
+Use:
+Teaches you how to make a Parachute Cloak.
+
+
+Item #10607
+URL: https://database.turtle-wow.org/?item=10607
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Deepdive Helmet
+Requires Engineering (230)
+Use:
+Teaches you how to make a Deepdive Helmet.
+
+
+Item #10605
+URL: https://database.turtle-wow.org/?item=10605
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Spellpower Goggles Xtreme
+Requires Engineering (225)
+Use:
+Teaches you how to make Spellpower Goggles Xtreme.
+
+
+Item #10603
+URL: https://database.turtle-wow.org/?item=10603
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Catseye Ultra Goggles
+Requires Engineering (220)
+Use:
+Teaches you how to make Catseye Ultra Goggles.
+
+
+Item #11828
+URL: https://database.turtle-wow.org/?item=11828
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Pet Bombling
+Binds when picked up
+Requires Engineering (205)
+Use:
+Teaches you how to make a Pet Bombling.
+
+
+Item #11827
+URL: https://database.turtle-wow.org/?item=11827
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Lil' Smoky
+Binds when picked up
+Requires Engineering (205)
+Use:
+Teaches you how to make your own Lil' Smoky robot.
+
+
+Item #13309
+URL: https://database.turtle-wow.org/?item=13309
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Lovingly Crafted Boomstick
+Requires Engineering (120)
+Use:
+Teaches you how to make a Lovingly Crafted Boomstick.
+
+
+Item #13308
+URL: https://database.turtle-wow.org/?item=13308
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Ice Deflector
+Requires Engineering (155)
+Use:
+Teaches you how to make an Ice Deflector.
+
+
+Item #13310
+URL: https://database.turtle-wow.org/?item=13310
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Accurate Scope
+Requires Engineering (180)
+Use:
+Teaches you how to make an Accurate Scope.
+
+
+Item #13311
+URL: https://database.turtle-wow.org/?item=13311
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Mechanical Dragonling
+Requires Engineering (200)
+Use:
+Teaches you how to make a Mechanical Dragonling.
+
+
+Item #14639
+URL: https://database.turtle-wow.org/?item=14639
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Minor Recombobulator
+Requires Engineering (140)
+Use:
+Teaches you how to make a Minor Recombobulator.
+
+
+Item #16050
+URL: https://database.turtle-wow.org/?item=16050
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Delicate Arcanite Converter
+Requires Engineering (285)
+Use:
+Teaches you how to make a Delicate Arcanite Converter.
+
+
+Item #16048
+URL: https://database.turtle-wow.org/?item=16048
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Dark Iron Rifle
+Requires Engineering (275)
+Use:
+Teaches you how to make a Dark Iron Rifle.
+
+
+Item #16044
+URL: https://database.turtle-wow.org/?item=16044
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Lifelike Mechanical Toad
+Requires Engineering (265)
+Use:
+Teaches you how to make a Lifelike Mechanical Toad.
+
+
+Item #16045
+URL: https://database.turtle-wow.org/?item=16045
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Spellpower Goggles Xtreme Plus
+Requires Engineering (270)
+Use:
+Teaches you how to make a Spellpower Goggles Xtreme Plus.
+
+
+Item #16043
+URL: https://database.turtle-wow.org/?item=16043
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Thorium Rifle
+Requires Engineering (260)
+Use:
+Teaches you how to make a Thorium Rifle.
+
+
+Item #16042
+URL: https://database.turtle-wow.org/?item=16042
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Thorium Widget
+Requires Engineering (260)
+Use:
+Teaches you how to make a Thorium Widget.
+
+
+Item #16047
+URL: https://database.turtle-wow.org/?item=16047
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Thorium Tube
+Requires Engineering (275)
+Use:
+Teaches you how to make a Thorium Tube.
+
+
+Item #16046
+URL: https://database.turtle-wow.org/?item=16046
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Masterwork Target Dummy
+Requires Engineering (275)
+Use:
+Teaches you how to make a Masterwork Target Dummy.
+
+
+Item #16049
+URL: https://database.turtle-wow.org/?item=16049
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Dark Iron Bomb
+Requires Engineering (285)
+Use:
+Teaches you how to make a Dark Iron Bomb.
+
+
+Item #16041
+URL: https://database.turtle-wow.org/?item=16041
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Thorium Grenade
+Requires Engineering (260)
+Use:
+Teaches you how to make a Thorium Grenade.
+
+
+Item #16056
+URL: https://database.turtle-wow.org/?item=16056
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Flawless Arcanite Rifle
+Requires Engineering (300)
+Use:
+Teaches you how to make a Flawless Arcanite Rifle.
+
+
+Item #16054
+URL: https://database.turtle-wow.org/?item=16054
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Arcanite Dragonling
+Requires Engineering (300)
+Use:
+Teaches you how to make an Arcanite Dragonling.
+
+
+Item #16055
+URL: https://database.turtle-wow.org/?item=16055
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Arcane Bomb
+Requires Engineering (300)
+Use:
+Teaches you how to make an Arcane Bomb.
+
+
+Item #16052
+URL: https://database.turtle-wow.org/?item=16052
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Voice Amplification Modulator
+Requires Engineering (290)
+Use:
+Teaches you how to make a Voice Amplification Modulator.
+
+
+Item #16053
+URL: https://database.turtle-wow.org/?item=16053
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Master Engineer's Goggles
+Requires Engineering (290)
+Use:
+Teaches you how to make Master Engineer's Goggles.
+
+
+Item #16051
+URL: https://database.turtle-wow.org/?item=16051
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Thorium Shells
+Requires Engineering (285)
+Use:
+Teaches you how to make Thorium Shells.
+
+
+Item #17720
+URL: https://database.turtle-wow.org/?item=17720
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Snowmaster 9000
+Requires Engineering (190)
+Use:
+Teaches you how to make a SnowMaster 9000.
+
+
+Item #18235
+URL: https://database.turtle-wow.org/?item=18235
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Field Repair Bot 74A
+Requires Engineering (300)
+Use:
+Teaches you how to make a Field Repair Bot 74A that will repair any player's equipment for the normal cost.
+
+
+Item #18290
+URL: https://database.turtle-wow.org/?item=18290
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Biznicks 247x128 Accurascope
+Binds when picked up
+Requires Engineering (300)
+Use:
+Teaches you how to make a Biznicks 247x128 Accurascope.
+
+
+Item #18291
+URL: https://database.turtle-wow.org/?item=18291
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Force Reactive Disk
+Binds when picked up
+Requires Engineering (300)
+Use:
+Teaches you how to make a Force Reactive Disk.
+
+
+Item #18292
+URL: https://database.turtle-wow.org/?item=18292
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Core Marksman Rifle
+Binds when picked up
+Requires Engineering (300)
+Use:
+Teaches you how to make a Core Marksman Rifle.
+
+
+Item #18650
+URL: https://database.turtle-wow.org/?item=18650
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: EZ-Thro Dynamite II
+Requires Engineering (200)
+Use:
+Teaches you how to make EZ-Thro Dynamite II.
+
+
+Item #18649
+URL: https://database.turtle-wow.org/?item=18649
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Blue Firework
+Requires Engineering (150)
+Use:
+Teaches you how to make a Blue Firework.
+
+
+Item #18648
+URL: https://database.turtle-wow.org/?item=18648
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Green Firework
+Requires Engineering (150)
+Use:
+Teaches you how to make a Green Firework.
+
+
+Item #18647
+URL: https://database.turtle-wow.org/?item=18647
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Red Firework
+Requires Engineering (150)
+Use:
+Teaches you how to make a Red Firework.
+
+
+Item #18656
+URL: https://database.turtle-wow.org/?item=18656
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Powerful Seaforium Charge
+Requires Engineering (275)
+Use:
+Teaches you how to make a Powerful Seaforium Charge.
+
+
+Item #18655
+URL: https://database.turtle-wow.org/?item=18655
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Major Recombobulator
+Requires Engineering (275)
+Use:
+Teaches you how to make a Major Recombobulator.
+
+
+Item #18652
+URL: https://database.turtle-wow.org/?item=18652
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Gyrofreeze Ice Reflector
+Requires Engineering (260)
+Use:
+Teaches you how to make a Gyrofreeze Ice Reflector.
+
+
+Item #18654
+URL: https://database.turtle-wow.org/?item=18654
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Gnomish Alarm-O-Bot
+Requires Engineering (265)
+Requires Gnomish Engineer
+Use:
+Teaches you how to make an Alarm-O-Bot.
+
+
+Item #18651
+URL: https://database.turtle-wow.org/?item=18651
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Truesilver Transformer
+Requires Engineering (260)
+Use:
+Teaches you how to make a Truesilver Transformer.
+
+
+Item #18653
+URL: https://database.turtle-wow.org/?item=18653
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Goblin Jumper Cables XL
+Requires Engineering (265)
+Requires Goblin Engineer
+Use:
+Teaches you how to make a Goblin Jumper Cable XL.
+
+
+Item #18657
+URL: https://database.turtle-wow.org/?item=18657
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Hyper-Radiant Flame Reflector
+Requires Engineering (290)
+Use:
+Teaches you how to make a Hyper-Radiant Flame Reflector.
+
+
+Item #18658
+URL: https://database.turtle-wow.org/?item=18658
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Ultra-Flash Shadow Reflector
+Requires Engineering (300)
+Use:
+Teaches you how to make a Ultra-Flash Shadow Reflector.
+
+
+Item #18661
+URL: https://database.turtle-wow.org/?item=18661
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: World Enlarger
+Requires Engineering (260)
+Requires Gnomish Engineer
+Use:
+Teaches you how to make a World Enlarger.
+
+
+Item #19027
+URL: https://database.turtle-wow.org/?item=19027
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Snake Burst Firework
+Binds when picked up
+Requires Engineering (250)
+Use:
+Teaches you how to make a Snake Burst Firework.
+
+
+Item #20000
+URL: https://database.turtle-wow.org/?item=20000
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Bloodvine Goggles
+Binds when picked up
+Requires Engineering (300)
+Requires Zandalar Tribe - Honored
+Use:
+Teaches you how to make Bloodvine Goggles.
+
+
+Item #20001
+URL: https://database.turtle-wow.org/?item=20001
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Bloodvine Lens
+Binds when picked up
+Requires Engineering (300)
+Requires Zandalar Tribe - Friendly
+Use:
+Teaches you how to make a Bloodvine Lens.
+
+
+Item #21725
+URL: https://database.turtle-wow.org/?item=21725
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Small Green Rocket
+Binds when picked up
+Requires Engineering (125)
+Use:
+Teaches you how to make a Small Green Rocket.
+
+
+Item #21729
+URL: https://database.turtle-wow.org/?item=21729
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Large Red Rocket
+Binds when picked up
+Requires Engineering (175)
+Use:
+Teaches you how to make a Large Red Rocket.
+
+
+Item #21728
+URL: https://database.turtle-wow.org/?item=21728
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Large Green Rocket
+Binds when picked up
+Requires Engineering (175)
+Use:
+Teaches you how to make a Large Green Rocket.
+
+
+Item #21726
+URL: https://database.turtle-wow.org/?item=21726
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Small Red Rocket
+Binds when picked up
+Requires Engineering (125)
+Use:
+Teaches you how to make a Small Red Rocket.
+
+
+Item #21727
+URL: https://database.turtle-wow.org/?item=21727
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Large Blue Rocket
+Binds when picked up
+Requires Engineering (175)
+Use:
+Teaches you how to make a Large Blue Rocket.
+
+
+Item #21730
+URL: https://database.turtle-wow.org/?item=21730
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Blue Rocket Cluster
+Binds when picked up
+Requires Engineering (225)
+Use:
+Teaches you how to make a Blue Rocket Cluster.
+
+
+Item #21724
+URL: https://database.turtle-wow.org/?item=21724
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Small Blue Rocket
+Binds when picked up
+Requires Engineering (125)
+Use:
+Teaches you how to make a Small Blue Rocket.
+
+
+Item #21735
+URL: https://database.turtle-wow.org/?item=21735
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Large Red Rocket Cluster
+Binds when picked up
+Requires Engineering (275)
+Use:
+Teaches you how to make a Large Red Rocket Cluster.
+
+
+Item #21732
+URL: https://database.turtle-wow.org/?item=21732
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Red Rocket Cluster
+Binds when picked up
+Requires Engineering (225)
+Use:
+Teaches you how to make a Red Rocket Cluster.
+
+
+Item #21731
+URL: https://database.turtle-wow.org/?item=21731
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Green Rocket Cluster
+Binds when picked up
+Requires Engineering (225)
+Use:
+Teaches you how to make a Green Rocket Cluster.
+
+
+Item #21737
+URL: https://database.turtle-wow.org/?item=21737
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Cluster Launcher
+Requires Engineering (275)
+Use:
+Teaches you how to make a Firework Cluster Launcher.
+
+
+Item #21738
+URL: https://database.turtle-wow.org/?item=21738
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Firework Launcher
+Requires Engineering (225)
+Use:
+Teaches you how to make a Firework Launcher.
+
+
+Item #21733
+URL: https://database.turtle-wow.org/?item=21733
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Large Blue Rocket Cluster
+Binds when picked up
+Requires Engineering (275)
+Use:
+Teaches you how to make a Large Blue Rocket Cluster.
+
+
+Item #21734
+URL: https://database.turtle-wow.org/?item=21734
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Large Green Rocket Cluster
+Binds when picked up
+Requires Engineering (275)
+Use:
+Teaches you how to make a Large Green Rocket Cluster.
+
+
+Item #22729
+URL: https://database.turtle-wow.org/?item=22729
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Steam Tonk Controller
+Binds when picked up
+Requires Engineering (275)
+Use:
+Teaches you how to make a Steam Tonk Controller.
+
+
+Item #40082
+URL: https://database.turtle-wow.org/?item=40082
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Jewelry Lens
+Requires Engineering (125)
+Use:
+Teaches you how to craft a Jewelry Lens.
+
+
+Item #40083
+URL: https://database.turtle-wow.org/?item=40083
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Jewelry Scope
+Requires Engineering (225)
+Use:
+Teaches you how to craft a Jewelry Scope.
+
+
+Item #40084
+URL: https://database.turtle-wow.org/?item=40084
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Precision Jewelers Kit
+Requires Engineering (175)
+Use:
+Teaches you how to craft a Precision Jewelry Kit.
+
+
+Item #51269
+URL: https://database.turtle-wow.org/?item=51269
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Unstable Mining Dynamite
+Requires Engineering (75)
+Use:
+Teaches you how to make Unstable Mining Dynamite.
+
+
+Item #51801
+URL: https://database.turtle-wow.org/?item=51801
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Hypertech Battery Pack
+Binds when picked up
+Requires Engineering (250)
+Use:
+Teaches you how to make a Hypertech Battery Pack.
+
+
+Item #51809
+URL: https://database.turtle-wow.org/?item=51809
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Hypertech Essentials
+Binds when picked up
+Requires Engineering (250)
+Use:
+Teaches you how to make a Battery-Powered Crowd Pummeler and a Hypertech Battery Pack.
+
+
+Item #58400
+URL: https://database.turtle-wow.org/?item=58400
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Voltage-Neutralizing Nature Reflector
+Requires Engineering (290)
+Use:
+Teaches you how to make a Voltage-Neutralizing Nature Reflector.
+
+
+Item #58401
+URL: https://database.turtle-wow.org/?item=58401
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Giga-Charged Arcane Reflector
+Binds when picked up
+Requires Engineering (290)
+Use:
+Teaches you how to make a Giga-Charged Arcane Reflector.
+
+
+Item #61191
+URL: https://database.turtle-wow.org/?item=61191
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Intricate Gyroscope Goggles
+Requires Engineering (300)
+Use:
+Teaches you how to make Intricate Gyroscope Goggles.
+
+
+Item #81196
+URL: https://database.turtle-wow.org/?item=81196
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Goblin Radio
+Binds when picked up
+Requires Engineering (225)
+Requires  - Revered
+Use:
+Teaches you how to make a Goblin Radio.
+
+
+Item #83510
+URL: https://database.turtle-wow.org/?item=83510
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Portable Wormhole Generator: Stormwind
+Requires Engineering (125)
+Use:
+Teaches you how to make a Portable Wormhole Generator - Stormwind.
+
+
+Item #83511
+URL: https://database.turtle-wow.org/?item=83511
+Category: Database/Items/Recipes/Engineering
+Item: 
+Schematic: Portable Wormhole Generator: Orgrimmar
+Requires Engineering (125)
+Use:
+Teaches you how to make Schematic: Portable Wormhole Generator - Orgrimmar.
+
+

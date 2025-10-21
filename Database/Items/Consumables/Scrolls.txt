@@ -1,0 +1,360 @@
+Item #954
+URL: https://database.turtle-wow.org/?item=954
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Strength
+Requires Level 10
+Use:
+Increases the target's Strength by 5 for 1800 sec.
+
+
+Item #955
+URL: https://database.turtle-wow.org/?item=955
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Intellect
+Requires Level 5
+Use:
+Increases the target's Intellect by 4 for 1800 sec.
+
+
+Item #1180
+URL: https://database.turtle-wow.org/?item=1180
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Stamina
+Requires Level 5
+Use:
+Increases the target's Stamina by 4 for 1800 sec.
+
+
+Item #1181
+URL: https://database.turtle-wow.org/?item=1181
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Spirit
+Use:
+Increases the target's Spirit by 3 for 1800 sec.
+
+
+Item #1477
+URL: https://database.turtle-wow.org/?item=1477
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Agility II
+Requires Level 25
+Use:
+Increases the target's Agility by 9 for 1800 sec.
+
+
+Item #1478
+URL: https://database.turtle-wow.org/?item=1478
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Protection II
+Requires Level 15
+Use:
+Increases the target's Armor by 120 for 1800 sec.
+
+
+Item #1712
+URL: https://database.turtle-wow.org/?item=1712
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Spirit II
+Requires Level 15
+Use:
+Increases the target's Spirit by 7 for 1800 sec.
+
+
+Item #1711
+URL: https://database.turtle-wow.org/?item=1711
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Stamina II
+Requires Level 20
+Use:
+Increases the target's Stamina by 8 for 1800 sec.
+
+
+Item #2290
+URL: https://database.turtle-wow.org/?item=2290
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Intellect II
+Requires Level 20
+Use:
+Increases the target's Intellect by 8 for 1800 sec.
+
+
+Item #2289
+URL: https://database.turtle-wow.org/?item=2289
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Strength II
+Requires Level 25
+Use:
+Increases the target's Strength by 9 for 1800 sec.
+
+
+Item #3013
+URL: https://database.turtle-wow.org/?item=3013
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Protection
+Use:
+Increases the target's Armor by 60 for 1800 sec.
+
+
+Item #3012
+URL: https://database.turtle-wow.org/?item=3012
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Agility
+Requires Level 10
+Use:
+Increases the target's Agility by 5 for 1800 sec.
+
+
+Item #4419
+URL: https://database.turtle-wow.org/?item=4419
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Intellect III
+Requires Level 35
+Use:
+Increases the target's Intellect by 12 for 1800 sec.
+
+
+Item #4424
+URL: https://database.turtle-wow.org/?item=4424
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Spirit III
+Requires Level 30
+Use:
+Increases the target's Spirit by 11 for 1800 sec.
+
+
+Item #4422
+URL: https://database.turtle-wow.org/?item=4422
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Stamina III
+Requires Level 35
+Use:
+Increases the target's Stamina by 12 for 1800 sec.
+
+
+Item #4426
+URL: https://database.turtle-wow.org/?item=4426
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Strength III
+Requires Level 40
+Use:
+Increases the target's Strength by 13 for 1800 sec.
+
+
+Item #4421
+URL: https://database.turtle-wow.org/?item=4421
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Protection III
+Requires Level 30
+Use:
+Increases the target's Armor by 180 for 1800 sec.
+
+
+Item #4425
+URL: https://database.turtle-wow.org/?item=4425
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Agility III
+Requires Level 40
+Use:
+Increases the target's Agility by 13 for 1800 sec.
+
+
+Item #9546
+URL: https://database.turtle-wow.org/?item=9546
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Simple Scroll
+Quest Item
+Unique
+<Right Click To Read>
+
+
+Item #9569
+URL: https://database.turtle-wow.org/?item=9569
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Hallowed Scroll
+Quest Item
+Unique
+<Right Click To Read>
+
+
+Item #10307
+URL: https://database.turtle-wow.org/?item=10307
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Stamina IV
+Requires Level 50
+Use:
+Increases the target's Stamina by 16 for 1800 sec.
+
+
+Item #10305
+URL: https://database.turtle-wow.org/?item=10305
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Protection IV
+Requires Level 45
+Use:
+Increases the target's Armor by 240 for 1800 sec.
+
+
+Item #10309
+URL: https://database.turtle-wow.org/?item=10309
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Agility IV
+Requires Level 55
+Use:
+Increases the target's Agility by 17 for 1800 sec.
+
+
+Item #10306
+URL: https://database.turtle-wow.org/?item=10306
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Spirit IV
+Requires Level 45
+Use:
+Increases the target's Spirit by 15 for 1800 sec.
+
+
+Item #10308
+URL: https://database.turtle-wow.org/?item=10308
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Intellect IV
+Requires Level 50
+Use:
+Increases the target's Intellect by 16 for 1800 sec.
+
+
+Item #10310
+URL: https://database.turtle-wow.org/?item=10310
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Strength IV
+Requires Level 55
+Use:
+Increases the target's Strength by 17 for 1800 sec.
+
+
+Item #9546
+URL: https://database.turtle-wow.org/?item=9546
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Simple Scroll
+Quest Item
+Unique
+<Right Click To Read>
+
+
+Item #9569
+URL: https://database.turtle-wow.org/?item=9569
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Hallowed Scroll
+Quest Item
+Unique
+<Right Click To Read>
+
+
+Item #10308
+URL: https://database.turtle-wow.org/?item=10308
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Intellect IV
+Requires Level 50
+Use:
+Increases the target's Intellect by 16 for 1800 sec.
+
+
+Item #10307
+URL: https://database.turtle-wow.org/?item=10307
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Stamina IV
+Requires Level 50
+Use:
+Increases the target's Stamina by 16 for 1800 sec.
+
+
+Item #10306
+URL: https://database.turtle-wow.org/?item=10306
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Spirit IV
+Requires Level 45
+Use:
+Increases the target's Spirit by 15 for 1800 sec.
+
+
+Item #10310
+URL: https://database.turtle-wow.org/?item=10310
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Strength IV
+Requires Level 55
+Use:
+Increases the target's Strength by 17 for 1800 sec.
+
+
+Item #10309
+URL: https://database.turtle-wow.org/?item=10309
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Agility IV
+Requires Level 55
+Use:
+Increases the target's Agility by 17 for 1800 sec.
+
+
+Item #10305
+URL: https://database.turtle-wow.org/?item=10305
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Protection IV
+Requires Level 45
+Use:
+Increases the target's Armor by 240 for 1800 sec.
+
+
+Item #10621
+URL: https://database.turtle-wow.org/?item=10621
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Runed Scroll
+Binds when picked up
+Unique
+This Item Begins a Quest
+Requires Level 15
+
+
+Item #46601
+URL: https://database.turtle-wow.org/?item=46601
+Category: Database/Items/Consumables/Scrolls
+Item: 
+Scroll of Return
+Binds when picked up
+Unique
+Use:
+Teleports you back to Thunder Bluff.
+
+

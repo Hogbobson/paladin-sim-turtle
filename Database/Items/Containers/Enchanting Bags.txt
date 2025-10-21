@@ -1,0 +1,27 @@
+Item #22248
+URL: https://database.turtle-wow.org/?item=22248
+Category: Database/Items/Containers/Enchanting Bags
+Item: 
+Enchanted Runecloth Bag
+Binds when equipped
+20 Slot Bag
+
+
+Item #22249
+URL: https://database.turtle-wow.org/?item=22249
+Category: Database/Items/Containers/Enchanting Bags
+Item: 
+Big Bag of Enchantment
+Binds when equipped
+24 Slot Bag
+
+
+Item #22246
+URL: https://database.turtle-wow.org/?item=22246
+Category: Database/Items/Containers/Enchanting Bags
+Item: 
+Enchanted Mageweave Pouch
+Binds when equipped
+16 Slot Bag
+
+

@@ -1,0 +1,1734 @@
+Item #1406
+URL: https://database.turtle-wow.org/?item=1406
+Category: Database/Items/Weapons/Polearms
+Item: 
+Pearl-encrusted Spear
+Binds when equipped
+Two-hand
+Polearm
+35 - 53  Damage
+Speed 3.20
+(13.8 damage per second)
++3 Stamina
++6 Agility
+Durability 65 / 65
+Requires Level 16
+
+
+Item #1485
+URL: https://database.turtle-wow.org/?item=1485
+Category: Database/Items/Weapons/Polearms
+Item: 
+Pitchfork
+Two-hand
+Polearm
+29 - 45  Damage
+Speed 3.70
+(10.0 damage per second)
+Durability 75 / 75
+Requires Level 20
+
+
+Item #1522
+URL: https://database.turtle-wow.org/?item=1522
+Category: Database/Items/Weapons/Polearms
+Item: 
+Headhunting Spear
+Binds when equipped
+Two-hand
+Polearm
+63 - 95  Damage
+Speed 3.20
+(24.7 damage per second)
++11 Agility
++6 Spirit
+Durability 85 / 85
+Requires Level 31
+
+
+Item #1726
+URL: https://database.turtle-wow.org/?item=1726
+Category: Database/Items/Weapons/Polearms
+Item: 
+Poison-tipped Bone Spear
+Binds when equipped
+Two-hand
+Polearm
+57 - 87  Damage
+Speed 2.30
+(31.3 damage per second)
+Durability 100 / 100
+Requires Level 31
+Chance on hit:
+Poisons target for 30 Nature damage every 6 sec for 30 sec.
+
+
+Item #2023
+URL: https://database.turtle-wow.org/?item=2023
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Spear, Rusty
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #3346
+URL: https://database.turtle-wow.org/?item=3346
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Item, Shovel
+Two-hand
+Polearm
+Durability 20 / 20
+
+
+Item #3367
+URL: https://database.turtle-wow.org/?item=3367
+Category: Database/Items/Weapons/Polearms
+Item: 
+Farmer's Pitchfork
+Two-hand
+Polearm
+5 - 7  Damage
+Speed 1.70
+(3.5 damage per second)
+Durability 20 / 20
+
+
+Item #3432
+URL: https://database.turtle-wow.org/?item=3432
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Glaive - 1 Blade Basic
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #3433
+URL: https://database.turtle-wow.org/?item=3433
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Spear, Badass
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5200
+URL: https://database.turtle-wow.org/?item=5200
+Category: Database/Items/Weapons/Polearms
+Item: 
+Impaling Harpoon
+Binds when picked up
+Two-hand
+Polearm
+27 - 42  Damage
+Speed 2.40
+(14.4 damage per second)
++7 Agility
+Durability 70 / 70
+Requires Level 17
+
+
+Item #5597
+URL: https://database.turtle-wow.org/?item=5597
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Glaive - 2 Blade Red
+One-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5746
+URL: https://database.turtle-wow.org/?item=5746
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Trident, Copper
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5745
+URL: https://database.turtle-wow.org/?item=5745
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Trident, Wood Handle
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #5747
+URL: https://database.turtle-wow.org/?item=5747
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Trident, Ornate
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #6679
+URL: https://database.turtle-wow.org/?item=6679
+Category: Database/Items/Weapons/Polearms
+Item: 
+Armor Piercer
+Binds when picked up
+Two-hand
+Polearm
+41 - 62  Damage
+Speed 2.60
+(19.8 damage per second)
++11 Agility
+Durability 85 / 85
+Requires Level 24
+
+
+Item #6680
+URL: https://database.turtle-wow.org/?item=6680
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Spear, Sharp Thin
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #7758
+URL: https://database.turtle-wow.org/?item=7758
+Category: Database/Items/Weapons/Polearms
+Item: 
+Ruthless Shiv
+Binds when equipped
+Two-hand
+Polearm
+75 - 113  Damage
+Speed 2.70
+(34.8 damage per second)
++8 Stamina
++19 Strength
+Durability 100 / 100
+Requires Level 34
+
+
+Item #7959
+URL: https://database.turtle-wow.org/?item=7959
+Category: Database/Items/Weapons/Polearms
+Item: 
+Blight
+Binds when equipped
+Two-hand
+Polearm
+93 - 141  Damage
+Speed 2.70
+(43.3 damage per second)
+Durability 100 / 100
+Requires Level 45
+Chance on hit:
+Diseases a target for 50 Nature damage and an additional 180 damage over 60 sec.
+
+
+Item #9416
+URL: https://database.turtle-wow.org/?item=9416
+Category: Database/Items/Weapons/Polearms
+Item: 
+Grimlok's Charge
+Binds when picked up
+Two-hand
+Polearm
+88 - 133  Damage
+Speed 2.70
+(40.9 damage per second)
++15 Agility
++10 Strength
++15 Stamina
+Durability 100 / 100
+Requires Level 42
+
+
+Item #9475
+URL: https://database.turtle-wow.org/?item=9475
+Category: Database/Items/Weapons/Polearms
+Item: 
+Diabolic Skiver
+Binds when picked up
+Two-hand
+Polearm
+99 - 149  Damage
+Speed 2.90
+(42.8 damage per second)
+Durability 100 / 100
+Requires Level 44
+Chance on hit:
+Delivers a fatal wound for 160 to 181 damage.
+
+
+Item #9480
+URL: https://database.turtle-wow.org/?item=9480
+Category: Database/Items/Weapons/Polearms
+Item: 
+Eyegouger
+Binds when equipped
+Two-hand
+Polearm
+100 - 151  Damage
+Speed 3.00
+(41.8 damage per second)
++23 Agility
++10 Strength
+Durability 100 / 100
+Requires Level 43
+
+
+Item #10799
+URL: https://database.turtle-wow.org/?item=10799
+Category: Database/Items/Weapons/Polearms
+Item: 
+Headspike
+Binds when picked up
+Two-hand
+Polearm
+106 - 159  Damage
+Speed 3.00
+(44.2 damage per second)
++18 Stamina
++15 Strength
+Durability 100 / 100
+Requires Level 46
+
+
+Item #11809
+URL: https://database.turtle-wow.org/?item=11809
+Category: Database/Items/Weapons/Polearms
+Item: 
+Flame Wrath
+Binds when picked up
+Two-hand
+Polearm
+127 - 191  Damage
+Speed 3.30
+(48.2 damage per second)
+Durability 100 / 100
+Requires Level 51
+Chance on hit:
+Envelops the caster with a Fire shield for 15 sec and shoots a ring of fire dealing 130 to 171 damage to all nearby enemies.
+
+
+Item #11838
+URL: https://database.turtle-wow.org/?item=11838
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Trident, Flame Wrath
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #12063
+URL: https://database.turtle-wow.org/?item=12063
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Trident, Wicked
+Binds when picked up
+Two-hand
+Polearm
+2 - 4  Damage
+Speed 3.00
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #12243
+URL: https://database.turtle-wow.org/?item=12243
+Category: Database/Items/Weapons/Polearms
+Item: 
+Smoldering Claw
+Binds when picked up
+Two-hand
+Polearm
+108 - 162  Damage
+Speed 2.90
+(46.6 damage per second)
++10 Fire Resistance
+Durability 100 / 100
+Requires Level 49
+Chance on hit:
+Hurls a fiery ball that causes 135 Fire damage and an additional 15 damage over 6 sec.
+
+
+Item #12338
+URL: https://database.turtle-wow.org/?item=12338
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Polearm, Rend Blackhand
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 1.70
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12403
+URL: https://database.turtle-wow.org/?item=12403
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Polearm, Black
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 1.70
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12583
+URL: https://database.turtle-wow.org/?item=12583
+Category: Database/Items/Weapons/Polearms
+Item: 
+Blackhand Doomsaw
+Binds when picked up
+Two-hand
+Polearm
+151 - 227  Damage
+Speed 3.50
+(54.0 damage per second)
+Durability 100 / 100
+Requires Level 58
+Chance on hit:
+Wounds the target for 324 to 541 damage.
+
+
+Item #12802
+URL: https://database.turtle-wow.org/?item=12802
+Category: Database/Items/Weapons/Polearms
+Item: 
+Darkspear
+Binds when equipped
+Two-hand
+Polearm
+131 - 197  Damage
+Speed 3.20
+(51.3 damage per second)
+Durability 100 / 100
+Requires Level 55
+Chance on hit:
+Party members have chance to crit increased by 4%.  Lasts for 20 sec.
+
+
+Item #12989
+URL: https://database.turtle-wow.org/?item=12989
+Category: Database/Items/Weapons/Polearms
+Item: 
+Gargoyle's Bite
+Binds when equipped
+Two-hand
+Polearm
+44 - 66  Damage
+Speed 2.90
+(19.0 damage per second)
+60 Armor
++10 Strength
+Durability 80 / 80
+Requires Level 18
+
+
+Item #13059
+URL: https://database.turtle-wow.org/?item=13059
+Category: Database/Items/Weapons/Polearms
+Item: 
+Stoneraven
+Binds when equipped
+Two-hand
+Polearm
+118 - 178  Damage
+Speed 3.30
+(44.8 damage per second)
++13 Strength
++13 Agility
++15 Stamina
++9 Spirit
+Durability 100 / 100
+Requires Level 47
+
+
+Item #13054
+URL: https://database.turtle-wow.org/?item=13054
+Category: Database/Items/Weapons/Polearms
+Item: 
+Grim Reaper
+Binds when equipped
+Two-hand
+Polearm
+88 - 133  Damage
+Speed 3.10
+(35.6 damage per second)
+Durability 100 / 100
+Requires Level 35
+Chance on hit:
+Wounds the target for 130 damage.
+
+
+Item #13055
+URL: https://database.turtle-wow.org/?item=13055
+Category: Database/Items/Weapons/Polearms
+Item: 
+Bonechewer
+Binds when equipped
+Two-hand
+Polearm
+94 - 141  Damage
+Speed 2.80
+(42.0 damage per second)
++23 Strength
++10 Stamina
+Durability 100 / 100
+Requires Level 43
+
+
+Item #13056
+URL: https://database.turtle-wow.org/?item=13056
+Category: Database/Items/Weapons/Polearms
+Item: 
+Frenzied Striker
+Binds when equipped
+Two-hand
+Polearm
+108 - 162  Damage
+Speed 2.80
+(48.2 damage per second)
+Durability 100 / 100
+Requires Level 51
+Equip:
+Increases your chance to parry an attack by 1%.
+Equip:
+Improves your chance to hit by 2%.
+Equip:
+Increases your attack and casting speed by 2%.
+
+
+Item #13060
+URL: https://database.turtle-wow.org/?item=13060
+Category: Database/Items/Weapons/Polearms
+Item: 
+The Needler
+Binds when equipped
+Two-hand
+Polearm
+90 - 136  Damage
+Speed 2.20
+(51.4 damage per second)
+Durability 100 / 100
+Requires Level 55
+Chance on hit:
+Wounds the target for 75 damage.
+
+
+Item #13057
+URL: https://database.turtle-wow.org/?item=13057
+Category: Database/Items/Weapons/Polearms
+Item: 
+Bloodpike
+Binds when equipped
+Two-hand
+Polearm
+59 - 89  Damage
+Speed 3.20
+(23.1 damage per second)
+Durability 95 / 95
+Requires Level 23
+Chance on hit:
+Wounds the target causing them to bleed for 110 damage over 30 sec.
+
+
+Item #13058
+URL: https://database.turtle-wow.org/?item=13058
+Category: Database/Items/Weapons/Polearms
+Item: 
+Khoo's Point
+Binds when equipped
+Two-hand
+Polearm
+77 - 117  Damage
+Speed 2.50
+(38.8 damage per second)
++20 Stamina
++10 Spirit
+Durability 100 / 100
+Requires Level 39
+
+
+Item #13148
+URL: https://database.turtle-wow.org/?item=13148
+Category: Database/Items/Weapons/Polearms
+Item: 
+Chillpike
+Binds when picked up
+Two-hand
+Polearm
+117 - 176  Damage
+Speed 2.80
+(52.3 damage per second)
+Durability 100 / 100
+Requires Level 56
+Chance on hit:
+Blasts a target for 160 to 251 Frost damage.
+
+
+Item #13631
+URL: https://database.turtle-wow.org/?item=13631
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Spear, Badass Red
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #13632
+URL: https://database.turtle-wow.org/?item=13632
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Spear, Badass Blue
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14535
+URL: https://database.turtle-wow.org/?item=14535
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Spear, Cool Blue
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #14879
+URL: https://database.turtle-wow.org/?item=14879
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Polearm, Blademaster
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 1.70
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #15810
+URL: https://database.turtle-wow.org/?item=15810
+Category: Database/Items/Weapons/Polearms
+Item: 
+Short Spear
+Two-hand
+Polearm
+40 - 60  Damage
+Speed 3.30
+(15.2 damage per second)
+Durability 75 / 75
+Requires Level 20
+
+
+Item #15811
+URL: https://database.turtle-wow.org/?item=15811
+Category: Database/Items/Weapons/Polearms
+Item: 
+Heavy Spear
+Two-hand
+Polearm
+68 - 102  Damage
+Speed 3.80
+(22.4 damage per second)
+Durability 85 / 85
+Requires Level 30
+
+
+Item #15910
+URL: https://database.turtle-wow.org/?item=15910
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Trident, Dark Ornate
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 2.00
+(0.8 damage per second)
+Durability 20 / 20
+
+
+Item #17074
+URL: https://database.turtle-wow.org/?item=17074
+Category: Database/Items/Weapons/Polearms
+Item: 
+Shadowstrike
+Binds when picked up
+Two-hand
+Polearm
+163 - 247  Damage
+Speed 3.10
+(66.1 damage per second)
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Steals 100 to 181 life from target enemy.
+Use:
+Transforms Shadowstrike into Thunderstrike.
+
+
+Item #17223
+URL: https://database.turtle-wow.org/?item=17223
+Category: Database/Items/Weapons/Polearms
+Item: 
+Thunderstrike
+Binds when picked up
+Two-hand
+Polearm
+163 - 247  Damage
+Speed 3.10
+(66.1 damage per second)
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Blasts up to 3 targets for 150 to 251 Nature damage. Each target after the first takes less damage.
+Use:
+Transforms Thunderstrike into Shadowstrike.
+
+
+Item #18502
+URL: https://database.turtle-wow.org/?item=18502
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monstrous Glaive
+Binds when picked up
+Two-hand
+Polearm
+123 - 185  Damage
+Speed 2.90
+(53.1 damage per second)
++24 Stamina
+Durability 100 / 100
+Requires Level 57
+Equip:
+Increases your chance to parry an attack by 1%.
+Equip:
+Increased Defense +10.
+
+
+Item #18725
+URL: https://database.turtle-wow.org/?item=18725
+Category: Database/Items/Weapons/Polearms
+Item: 
+Peacemaker
+Binds when picked up
+Two-hand
+Polearm
+137 - 206  Damage
+Speed 3.40
+(50.4 damage per second)
+Durability 100 / 100
+Requires Level 54
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++56 Attack Power.
+
+
+Item #18869
+URL: https://database.turtle-wow.org/?item=18869
+Category: Database/Items/Weapons/Polearms
+Item: 
+Grand Marshal's Glaive
+Binds when picked up
+Two-hand
+Polearm
+262 - 380  Damage
+Speed 3.80
+(84.5 damage per second)
++43 Stamina
++28 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++322 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #18871
+URL: https://database.turtle-wow.org/?item=18871
+Category: Database/Items/Weapons/Polearms
+Item: 
+High Warlord's Pig Sticker
+Binds when picked up
+Two-hand
+Polearm
+262 - 380  Damage
+Speed 3.80
+(84.5 damage per second)
++43 Stamina
++28 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++322 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #19106
+URL: https://database.turtle-wow.org/?item=19106
+Category: Database/Items/Weapons/Polearms
+Item: 
+Ice Barbed Spear
+Binds when picked up
+Two-hand
+Polearm
+155 - 233  Damage
+Speed 3.60
+(53.9 damage per second)
++21 Agility
++13 Strength
++20 Stamina
+Durability 100 / 100
+Equip:
++42 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #19167
+URL: https://database.turtle-wow.org/?item=19167
+Category: Database/Items/Weapons/Polearms
+Item: 
+Blackfury
+Binds when equipped
+Two-hand
+Polearm
+155 - 238  Damage
+Speed 3.30
+(59.5 damage per second)
++35 Strength
++15 Stamina
++10 Fire Resistance
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++84 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #19874
+URL: https://database.turtle-wow.org/?item=19874
+Category: Database/Items/Weapons/Polearms
+Item: 
+Halberd of Smiting
+Binds when picked up
+Two-hand
+Polearm
+175 - 263  Damage
+Speed 3.50
+(62.6 damage per second)
+Durability 120 / 120
+Requires Level 60
+Equip:
+Chance to decapitate the target on a melee swing, causing 452 to 677 damage.
+
+
+Item #19946
+URL: https://database.turtle-wow.org/?item=19946
+Category: Database/Items/Weapons/Polearms
+Item: 
+Tigule's Harpoon
+Binds when picked up
+Unique
+Two-hand
+Polearm
+154 - 232  Damage
+Speed 3.30
+(58.5 damage per second)
++20 Stamina
+Durability 100 / 100
+Requires Level 60
+Equip:
+Improves your chance to hit by 2%.
+Equip:
++60 Attack Power when fighting Beasts.
+Equip:
++112 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #19963
+URL: https://database.turtle-wow.org/?item=19963
+Category: Database/Items/Weapons/Polearms
+Item: 
+Pitchfork of Madness
+Binds when picked up
+Two-hand
+Polearm
+163 - 246  Damage
+Speed 3.50
+(58.4 damage per second)
+Durability 100 / 100
+Requires Level 60
+Equip:
++117 Attack Power when fighting Demons.
+
+
+Item #20083
+URL: https://database.turtle-wow.org/?item=20083
+Category: Database/Items/Weapons/Polearms
+Item: 
+Hunting Spear
+Binds when picked up
+Two-hand
+Polearm
+111 - 168  Damage
+Speed 3.10
+(45.0 damage per second)
++17 Agility
+Durability 100 / 100
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Restores 5 mana per 5 sec.
+
+
+Item #20412
+URL: https://database.turtle-wow.org/?item=20412
+Category: Database/Items/Weapons/Polearms
+Item: 
+Monster - Polearm, PVPAlliance_A01
+Two-hand
+Polearm
+1 - 2  Damage
+Speed 1.70
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #20660
+URL: https://database.turtle-wow.org/?item=20660
+Category: Database/Items/Weapons/Polearms
+Item: 
+Stonecutting Glaive
+Binds when picked up
+Two-hand
+Polearm
+152 - 228  Damage
+Speed 3.70
+(51.4 damage per second)
++29 Strength
++12 Agility
+Durability 100 / 100
+Requires Level 55
+
+
+Item #21635
+URL: https://database.turtle-wow.org/?item=21635
+Category: Database/Items/Weapons/Polearms
+Item: 
+Barb of the Sand Reaver
+Binds when picked up
+Two-hand
+Polearm
+225 - 338  Damage
+Speed 3.70
+(76.1 damage per second)
++41 Agility
++31 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++238 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #22314
+URL: https://database.turtle-wow.org/?item=22314
+Category: Database/Items/Weapons/Polearms
+Item: 
+Huntsman's Harpoon
+Binds when picked up
+Two-hand
+Polearm
+150 - 226  Damage
+Speed 3.60
+(52.2 damage per second)
++35 Agility
+Durability 100 / 100
+Requires Level 56
+Equip:
++14 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #23039
+URL: https://database.turtle-wow.org/?item=23039
+Category: Database/Items/Weapons/Polearms
+Item: 
+The Eye of Nerub
+Binds when picked up
+Two-hand
+Polearm
+251 - 378  Damage
+Speed 3.70
+(85.0 damage per second)
++45 Agility
++22 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increased Polearms +5.
+Equip:
++322 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #40080
+URL: https://database.turtle-wow.org/?item=40080
+Category: Database/Items/Weapons/Polearms
+Item: 
+Thunderforge Lance
+Binds when picked up
+Two-hand
+Polearm
+115 - 214  Damage
+Speed 3.50
+(47.0 damage per second)
++5 Strength
+Durability 100 / 100
+Chance on hit:
+Blasts up to 3 targets for 105 to 146 Nature damage.
+
+
+Item #41562
+URL: https://database.turtle-wow.org/?item=41562
+Category: Database/Items/Weapons/Polearms
+Item: 
+Flamescale Pike
+Binds when picked up
+Two-hand
+Polearm
+47 - 121  Damage
+Speed 3.10
++5 - 8 Fire Damage
+(29.2 damage per second)
+75 Armor
++6 Stamina
++15 Fire Resistance
+Durability 100 / 100
+Requires Level 29
+
+
+Item #50429
+URL: https://database.turtle-wow.org/?item=50429
+Category: Database/Items/Weapons/Polearms
+Item: 
+Spear of the Endless Hunt
+Binds when picked up
+Two-hand
+Polearm
+153 - 240  Damage
+Speed 3.70
+(53.1 damage per second)
+Durability 120 / 120
+Requires Level 60
+Equip:
++38 Attack Power.
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+Equip:
++84 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #51790
+URL: https://database.turtle-wow.org/?item=51790
+Category: Database/Items/Weapons/Polearms
+Item: 
+Stormpike
+Binds when equipped
+Two-hand
+Polearm
+51 - 78  Damage
+Speed 3.20
++2 - 5 Nature Damage
+(21.3 damage per second)
+Durability 85 / 85
+Requires Level 25
+Chance on hit:
+Blasts a target for 80 Nature damage.
+
+
+Item #55026
+URL: https://database.turtle-wow.org/?item=55026
+Category: Database/Items/Weapons/Polearms
+Item: 
+Alteraci Hunting Spear
+Binds when equipped
+Two-hand
+Polearm
+82 - 154  Damage
+Speed 2.70
+(43.7 damage per second)
++14 Agility
++10 Stamina
+Durability 100 / 100
+Requires Level 45
+Equip:
+Increases your attack and casting speed by 1%.
+"Add this effect when implemented: Use: Throw the spear at your target, slowing it for 2 seconds for 30% and dealing 75 damage. (2 minute cooldown)"
+
+
+Item #55116
+URL: https://database.turtle-wow.org/?item=55116
+Category: Database/Items/Weapons/Polearms
+Item: 
+Raka'shishi, Spear of the Adrift Hunt
+Binds when picked up
+Unique
+Two-hand
+Polearm
+277 - 423  Damage
+Speed 3.50
+(100.0 damage per second)
++31 Agility
++41 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increased Polearms +5.
+Equip:
+Your auto-attacks have a 20% chance to strike an additional nearby opponent. This effect is disabled while shapeshifted and can only trigger once every 5 sec.
+Equip:
++448 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #55381
+URL: https://database.turtle-wow.org/?item=55381
+Category: Database/Items/Weapons/Polearms
+Item: 
+Phytolance
+Binds when equipped
+Two-hand
+Polearm
+41 - 76  Damage
+Speed 3.00
+(19.5 damage per second)
+Durability 80 / 80
+Requires Level 18
+Requires Herbalism (80)
+Chance on hit:
+Heals the wielder for 40 over 12 sec.
+
+
+Item #55495
+URL: https://database.turtle-wow.org/?item=55495
+Category: Database/Items/Weapons/Polearms
+Item: 
+Zandalar Predator's Glaive
+Binds when picked up
+Unique
+Two-hand
+Polearm
+175 - 263  Damage
+Speed 3.50
+(62.6 damage per second)
++23 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++36 Attack Power.
+Equip:
+Improves your chance to hit by 2%.
+Equip:
+Your landing ranged and melee attacks have a 5% chance to increase your Agility by 75 for 10 sec.
+
+
+Item #58037
+URL: https://database.turtle-wow.org/?item=58037
+Category: Database/Items/Weapons/Polearms
+Item: 
+Ozuk's Piercer
+Binds when picked up
+Two-hand
+Polearm
+61 - 92  Damage
+Speed 3.10
+(24.7 damage per second)
++13 Strength
++6 Spirit
+Durability 85 / 85
+
+
+Item #58058
+URL: https://database.turtle-wow.org/?item=58058
+Category: Database/Items/Weapons/Polearms
+Item: 
+Harpoon of Ahab
+Binds when equipped
+Two-hand
+Polearm
+92 - 144  Damage
+Speed 3.20
+(36.9 damage per second)
++15 Strength
++14 Agility
+Durability 100 / 100
+Requires Level 38
+
+
+Item #58098
+URL: https://database.turtle-wow.org/?item=58098
+Category: Database/Items/Weapons/Polearms
+Item: 
+The Chainsplitter
+Binds when picked up
+Two-hand
+Polearm
+82 - 127  Damage
+Speed 3.60
+(29.0 damage per second)
++12 Strength
++5 Agility
+Durability 100 / 100
+Requires Level 29
+Chance on hit:
+Punctures target's armor lowering it by 100.
+
+
+Item #58263
+URL: https://database.turtle-wow.org/?item=58263
+Category: Database/Items/Weapons/Polearms
+Item: 
+Wolfbrother
+Binds when picked up
+Two-hand
+Polearm
+50 - 75  Damage
+Speed 2.80
+(22.3 damage per second)
++11 Agility
++7 Strength
+Durability 85 / 85
+
+
+Item #60138
+URL: https://database.turtle-wow.org/?item=60138
+Category: Database/Items/Weapons/Polearms
+Item: 
+Rethress Myrmidon Trident
+Binds when picked up
+Two-hand
+Polearm
+121 - 177  Damage
+Speed 3.20
+(46.6 damage per second)
++5 Strength
++5 Frost Resistance
+Durability 85 / 85
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #60413
+URL: https://database.turtle-wow.org/?item=60413
+Category: Database/Items/Weapons/Polearms
+Item: 
+The Cruel Blade
+Binds when picked up
+Two-hand
+Polearm
+107 - 182  Damage
+Speed 2.60
+(55.6 damage per second)
++18 Stamina
+Durability 90 / 90
+Requires Level 60
+Chance on hit:
+You attack all nearby enemies for 9 sec causing weapon damage plus an additional 5 every 3 sec.
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #60475
+URL: https://database.turtle-wow.org/?item=60475
+Category: Database/Items/Weapons/Polearms
+Item: 
+Bronze Naga Trident
+Binds when picked up
+Two-hand
+Polearm
+81 - 113  Damage
+Speed 3.20
+(30.3 damage per second)
++12 Strength
++6 Stamina
+Durability 85 / 85
+
+
+Item #60498
+URL: https://database.turtle-wow.org/?item=60498
+Category: Database/Items/Weapons/Polearms
+Item: 
+Halberd of the Bronze Defender
+Binds when picked up
+Two-hand
+Polearm
+162 - 258  Damage
+Speed 3.60
+(58.3 damage per second)
++24 Strength
++8 Agility
++6 Stamina
+Durability 100 / 100
+Equip:
++70 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #60656
+URL: https://database.turtle-wow.org/?item=60656
+Category: Database/Items/Weapons/Polearms
+Item: 
+Livingstone Pitchfork
+Binds when picked up
+Two-hand
+Polearm
+62 - 86  Damage
+Speed 2.90
+(25.5 damage per second)
++7 Agility
++7 Strength
+Durability 85 / 85
+
+
+Item #60787
+URL: https://database.turtle-wow.org/?item=60787
+Category: Database/Items/Weapons/Polearms
+Item: 
+Scythe of the Harvest
+Binds when equipped
+Two-hand
+Polearm
+98 - 147  Damage
+Speed 2.70
+(45.4 damage per second)
++16 Strength
+Durability 120 / 120
+Requires Level 42
+Chance on hit:
+Steals 45 life from target enemy.
+
+
+Item #60818
+URL: https://database.turtle-wow.org/?item=60818
+Category: Database/Items/Weapons/Polearms
+Item: 
+Garran's Pike
+Binds when picked up
+Two-hand
+Polearm
+84 - 156  Damage
+Speed 3.00
+(40.0 damage per second)
++20 Strength
+Durability 100 / 100
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #60951
+URL: https://database.turtle-wow.org/?item=60951
+Category: Database/Items/Weapons/Polearms
+Item: 
+Krog's Pike
+Binds when picked up
+Two-hand
+Polearm
+90 - 167  Damage
+Speed 3.20
+(40.2 damage per second)
++20 Strength
++14 Stamina
+Durability 100 / 100
+
+
+Item #61154
+URL: https://database.turtle-wow.org/?item=61154
+Category: Database/Items/Weapons/Polearms
+Item: 
+Savage Spear
+Binds when picked up
+Two-hand
+Polearm
+41 - 69  Damage
+Speed 2.60
+(21.2 damage per second)
++7 Agility
++6 Intellect
++5 Nature Resistance
+Durability 85 / 85
+"Simple, but brutally effective."
+
+
+Item #61534
+URL: https://database.turtle-wow.org/?item=61534
+Category: Database/Items/Weapons/Polearms
+Item: 
+Fisher's Harpoon
+Binds when picked up
+Unique
+Two-hand
+Polearm
+125 - 219  Damage
+Speed 3.50
+(49.1 damage per second)
++18 Agility
++16 Stamina
+Durability 100 / 100
+Requires Level 52
+Chance on hit:
+Wounds the target for 90 to 115 damage.
+"I wonder where the fisher is..."
+
+
+Item #61596
+URL: https://database.turtle-wow.org/?item=61596
+Category: Database/Items/Weapons/Polearms
+Item: 
+Defender's Glaive
+Binds when equipped
+Two-hand
+Polearm
+82 - 124  Damage
+Speed 2.50
+(41.2 damage per second)
+80 Armor
++20 Stamina
+Durability 100 / 100
+Requires Level 42
+Equip:
+Reduces damage taken from critical hits and damage over time effects by 3%.
+
+
+Item #61595
+URL: https://database.turtle-wow.org/?item=61595
+Category: Database/Items/Weapons/Polearms
+Item: 
+Sharpened Iron Bar
+Binds when equipped
+Two-hand
+Polearm
+155 - 233  Damage
+Speed 3.60
+(53.9 damage per second)
++15 Strength
++16 Stamina
+Durability 100 / 100
+Requires Level 58
+Equip:
+Improves your chance to hit by 1%.
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #61610
+URL: https://database.turtle-wow.org/?item=61610
+Category: Database/Items/Weapons/Polearms
+Item: 
+Old Farmer's Pitchfork
+Binds when equipped
+Two-hand
+Polearm
+94 - 175  Damage
+Speed 3.70
+(36.4 damage per second)
++12 Strength
++14 Agility
+Durability 85 / 85
+Requires Level 41
+
+
+Item #61621
+URL: https://database.turtle-wow.org/?item=61621
+Category: Database/Items/Weapons/Polearms
+Item: 
+Ceremonial Gilnean Pike
+Binds when picked up
+Two-hand
+Polearm
+69 - 147  Damage
+Speed 2.80
+(38.6 damage per second)
+75 Armor
++18 Stamina
++5 Spirit
+Durability 85 / 85
+
+
+Item #61650
+URL: https://database.turtle-wow.org/?item=61650
+Category: Database/Items/Weapons/Polearms
+Item: 
+Jadestone Skewer
+Binds when picked up
+Two-hand
+Polearm
+158 - 294  Damage
+Speed 3.10
+(72.9 damage per second)
++39 Agility
++27 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
++196 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #80538
+URL: https://database.turtle-wow.org/?item=80538
+Category: Database/Items/Weapons/Polearms
+Item: 
+Quel'dorei Ranger's Spear
+Binds when picked up
+Two-hand
+Polearm
+136 - 243  Damage
+Speed 3.40
+(55.7 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++50 Attack Power.
+Equip:
++70 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #80638
+URL: https://database.turtle-wow.org/?item=80638
+Category: Database/Items/Weapons/Polearms
+Item: 
+Revantusk Shadow Hunter's Striker
+Binds when picked up
+Two-hand
+Polearm
+136 - 243  Damage
+Speed 3.40
+(55.7 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++50 Attack Power.
+Equip:
++70 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #80705
+URL: https://database.turtle-wow.org/?item=80705
+Category: Database/Items/Weapons/Polearms
+Item: 
+Satyr Poker
+Binds when picked up
+Two-hand
+Polearm
+23 - 47  Damage
+Speed 3.10
+(11.3 damage per second)
+Durability 60 / 60
+Requires Level 13
+Equip:
++10 Attack Power.
+
+
+Item #80728
+URL: https://database.turtle-wow.org/?item=80728
+Category: Database/Items/Weapons/Polearms
+Item: 
+Stormwind Guard Spear
+Binds when picked up
+Two-hand
+Polearm
+44 - 65  Damage
+Speed 2.80
+(19.5 damage per second)
++4 Stamina
++9 Spirit
+Durability 85 / 85
+Requires Level 25
+
+
+Item #80811
+URL: https://database.turtle-wow.org/?item=80811
+Category: Database/Items/Weapons/Polearms
+Item: 
+Energized Spear
+Binds when equipped
+Two-hand
+Polearm
+30 - 48  Damage
+Speed 2.30
++2 - 3 Nature Damage
+(18.1 damage per second)
+Durability 75 / 75
+Requires Level 16
+Chance on hit:
+Restores 50 mana.
+
+
+Item #80813
+URL: https://database.turtle-wow.org/?item=80813
+Category: Database/Items/Weapons/Polearms
+Item: 
+Piercing Spear
+Binds when equipped
+Two-hand
+Polearm
+14 - 24  Damage
+Speed 2.70
+(7.0 damage per second)
++3 Agility
+Durability 45 / 45
+Requires Level 5
+
+
+Item #80814
+URL: https://database.turtle-wow.org/?item=80814
+Category: Database/Items/Weapons/Polearms
+Item: 
+Rusty Spear
+Two-hand
+Polearm
+8 - 13  Damage
+Speed 2.80
+(3.8 damage per second)
+Durability 40 / 40
+Requires Level 4
+
+
+Item #81369
+URL: https://database.turtle-wow.org/?item=81369
+Category: Database/Items/Weapons/Polearms
+Item: 
+Blade of the Blademaster
+Binds when picked up
+Two-hand
+Polearm
+122 - 227  Damage
+Speed 2.90
+(60.2 damage per second)
++17 Strength
++17 Stamina
++10 Fire Resistance
+Durability 120 / 120
+Requires Level 59
+Equip:
+Improves your chance to get a critical strike by 2%.
+Equip:
+Increases your chance to dodge an attack by 1%.
+Equip:
++56 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+"The blade is perfectly balanced for warfare."
+
+
+Item #83461
+URL: https://database.turtle-wow.org/?item=83461
+Category: Database/Items/Weapons/Polearms
+Item: 
+Cryptkeeper's Pike
+Binds when picked up
+Two-hand
+Polearm
+160 - 245  Damage
+Speed 3.70
+(54.7 damage per second)
++25 Strength
++18 Spirit
+Durability 100 / 100
+Requires Level 60
+Equip:
+Improves your chance to hit by 1%.
+Equip:
++70 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #83562
+URL: https://database.turtle-wow.org/?item=83562
+Category: Database/Items/Weapons/Polearms
+Item: 
+Skaldrenox's Rage
+Binds when picked up
+Two-hand
+Polearm
+196 - 295  Damage
+Speed 3.80
+(64.6 damage per second)
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Blasts a target for 205 to 246 Fire damage.
+
+
+Item #11864
+URL: https://database.turtle-wow.org/?item=11864
+Category: Database/Items/Weapons/Polearms
+Item: 
+White Bone Spear
+Binds when picked up
+Two-hand
+Polearm
+87 - 131  Damage
+Speed 2.70
+(40.4 damage per second)
++21 Stamina
++3 Intellect
+Durability 85 / 85
+
+

@@ -1,0 +1,30 @@
+Item #13454
+URL: https://database.turtle-wow.org/?item=13454
+Category: Database/Items/Consumables/Elixirs
+Item: 
+Greater Arcane Elixir
+Requires Level 47
+Use:
+Increases spell damage by up to 35 for 3600 sec.
+
+
+Item #55048
+URL: https://database.turtle-wow.org/?item=55048
+Category: Database/Items/Consumables/Elixirs
+Item: 
+Elixir of Greater Arcane Power
+Requires Level 40
+Use:
+Increases arcane spell damage by up to 40 for 3600 sec.
+
+
+Item #55046
+URL: https://database.turtle-wow.org/?item=55046
+Category: Database/Items/Consumables/Elixirs
+Item: 
+Elixir of Greater Frost Power
+Requires Level 40
+Use:
+Increases frost spell damage by up to 40 for 3600 sec.
+
+

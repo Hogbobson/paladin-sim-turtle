@@ -1,0 +1,2811 @@
+Item #756
+URL: https://database.turtle-wow.org/?item=756
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Tunnel Pick
+Binds when equipped
+Two-hand
+Axe
+49 - 74  Damage
+Speed 3.10
+(19.8 damage per second)
++7 Stamina
++7 Agility
+Durability 85 / 85
+Requires Level 24
+
+
+Item #870
+URL: https://database.turtle-wow.org/?item=870
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Fiery War Axe
+Binds when equipped
+Two-hand
+Axe
+93 - 141  Damage
+Speed 2.90
+(40.3 damage per second)
+Durability 120 / 120
+Requires Level 35
+Chance on hit:
+Hurls a fiery ball that causes 155 to 198 Fire damage and an additional 24 damage over 6 sec.
+
+
+Item #872
+URL: https://database.turtle-wow.org/?item=872
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Rockslicer
+Binds when picked up
+Two-hand
+Axe
+42 - 78  Damage
+Speed 3.30
+(18.2 damage per second)
++7 Strength
+Durability 75 / 75
+Requires Level 16
+Equip:
+Your attacks ignore 20 of the target's armor.
+
+
+Item #926
+URL: https://database.turtle-wow.org/?item=926
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Battle Axe
+Two-hand
+Axe
+46 - 70  Damage
+Speed 3.80
+(15.3 damage per second)
+Durability 75 / 75
+Requires Level 20
+
+
+Item #1196
+URL: https://database.turtle-wow.org/?item=1196
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Tabar
+Two-hand
+Axe
+21 - 32  Damage
+Speed 3.20
+(8.3 damage per second)
+Durability 50 / 50
+Requires Level 9
+
+
+Item #1220
+URL: https://database.turtle-wow.org/?item=1220
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Lupine Axe
+Binds when equipped
+Two-hand
+Axe
+24 - 36  Damage
+Speed 2.30
+(13.0 damage per second)
++6 Agility
+Durability 65 / 65
+Requires Level 15
+
+
+Item #1263
+URL: https://database.turtle-wow.org/?item=1263
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Brain Hacker
+Binds when equipped
+Two-hand
+Axe
+95 - 143  Damage
+Speed 2.10
+(56.7 damage per second)
+Durability 120 / 120
+Requires Level 55
+Chance on hit:
+Wounds the target for 200 to 301 damage and lowers Intellect of target by 25 for 30 sec.
+
+
+Item #1318
+URL: https://database.turtle-wow.org/?item=1318
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Night Reaver
+Binds when equipped
+Two-hand
+Axe
+52 - 78  Damage
+Speed 3.30
++1 - 5 Shadow Damage
+(20.6 damage per second)
+Durability 80 / 80
+Requires Level 18
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 60 to 91 Shadow damage.
+
+
+Item #1386
+URL: https://database.turtle-wow.org/?item=1386
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Thistlewood Axe
+Binds when picked up
+Two-hand
+Axe
+7 - 11  Damage
+Speed 3.50
+(2.6 damage per second)
+Durability 35 / 35
+
+
+Item #1417
+URL: https://database.turtle-wow.org/?item=1417
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Beaten Battle Axe
+Two-hand
+Axe
+8 - 13  Damage
+Speed 3.10
+(3.4 damage per second)
+Durability 40 / 40
+Requires Level 3
+
+
+Item #1455
+URL: https://database.turtle-wow.org/?item=1455
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Blackrock Champion's Axe
+Binds when equipped
+Two-hand
+Axe
+41 - 62  Damage
+Speed 3.20
+(16.1 damage per second)
++8 Strength
+Durability 75 / 75
+Requires Level 19
+
+
+Item #1461
+URL: https://database.turtle-wow.org/?item=1461
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Slayer's Battle Axe
+Binds when equipped
+Two-hand
+Axe
+39 - 59  Damage
+Speed 2.90
+(16.9 damage per second)
++6 Strength
++5 Agility
+Durability 75 / 75
+Requires Level 20
+
+
+Item #1512
+URL: https://database.turtle-wow.org/?item=1512
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Crude Battle Axe
+Two-hand
+Axe
+12 - 18  Damage
+Speed 3.00
+(5.0 damage per second)
+Durability 50 / 50
+Requires Level 7
+
+
+Item #1521
+URL: https://database.turtle-wow.org/?item=1521
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Lumbering Ogre Axe
+Binds when equipped
+Two-hand
+Axe
+105 - 158  Damage
+Speed 3.90
+(33.7 damage per second)
++15 Strength
++7 Stamina
+Durability 85 / 85
+Requires Level 39
+
+
+Item #1640
+URL: https://database.turtle-wow.org/?item=1640
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monstrous War Axe
+Binds when equipped
+Two-hand
+Axe
+92 - 139  Damage
+Speed 3.70
+(31.2 damage per second)
+Durability 85 / 85
+Requires Level 37
+Random Bonuses
+
+
+Item #1639
+URL: https://database.turtle-wow.org/?item=1639
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Grinning Axe
+Binds when equipped
+Two-hand
+Axe
+85 - 128  Damage
+Speed 2.80
+(38.0 damage per second)
+Durability 85 / 85
+Requires Level 44
+Random Bonuses
+
+
+Item #1680
+URL: https://database.turtle-wow.org/?item=1680
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Headchopper
+Binds when equipped
+Two-hand
+Axe
+78 - 117  Damage
+Speed 2.90
+(33.6 damage per second)
++9 Strength
+Durability 85 / 85
+Requires Level 39
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #1812
+URL: https://database.turtle-wow.org/?item=1812
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Short-handled Battle Axe
+Two-hand
+Axe
+16 - 25  Damage
+Speed 3.10
+(6.6 damage per second)
+Durability 60 / 60
+Requires Level 12
+
+
+Item #1824
+URL: https://database.turtle-wow.org/?item=1824
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Shiny War Axe
+Two-hand
+Axe
+17 - 26  Damage
+Speed 2.40
+(9.0 damage per second)
+Durability 70 / 70
+Requires Level 18
+
+
+Item #1828
+URL: https://database.turtle-wow.org/?item=1828
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Stone War Axe
+Two-hand
+Axe
+22 - 34  Damage
+Speed 2.60
+(10.8 damage per second)
+Durability 80 / 80
+Requires Level 22
+
+
+Item #1893
+URL: https://database.turtle-wow.org/?item=1893
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Miner's Revenge
+Binds when picked up
+Two-hand
+Axe
+36 - 55  Damage
+Speed 3.50
+(13.0 damage per second)
++6 Spirit
+Durability 65 / 65
+
+
+Item #1959
+URL: https://database.turtle-wow.org/?item=1959
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Cold Iron Pick
+Binds when equipped
+Two-hand
+Axe
+27 - 41  Damage
+Speed 3.00
++1 - 5 Frost Damage
+(12.3 damage per second)
++2 Stamina
++4 Spirit
+Durability 60 / 60
+Requires Level 12
+
+
+Item #2015
+URL: https://database.turtle-wow.org/?item=2015
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Black Metal War Axe
+Binds when equipped
+Two-hand
+Axe
+44 - 66  Damage
+Speed 2.90
+(19.0 damage per second)
++10 Strength
+Durability 80 / 80
+Requires Level 23
+
+
+Item #2025
+URL: https://database.turtle-wow.org/?item=2025
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Bearded Axe
+Two-hand
+Axe
+31 - 47  Damage
+Speed 3.30
+(11.8 damage per second)
+Durability 65 / 65
+Requires Level 15
+
+
+Item #2175
+URL: https://database.turtle-wow.org/?item=2175
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Shadowhide Battle Axe
+Binds when equipped
+Two-hand
+Axe
+39 - 59  Damage
+Speed 3.20
+(15.3 damage per second)
++6 Strength
++3 Stamina
+Durability 70 / 70
+Requires Level 18
+
+
+Item #2203
+URL: https://database.turtle-wow.org/?item=2203
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Brashclaw's Chopper
+Binds when equipped
+Two-hand
+Axe
+34 - 51  Damage
+Speed 3.40
+(12.5 damage per second)
++6 Strength
+Durability 65 / 65
+Requires Level 14
+
+
+Item #2227
+URL: https://database.turtle-wow.org/?item=2227
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Heavy Ogre War Axe
+Binds when equipped
+Two-hand
+Axe
+55 - 84  Damage
+Speed 3.80
+(18.3 damage per second)
++7 Strength
++5 Stamina
+Durability 80 / 80
+Requires Level 22
+
+
+Item #2291
+URL: https://database.turtle-wow.org/?item=2291
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Kang the Decapitator
+Binds when equipped
+Two-hand
+Axe
+136 - 205  Damage
+Speed 3.60
+(47.4 damage per second)
+Durability 120 / 120
+Requires Level 44
+Chance on hit:
+Wounds the target causing them to bleed for 560 damage over 30 sec.
+
+
+Item #2299
+URL: https://database.turtle-wow.org/?item=2299
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Burning War Axe
+Binds when equipped
+Two-hand
+Axe
+73 - 110  Damage
+Speed 3.30
+(27.7 damage per second)
+Durability 100 / 100
+Requires Level 28
+Chance on hit:
+Hurls a fiery ball that causes 86 to 111 Fire damage and an additional 18 damage over 6 sec.
+
+
+Item #2483
+URL: https://database.turtle-wow.org/?item=2483
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Rough Broad Axe
+Two-hand
+Axe
+3 - 6  Damage
+Speed 2.80
+(1.6 damage per second)
+Durability 25 / 25
+
+
+Item #2479
+URL: https://database.turtle-wow.org/?item=2479
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Broad Axe
+Two-hand
+Axe
+5 - 8  Damage
+Speed 3.10
+(2.1 damage per second)
+Durability 30 / 30
+
+
+Item #2491
+URL: https://database.turtle-wow.org/?item=2491
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Large Axe
+Two-hand
+Axe
+9 - 15  Damage
+Speed 2.80
+(4.3 damage per second)
+Durability 40 / 40
+Requires Level 3
+
+
+Item #2499
+URL: https://database.turtle-wow.org/?item=2499
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Double-bladed Axe
+Two-hand
+Axe
+12 - 19  Damage
+Speed 3.20
+(4.8 damage per second)
+Durability 40 / 40
+Requires Level 4
+
+
+Item #2523
+URL: https://database.turtle-wow.org/?item=2523
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Bullova
+Two-hand
+Axe
+68 - 102  Damage
+Speed 3.80
+(22.4 damage per second)
+Durability 85 / 85
+Requires Level 30
+
+
+Item #2531
+URL: https://database.turtle-wow.org/?item=2531
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Great Axe
+Two-hand
+Axe
+90 - 135  Damage
+Speed 3.60
+(31.3 damage per second)
+Durability 85 / 85
+Requires Level 39
+
+
+Item #2823
+URL: https://database.turtle-wow.org/?item=2823
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Mo'grosh Can Opener
+Binds when equipped
+Two-hand
+Axe
+32 - 48  Damage
+Speed 3.20
+(12.5 damage per second)
++6 Strength
+Durability 65 / 65
+Requires Level 14
+
+
+Item #2907
+URL: https://database.turtle-wow.org/?item=2907
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dwarven Tree Chopper
+Binds when picked up
+Two-hand
+Axe
+34 - 52  Damage
+Speed 3.30
+(13.0 damage per second)
+Durability 65 / 65
+Equip:
+Increased Two-handed Axes +2.
+
+
+Item #3189
+URL: https://database.turtle-wow.org/?item=3189
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Wood Chopper
+Two-hand
+Axe
+11 - 17  Damage
+Speed 3.30
+(4.2 damage per second)
+Durability 40 / 40
+Requires Level 3
+
+
+Item #3191
+URL: https://database.turtle-wow.org/?item=3191
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Arced War Axe
+Binds when picked up
+Two-hand
+Axe
+46 - 70  Damage
+Speed 3.30
+(17.6 damage per second)
++6 Strength
++6 Stamina
+Durability 80 / 80
+Requires Level 21
+
+
+Item #3195
+URL: https://database.turtle-wow.org/?item=3195
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Barbaric Battle Axe
+Binds when equipped
+Two-hand
+Axe
+34 - 52  Damage
+Speed 3.60
+(11.9 damage per second)
+Durability 60 / 60
+Requires Level 13
+Random Bonuses
+
+
+Item #3199
+URL: https://database.turtle-wow.org/?item=3199
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Battle Slayer
+Binds when equipped
+Two-hand
+Axe
+38 - 58  Damage
+Speed 3.30
+(14.5 damage per second)
+Durability 70 / 70
+Requires Level 17
+Random Bonuses
+
+
+Item #3201
+URL: https://database.turtle-wow.org/?item=3201
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Barbarian War Axe
+Binds when equipped
+Two-hand
+Axe
+47 - 71  Damage
+Speed 3.10
+(19.0 damage per second)
+Durability 80 / 80
+Requires Level 23
+Random Bonuses
+
+
+Item #3210
+URL: https://database.turtle-wow.org/?item=3210
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Brutal War Axe
+Binds when equipped
+Two-hand
+Axe
+58 - 88  Damage
+Speed 3.60
+(20.3 damage per second)
+Durability 85 / 85
+Requires Level 25
+Random Bonuses
+
+
+Item #3325
+URL: https://database.turtle-wow.org/?item=3325
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Vile Fin Battle Axe
+Two-hand
+Axe
+12 - 19  Damage
+Speed 3.10
+(5.0 damage per second)
+Durability 40 / 40
+Requires Level 4
+
+
+Item #3488
+URL: https://database.turtle-wow.org/?item=3488
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Copper Battle Axe
+Binds when equipped
+Two-hand
+Axe
+23 - 35  Damage
+Speed 3.20
+(9.1 damage per second)
++3 Stamina
+Durability 50 / 50
+Requires Level 8
+
+
+Item #3586
+URL: https://database.turtle-wow.org/?item=3586
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Logsplitter
+Binds when picked up
+Two-hand
+Axe
+31 - 47  Damage
+Speed 3.60
+(10.8 damage per second)
++3 Strength
++2 Stamina
+Durability 55 / 55
+
+
+Item #3779
+URL: https://database.turtle-wow.org/?item=3779
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Hefty War Axe
+Two-hand
+Axe
+29 - 44  Damage
+Speed 2.80
+(13.0 damage per second)
+Durability 85 / 85
+Requires Level 27
+
+
+Item #3856
+URL: https://database.turtle-wow.org/?item=3856
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Shadow Crescent Axe
+Binds when equipped
+Two-hand
+Axe
+58 - 87  Damage
+Speed 2.50
+(29.0 damage per second)
++11 Strength
++10 Stamina
+Durability 85 / 85
+Requires Level 35
+
+
+Item #3855
+URL: https://database.turtle-wow.org/?item=3855
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Massive Iron Axe
+Binds when equipped
+Two-hand
+Axe
+71 - 108  Damage
+Speed 3.50
+(25.6 damage per second)
++11 Strength
++7 Stamina
+Durability 85 / 85
+Requires Level 32
+
+
+Item #4020
+URL: https://database.turtle-wow.org/?item=4020
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Splintering Battle Axe
+Two-hand
+Axe
+60 - 91  Damage
+Speed 3.30
+(22.9 damage per second)
+Durability 85 / 85
+Requires Level 44
+
+
+Item #4562
+URL: https://database.turtle-wow.org/?item=4562
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Severing Axe
+Binds when equipped
+Two-hand
+Axe
+18 - 27  Damage
+Speed 3.20
+(7.0 damage per second)
+Durability 45 / 45
+Requires Level 5
+Random Bonuses
+
+
+Item #5194
+URL: https://database.turtle-wow.org/?item=5194
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Taskmaster Axe
+Binds when picked up
+Two-hand
+Axe
+42 - 64  Damage
+Speed 2.70
+(19.6 damage per second)
++8 Spirit
++8 Stamina
+Durability 80 / 80
+Requires Level 18
+
+
+Item #5289
+URL: https://database.turtle-wow.org/?item=5289
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Single Bladed /w Pick
+Two-hand
+Axe
+3 - 5  Damage
+Speed 3.90
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #5288
+URL: https://database.turtle-wow.org/?item=5288
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Rev. Bearded Single Bladed
+Two-hand
+Axe
+2 - 3  Damage
+Speed 2.80
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #5287
+URL: https://database.turtle-wow.org/?item=5287
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Large Double Bladed
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #5318
+URL: https://database.turtle-wow.org/?item=5318
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Zhovur Axe
+Binds when picked up
+Two-hand
+Axe
+32 - 49  Damage
+Speed 3.10
+(13.1 damage per second)
++6 Stamina
+Durability 65 / 65
+
+
+Item #5423
+URL: https://database.turtle-wow.org/?item=5423
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Boahn's Fang
+Binds when equipped
+Two-hand
+Axe
+35 - 53  Damage
+Speed 2.50
+(17.6 damage per second)
++9 Strength
++4 Spirit
+Durability 75 / 75
+Requires Level 15
+
+
+Item #5626
+URL: https://database.turtle-wow.org/?item=5626
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Skullchipper
+Binds when picked up
+Two-hand
+Axe
+36 - 55  Damage
+Speed 3.50
+(13.0 damage per second)
++6 Strength
++1 Stamina
+Durability 65 / 65
+
+
+Item #5749
+URL: https://database.turtle-wow.org/?item=5749
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Scythe Axe
+Binds when equipped
+Two-hand
+Axe
+43 - 66  Damage
+Speed 3.60
+(15.1 damage per second)
++3 Stamina
++6 Agility
+Durability 70 / 70
+Requires Level 18
+
+
+Item #5777
+URL: https://database.turtle-wow.org/?item=5777
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Brave's Axe
+Binds when picked up
+Two-hand
+Axe
+7 - 11  Damage
+Speed 3.30
+(2.7 damage per second)
+Durability 35 / 35
+
+
+Item #6094
+URL: https://database.turtle-wow.org/?item=6094
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Piercing Axe
+Binds when picked up
+Two-hand
+Axe
+31 - 47  Damage
+Speed 3.30
+(11.8 damage per second)
++5 Agility
+Durability 60 / 60
+
+
+Item #6206
+URL: https://database.turtle-wow.org/?item=6206
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Rock Chipper
+Two-hand
+Axe
+25 - 38  Damage
+Speed 3.50
+(9.0 damage per second)
+Durability 55 / 55
+Requires Level 10
+
+
+Item #6687
+URL: https://database.turtle-wow.org/?item=6687
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Corpsemaker
+Binds when picked up
+Two-hand
+Axe
+88 - 132  Damage
+Speed 3.80
+(28.9 damage per second)
++15 Strength
++8 Stamina
+Durability 100 / 100
+Requires Level 29
+
+
+Item #6830
+URL: https://database.turtle-wow.org/?item=6830
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Bonebiter
+Binds when picked up
+Two-hand
+Axe
+105 - 159  Damage
+Speed 3.40
+(38.8 damage per second)
++20 Strength
++10 Stamina
+Durability 100 / 100
+
+
+Item #6905
+URL: https://database.turtle-wow.org/?item=6905
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Reef Axe
+Binds when picked up
+Two-hand
+Axe
+48 - 73  Damage
+Speed 3.30
+(18.3 damage per second)
++5 Stamina
++7 Spirit
+Durability 80 / 80
+Requires Level 22
+
+
+Item #6975
+URL: https://database.turtle-wow.org/?item=6975
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Whirlwind Axe
+Binds when picked up
+Two-hand
+Axe
+102 - 154  Damage
+Speed 3.60
+(35.6 damage per second)
++15 Strength
++14 Stamina
+Durability 100 / 100
+Classes: Warrior
+
+
+Item #7612
+URL: https://database.turtle-wow.org/?item=7612
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Special NPC (Herod)
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #7717
+URL: https://database.turtle-wow.org/?item=7717
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Ravager
+Binds when picked up
+Two-hand
+Axe
+104 - 157  Damage
+Speed 3.50
+(37.3 damage per second)
+Durability 100 / 100
+Requires Level 37
+Chance on hit:
+You attack all nearby enemies for 9 sec causing weapon damage plus an additional 5 every 3 sec.
+
+
+Item #7753
+URL: https://database.turtle-wow.org/?item=7753
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Bloodspiller
+Binds when equipped
+Two-hand
+Axe
+57 - 87  Damage
+Speed 2.70
+(26.7 damage per second)
+Durability 100 / 100
+Requires Level 27
+Chance on hit:
+Wounds the target causing them to bleed for 130 damage over 30 sec.
+
+
+Item #7958
+URL: https://database.turtle-wow.org/?item=7958
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Bronze Battle Axe
+Two-hand
+Axe
+39 - 59  Damage
+Speed 2.90
+(16.9 damage per second)
+Durability 80 / 80
+Requires Level 22
+
+
+Item #9383
+URL: https://database.turtle-wow.org/?item=9383
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Obsidian Cleaver
+Binds when equipped
+Two-hand
+Axe
+94 - 141  Damage
+Speed 3.30
+(35.6 damage per second)
++19 Stamina
++6 Strength
++5 Agility
+Durability 100 / 100
+Requires Level 35
+
+
+Item #9425
+URL: https://database.turtle-wow.org/?item=9425
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Pendulum of Doom
+Binds when equipped
+Two-hand
+Axe
+124 - 187  Damage
+Speed 4.00
+(38.9 damage per second)
+Durability 100 / 100
+Requires Level 39
+Chance on hit:
+Delivers a fatal wound for 250 to 351 damage.
+
+
+Item #9459
+URL: https://database.turtle-wow.org/?item=9459
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Thermaplugg's Left Arm
+Binds when picked up
+Two-hand
+Axe
+70 - 106  Damage
+Speed 2.70
+(32.6 damage per second)
++18 Strength
++7 Stamina
+Durability 100 / 100
+Requires Level 32
+
+
+Item #9481
+URL: https://database.turtle-wow.org/?item=9481
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+The Minotaur
+Binds when equipped
+Two-hand
+Axe
+109 - 164  Damage
+Speed 3.20
+(42.7 damage per second)
++24 Stamina
++5 Spirit
++8 Strength
+Durability 100 / 100
+Requires Level 44
+
+
+Item #9486
+URL: https://database.turtle-wow.org/?item=9486
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Supercharger Battle Axe
+Binds when equipped
+Two-hand
+Axe
+51 - 78  Damage
+Speed 2.80
+(23.0 damage per second)
+Durability 95 / 95
+Requires Level 23
+Chance on hit:
+Blasts a target for 80 to 101 Nature damage.
+
+
+Item #9521
+URL: https://database.turtle-wow.org/?item=9521
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Skullsplitter
+Binds when picked up
+Two-hand
+Axe
+70 - 105  Damage
+Speed 2.90
+(30.2 damage per second)
++15 Strength
++4 Stamina
+Durability 85 / 85
+
+
+Item #9626
+URL: https://database.turtle-wow.org/?item=9626
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dwarven Charge
+Binds when picked up
+Two-hand
+Axe
+72 - 109  Damage
+Speed 2.90
+(31.2 damage per second)
++12 Strength
++11 Stamina
+Durability 85 / 85
+
+
+Item #9679
+URL: https://database.turtle-wow.org/?item=9679
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Tok'kar's Murloc Chopper
+Binds when picked up
+Two-hand
+Axe
+83 - 125  Damage
+Speed 3.20
+(32.5 damage per second)
++15 Strength
++6 Stamina
+Durability 85 / 85
+
+
+Item #9685
+URL: https://database.turtle-wow.org/?item=9685
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Will of the Mountain Giant
+Binds when picked up
+Two-hand
+Axe
+88 - 133  Damage
+Speed 2.80
+(39.5 damage per second)
++15 Strength
++14 Stamina
+Durability 85 / 85
+Requires Level 46
+
+
+Item #10570
+URL: https://database.turtle-wow.org/?item=10570
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Manslayer
+Binds when equipped
+Two-hand
+Axe
+88 - 133  Damage
+Speed 3.20
+(34.5 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 34
+Equip:
++38 Attack Power.
+
+
+Item #9521
+URL: https://database.turtle-wow.org/?item=9521
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Skullsplitter
+Binds when picked up
+Two-hand
+Axe
+70 - 105  Damage
+Speed 2.90
+(30.2 damage per second)
++15 Strength
++4 Stamina
+Durability 85 / 85
+
+
+Item #9626
+URL: https://database.turtle-wow.org/?item=9626
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dwarven Charge
+Binds when picked up
+Two-hand
+Axe
+72 - 109  Damage
+Speed 2.90
+(31.2 damage per second)
++12 Strength
++11 Stamina
+Durability 85 / 85
+
+
+Item #9679
+URL: https://database.turtle-wow.org/?item=9679
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Tok'kar's Murloc Chopper
+Binds when picked up
+Two-hand
+Axe
+83 - 125  Damage
+Speed 3.20
+(32.5 damage per second)
++15 Strength
++6 Stamina
+Durability 85 / 85
+
+
+Item #9685
+URL: https://database.turtle-wow.org/?item=9685
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Will of the Mountain Giant
+Binds when picked up
+Two-hand
+Axe
+88 - 133  Damage
+Speed 2.80
+(39.5 damage per second)
++15 Strength
++14 Stamina
+Durability 85 / 85
+Requires Level 46
+
+
+Item #10570
+URL: https://database.turtle-wow.org/?item=10570
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Manslayer
+Binds when equipped
+Two-hand
+Axe
+88 - 133  Damage
+Speed 3.20
+(34.5 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 34
+Equip:
++38 Attack Power.
+
+
+Item #10652
+URL: https://database.turtle-wow.org/?item=10652
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Will of the Mountain Giant
+Binds when picked up
+Two-hand
+Axe
+99 - 149  Damage
+Speed 2.80
+(44.3 damage per second)
++19 Strength
++18 Stamina
+Durability 100 / 100
+
+
+Item #11317
+URL: https://database.turtle-wow.org/?item=11317
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H War C01 Blue Limited
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #11342
+URL: https://database.turtle-wow.org/?item=11342
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Pendulum of Doom
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #11607
+URL: https://database.turtle-wow.org/?item=11607
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dark Iron Sunderer
+Binds when equipped
+Two-hand
+Axe
+101 - 153  Damage
+Speed 2.60
+(48.8 damage per second)
+Durability 100 / 100
+Requires Level 52
+Chance on hit:
+Reduces targets armor by 300 for 20 sec.
+
+
+Item #11816
+URL: https://database.turtle-wow.org/?item=11816
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Angerforge's Battle Axe
+Binds when picked up
+Two-hand
+Axe
+100 - 150  Damage
+Speed 2.60
+(48.1 damage per second)
++27 Strength
++11 Stamina
+Durability 100 / 100
+Requires Level 51
+
+
+Item #11907
+URL: https://database.turtle-wow.org/?item=11907
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Beastslayer
+Binds when picked up
+Two-hand
+Axe
+112 - 169  Damage
+Speed 3.30
+(42.6 damage per second)
+Durability 85 / 85
+Equip:
++72 Attack Power when fighting Beasts.
+
+
+Item #11931
+URL: https://database.turtle-wow.org/?item=11931
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dreadforge Retaliator
+Binds when picked up
+Two-hand
+Axe
+149 - 225  Damage
+Speed 3.70
+(50.5 damage per second)
+Durability 100 / 100
+Requires Level 54
+Equip:
+Increases your chance to parry an attack by 1%.
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++36 Attack Power.
+
+
+Item #12000
+URL: https://database.turtle-wow.org/?item=12000
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Limb Cleaver
+Binds when picked up
+Two-hand
+Axe
+82 - 123  Damage
+Speed 2.40
+(42.7 damage per second)
++21 Strength
++6 Stamina
+Durability 85 / 85
+
+
+Item #12249
+URL: https://database.turtle-wow.org/?item=12249
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Merciless Axe
+Binds when equipped
+Two-hand
+Axe
+54 - 81  Damage
+Speed 3.20
+(21.1 damage per second)
++12 Strength
+Durability 85 / 85
+Requires Level 26
+
+
+Item #12250
+URL: https://database.turtle-wow.org/?item=12250
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Midnight Axe
+Binds when equipped
+Two-hand
+Axe
+49 - 75  Damage
+Speed 2.70
+(23.0 damage per second)
+Durability 85 / 85
+Requires Level 29
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 30 Shadow damage.
+
+
+Item #12282
+URL: https://database.turtle-wow.org/?item=12282
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Worn Battleaxe
+Two-hand
+Axe
+3 - 5  Damage
+Speed 2.90
+(1.4 damage per second)
+Durability 25 / 25
+
+
+Item #12285
+URL: https://database.turtle-wow.org/?item=12285
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Rev. Bearded Single Bladed - Red
+Two-hand
+Axe
+2 - 3  Damage
+Speed 2.80
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12294
+URL: https://database.turtle-wow.org/?item=12294
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Horde Green War Axe
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12461
+URL: https://database.turtle-wow.org/?item=12461
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Horde Brown Tombstone
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12754
+URL: https://database.turtle-wow.org/?item=12754
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H War Green - Mulgore Protector
+Two-hand
+Axe
+2 - 3  Damage
+Speed 2.80
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #12769
+URL: https://database.turtle-wow.org/?item=12769
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Bleakwood Hew
+Binds when equipped
+Two-hand
+Axe
+100 - 151  Damage
+Speed 2.70
+(46.5 damage per second)
++11 Strength
++5 Stamina
+Durability 100 / 100
+Requires Level 49
+Chance on hit:
+Enemy is inflicted with the Bleakwood Curse that reduces their magic resistances by 25.  Can be applied up to 3 times.
+
+
+Item #12775
+URL: https://database.turtle-wow.org/?item=12775
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Huge Thorium Battleaxe
+Binds when equipped
+Two-hand
+Axe
+114 - 172  Damage
+Speed 3.30
+(43.3 damage per second)
+Durability 85 / 85
+Requires Level 51
+Equip:
+Increased Two-handed Axes +10.
+
+
+Item #12784
+URL: https://database.turtle-wow.org/?item=12784
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Arcanite Reaper
+Binds when equipped
+Two-hand
+Axe
+153 - 256  Damage
+Speed 3.80
+(53.8 damage per second)
++13 Stamina
+Durability 100 / 100
+Requires Level 58
+Equip:
++62 Attack Power.
+
+
+Item #12951
+URL: https://database.turtle-wow.org/?item=12951
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H War - Red
+Two-hand
+Axe
+3 - 5  Damage
+Speed 3.90
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #12975
+URL: https://database.turtle-wow.org/?item=12975
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Prospector Axe
+Binds when equipped
+Two-hand
+Axe
+33 - 51  Damage
+Speed 2.40
+(17.5 damage per second)
++8 Stamina
++7 Strength
+Durability 75 / 75
+Requires Level 15
+
+
+Item #13003
+URL: https://database.turtle-wow.org/?item=13003
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Lord Alexander's Battle Axe
+Binds when equipped
+Two-hand
+Axe
+123 - 185  Damage
+Speed 3.20
+(48.1 damage per second)
++16 Strength
++16 Stamina
++17 Agility
+Durability 100 / 100
+Requires Level 51
+
+
+Item #13018
+URL: https://database.turtle-wow.org/?item=13018
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Executioner's Cleaver
+Binds when equipped
+Two-hand
+Axe
+127 - 191  Damage
+Speed 3.80
+(41.8 damage per second)
++23 Strength
+Durability 100 / 100
+Requires Level 43
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #13016
+URL: https://database.turtle-wow.org/?item=13016
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Killmaim
+Binds when equipped
+Two-hand
+Axe
+55 - 84  Damage
+Speed 3.20
+(21.7 damage per second)
+Durability 95 / 95
+Requires Level 21
+Chance on hit:
+Wounds the target causing them to bleed for 100 damage over 30 sec.
+
+
+Item #13017
+URL: https://database.turtle-wow.org/?item=13017
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Hellslayer Battle Axe
+Binds when equipped
+Two-hand
+Axe
+82 - 124  Damage
+Speed 2.90
+(35.5 damage per second)
+Durability 100 / 100
+Requires Level 35
+Equip:
++66 Attack Power when fighting Undead.
+
+
+Item #13285
+URL: https://database.turtle-wow.org/?item=13285
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+The Blackrock Slicer
+Binds when picked up
+Two-hand
+Axe
+159 - 239  Damage
+Speed 4.00
+(49.8 damage per second)
+Durability 100 / 100
+Requires Level 53
+Chance on hit:
+Wounds the target for 50 to 151 damage and deals an additional 6 damage every 1 sec for 25 sec.
+
+
+Item #13706
+URL: https://database.turtle-wow.org/?item=13706
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Horde Black Tombstone
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #13819
+URL: https://database.turtle-wow.org/?item=13819
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Balanced War Axe
+Two-hand
+Axe
+55 - 83  Damage
+Speed 2.50
+(27.6 damage per second)
+Durability 85 / 85
+Requires Level 54
+
+
+Item #13983
+URL: https://database.turtle-wow.org/?item=13983
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Gravestone War Axe
+Binds when picked up
+Two-hand
+Axe
+144 - 217  Damage
+Speed 3.40
+(53.1 damage per second)
+Durability 100 / 100
+Requires Level 57
+Chance on hit:
+Diseases target enemy for 55 Nature damage every 3 sec for 15 sec.
+
+
+Item #14475
+URL: https://database.turtle-wow.org/?item=14475
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H War A03 White
+Two-hand
+Axe
+2 - 3  Damage
+Speed 2.80
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #14643
+URL: https://database.turtle-wow.org/?item=14643
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Battle A03 Red
+Two-hand
+Axe
+3 - 5  Damage
+Speed 3.90
+(1.0 damage per second)
+Durability 20 / 20
+
+
+Item #14870
+URL: https://database.turtle-wow.org/?item=14870
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Horde Massive Spiked
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #15268
+URL: https://database.turtle-wow.org/?item=15268
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Twin-bladed Axe
+Binds when equipped
+Two-hand
+Axe
+23 - 35  Damage
+Speed 2.70
+(10.7 damage per second)
+Durability 55 / 55
+Requires Level 11
+Random Bonuses
+
+
+Item #15270
+URL: https://database.turtle-wow.org/?item=15270
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Gigantic War Axe
+Binds when equipped
+Two-hand
+Axe
+91 - 137  Damage
+Speed 3.20
+(35.6 damage per second)
+Durability 85 / 85
+Requires Level 41
+Random Bonuses
+
+
+Item #15269
+URL: https://database.turtle-wow.org/?item=15269
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Massive Battle Axe
+Binds when equipped
+Two-hand
+Axe
+42 - 64  Damage
+Speed 3.30
+(16.1 damage per second)
+Durability 75 / 75
+Requires Level 19
+Random Bonuses
+
+
+Item #15272
+URL: https://database.turtle-wow.org/?item=15272
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Razor Axe
+Binds when equipped
+Two-hand
+Axe
+91 - 138  Damage
+Speed 2.50
+(45.8 damage per second)
+Durability 85 / 85
+Requires Level 54
+Random Bonuses
+
+
+Item #15271
+URL: https://database.turtle-wow.org/?item=15271
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Colossal Great Axe
+Binds when equipped
+Two-hand
+Axe
+132 - 198  Damage
+Speed 3.80
+(43.4 damage per second)
+Durability 85 / 85
+Requires Level 51
+Random Bonuses
+
+
+Item #15273
+URL: https://database.turtle-wow.org/?item=15273
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Death Striker
+Binds when equipped
+Two-hand
+Axe
+109 - 165  Damage
+Speed 2.80
+(48.9 damage per second)
+Durability 85 / 85
+Requires Level 58
+Random Bonuses
+
+
+Item #15424
+URL: https://database.turtle-wow.org/?item=15424
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Axe of Orgrimmar
+Binds when picked up
+Two-hand
+Axe
+31 - 47  Damage
+Speed 3.30
+(11.8 damage per second)
++3 Stamina
++3 Strength
+Durability 60 / 60
+
+
+Item #17104
+URL: https://database.turtle-wow.org/?item=17104
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Spinal Reaper
+Binds when picked up
+Two-hand
+Axe
+206 - 310  Damage
+Speed 3.40
+(75.9 damage per second)
+Durability 120 / 120
+Requires Level 60
+Equip:
+Restores 300 mana or 20 rage when you kill a target that gives experience; this effect cannot occur more than once every 10 sec.
+Equip:
++36 Attack Power.
+
+
+Item #17383
+URL: https://database.turtle-wow.org/?item=17383
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Horde Black War Axe
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #17463
+URL: https://database.turtle-wow.org/?item=17463
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Horde Blue War Axe
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #17730
+URL: https://database.turtle-wow.org/?item=17730
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Gatorbite Axe
+Binds when picked up
+Two-hand
+Axe
+117 - 176  Damage
+Speed 3.20
+(45.8 damage per second)
+Durability 100 / 100
+Requires Level 48
+Chance on hit:
+Wounds the target causing them to bleed for 230 damage over 30 sec.
+
+
+Item #18002
+URL: https://database.turtle-wow.org/?item=18002
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Horde Massive Spiked Blue
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #18324
+URL: https://database.turtle-wow.org/?item=18324
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Waveslicer
+Binds when picked up
+Two-hand
+Axe
+123 - 185  Damage
+Speed 3.10
+(49.7 damage per second)
++26 Strength
+Durability 100 / 100
+Requires Level 53
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #18419
+URL: https://database.turtle-wow.org/?item=18419
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Horde Red War Axe
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #18538
+URL: https://database.turtle-wow.org/?item=18538
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Treant's Bane
+Binds when picked up
+Two-hand
+Axe
+166 - 250  Damage
+Speed 3.50
+(59.4 damage per second)
++22 Strength
+Durability 120 / 120
+Requires Level 58
+Equip:
+Improves your chance to get a critical strike by 2%.
+Chance on hit:
+Delivers a devastating blow for 240 to 301 damage and reduces the effectiveness of any healing by 20% for 8 sec.
+
+
+Item #18759
+URL: https://database.turtle-wow.org/?item=18759
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Malicious Axe
+Binds when picked up
+Two-hand
+Axe
+131 - 197  Damage
+Speed 3.10
+(52.9 damage per second)
++30 Stamina
+Durability 100 / 100
+Requires Level 57
+Equip:
++26 Attack Power.
+
+
+Item #18830
+URL: https://database.turtle-wow.org/?item=18830
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Grand Marshal's Sunderer
+Binds when picked up
+Two-hand
+Axe
+262 - 380  Damage
+Speed 3.80
+(84.5 damage per second)
++43 Stamina
++28 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #18831
+URL: https://database.turtle-wow.org/?item=18831
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+High Warlord's Battle Axe
+Binds when picked up
+Two-hand
+Axe
+262 - 380  Damage
+Speed 3.80
+(84.5 damage per second)
++43 Stamina
++28 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #19169
+URL: https://database.turtle-wow.org/?item=19169
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Nightfall
+Binds when equipped
+Two-hand
+Axe
+187 - 282  Damage
+Speed 3.50
+(67.0 damage per second)
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Spell damage taken by target increased by 10% for 7 sec.
+
+
+Item #19354
+URL: https://database.turtle-wow.org/?item=19354
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Draconic Avenger
+Binds when picked up
+Two-hand
+Axe
+174 - 262  Damage
+Speed 3.20
+(68.1 damage per second)
++22 Strength
++25 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Increases your chance to parry an attack by 2%.
+
+
+Item #19353
+URL: https://database.turtle-wow.org/?item=19353
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Drake Talon Cleaver
+Binds when picked up
+Two-hand
+Axe
+199 - 300  Damage
+Speed 3.40
+(73.4 damage per second)
++17 Strength
++17 Stamina
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Delivers a fatal wound for 240 damage.
+Equip:
+Increased Two-handed Axes +8.
+
+
+Item #19900
+URL: https://database.turtle-wow.org/?item=19900
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Zulian Stone Axe
+Binds when picked up
+Two-hand
+Axe
+131 - 197  Damage
+Speed 2.80
+(58.6 damage per second)
++22 Intellect
+Durability 100 / 100
+Requires Level 60
+Equip:
++44 Attack Power.
+Equip:
+Improves your chance to get a critical strike by 1%.
+"Bears the mark of Jin."
+
+
+Item #19962
+URL: https://database.turtle-wow.org/?item=19962
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Gri'lek's Carver
+Binds when picked up
+Two-hand
+Axe
+182 - 274  Damage
+Speed 3.90
+(58.5 damage per second)
+Durability 100 / 100
+Requires Level 60
+Equip:
++117 Attack Power when fighting Dragonkin.
+
+
+Item #20238
+URL: https://database.turtle-wow.org/?item=20238
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+90 Green Warrior Axe
+Two-hand
+Axe
+216 - 325  Damage
+Speed 3.50
+(77.3 damage per second)
++28 Strength
++27 Stamina
+Durability 85 / 85
+Requires Level 60
+
+
+Item #20280
+URL: https://database.turtle-wow.org/?item=20280
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+63 Green Warrior Axe
+Two-hand
+Axe
+137 - 206  Damage
+Speed 3.50
+(49.0 damage per second)
++19 Strength
++18 Stamina
+Durability 85 / 85
+Requires Level 58
+
+
+Item #21134
+URL: https://database.turtle-wow.org/?item=21134
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dark Edge of Insanity
+Binds when picked up
+Unique
+Two-hand
+Axe
+242 - 364  Damage
+Speed 3.50
+(86.6 damage per second)
++35 Strength
++19 Agility
++25 Stamina
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Disorients the target, causing it to wander aimlessly for up to 3 sec.
+
+
+Item #21192
+URL: https://database.turtle-wow.org/?item=21192
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H UBER Blackwing
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #21286
+URL: https://database.turtle-wow.org/?item=21286
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Large Double Bladed, Gold
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #21580
+URL: https://database.turtle-wow.org/?item=21580
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - 2H Axe, Horde PvP
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #21856
+URL: https://database.turtle-wow.org/?item=21856
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Neretzek, The Blood Drinker
+Binds when picked up
+Two-hand
+Axe
+202 - 303  Damage
+Speed 3.70
+(68.2 damage per second)
++21 Strength
++16 Stamina
+Durability 120 / 120
+Requires Level 60
+Chance on hit:
+Steals 141 to 164 life from target enemy.
+
+
+Item #22199
+URL: https://database.turtle-wow.org/?item=22199
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Monster - Axe, 2H Arcanite Reaper
+Two-hand
+Axe
+2 - 4  Damage
+Speed 3.30
+(0.9 damage per second)
+Durability 20 / 20
+
+
+Item #22815
+URL: https://database.turtle-wow.org/?item=22815
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Severance
+Binds when picked up
+Two-hand
+Axe
+242 - 366  Damage
+Speed 3.60
+(84.4 damage per second)
++20 Stamina
++43 Strength
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 2%.
+
+
+Item #23171
+URL: https://database.turtle-wow.org/?item=23171
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+The Axe of Severing
+Binds when picked up
+Two-hand
+Axe
+50 - 76  Damage
+Speed 3.00
+(21.0 damage per second)
++14 Strength
+Durability 90 / 90
+Requires Level 20
+
+
+Item #40065
+URL: https://database.turtle-wow.org/?item=40065
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Horde Defender's Axe
+Binds when picked up
+Two-hand
+Axe
+44 - 57  Damage
+Speed 3.30
+(15.3 damage per second)
+55 Armor
++8 Strength
+Durability 65 / 65
+Chance on hit:
+Summons a Horde Defender that will protect the area from enemies of the Horde.
+
+
+Item #41048
+URL: https://database.turtle-wow.org/?item=41048
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Whirring Shredder Saw
+Binds when equipped
+Two-hand
+Axe
+15 - 28  Damage
+Speed 3.00
+(7.2 damage per second)
+Durability 45 / 45
+Requires Level 5
+Chance on hit:
+Wounds the target for 20 damage.
+
+
+Item #41295
+URL: https://database.turtle-wow.org/?item=41295
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Lost Excavation Pickaxe
+Binds when equipped
+Two-hand
+Axe
+90 - 167  Damage
+Speed 3.20
+(40.2 damage per second)
++6 Strength
+Durability 85 / 85
+Requires Level 47
+Equip:
+Your attacks ignore 50 of the target's armor.
+"All too familiar with rocks and stones."
+
+
+Item #41845
+URL: https://database.turtle-wow.org/?item=41845
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Algo'rath the Unbinder
+Binds when picked up
+Two-hand
+Axe
+65 - 105  Damage
+Speed 2.70
+(31.5 damage per second)
++7 Intellect
+Durability 100 / 100
+Requires Level 29
+Equip:
+Increases your attack and casting speed by 1%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 6.
+
+
+Item #51753
+URL: https://database.turtle-wow.org/?item=51753
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Archaic Slicer
+Binds when equipped
+One-hand
+Axe
+46 - 84  Damage
+Speed 3.20
+(20.3 damage per second)
+200 Armor
++10 Nature Resistance
+Durability 100 / 100
+Requires Level 29
+Chance on hit:
+Inflicts weapon damage plus 30 to an enemy and its nearest allies, affecting up to 3 targets.
+
+
+Item #51779
+URL: https://database.turtle-wow.org/?item=51779
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Greataxe of the Decrepit Crypt
+Binds when picked up
+Two-hand
+Axe
+182 - 269  Damage
+Speed 3.60
+(62.6 damage per second)
++20 Stamina
+Durability 120 / 120
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 2%.
+Equip:
+Increases damage and healing done by magical spells and effects by up to 26.
+"Hewn from a fragment of stone from Karazhan, latent magic still resides within."
+
+
+Item #51892
+URL: https://database.turtle-wow.org/?item=51892
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+The Reaver
+Binds when picked up
+Two-hand
+Axe
+140 - 193  Damage
+Speed 3.60
+(46.3 damage per second)
+Durability 85 / 85
+Equip:
++40 Attack Power.
+Equip:
+Improves your chance to hit by 1%.
+
+
+Item #55127
+URL: https://database.turtle-wow.org/?item=55127
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Shar'tateth, the Shattered Edge
+Binds when picked up
+Unique
+Two-hand
+Axe
+307 - 453  Damage
+Speed 3.80
+(100.0 damage per second)
++45 Strength
++25 Agility
+Durability 120 / 120
+Requires Level 60
+Equip:
+Your attacks ignore 75 of the target's armor.
+Chance on hit:
+Reduces an enemy's armor by 250.
+
+
+Item #58035
+URL: https://database.turtle-wow.org/?item=58035
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Amberwood Great-Axe
+Binds when picked up
+Two-hand
+Axe
+63 - 94  Damage
+Speed 3.40
+(23.1 damage per second)
++13 Strength
++3 Agility
+Durability 85 / 85
+
+
+Item #58128
+URL: https://database.turtle-wow.org/?item=58128
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Axe of Raging Winds
+Binds when picked up
+Two-hand
+Axe
+47 - 72  Damage
+Speed 3.00
+(19.8 damage per second)
++6 Strength
++8 Agility
+Durability 85 / 85
+
+
+Item #58130
+URL: https://database.turtle-wow.org/?item=58130
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Maneater Cleaver
+Binds when picked up
+Two-hand
+Axe
+73 - 99  Damage
+Speed 3.50
+(24.6 damage per second)
++10 Stamina
++9 Agility
+Durability 85 / 85
+Requires Level 31
+
+
+Item #58163
+URL: https://database.turtle-wow.org/?item=58163
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Headsplitter Axe
+Binds when equipped
+Two-hand
+Axe
+64 - 96  Damage
+Speed 3.00
+(26.7 damage per second)
++8 Stamina
++6 Spirit
+Durability 85 / 85
+Requires Level 33
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 55 to 86 Shadow damage.
+
+
+Item #58292
+URL: https://database.turtle-wow.org/?item=58292
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Stormreaver Warhatchet
+Binds when equipped
+Two-hand
+Axe
+75 - 113  Damage
+Speed 2.80
+(33.6 damage per second)
++14 Strength
++12 Agility
+Durability 100 / 100
+Requires Level 33
+
+
+Item #60552
+URL: https://database.turtle-wow.org/?item=60552
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dig Master's Pick
+Binds when picked up
+Two-hand
+Axe
+129 - 191  Damage
+Speed 3.40
+(47.1 damage per second)
++4 Strength
+Durability 100 / 100
+Requires Level 49
+Equip:
+Increased Two-handed Axes +3.
+Equip:
+Your attacks ignore 150 of the target's armor.
+
+
+Item #60616
+URL: https://database.turtle-wow.org/?item=60616
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Shadowcaller Axe
+Binds when equipped
+Two-hand
+Axe
+108 - 162  Damage
+Speed 2.90
+(46.6 damage per second)
++10 Shadow Resistance
+Durability 100 / 100
+Requires Level 49
+Use:
+Hurls missiles of dark magic, inflicting 25 to 46 Shadow damage to up to the 3 nearest enemies.
+
+
+Item #60701
+URL: https://database.turtle-wow.org/?item=60701
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Scrapforged Greataxe
+Binds when picked up
+Two-hand
+Axe
+114 - 179  Damage
+Speed 3.20
+(45.8 damage per second)
++20 Strength
++10 Stamina
++5 Fire Resistance
+Durability 85 / 85
+
+
+Item #60885
+URL: https://database.turtle-wow.org/?item=60885
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dar'kar of the Third Khan
+Binds when picked up
+Two-hand
+Axe
+148 - 224  Damage
+Speed 3.60
+(51.7 damage per second)
++26 Strength
+Durability 120 / 120
+Requires Level 48
+Requires Magram Clan Centaur - Exalted
+Equip:
+Improves your chance to get a critical strike by 1%.
+"The mighty long-axe once wielded during the time of the third khan."
+
+
+Item #61318
+URL: https://database.turtle-wow.org/?item=61318
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Fleshslasher
+Binds when picked up
+Two-hand
+Axe
+105 - 160  Damage
+Speed 3.10
+(42.7 damage per second)
+Durability 100 / 100
+Requires Level 44
+Chance on hit:
+Wounds the target for 95 to 122 damage.
+
+
+Item #61542
+URL: https://database.turtle-wow.org/?item=61542
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Dwarven Pickaxe
+Binds when picked up
+Unique
+Two-hand
+Axe
+106 - 197  Damage
+Speed 3.10
+(48.9 damage per second)
+Durability 100 / 100
+Requires Level 52
+Equip:
+Mining +10.
+
+
+Item #70011
+URL: https://database.turtle-wow.org/?item=70011
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Baneful Edge
+Binds when picked up
+Two-hand
+Axe
+52 - 79  Damage
+Speed 3.20
+(20.5 damage per second)
++5 Stamina
+Durability 85 / 85
+Equip:
++30 Attack Power when fighting Demons.
+
+
+Item #80547
+URL: https://database.turtle-wow.org/?item=80547
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Quel'dorei Guardian's Battle Axe
+Binds when picked up
+Unique
+Two-hand
+Axe
+136 - 243  Damage
+Speed 3.40
+(55.7 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Silvermoon Remnant - Revered
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++50 Attack Power.
+
+
+Item #80634
+URL: https://database.turtle-wow.org/?item=80634
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Revantusk Watcher's Carver
+Binds when picked up
+Two-hand
+Axe
+136 - 243  Damage
+Speed 3.40
+(55.7 damage per second)
++8 Stamina
+Durability 100 / 100
+Requires Level 60
+Requires Revantusk Trolls - Revered
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++50 Attack Power.
+
+
+Item #81316
+URL: https://database.turtle-wow.org/?item=81316
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Foe Chopper
+Binds when picked up
+Two-hand
+Axe
+39 - 59  Damage
+Speed 3.20
+(15.3 damage per second)
++3 Strength
++6 Stamina
+Durability 70 / 70
+
+
+Item #83209
+URL: https://database.turtle-wow.org/?item=83209
+Category: Database/Items/Weapons/Two-Handed Axes
+Item: 
+Sentinel's Moonslicer
+Binds when picked up
+Two-hand
+Axe
+75 - 113  Damage
+Speed 2.80
+(33.6 damage per second)
+Durability 100 / 100
+Requires Level 33
+Chance on hit:
+Causes 89 to 110 Arcane damage to the target.
+
+

@@ -1,0 +1,250 @@
+Item #22399
+URL: https://database.turtle-wow.org/?item=22399
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Health
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Reduces the casting time of your Healing Touch spell by 0.15 sec.
+
+
+Item #22397
+URL: https://database.turtle-wow.org/?item=22397
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Ferocity
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 52
+Equip:
+Reduces the energy cost of Claw and Rake by 3.
+
+
+Item #22398
+URL: https://database.turtle-wow.org/?item=22398
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Rejuvenation
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 57
+Equip:
+Increases healing done by Rejuvenation by up to 50.
+
+
+Item #23004
+URL: https://database.turtle-wow.org/?item=23004
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Longevity
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Gain 25 mana each time you cast Healing Touch.
+
+
+Item #23100
+URL: https://database.turtle-wow.org/?item=23100
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Fluidity
+Binds when equipped
+Unique
+Relic
+Idol
+Requires Level 38
+Equip:
+Increases the swim speed of your Aquatic Form by 20%.
+
+
+Item #23197
+URL: https://database.turtle-wow.org/?item=23197
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of the Moon
+Binds when equipped
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Increases the damage of your Moonfire spell by up to 17%.
+
+
+Item #23198
+URL: https://database.turtle-wow.org/?item=23198
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Brutality
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Reduces the rage cost of Maul and Swipe by 3.
+
+
+Item #51798
+URL: https://database.turtle-wow.org/?item=51798
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of the Wildshifter
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Reduces the Mana cost of your shapeshifting spells by 75.
+
+
+Item #51802
+URL: https://database.turtle-wow.org/?item=51802
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Evergrowth
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 46
+Equip:
+Gives a 3% chance to deal 16 to 21 Nature damage to all enemy targets within 8 yards when attacked while protected by Thorns.
+
+
+Item #55082
+URL: https://database.turtle-wow.org/?item=55082
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Laceration
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Your finishing moves have a 20% chance per combo point to cause your next Shred to refund 15 Energy.
+
+
+Item #55373
+URL: https://database.turtle-wow.org/?item=55373
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of the Apex Predator
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 18
+Equip:
+Reduces the Rage cost of your Demoralizing Roar by 20.
+
+
+Item #55497
+URL: https://database.turtle-wow.org/?item=55497
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Ebb and Flow
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Reduces the cast time of Starfire by 200 sec.
+
+
+Item #58091
+URL: https://database.turtle-wow.org/?item=58091
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of the Thorned Grove
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 29
+Equip:
+Casting Entangling Roots on an enemy causes the roots to slice them, reducing their casting speed by 10% and dealing 90 damage over 6 sec.
+
+
+Item #58179
+URL: https://database.turtle-wow.org/?item=58179
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Propagation
+Binds when picked up
+Relic
+Idol
+Requires Level 33
+Equip:
+Your Insect Swarm spreads a deadly fungus, dealing 120 Nature damage over 12 sec. If the target falls below 20% health, the fungus bursts, instantly dealing 150 Nature damage and reducing movement speed by 20% for 5 sec.
+
+
+Item #58206
+URL: https://database.turtle-wow.org/?item=58206
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of the Forgotten Wilds
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Your Regrowth initial healing has a 10% chance to sprout a plant to heal wounded allies for 8 sec.
+
+
+Item #61293
+URL: https://database.turtle-wow.org/?item=61293
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of the Moonfang
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Moonfire, Savage Bite and Shred restore 50 mana and 125 health. This effect is doubled on a critical strike.
+
+
+Item #61455
+URL: https://database.turtle-wow.org/?item=61455
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of the Emerald Rot
+Binds when picked up
+Unique
+Relic
+Idol
+Requires Level 60
+Equip:
+Your finishing moves have a 20% chance per combo point to deal 150 to 191 Nature damage.
+
+
+Item #61699
+URL: https://database.turtle-wow.org/?item=61699
+Category: Database/Items/Armor/Idols
+Item: 
+Idol of Savagery
+Binds when picked up
+Relic
+Idol
+Requires Level 60
+Equip:
+Reduces the time between periodic ticks and the duration of Rake and Rip by 10%.
+
+

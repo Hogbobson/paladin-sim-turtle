@@ -1,0 +1,1315 @@
+Item #2942
+URL: https://database.turtle-wow.org/?item=2942
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Iron Knuckles
+Binds when picked up
+One-hand
+Fist Weapon
+19 - 37  Damage
+Speed 1.70
+(16.5 damage per second)
+Durability 60 / 60
+Requires Level 21
+Chance on hit:
+Pummel the target for 4 damage and interrupt the spell being cast for 5 sec.
+
+
+Item #3494
+URL: https://database.turtle-wow.org/?item=3494
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Monster - Claw
+One-hand
+Fist Weapon
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #5600
+URL: https://database.turtle-wow.org/?item=5600
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Monster - Claw - Bear
+One-hand
+Fist Weapon
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #7683
+URL: https://database.turtle-wow.org/?item=7683
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Bloody Brass Knuckles
+Binds when picked up
+One-hand
+Fist Weapon
+22 - 41  Damage
+Speed 1.60
+(19.7 damage per second)
++8 Intellect
+Durability 65 / 65
+Requires Level 29
+
+
+Item #11314
+URL: https://database.turtle-wow.org/?item=11314
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Monster - Claw Insect
+One-hand
+Fist Weapon
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #11505
+URL: https://database.turtle-wow.org/?item=11505
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Monster - Claw - Bear Offhand
+Off Hand
+Fist Weapon
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #11506
+URL: https://database.turtle-wow.org/?item=11506
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Monster - Claw Offhand
+Off Hand
+Fist Weapon
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #11603
+URL: https://database.turtle-wow.org/?item=11603
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Vilerend Slicer
+Binds when equipped
+Main Hand
+Fist Weapon
+33 - 62  Damage
+Speed 1.40
+(33.9 damage per second)
+Durability 65 / 65
+Requires Level 46
+Chance on hit:
+Wounds the target for 75 damage.
+
+
+Item #11743
+URL: https://database.turtle-wow.org/?item=11743
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Rockfist
+Binds when picked up
+One-hand
+Fist Weapon
+32 - 60  Damage
+Speed 1.40
+(32.9 damage per second)
++10 Strength
+Durability 55 / 55
+Requires Level 50
+
+
+Item #11744
+URL: https://database.turtle-wow.org/?item=11744
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Bloodfist
+Binds when picked up
+One-hand
+Fist Weapon
+38 - 72  Damage
+Speed 1.50
+(36.7 damage per second)
+Durability 65 / 65
+Requires Level 51
+Chance on hit:
+Wounds the target for 20 damage.
+
+
+Item #11863
+URL: https://database.turtle-wow.org/?item=11863
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+White Bone Shredder
+Binds when picked up
+Off Hand
+Fist Weapon
+30 - 57  Damage
+Speed 1.40
+(31.1 damage per second)
++4 Strength
++7 Agility
+Durability 55 / 55
+
+
+Item #12795
+URL: https://database.turtle-wow.org/?item=12795
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Blood Talon
+Binds when equipped
+Main Hand
+Fist Weapon
+35 - 67  Damage
+Speed 1.30
+(39.2 damage per second)
+Durability 65 / 65
+Requires Level 55
+Chance on hit:
+Wounds the target causing them to bleed for 100 damage over 30 sec.
+
+
+Item #13198
+URL: https://database.turtle-wow.org/?item=13198
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Hurd Smasher
+Binds when picked up
+One-hand
+Fist Weapon
+49 - 93  Damage
+Speed 1.80
+(39.4 damage per second)
+Durability 65 / 65
+Requires Level 55
+Chance on hit:
+Knocks target silly for 2 sec.
+
+
+Item #13399
+URL: https://database.turtle-wow.org/?item=13399
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Gargoyle Shredder Talons
+Binds when picked up
+Off Hand
+Fist Weapon
+49 - 91  Damage
+Speed 1.80
+(38.9 damage per second)
+Durability 65 / 65
+Requires Level 54
+Chance on hit:
+Wounds the target causing them to bleed for 110 damage over 30 sec.
+
+
+Item #15905
+URL: https://database.turtle-wow.org/?item=15905
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Right-Handed Brass Knuckles
+Main Hand
+Fist Weapon
+6 - 13  Damage
+Speed 1.40
+(6.8 damage per second)
+Durability 35 / 35
+Requires Level 10
+
+
+Item #15909
+URL: https://database.turtle-wow.org/?item=15909
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Left-Handed Blades
+Off Hand
+Fist Weapon
+18 - 34  Damage
+Speed 1.50
+(17.3 damage per second)
+Durability 55 / 55
+Requires Level 30
+
+
+Item #15904
+URL: https://database.turtle-wow.org/?item=15904
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Right-Handed Blades
+Main Hand
+Fist Weapon
+18 - 34  Damage
+Speed 1.50
+(17.3 damage per second)
+Durability 55 / 55
+Requires Level 30
+
+
+Item #15903
+URL: https://database.turtle-wow.org/?item=15903
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Right-Handed Claw
+Main Hand
+Fist Weapon
+12 - 23  Damage
+Speed 1.50
+(11.7 damage per second)
+Durability 45 / 45
+Requires Level 20
+
+
+Item #15907
+URL: https://database.turtle-wow.org/?item=15907
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Left-Handed Claw
+Off Hand
+Fist Weapon
+12 - 23  Damage
+Speed 1.50
+(11.7 damage per second)
+Durability 45 / 45
+Requires Level 20
+
+
+Item #15906
+URL: https://database.turtle-wow.org/?item=15906
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Left-Handed Brass Knuckles
+Off Hand
+Fist Weapon
+6 - 13  Damage
+Speed 1.40
+(6.8 damage per second)
+Durability 35 / 35
+Requires Level 10
+
+
+Item #17738
+URL: https://database.turtle-wow.org/?item=17738
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Claw of Celebras
+Binds when picked up
+Off Hand
+Fist Weapon
+43 - 81  Damage
+Speed 1.80
+(34.4 damage per second)
+Durability 65 / 65
+Requires Level 47
+Chance on hit:
+Poisons target for 9 Nature damage every 2 sec for 20 sec.
+
+
+Item #18203
+URL: https://database.turtle-wow.org/?item=18203
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Eskhandar's Right Claw
+Binds when picked up
+Unique
+Main Hand
+Fist Weapon
+50 - 94  Damage
+Speed 1.50
+(48.0 damage per second)
++4 Agility
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Increases your attack speed by 30% for 5 sec.
+Spirit of Eskhandar
+(0/4)
+Eskhandar's Right Claw
+Eskhandar's Left Claw
+Eskhandar's Pelt
+Eskhandar's Collar
+(4) Set:
+1% chance on a melee critical hit to call forth the spirit of Eskhandar to protect you in battle for 120 sec.
+
+
+Item #18202
+URL: https://database.turtle-wow.org/?item=18202
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Eskhandar's Left Claw
+Binds when picked up
+Unique
+Off Hand
+Fist Weapon
+50 - 94  Damage
+Speed 1.50
+(48.0 damage per second)
++4 Agility
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Slows enemy's movement by 60% and causes them to bleed for 150 damage over 30 sec.
+Spirit of Eskhandar
+(0/4)
+Eskhandar's Right Claw
+Eskhandar's Left Claw
+Eskhandar's Pelt
+Eskhandar's Collar
+(4) Set:
+1% chance on a melee critical hit to call forth the spirit of Eskhandar to protect you in battle for 120 sec.
+
+
+Item #18462
+URL: https://database.turtle-wow.org/?item=18462
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Jagged Bone Fist
+Binds when picked up
+Main Hand
+Fist Weapon
+51 - 78  Damage
+Speed 1.80
+(35.8 damage per second)
++8 Strength
++7 Stamina
+Durability 55 / 55
+Requires Level 55
+
+
+Item #18843
+URL: https://database.turtle-wow.org/?item=18843
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Grand Marshal's Right Hand Blade
+Binds when picked up
+Main Hand
+Fist Weapon
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #18847
+URL: https://database.turtle-wow.org/?item=18847
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Grand Marshal's Left Hand Blade
+Binds when picked up
+Off Hand
+Fist Weapon
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #18848
+URL: https://database.turtle-wow.org/?item=18848
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+High Warlord's Left Claw
+Binds when picked up
+Off Hand
+Fist Weapon
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #18844
+URL: https://database.turtle-wow.org/?item=18844
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+High Warlord's Right Claw
+Binds when picked up
+Main Hand
+Fist Weapon
+156 - 224  Damage
+Speed 2.90
+(65.5 damage per second)
++12 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++28 Attack Power.
+
+
+Item #19365
+URL: https://database.turtle-wow.org/?item=19365
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Claw of the Black Drake
+Binds when picked up
+Unique
+Main Hand
+Fist Weapon
+102 - 191  Damage
+Speed 2.60
+(56.3 damage per second)
++13 Strength
++7 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+
+
+Item #19896
+URL: https://database.turtle-wow.org/?item=19896
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Thekal's Grasp
+Binds when picked up
+Unique
+Main Hand
+Fist Weapon
+72 - 135  Damage
+Speed 2.20
+(47.0 damage per second)
++13 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Primal Blessing
+(0/2)
+Thekal's Grasp
+Arlokk's Grasp
+(2) Set:
+Grants a small chance when ranged or melee damage is dealt to infuse the wielder with a blessing from the Primal Gods. Ranged and melee attack power increased by 300 for 12 seconds.
+
+
+Item #19910
+URL: https://database.turtle-wow.org/?item=19910
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Arlokk's Grasp
+Binds when picked up
+Unique
+Off Hand
+Fist Weapon
+43 - 92  Damage
+Speed 1.50
+(45.0 damage per second)
+Durability 75 / 75
+Requires Level 60
+Chance on hit:
+Sends a shadowy bolt at the enemy causing 55 to 86 Shadow damage.
+Primal Blessing
+(0/2)
+Thekal's Grasp
+Arlokk's Grasp
+(2) Set:
+Grants a small chance when ranged or melee damage is dealt to infuse the wielder with a blessing from the Primal Gods. Ranged and melee attack power increased by 300 for 12 seconds.
+
+
+Item #20003
+URL: https://database.turtle-wow.org/?item=20003
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Devilsaur Claws
+Binds when picked up
+Main Hand
+Fist Weapon
+48 - 90  Damage
+Speed 2.00
+(34.5 damage per second)
++4 Agility
+Durability 65 / 65
+Equip:
+Improves your chance to hit by 1%.
+"The claws hum with primal energy."
+
+
+Item #20005
+URL: https://database.turtle-wow.org/?item=20005
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Devilsaur Claws
+Binds when picked up
+Off Hand
+Fist Weapon
+48 - 90  Damage
+Speed 2.00
+(34.5 damage per second)
++4 Agility
+Durability 65 / 65
+Equip:
+Increased Fist Weapons +4.
+"The claws hum with primal energy."
+
+
+Item #21673
+URL: https://database.turtle-wow.org/?item=21673
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Silithid Claw
+Binds when picked up
+Off Hand
+Fist Weapon
+64 - 120  Damage
+Speed 1.60
+(57.5 damage per second)
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++30 Attack Power.
+
+
+Item #22210
+URL: https://database.turtle-wow.org/?item=22210
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Monster - Knuckle, B01 Red
+One-hand
+Fist Weapon
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #22211
+URL: https://database.turtle-wow.org/?item=22211
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Monster - Knuckle, B01 Red Offhand
+Off Hand
+Fist Weapon
+1 - 1  Damage
+Speed 1.50
+(0.7 damage per second)
+Durability 16 / 16
+
+
+Item #22317
+URL: https://database.turtle-wow.org/?item=22317
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Lefty's Brass Knuckle
+Binds when picked up
+One-hand
+Fist Weapon
+42 - 78  Damage
+Speed 1.50
+(40.0 damage per second)
++5 Strength
++12 Agility
+Durability 65 / 65
+Requires Level 56
+
+
+Item #22404
+URL: https://database.turtle-wow.org/?item=22404
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Willey's Back Scratcher
+Binds when picked up
+Main Hand
+Fist Weapon
+73 - 136  Damage
+Speed 2.60
+(40.2 damage per second)
++12 Stamina
+Durability 65 / 65
+Requires Level 56
+Equip:
++10 Attack Power.
+
+
+Item #23242
+URL: https://database.turtle-wow.org/?item=23242
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Claw of the Frost Wyrm
+Binds when picked up
+Unique
+Off Hand
+Fist Weapon
+75 - 140  Damage
+Speed 1.50
+(71.7 damage per second)
++8 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
+Improves your chance to hit by 1%.
+Equip:
++22 Attack Power.
+
+
+Item #41040
+URL: https://database.turtle-wow.org/?item=41040
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Moonclaw
+Binds when equipped
+Main Hand
+Fist Weapon
+6 - 11  Damage
+Speed 1.60
+(5.3 damage per second)
++1 Agility
+Durability 25 / 25
+Requires Level 5
+
+
+Item #51797
+URL: https://database.turtle-wow.org/?item=51797
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Claw of the Wildshifter
+Binds when picked up
+Main Hand
+Fist Weapon
+39 - 79  Damage
+Speed 1.40
+(42.1 damage per second)
+60 Armor
++15 Strength
++6 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
++140 Attack Power in Cat, Bear, Dire Bear, and Moonkin forms only.
+
+
+Item #55120
+URL: https://database.turtle-wow.org/?item=55120
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Al'Kazeth, Claw of Ruptured Elements
+Binds when picked up
+Unique
+One-hand
+Fist Weapon
+54 - 125  Damage
+Speed 2.20
+(40.7 damage per second)
++13 Intellect
++12 Spirit
+Durability 75 / 75
+Requires Level 60
+Equip:
+Increases damage and healing done by magical spells and effects by up to 128.
+Equip:
+Improves your chance to hit with spells by 1%.
+Equip:
+Improves your chance to get a critical strike with spells by 1%.
+
+
+Item #55133
+URL: https://database.turtle-wow.org/?item=55133
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Claw of the Mageweaver
+Binds when picked up
+Unique
+Off Hand
+Fist Weapon
+70 - 140  Damage
+Speed 1.60
+(65.6 damage per second)
++11 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++30 Attack Power.
+Chance on hit:
+Launches a bolt of frost at the enemy, causing 30 Frost damage and slowing movement speed by 20% for 5 sec.
+
+
+Item #55471
+URL: https://database.turtle-wow.org/?item=55471
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Wystan's Steel Fist
+Binds when picked up
+One-hand
+Fist Weapon
+36 - 70  Damage
+Speed 2.00
+(26.5 damage per second)
++3 Stamina
+Durability 65 / 65
+Requires Level 34
+Equip:
++16 Attack Power.
+"A steady fist and a strong stance is all you need."
+
+
+Item #55494
+URL: https://database.turtle-wow.org/?item=55494
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+The Abyssal Pincer
+Binds when picked up
+Unique
+Main Hand
+Fist Weapon
+87 - 163  Damage
+Speed 2.60
+(48.1 damage per second)
++5 Stamina
++4 Strength
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Chance on hit:
+Blasts the target for 120 Frost damage, reducing movement speed by 20% for 2 seconds.
+
+
+Item #58129
+URL: https://database.turtle-wow.org/?item=58129
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Claw of Tempered Fire
+Binds when picked up
+Main Hand
+Fist Weapon
+21 - 40  Damage
+Speed 2.00
+(15.3 damage per second)
++4 Stamina
+Durability 55 / 55
+Equip:
+Adds 2 fire damage to your melee attacks.
+
+
+Item #58161
+URL: https://database.turtle-wow.org/?item=58161
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Grim Claws
+Binds when equipped
+Main Hand
+Fist Weapon
+37 - 69  Damage
+Speed 2.70
+(19.6 damage per second)
++7 Agility
+Durability 75 / 75
+Requires Level 32
+
+
+Item #58207
+URL: https://database.turtle-wow.org/?item=58207
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Fist of the Flamewaker
+Binds when picked up
+Unique
+Off Hand
+Fist Weapon
+50 - 94  Damage
+Speed 1.50
+(48.0 damage per second)
++16 Agility
+Durability 75 / 75
+Requires Level 60
+Equip:
+Adds 4 fire damage to your weapon attack.
+
+
+Item #58268
+URL: https://database.turtle-wow.org/?item=58268
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Left
+Binds when picked up
+Off Hand
+Fist Weapon
+33 - 62  Damage
+Speed 1.90
+(25.0 damage per second)
++7 Agility
++5 Stamina
+Durability 90 / 90
+
+
+Item #58279
+URL: https://database.turtle-wow.org/?item=58279
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Antiquated Slasher
+Binds when picked up
+Main Hand
+Fist Weapon
+31 - 59  Damage
+Speed 2.30
+(19.6 damage per second)
++7 Strength
+Durability 75 / 75
+
+
+Item #60003
+URL: https://database.turtle-wow.org/?item=60003
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Remnants of an Old God
+Binds when picked up
+Unique
+Main Hand
+Fist Weapon
+126 - 233  Damage
+Speed 2.70
+(66.5 damage per second)
++13 Stamina
+Durability 75 / 75
+Requires Level 60
+Equip:
++26 Attack Power.
+Equip:
+Increased Fist Weapons +5.
+
+
+Item #60410
+URL: https://database.turtle-wow.org/?item=60410
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Willbreaker
+Binds when picked up
+Main Hand
+Fist Weapon
+67 - 122  Damage
+Speed 2.20
+(43.0 damage per second)
++4 Strength
++3 Agility
++4 Intellect
+Durability 65 / 65
+Requires Level 60
+Equip:
++20 Attack Power.
+
+
+Item #61042
+URL: https://database.turtle-wow.org/?item=61042
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Stormfist
+Binds when picked up
+One-hand
+Fist Weapon
+37 - 76  Damage
+Speed 1.30
+(43.5 damage per second)
+Durability 65 / 65
+Requires Level 60
+Chance on hit:
+Instantly throws a bolt of lightning at the target for 56 to 61 damage.
+
+
+Item #61541
+URL: https://database.turtle-wow.org/?item=61541
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Letashaz's Right Claw
+Binds when picked up
+Unique
+Main Hand
+Fist Weapon
+81 - 150  Damage
+Speed 2.80
+(41.3 damage per second)
+Durability 65 / 65
+Requires Level 52
+Chance on hit:
+Grants an extra attack on your next swing.
+Equip:
++16 Attack Power.
+"The other claw is missing."
+
+
+Item #61688
+URL: https://database.turtle-wow.org/?item=61688
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Worgen Claw
+Main Hand
+Fist Weapon
+16 - 30  Damage
+Speed 1.50
+(15.3 damage per second)
+Durability 55 / 55
+Requires Level 39
+Chance on hit:
+Wounds the target causing them to bleed for 30 damage over 30 sec.
+"Deadly as ever."
+
+
+Item #61740
+URL: https://database.turtle-wow.org/?item=61740
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Claw of Senthos
+Binds when picked up
+Main Hand
+Fist Weapon
+94 - 175  Damage
+Speed 2.40
+(56.0 damage per second)
++5 Stamina
++5 Nature Resistance
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Equip:
++24 Attack Power.
+
+
+Item #61755
+URL: https://database.turtle-wow.org/?item=61755
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Stagwood Grasp
+Binds when picked up
+Off Hand
+Fist Weapon
+55 - 102  Damage
+Speed 1.70
+(46.2 damage per second)
++10 Strength
++9 Agility
+Durability 75 / 75
+Requires Level 59
+Equip:
+1% of damage dealt is returned as healing.
+Equip:
+Increases your attack and casting speed by 1%.
+
+
+Item #65010
+URL: https://database.turtle-wow.org/?item=65010
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Copper Knuckles
+Binds when equipped
+One-hand
+Fist Weapon
+6 - 12  Damage
+Speed 1.80
+(5.0 damage per second)
+Durability 30 / 30
+Requires Level 5
+
+
+Item #65011
+URL: https://database.turtle-wow.org/?item=65011
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Sharpened Claw
+Binds when equipped
+Main Hand
+Fist Weapon
+11 - 21  Damage
+Speed 1.80
+(8.9 damage per second)
++2 Agility
++1 Stamina
+Durability 40 / 40
+Requires Level 13
+
+
+Item #65012
+URL: https://database.turtle-wow.org/?item=65012
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Bronze Bruiser
+Binds when equipped
+One-hand
+Fist Weapon
+15 - 29  Damage
+Speed 1.70
+(12.9 damage per second)
++2 Agility
++2 Strength
+Durability 45 / 45
+Requires Level 20
+
+
+Item #65013
+URL: https://database.turtle-wow.org/?item=65013
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Frostbound Slasher
+Binds when equipped
+Off Hand
+Fist Weapon
+32 - 60  Damage
+Speed 1.90
+(24.2 damage per second)
+Durability 65 / 65
+Requires Level 31
+Chance on hit:
+Launches a bolt of frost at the enemy causing 15 to 21 Frost damage and slowing movement speed by 30% for 5 sec.
+
+
+Item #80716
+URL: https://database.turtle-wow.org/?item=80716
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Claw of the Worgen
+Binds when picked up
+Main Hand
+Fist Weapon
+20 - 40  Damage
+Speed 1.70
+(17.6 damage per second)
+Durability 65 / 65
+Requires Level 23
+Chance on hit:
+Wounds the target causing them to bleed for 45 damage over 30 sec.
+
+
+Item #80740
+URL: https://database.turtle-wow.org/?item=80740
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Pummeler Gauntlet
+Binds when picked up
+One-hand
+Fist Weapon
+27 - 49  Damage
+Speed 1.80
+(21.1 damage per second)
+Durability 90 / 90
+Requires Level 29
+Chance on hit:
+Wounds the target for 20 damage.
+
+
+Item #80750
+URL: https://database.turtle-wow.org/?item=80750
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Thornfist
+Binds when equipped
+Main Hand
+Fist Weapon
+43 - 81  Damage
+Speed 1.80
++5 - 12 Nature Damage
+(39.1 damage per second)
+Durability 65 / 65
+Requires Level 47
+
+
+Item #80763
+URL: https://database.turtle-wow.org/?item=80763
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Willbreaker
+Binds when picked up
+Main Hand
+Fist Weapon
+53 - 97  Damage
+Speed 1.80
+(41.7 damage per second)
++5 Agility
++4 Intellect
+Durability 65 / 65
+Requires Level 58
+Equip:
++20 Attack Power.
+
+
+Item #80794
+URL: https://database.turtle-wow.org/?item=80794
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Ironfist
+Binds when equipped
+One-hand
+Fist Weapon
+28 - 47  Damage
+Speed 1.70
+(22.1 damage per second)
+Durability 90 / 90
+Requires Level 29
+Chance on hit:
+Stuns target for 1 sec.
+
+
+Item #80807
+URL: https://database.turtle-wow.org/?item=80807
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Serpent's Bite
+Binds when equipped
+Main Hand
+Fist Weapon
+12 - 28  Damage
+Speed 1.30
+(15.4 damage per second)
+Durability 40 / 40
+Requires Level 18
+Chance on hit:
+Poisons target for 6 Nature damage every 3 sec for 15 sec.
+
+
+Item #80809
+URL: https://database.turtle-wow.org/?item=80809
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Bloodhowler
+Binds when equipped
+Main Hand
+Fist Weapon
+32 - 53  Damage
+Speed 1.90
+(22.4 damage per second)
++5 Agility
+Durability 65 / 65
+Requires Level 29
+Chance on hit:
+Increases the Physical damage taken by nearby enemies by 5 for 15 sec.
+
+
+Item #80834
+URL: https://database.turtle-wow.org/?item=80834
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Satyr Claw
+Binds when equipped
+Main Hand
+Fist Weapon
+15 - 26  Damage
+Speed 1.20
+(17.1 damage per second)
++4 Strength
++4 Agility
+Durability 65 / 65
+Requires Level 28
+
+
+Item #81003
+URL: https://database.turtle-wow.org/?item=81003
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Ancient Hakkari Flayer
+Binds when picked up
+Main Hand
+Fist Weapon
+56 - 105  Damage
+Speed 1.80
+(44.7 damage per second)
+Durability 65 / 65
+Requires Level 60
+Chance on hit:
+Wounds the target for 90 to 115 damage.
+Equip:
+Increased Fist Weapons +4.
+
+
+Item #81372
+URL: https://database.turtle-wow.org/?item=81372
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+The Black Claw
+Binds when picked up
+Main Hand
+Fist Weapon
+46 - 94  Damage
+Speed 1.90
++1 - 5 Shadow Damage
+(38.4 damage per second)
++9 Agility
+Durability 65 / 65
+Requires Level 53
+Equip:
+Reduces damage taken from critical hits and damage over time effects by 3%.
+
+
+Item #83205
+URL: https://database.turtle-wow.org/?item=83205
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Thornwood Claw
+Binds when equipped
+Main Hand
+Fist Weapon
+21 - 39  Damage
+Speed 1.60
+(18.8 damage per second)
++5 Agility
++2 Intellect
+Durability 55 / 55
+Requires Level 31
+
+
+Item #83445
+URL: https://database.turtle-wow.org/?item=83445
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Marrowclaw Knuckles
+Binds when picked up
+Main Hand
+Fist Weapon
+76 - 145  Damage
+Speed 2.60
+(42.5 damage per second)
++14 Agility
++7 Strength
+Durability 65 / 65
+Requires Level 60
+
+
+Item #84030
+URL: https://database.turtle-wow.org/?item=84030
+Category: Database/Items/Weapons/Fist Weapons
+Item: 
+Gauntlet of a Thousand Cuts
+Binds when picked up
+Main Hand
+Fist Weapon
+75 - 140  Damage
+Speed 1.50
+(71.7 damage per second)
+Durability 75 / 75
+Requires Level 60
+Equip:
+Improves your chance to get a critical strike by 1%.
+Chance on hit:
+Wounds the target for 75 damage.
+
+

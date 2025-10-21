@@ -1,0 +1,1348 @@
+Item #118
+URL: https://database.turtle-wow.org/?item=118
+Category: Database/Items/Consumables/Flasks
+Item: 
+Minor Healing Potion
+Use:
+Restores 70 to 91 health.
+
+
+Item #858
+URL: https://database.turtle-wow.org/?item=858
+Category: Database/Items/Consumables/Flasks
+Item: 
+Lesser Healing Potion
+Requires Level 3
+Use:
+Restores 140 to 181 health.
+
+
+Item #929
+URL: https://database.turtle-wow.org/?item=929
+Category: Database/Items/Consumables/Flasks
+Item: 
+Healing Potion
+Requires Level 12
+Use:
+Restores 280 to 361 health.
+
+
+Item #1710
+URL: https://database.turtle-wow.org/?item=1710
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Healing Potion
+Requires Level 21
+Use:
+Restores 455 to 586 health.
+
+
+Item #2457
+URL: https://database.turtle-wow.org/?item=2457
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Minor Agility
+Requires Level 2
+Use:
+Increases Agility by 4 for 3600 sec.
+
+
+Item #2455
+URL: https://database.turtle-wow.org/?item=2455
+Category: Database/Items/Consumables/Flasks
+Item: 
+Minor Mana Potion
+Requires Level 5
+Use:
+Restores 140 to 181 mana.
+
+
+Item #2458
+URL: https://database.turtle-wow.org/?item=2458
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Minor Fortitude
+Requires Level 2
+Use:
+Increases the player's maximum health by 27 for 3600 sec.
+
+
+Item #2454
+URL: https://database.turtle-wow.org/?item=2454
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Lion's Strength
+Use:
+Increases Strength by 4 for 3600 sec.
+
+
+Item #2456
+URL: https://database.turtle-wow.org/?item=2456
+Category: Database/Items/Consumables/Flasks
+Item: 
+Minor Rejuvenation Potion
+Requires Level 5
+Use:
+Restores 90 to 151 mana and 90 to 151 health.
+
+
+Item #2459
+URL: https://database.turtle-wow.org/?item=2459
+Category: Database/Items/Consumables/Flasks
+Item: 
+Swiftness Potion
+Requires Level 5
+Use:
+Increases run speed by 50% for 15 sec.
+
+
+Item #2593
+URL: https://database.turtle-wow.org/?item=2593
+Category: Database/Items/Consumables/Flasks
+Item: 
+Flask of Port
+Use:
+A typical alcoholic beverage.
+
+
+Item #2686
+URL: https://database.turtle-wow.org/?item=2686
+Category: Database/Items/Consumables/Flasks
+Item: 
+Thunder Ale
+Use:
+A fairly weak alcoholic beverage.
+
+
+Item #3386
+URL: https://database.turtle-wow.org/?item=3386
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Poison Resistance
+Requires Level 14
+Use:
+Imbiber is cured of up to four poisons up to level 60.
+
+
+Item #3384
+URL: https://database.turtle-wow.org/?item=3384
+Category: Database/Items/Consumables/Flasks
+Item: 
+Minor Magic Resistance Potion
+Requires Level 12
+Use:
+Increases your resistance to all schools of magic by 25 for 180 sec.
+
+
+Item #3382
+URL: https://database.turtle-wow.org/?item=3382
+Category: Database/Items/Consumables/Flasks
+Item: 
+Weak Troll's Blood Potion
+Use:
+Regenerate 2 health every 5 sec for 3600 sec.
+
+
+Item #3383
+URL: https://database.turtle-wow.org/?item=3383
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Wisdom
+Requires Level 10
+Use:
+Increases Intellect by 6 for 3600 sec.
+
+
+Item #3388
+URL: https://database.turtle-wow.org/?item=3388
+Category: Database/Items/Consumables/Flasks
+Item: 
+Strong Troll's Blood Potion
+Requires Level 15
+Use:
+Regenerate 6 health every 5 sec for 3600 sec.
+
+
+Item #3387
+URL: https://database.turtle-wow.org/?item=3387
+Category: Database/Items/Consumables/Flasks
+Item: 
+Limited Invulnerability Potion
+Requires Level 45
+Use:
+Imbiber is immune to physical attacks for the next 6 sec.
+
+
+Item #3385
+URL: https://database.turtle-wow.org/?item=3385
+Category: Database/Items/Consumables/Flasks
+Item: 
+Lesser Mana Potion
+Requires Level 14
+Use:
+Restores 280 to 361 mana.
+
+
+Item #3391
+URL: https://database.turtle-wow.org/?item=3391
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Ogre's Strength
+Requires Level 20
+Use:
+Increases Strength by 8 for 3600 sec.
+
+
+Item #3389
+URL: https://database.turtle-wow.org/?item=3389
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Defense
+Requires Level 16
+Use:
+Increases armor by 150 for 3600 sec.
+
+
+Item #3390
+URL: https://database.turtle-wow.org/?item=3390
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Lesser Agility
+Requires Level 18
+Use:
+Increases Agility by 8 for 3600 sec.
+
+
+Item #3825
+URL: https://database.turtle-wow.org/?item=3825
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Fortitude
+Requires Level 25
+Use:
+Increases the player's maximum health by 120 for 3600 sec.
+
+
+Item #3823
+URL: https://database.turtle-wow.org/?item=3823
+Category: Database/Items/Consumables/Flasks
+Item: 
+Lesser Invisibility Potion
+Requires Level 23
+Use:
+Gives the imbiber lesser invisibility for 15 sec.
+
+
+Item #3827
+URL: https://database.turtle-wow.org/?item=3827
+Category: Database/Items/Consumables/Flasks
+Item: 
+Mana Potion
+Requires Level 22
+Use:
+Restores 455 to 586 mana.
+
+
+Item #3826
+URL: https://database.turtle-wow.org/?item=3826
+Category: Database/Items/Consumables/Flasks
+Item: 
+Mighty Troll's Blood Potion
+Requires Level 26
+Use:
+Regenerate 12 health every 5 sec for 3600 sec.
+
+
+Item #3828
+URL: https://database.turtle-wow.org/?item=3828
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Detect Lesser Invisibility
+Requires Level 29
+Use:
+Grants detect lesser invisibility for 600 sec.
+
+
+Item #3928
+URL: https://database.turtle-wow.org/?item=3928
+Category: Database/Items/Consumables/Flasks
+Item: 
+Superior Healing Potion
+Requires Level 35
+Use:
+Restores 700 to 901 health.
+
+
+Item #4596
+URL: https://database.turtle-wow.org/?item=4596
+Category: Database/Items/Consumables/Flasks
+Item: 
+Discolored Healing Potion
+Requires Level 5
+Use:
+Restores 140 to 181 health.
+
+
+Item #4594
+URL: https://database.turtle-wow.org/?item=4594
+Category: Database/Items/Consumables/Flasks
+Item: 
+Rockscale Cod
+Requires Level 25
+Use:
+Restores 874.8 health over 27 sec.  Must remain seated while eating.
+
+
+Item #4623
+URL: https://database.turtle-wow.org/?item=4623
+Category: Database/Items/Consumables/Flasks
+Item: 
+Lesser Stoneshield Potion
+Requires Level 33
+Use:
+Increases armor by 1000 for 90 sec.
+
+
+Item #4953
+URL: https://database.turtle-wow.org/?item=4953
+Category: Database/Items/Consumables/Flasks
+Item: 
+Trogg Ale
+Binds when picked up
+Use:
+Increases your health by 23 to 38, but decreases your spirit by 4 for 300 sec.
+
+
+Item #5513
+URL: https://database.turtle-wow.org/?item=5513
+Category: Database/Items/Consumables/Flasks
+Item: 
+Mana Jade
+Binds when picked up
+Unique
+Requires Level 38
+Use:
+Restores 550 to 651 mana.
+
+
+Item #5631
+URL: https://database.turtle-wow.org/?item=5631
+Category: Database/Items/Consumables/Flasks
+Item: 
+Rage Potion
+Classes: Warrior, Druid
+Requires Level 4
+Use:
+Increases Rage by 20 to 40.
+
+
+Item #5633
+URL: https://database.turtle-wow.org/?item=5633
+Category: Database/Items/Consumables/Flasks
+Item: 
+Great Rage Potion
+Classes: Warrior, Druid
+Requires Level 25
+Use:
+Increases Rage by 30 to 60.
+
+
+Item #5634
+URL: https://database.turtle-wow.org/?item=5634
+Category: Database/Items/Consumables/Flasks
+Item: 
+Free Action Potion
+Requires Level 20
+Use:
+Makes you immune to Stun and Movement Impairing effects for the next 30 sec.   Does not remove effects already on the imbiber.
+
+
+Item #5996
+URL: https://database.turtle-wow.org/?item=5996
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Water Breathing
+Requires Level 8
+Use:
+Allows the Imbiber to breathe water for 1800 sec.
+
+
+Item #5997
+URL: https://database.turtle-wow.org/?item=5997
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Minor Defense
+Use:
+Increases armor by 50 for 3600 sec.
+
+
+Item #6051
+URL: https://database.turtle-wow.org/?item=6051
+Category: Database/Items/Consumables/Flasks
+Item: 
+Holy Protection Potion
+Requires Level 10
+Use:
+Absorbs 300 to 501 holy damage.  Lasts 3600 sec.
+
+
+Item #6048
+URL: https://database.turtle-wow.org/?item=6048
+Category: Database/Items/Consumables/Flasks
+Item: 
+Shadow Protection Potion
+Requires Level 17
+Use:
+Absorbs 675 to 1126 shadow damage.  Lasts 3600 sec.
+
+
+Item #6049
+URL: https://database.turtle-wow.org/?item=6049
+Category: Database/Items/Consumables/Flasks
+Item: 
+Fire Protection Potion
+Requires Level 23
+Use:
+Absorbs 975 to 1626 fire damage.  Lasts 3600 sec.
+
+
+Item #6050
+URL: https://database.turtle-wow.org/?item=6050
+Category: Database/Items/Consumables/Flasks
+Item: 
+Frost Protection Potion
+Requires Level 28
+Use:
+Absorbs 1350 to 2251 frost damage.  Lasts 3600 sec.
+
+
+Item #6052
+URL: https://database.turtle-wow.org/?item=6052
+Category: Database/Items/Consumables/Flasks
+Item: 
+Nature Protection Potion
+Requires Level 28
+Use:
+Absorbs 1350 to 2251 nature damage.  Lasts 3600 sec.
+
+
+Item #6149
+URL: https://database.turtle-wow.org/?item=6149
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Mana Potion
+Requires Level 31
+Use:
+Restores 700 to 901 mana.
+
+
+Item #6362
+URL: https://database.turtle-wow.org/?item=6362
+Category: Database/Items/Consumables/Flasks
+Item: 
+Raw Rockscale Cod
+Requires Level 25
+Use:
+Restores 552 health over 24 sec.  Must remain seated while eating.
+
+
+Item #6373
+URL: https://database.turtle-wow.org/?item=6373
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Firepower
+Requires Level 18
+Use:
+Increases spell fire damage by up to 10 for 1800 sec.
+
+
+Item #6372
+URL: https://database.turtle-wow.org/?item=6372
+Category: Database/Items/Consumables/Flasks
+Item: 
+Swim Speed Potion
+Requires Level 10
+Use:
+Increases swim speed by 100% for 20 sec.
+
+
+Item #6486
+URL: https://database.turtle-wow.org/?item=6486
+Category: Database/Items/Consumables/Flasks
+Item: 
+Singed Scale
+Quest Item
+
+
+Item #6662
+URL: https://database.turtle-wow.org/?item=6662
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Giant Growth
+Requires Level 8
+Use:
+Your size is increased and your Strength goes up by 8 to match your new size.  Lasts 120 sec.
+
+
+Item #7676
+URL: https://database.turtle-wow.org/?item=7676
+Category: Database/Items/Consumables/Flasks
+Item: 
+Thistle Tea
+Classes: Rogue
+Requires Level 5
+Use:
+Instantly restores 100 energy.
+
+
+Item #8008
+URL: https://database.turtle-wow.org/?item=8008
+Category: Database/Items/Consumables/Flasks
+Item: 
+Mana Ruby
+Binds when picked up
+Unique
+Requires Level 58
+Use:
+Restores 1000 to 1201 mana.
+
+
+Item #8007
+URL: https://database.turtle-wow.org/?item=8007
+Category: Database/Items/Consumables/Flasks
+Item: 
+Mana Citrine
+Binds when picked up
+Unique
+Requires Level 48
+Use:
+Restores 775 to 926 mana.
+
+
+Item #8529
+URL: https://database.turtle-wow.org/?item=8529
+Category: Database/Items/Consumables/Flasks
+Item: 
+Noggenfogger Elixir
+Binds when picked up
+Requires Level 35
+Use:
+Drink Me.
+
+
+Item #8951
+URL: https://database.turtle-wow.org/?item=8951
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Greater Defense
+Requires Level 29
+Use:
+Increases armor by 250 for 3600 sec.
+
+
+Item #8949
+URL: https://database.turtle-wow.org/?item=8949
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Agility
+Requires Level 27
+Use:
+Increases Agility by 15 for 3600 sec.
+
+
+Item #9030
+URL: https://database.turtle-wow.org/?item=9030
+Category: Database/Items/Consumables/Flasks
+Item: 
+Restorative Potion
+Requires Level 32
+Use:
+Removes 1 magic, curse, poison or disease effect on you every 5 seconds for 30 seconds.
+
+
+Item #9036
+URL: https://database.turtle-wow.org/?item=9036
+Category: Database/Items/Consumables/Flasks
+Item: 
+Magic Resistance Potion
+Requires Level 32
+Use:
+Increases your resistance to all schools of magic by 50 for 180 sec.
+
+
+Item #9144
+URL: https://database.turtle-wow.org/?item=9144
+Category: Database/Items/Consumables/Flasks
+Item: 
+Wildvine Potion
+Requires Level 35
+Use:
+Restores 1 to 1501 health and 1 to 1501 mana.
+
+
+Item #9154
+URL: https://database.turtle-wow.org/?item=9154
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Detect Undead
+Requires Level 36
+Use:
+Shows the location of all nearby undead on the minimap for 3600 sec.
+
+
+Item #9155
+URL: https://database.turtle-wow.org/?item=9155
+Category: Database/Items/Consumables/Flasks
+Item: 
+Arcane Elixir
+Requires Level 37
+Use:
+Increases spell damage by up to 20 for 1800 sec.
+
+
+Item #9172
+URL: https://database.turtle-wow.org/?item=9172
+Category: Database/Items/Consumables/Flasks
+Item: 
+Invisibility Potion
+Requires Level 37
+Use:
+Gives the imbiber invisibility for 18 sec.
+
+
+Item #9179
+URL: https://database.turtle-wow.org/?item=9179
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Greater Intellect
+Requires Level 37
+Use:
+Increases Intellect by 25 for 3600 sec.
+
+
+Item #9187
+URL: https://database.turtle-wow.org/?item=9187
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Greater Agility
+Requires Level 38
+Use:
+Increases Agility by 25 for 3600 sec.
+
+
+Item #9197
+URL: https://database.turtle-wow.org/?item=9197
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Dream Vision
+Requires Level 38
+Use:
+Gives you a dream vision that lets you explore areas that are too dangerous to explore in person.
+
+
+Item #9206
+URL: https://database.turtle-wow.org/?item=9206
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Giants
+Requires Level 38
+Use:
+Increases your Strength by 25 for 3600 sec.
+
+
+Item #9224
+URL: https://database.turtle-wow.org/?item=9224
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Demonslaying
+Requires Level 40
+Use:
+Increases attack power by 265 against demons.  Lasts 300 sec.
+
+
+Item #9233
+URL: https://database.turtle-wow.org/?item=9233
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Detect Demon
+Requires Level 40
+Use:
+Shows the location of all nearby demons on the minimap for 3600 sec.
+
+
+Item #9260
+URL: https://database.turtle-wow.org/?item=9260
+Category: Database/Items/Consumables/Flasks
+Item: 
+Volatile Rum
+Use:
+A strong alcoholic beverage.
+
+
+Item #9264
+URL: https://database.turtle-wow.org/?item=9264
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Shadow Power
+Requires Level 40
+Use:
+Increases spell shadow damage by up to 40 for 3600 sec.
+
+
+Item #10592
+URL: https://database.turtle-wow.org/?item=10592
+Category: Database/Items/Consumables/Flasks
+Item: 
+Catseye Elixir
+Requires Level 30
+Use:
+Slightly increases your stealth detection for 600 sec.
+
+
+Item #10592
+URL: https://database.turtle-wow.org/?item=10592
+Category: Database/Items/Consumables/Flasks
+Item: 
+Catseye Elixir
+Requires Level 30
+Use:
+Slightly increases your stealth detection for 600 sec.
+
+
+Item #11325
+URL: https://database.turtle-wow.org/?item=11325
+Category: Database/Items/Consumables/Flasks
+Item: 
+Dark Iron Ale Mug
+Use:
+Throw near a patron of the Grim Guzzler
+
+
+Item #12190
+URL: https://database.turtle-wow.org/?item=12190
+Category: Database/Items/Consumables/Flasks
+Item: 
+Dreamless Sleep Potion
+Requires Level 35
+Use:
+Puts the imbiber in a dreamless sleep for 12 sec.  During that time the imbiber heals 1200 health and 1200 mana.
+
+
+Item #13444
+URL: https://database.turtle-wow.org/?item=13444
+Category: Database/Items/Consumables/Flasks
+Item: 
+Major Mana Potion
+Requires Level 49
+Use:
+Restores 1350 to 2251 mana.
+
+
+Item #13442
+URL: https://database.turtle-wow.org/?item=13442
+Category: Database/Items/Consumables/Flasks
+Item: 
+Mighty Rage Potion
+Classes: Warrior, Druid
+Requires Level 46
+Use:
+Increases Rage by 450 to 751 and increases Strength by 60 for 20 sec.
+
+
+Item #13446
+URL: https://database.turtle-wow.org/?item=13446
+Category: Database/Items/Consumables/Flasks
+Item: 
+Major Healing Potion
+Requires Level 45
+Use:
+Restores 1050 to 1751 health.
+
+
+Item #13443
+URL: https://database.turtle-wow.org/?item=13443
+Category: Database/Items/Consumables/Flasks
+Item: 
+Superior Mana Potion
+Requires Level 41
+Use:
+Restores 900 to 1501 mana.
+
+
+Item #13447
+URL: https://database.turtle-wow.org/?item=13447
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of the Sages
+Requires Level 44
+Use:
+Increases Intellect and Spirit by 18 for 3600 sec.
+
+
+Item #13445
+URL: https://database.turtle-wow.org/?item=13445
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Superior Defense
+Requires Level 43
+Use:
+Increases armor by 450 for 3600 sec.
+
+
+Item #13453
+URL: https://database.turtle-wow.org/?item=13453
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Brute Force
+Requires Level 45
+Use:
+Increases Strength and Stamina by 18 for 3600 sec.
+
+
+Item #13457
+URL: https://database.turtle-wow.org/?item=13457
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Fire Protection Potion
+Requires Level 48
+Use:
+Absorbs 1950 to 3251 fire damage.  Lasts 3600 sec.
+
+
+Item #13458
+URL: https://database.turtle-wow.org/?item=13458
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Nature Protection Potion
+Requires Level 48
+Use:
+Absorbs 1950 to 3251 nature damage.  Lasts 3600 sec.
+
+
+Item #13459
+URL: https://database.turtle-wow.org/?item=13459
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Shadow Protection Potion
+Requires Level 48
+Use:
+Absorbs 1950 to 3251 shadow damage.  Lasts 3600 sec.
+
+
+Item #13452
+URL: https://database.turtle-wow.org/?item=13452
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of the Mongoose
+Requires Level 46
+Use:
+Increases Agility by 25 and chance to get a critical hit by 2% for 3600 sec.
+
+
+Item #13455
+URL: https://database.turtle-wow.org/?item=13455
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Stoneshield Potion
+Requires Level 46
+Use:
+Increases armor by 2000 for 120 sec.
+
+
+Item #13456
+URL: https://database.turtle-wow.org/?item=13456
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Frost Protection Potion
+Requires Level 48
+Use:
+Absorbs 1950 to 3251 frost damage.  Lasts 3600 sec.
+
+
+Item #13461
+URL: https://database.turtle-wow.org/?item=13461
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Arcane Protection Potion
+Requires Level 48
+Use:
+Absorbs 1950 to 3251 arcane damage.  Lasts 3600 sec.
+
+
+Item #13462
+URL: https://database.turtle-wow.org/?item=13462
+Category: Database/Items/Consumables/Flasks
+Item: 
+Purification Potion
+Requires Level 47
+Use:
+Attempts to remove one Curse, one Disease and one Poison from the Imbiber.
+
+
+Item #13506
+URL: https://database.turtle-wow.org/?item=13506
+Category: Database/Items/Consumables/Flasks
+Item: 
+Flask of Petrification
+Requires Level 50
+Use:
+You turn to stone, protecting you from all physical attacks and spells for 60 sec, but during that time you cannot attack, move or cast spells.  You can only have the effect of one flask at a time.
+
+
+Item #13510
+URL: https://database.turtle-wow.org/?item=13510
+Category: Database/Items/Consumables/Flasks
+Item: 
+Flask of the Titans
+Requires Level 50
+Use:
+Increases the player's maximum health by 1200 for 7200 sec.  You can only have the effect of one flask at a time.  This effect persists through death.
+
+
+Item #13513
+URL: https://database.turtle-wow.org/?item=13513
+Category: Database/Items/Consumables/Flasks
+Item: 
+Flask of Chromatic Resistance
+Requires Level 50
+Use:
+Increases your resistance to all schools of magic by 50 for 7200 sec.  You can only have the effect of one flask at a time.  This effect persists through death and stacks with all other resistance spells and items.
+
+
+Item #13512
+URL: https://database.turtle-wow.org/?item=13512
+Category: Database/Items/Consumables/Flasks
+Item: 
+Flask of Supreme Power
+Requires Level 50
+Use:
+Increases damage done by magical spells and effects by up to 150 for 7200 sec.  You can only have the effect of one flask at a time.  This effect persists through death.
+
+
+Item #13511
+URL: https://database.turtle-wow.org/?item=13511
+Category: Database/Items/Consumables/Flasks
+Item: 
+Flask of Distilled Wisdom
+Requires Level 50
+Use:
+Increases the player's maximum mana by 2000 for 7200 sec.  You can only have the effect of one flask at a time.  This effect persists through death.
+
+
+Item #13760
+URL: https://database.turtle-wow.org/?item=13760
+Category: Database/Items/Consumables/Flasks
+Item: 
+Raw Sunscale Salmon
+Requires Level 35
+Use:
+Restores 874.8 health over 27 sec.  Must remain seated while eating.
+
+
+Item #13889
+URL: https://database.turtle-wow.org/?item=13889
+Category: Database/Items/Consumables/Flasks
+Item: 
+Raw Whitescale Salmon
+Requires Level 45
+Use:
+Restores 1392 health over 30 sec.  Must remain seated while eating.
+
+
+Item #13932
+URL: https://database.turtle-wow.org/?item=13932
+Category: Database/Items/Consumables/Flasks
+Item: 
+Poached Sunscale Salmon
+Requires Level 35
+Use:
+Restores 874.8 health over 27 sec.   Must remain seated while eating.   Also restores 6 health every 5 seconds for 600 sec.
+
+
+Item #17048
+URL: https://database.turtle-wow.org/?item=17048
+Category: Database/Items/Consumables/Flasks
+Item: 
+Rumsey Rum
+Binds when picked up
+Use:
+Increases Stamina by 10 for 900 sec and gets you drunk to boot!
+
+
+Item #17349
+URL: https://database.turtle-wow.org/?item=17349
+Category: Database/Items/Consumables/Flasks
+Item: 
+Superior Healing Draught
+Binds when picked up (10)
+Requires Level 35
+Use:
+Restores 836 to 1221 health. This item may only be used in PvP Battlegrounds.
+
+
+Item #17348
+URL: https://database.turtle-wow.org/?item=17348
+Category: Database/Items/Consumables/Flasks
+Item: 
+Major Healing Draught
+Binds when picked up (10)
+Requires Level 45
+Use:
+Restores 1131 to 1879 health. This item may only be used in PvP Battlegrounds.
+
+
+Item #17352
+URL: https://database.turtle-wow.org/?item=17352
+Category: Database/Items/Consumables/Flasks
+Item: 
+Superior Mana Draught
+Binds when picked up (10)
+Requires Level 35
+Use:
+Restores 836 to 1221 mana. This item may only be used in PvP Battlegrounds.
+
+
+Item #17351
+URL: https://database.turtle-wow.org/?item=17351
+Category: Database/Items/Consumables/Flasks
+Item: 
+Major Mana Draught
+Binds when picked up (10)
+Requires Level 45
+Use:
+Restores 1131 to 1879 mana. This item may only be used in PvP Battlegrounds.
+
+
+Item #17402
+URL: https://database.turtle-wow.org/?item=17402
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greatfather's Winter Ale
+Use:
+A strong alcoholic beverage.
+
+
+Item #17708
+URL: https://database.turtle-wow.org/?item=17708
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Frost Power
+Requires Level 28
+Use:
+Increases spell frost damage by up to 15 for 1800 sec.
+
+
+Item #18253
+URL: https://database.turtle-wow.org/?item=18253
+Category: Database/Items/Consumables/Flasks
+Item: 
+Major Rejuvenation Potion
+Requires Level 50
+Use:
+Restores 1440 to 1761 mana and health.
+
+
+Item #18294
+URL: https://database.turtle-wow.org/?item=18294
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Greater Water Breathing
+Requires Level 35
+Use:
+Allows the Imbiber to breathe water for 3600 sec.
+
+
+Item #18839
+URL: https://database.turtle-wow.org/?item=18839
+Category: Database/Items/Consumables/Flasks
+Item: 
+Combat Healing Potion
+Binds when picked up (10)
+Requires Level 35
+Use:
+Restores 700 to 901 health.
+
+
+Item #18841
+URL: https://database.turtle-wow.org/?item=18841
+Category: Database/Items/Consumables/Flasks
+Item: 
+Combat Mana Potion
+Binds when picked up (10)
+Requires Level 41
+Use:
+Restores 900 to 1501 mana.
+
+
+Item #20002
+URL: https://database.turtle-wow.org/?item=20002
+Category: Database/Items/Consumables/Flasks
+Item: 
+Greater Dreamless Sleep Potion
+Requires Level 55
+Use:
+Puts the imbiber in a dreamless sleep for 12 sec.  During that time the imbiber heals 2100 health and 2100 mana.
+
+
+Item #20004
+URL: https://database.turtle-wow.org/?item=20004
+Category: Database/Items/Consumables/Flasks
+Item: 
+Major Troll's Blood Potion
+Requires Level 53
+Use:
+Regenerate 20 health every 5 sec for 3600 sec.
+
+
+Item #20008
+URL: https://database.turtle-wow.org/?item=20008
+Category: Database/Items/Consumables/Flasks
+Item: 
+Living Action Potion
+Requires Level 47
+Use:
+Makes you immune to Stun and Movement Impairing effects for the next 5 sec.  Also removes existing Stun and Movement Impairing effects.
+
+
+Item #20007
+URL: https://database.turtle-wow.org/?item=20007
+Category: Database/Items/Consumables/Flasks
+Item: 
+Mageblood Potion
+Requires Level 40
+Use:
+Regenerate 12 mana per 5 sec for 3600 sec.
+
+
+Item #20709
+URL: https://database.turtle-wow.org/?item=20709
+Category: Database/Items/Consumables/Flasks
+Item: 
+Rumsey Rum Light
+Use:
+Increases Stamina by 5 for 900 sec and gets you drunk to boot!
+
+
+Item #21114
+URL: https://database.turtle-wow.org/?item=21114
+Category: Database/Items/Consumables/Flasks
+Item: 
+Rumsey Rum Dark
+Use:
+Increases Stamina by 10 for 900 sec and gets you drunk to boot!
+
+
+Item #21151
+URL: https://database.turtle-wow.org/?item=21151
+Category: Database/Items/Consumables/Flasks
+Item: 
+Rumsey Rum Black Label
+Use:
+Increases Stamina by 15 for 900 sec and gets you drunk to boot!
+
+
+Item #21164
+URL: https://database.turtle-wow.org/?item=21164
+Category: Database/Items/Consumables/Flasks
+Item: 
+Bloated Rockscale Cod
+Requires Level 25
+
+
+Item #21546
+URL: https://database.turtle-wow.org/?item=21546
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Greater Firepower
+Requires Level 40
+Use:
+Increases spell fire damage by up to 40 for 3600 sec.
+
+
+Item #22058
+URL: https://database.turtle-wow.org/?item=22058
+Category: Database/Items/Consumables/Flasks
+Item: 
+Valentine's Day Stationery
+
+
+Item #22192
+URL: https://database.turtle-wow.org/?item=22192
+Category: Database/Items/Consumables/Flasks
+Item: 
+Bloodkelp Elixir of Dodging
+Binds when picked up
+Use:
+Increases chance to dodge by 3% for 1800 sec.
+
+
+Item #22193
+URL: https://database.turtle-wow.org/?item=22193
+Category: Database/Items/Consumables/Flasks
+Item: 
+Bloodkelp Elixir of Resistance
+Binds when picked up
+Use:
+Increases all magical resistances by 15 for 1800 sec.
+
+
+Item #41961
+URL: https://database.turtle-wow.org/?item=41961
+Category: Database/Items/Consumables/Flasks
+Item: 
+Fluidity Potion
+Requires Level 26
+Use:
+Increases swim speed by 100% for 300 sec. Can only be used inside Balor.
+
+
+Item #47412
+URL: https://database.turtle-wow.org/?item=47412
+Category: Database/Items/Consumables/Flasks
+Item: 
+Concoction of the Arcane Giant
+Requires Level 50
+Use:
+Increases spell damage by up to 35 and strength by 25 for 3600 sec.
+
+
+Item #47410
+URL: https://database.turtle-wow.org/?item=47410
+Category: Database/Items/Consumables/Flasks
+Item: 
+Concoction of the Emerald Mongoose
+Requires Level 50
+Use:
+Increases spell damage by up to 15, agility by 25, and crit chance by 2% for 3600 sec.
+
+
+Item #47414
+URL: https://database.turtle-wow.org/?item=47414
+Category: Database/Items/Consumables/Flasks
+Item: 
+Concoction of the Dreamwater
+Requires Level 50
+Use:
+Increases spell damage by up to 35 and attack power by 35 for 1200 sec.
+
+
+Item #50237
+URL: https://database.turtle-wow.org/?item=50237
+Category: Database/Items/Consumables/Flasks
+Item: 
+Elixir of Greater Nature Power
+Requires Level 48
+Use:
+Increases nature spell damage by up to 55 for 3600 sec.
+
+
+Item #50740
+URL: https://database.turtle-wow.org/?item=50740
+Category: Database/Items/Consumables/Flasks
+Item: 
+Winterax Rope
+Quest Item
+Alterac Valley
+Use:
+Tie up a live meal and drag it with you. Only works on injured gnomes.
+
+
+Item #50742
+URL: https://database.turtle-wow.org/?item=50742
+Category: Database/Items/Consumables/Flasks
+Item: 
+Winterax Rope
+Quest Item
+Alterac Valley
+Use:
+Tie a beast and drag it with you. Only works on injured taurens.
+
+
+Item #50743
+URL: https://database.turtle-wow.org/?item=50743
+Category: Database/Items/Consumables/Flasks
+Item: 
+Winterax Ritual Dagger
+Binds when picked up
+Use:
+Sacrifice your life to invoke a dark ritual practiced by trolls of the Winterax tribe. The consequences may be unpredictable!
+
+
+Item #50747
+URL: https://database.turtle-wow.org/?item=50747
+Category: Database/Items/Consumables/Flasks
+Item: 
+Dreamsight Gem
+Use:
+Gain Dreamsight into the Emerald Dream. Only works in the Twilight Grove.
+
+
+Item #51932
+URL: https://database.turtle-wow.org/?item=51932
+Category: Database/Items/Consumables/Flasks
+Item: 
+Firestone
+Binds when picked up
+Unique
+Requires Level 22
+Use:
+Increases the critical strike chance of your Fire spells by 2% and grants your melee and wand attacks a chance to deal 15 to 21 additional Fire damage on hit for 1800 sec.
+
+
+Item #51934
+URL: https://database.turtle-wow.org/?item=51934
+Category: Database/Items/Consumables/Flasks
+Item: 
+Felstone
+Binds when picked up
+Unique
+Requires Level 32
+Use:
+4% of the damage dealt is returned as healing for 1800 sec.  Health restored this way will also heal your active demon.
+
+
+Item #51935
+URL: https://database.turtle-wow.org/?item=51935
+Category: Database/Items/Consumables/Flasks
+Item: 
+Wrathstone
+Binds when picked up
+Unique
+Requires Level 42
+Use:
+Increases the threat generated by your Fire spells by 40% and reduces the Fire damage you take from your Hellfire spell by 30% for 1800 sec.
+
+
+Item #51933
+URL: https://database.turtle-wow.org/?item=51933
+Category: Database/Items/Consumables/Flasks
+Item: 
+Spellstone
+Binds when picked up
+Unique
+Requires Level 36
+Use:
+Removes all magic effects from the caster and absorbs up to 10 magic damage for 60 sec.
+
+
+Item #51936
+URL: https://database.turtle-wow.org/?item=51936
+Category: Database/Items/Consumables/Flasks
+Item: 
+Voidstone
+Binds when picked up
+Unique
+Requires Level 52
+Use:
+Reduces threat generated by 10% for 1800 sec.
+
+
+Item #60098
+URL: https://database.turtle-wow.org/?item=60098
+Category: Database/Items/Consumables/Flasks
+Item: 
+Hypertech Battery Pack
+Requires Level 40
+"Provides power for the newest technological inventions. Unlimited power!"
+
+
